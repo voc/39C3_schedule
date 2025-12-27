@@ -1,0 +1,2811 @@
+{
+  "$schema": "https://c3voc.de/schedule/schema.json",
+  "schedule": {
+    "generator": {
+      "name": "voc/schedule/39C3",
+      "version": "28548"
+    },
+    "version": "2025:12-26 21:02",
+    "conference": {
+      "acronym": "39c3",
+      "title": "39C3 Saal Blockschichten",
+      "start": "2025-12-26",
+      "end": "2025-12-30",
+      "daysCount": 5,
+      "timeslot_duration": "00:15",
+      "time_zone_name": "Europe/Amsterdam",
+      "days": [
+        {
+          "index": 1,
+          "date": "2025-12-26",
+          "day_start": "2025-12-26T09:00:00+01:00",
+          "day_end": "2025-12-27T08:00:00+01:00",
+          "rooms": {
+            "Saal One": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "88f25498-7122-5121-9303-a031d41ac793",
+                "title": "Aufbau O",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 882549,
+                "slug": "39c3-aufbau_o"
+              }
+            ],
+            "Saal Ground": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "84abfb15-fae0-5b00-9835-27bcbb367b47",
+                "title": "Aufbau G",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 841505,
+                "slug": "39c3-aufbau_g"
+              }
+            ],
+            "Saal Zero": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "181ef7b9-c163-5065-8b0f-74bb68e2461b",
+                "title": "Aufbau Z",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 181791,
+                "slug": "39c3-aufbau_z"
+              }
+            ],
+            "Saal Fuse": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "3c9c1ac8-c930-5592-b3c2-c232136176d4",
+                "title": "Aufbau F",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 391893,
+                "slug": "39c3-aufbau_f"
+              }
+            ],
+            "Sendezentrum B\u00fchne (Saal X 07)": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "387df1e6-b870-5496-900a-c71ea108d089",
+                "title": "Aufbau X",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 387168,
+                "slug": "39c3-aufbau_x"
+              }
+            ],
+            "SoS Stage H": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "e9c78d2d-4a08-50ff-a00b-63f6a3822751",
+                "title": "Aufbau H",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 978240,
+                "slug": "39c3-aufbau_h"
+              }
+            ],
+            "Club": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "43dc879c-249d-573b-b38f-2e88b5dd09eb",
+                "title": "Aufbau C",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 438792,
+                "slug": "39c3-aufbau_c"
+              }
+            ],
+            "Speakers Desk / SHOC": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "3d954518-7f04-5350-b083-81c060e0168d",
+                "title": "Aufbau SD",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 395451,
+                "slug": "39c3-aufbau_sd"
+              }
+            ],
+            "Raum 313": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "82d248b1-d284-56fe-9f21-46d41d782ecd",
+                "title": "Aufbau VC",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 822481,
+                "slug": "39c3-aufbau_vc"
+              }
+            ],
+            "Raum 314": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "8c9cd934-06f6-58e8-a56a-28061496ddd2",
+                "title": "Aufbau VO",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 899340,
+                "slug": "39c3-aufbau_vo"
+              }
+            ],
+            "Raum 315": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "9c741b44-3c85-5472-bef1-3abfbb4cd97c",
+                "title": "Aufbau VHD",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 974144,
+                "slug": "39c3-aufbau_vhd"
+              }
+            ],
+            "Everywhere": [
+              {
+                "date": "2025-12-26T14:30:00+01:00",
+                "type": "block",
+                "guid": "fd3b0c68-4ca2-53dc-a0d0-4f4e94dcda5b",
+                "title": "Aufbau \u2200",
+                "duration": "4:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 306842,
+                "slug": "39c3-aufbau"
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "date": "2025-12-27",
+          "day_start": "2025-12-27T09:00:00+01:00",
+          "day_end": "2025-12-28T08:00:00+01:00",
+          "rooms": {
+            "Saal One": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "43dece39-7cfe-58d5-9d96-3028f522c6e5",
+                "title": "1 Morning O",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 433975,
+                "slug": "39c3-1_morning_o"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "6ef05636-e7b1-5f8a-afc0-aee419659cb6",
+                "title": "1 Afternoon O",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 605636,
+                "slug": "39c3-1_afternoon_o"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "b18dc7dd-b367-5503-8b2d-5fda512e4332",
+                "title": "1 Evening O",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 187367,
+                "slug": "39c3-1_evening_o"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "5548f701-21ef-566f-a229-d95849a48428",
+                "title": "1 Night O",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 554870,
+                "slug": "39c3-1_night_o"
+              }
+            ],
+            "Saal Ground": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "194cf978-8f24-5d18-b93d-86c5a9c0f67c",
+                "title": "1 Morning G",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 194978,
+                "slug": "39c3-1_morning_g"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "aff6645f-77e2-5005-a59e-a78cbdf362a4",
+                "title": "1 Afternoon G",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 664577,
+                "slug": "39c3-1_afternoon_g"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "c43b49a4-8f41-5526-af0c-1fae5c445d61",
+                "title": "1 Evening G",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 434948,
+                "slug": "39c3-1_evening_g"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "9c26284b-8292-5809-9b4c-fda6d8f3b5e4",
+                "title": "1 Night G",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 926284,
+                "slug": "39c3-1_night_g"
+              }
+            ],
+            "Saal Zero": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "a8a28947-6745-590d-9499-e0ae2ca75adb",
+                "title": "1 Morning Z",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 828947,
+                "slug": "39c3-1_morning_z"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "095f099e-68d6-5c7e-830a-7f9537df4168",
+                "title": "1 Afternoon Z",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 950996,
+                "slug": "39c3-1_afternoon_z"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "84ab5436-ad19-5043-972d-dc43421f7171",
+                "title": "1 Evening Z",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 845436,
+                "slug": "39c3-1_evening_z"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "3416f663-1ef8-5596-97a3-0ba907fddb6f",
+                "title": "1 Night Z",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 341666,
+                "slug": "39c3-1_night_z"
+              }
+            ],
+            "Saal Fuse": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "3c684855-36a8-5016-ba75-0d1bfebab606",
+                "title": "1 Morning F",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 368485,
+                "slug": "39c3-1_morning_f"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "0c49c50b-9116-5f9a-af4b-7e622d6a5769",
+                "title": "1 Afternoon F",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 495091,
+                "slug": "39c3-1_afternoon_f"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "a0fb83c6-347c-5cd5-ab9a-ba99ec80c149",
+                "title": "1 Evening F",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 836347,
+                "slug": "39c3-1_evening_f"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "74c09733-2abb-5415-9da4-be690dad201d",
+                "title": "1 Night F",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 740973,
+                "slug": "39c3-1_night_f"
+              }
+            ],
+            "Sendezentrum B\u00fchne (Saal X 07)": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "ae124960-9a72-5dc7-bd6a-0955ed772e85",
+                "title": "1 Morning X",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 124960,
+                "slug": "39c3-1_morning_x"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "7e87df00-9555-5974-88c3-5936ee92fb97",
+                "title": "1 Afternoon X",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 787009,
+                "slug": "39c3-1_afternoon_x"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "33083597-b077-5435-82a2-f47ac33b615d",
+                "title": "1 Evening X",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 330835,
+                "slug": "39c3-1_evening_x"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "b249f094-182b-5f52-8428-b9c3826cca64",
+                "title": "1 Night X",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 249094,
+                "slug": "39c3-1_night_x"
+              }
+            ],
+            "SoS Stage H": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "9aa9d97a-cd98-5898-afd9-036442985e48",
+                "title": "1 Morning H",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 999798,
+                "slug": "39c3-1_morning_h"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "3dc7b727-916d-5e43-9360-003b6faa785a",
+                "title": "1 Afternoon H",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 377279,
+                "slug": "39c3-1_afternoon_h"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "63409a96-0780-52a2-a428-2eab3029724c",
+                "title": "1 Evening H",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 634099,
+                "slug": "39c3-1_evening_h"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "1142f3ef-e3a9-57ca-b840-2ad8523913df",
+                "title": "1 Night H",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 114233,
+                "slug": "39c3-1_night_h"
+              }
+            ],
+            "Club": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "c67d9733-620b-5efd-949a-f83684f922d2",
+                "title": "1 Morning C",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 679733,
+                "slug": "39c3-1_morning_c"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "e672d5f8-ed19-50f7-8ac1-8016b53bab73",
+                "title": "1 Afternoon C",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 672581,
+                "slug": "39c3-1_afternoon_c"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "91c6a596-a704-5e9c-b805-fbfe6147a1f6",
+                "title": "1 Evening C",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 916596,
+                "slug": "39c3-1_evening_c"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "c064f855-5b68-5081-9463-dacc3b390feb",
+                "title": "1 Night C",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 648555,
+                "slug": "39c3-1_night_c"
+              }
+            ],
+            "Speakers Desk / SHOC": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "ea9b0522-bde6-55ef-84e9-928abbaf51ac",
+                "title": "1 Morning SD",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 905226,
+                "slug": "39c3-1_morning_sd"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "16f7b9d8-d013-5c21-84ab-95b717bfbe21",
+                "title": "1 Afternoon SD",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 167980,
+                "slug": "39c3-1_afternoon_sd"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "a2fd22fc-2a4f-5c76-ad42-ca32fe953b62",
+                "title": "1 Evening SD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 222245,
+                "slug": "39c3-1_evening_sd"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "d35d831b-07f5-5af5-9df8-0503a8318900",
+                "title": "1 Night SD",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 358310,
+                "slug": "39c3-1_night_sd"
+              }
+            ],
+            "Raum 313": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "4a62b7ef-44fb-545a-a565-d8ca27ad44bd",
+                "title": "1 Morning VC",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 462744,
+                "slug": "39c3-1_morning_vc"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "3ea363a8-7a52-51e8-b91d-e1d8f701aea0",
+                "title": "1 Afternoon VC",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 336387,
+                "slug": "39c3-1_afternoon_vc"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "b9bacd78-9abe-5020-8b62-73537d0aeb5a",
+                "title": "1 Evening VC",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 978950,
+                "slug": "39c3-1_evening_vc"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "a69aeafc-473a-5e92-bb17-276a06da49b8",
+                "title": "1 Night VC",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 694735,
+                "slug": "39c3-1_night_vc"
+              }
+            ],
+            "Raum 314": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "e5fdf92b-e9dc-57e1-8dbb-a21b80f5b5c1",
+                "title": "1 Morning VO",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 592957,
+                "slug": "39c3-1_morning_vo"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "f1c5b9fc-54b4-5341-8473-8ab7c7aa4334",
+                "title": "1 Afternoon VO",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 159544,
+                "slug": "39c3-1_afternoon_vo"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "51b8e0ca-6931-52d9-85a2-506b77cd9def",
+                "title": "1 Evening VO",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 518069,
+                "slug": "39c3-1_evening_vo"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "bd9e196e-01a3-5ee4-86bc-952726aaf9aa",
+                "title": "1 Night VO",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 919601,
+                "slug": "39c3-1_night_vo"
+              }
+            ],
+            "Raum 315": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "22b1a67c-ab90-5236-8dcc-dc0ba5f2e332",
+                "title": "1 Morning VHD",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 221679,
+                "slug": "39c3-1_morning_vhd"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "6c16dbdd-6854-5dea-a785-19dffc221a89",
+                "title": "1 Afternoon VHD",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 616685,
+                "slug": "39c3-1_afternoon_vhd"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "7679c09c-4674-5464-967f-8bda6823d62b",
+                "title": "1 Evening VHD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 767909,
+                "slug": "39c3-1_evening_vhd"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "45c9d970-903b-5ac7-a38a-2f3cd585e0be",
+                "title": "1 Night VHD",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 459970,
+                "slug": "39c3-1_night_vhd"
+              }
+            ],
+            "Everywhere": [
+              {
+                "date": "2025-12-27T10:00:00+01:00",
+                "type": "block",
+                "guid": "5d279f2a-d06c-58ef-b1c4-024d7c97e631",
+                "title": "1 Morning \u2200",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 527920,
+                "slug": "39c3-1_morning"
+              },
+              {
+                "date": "2025-12-27T14:30:00+01:00",
+                "type": "block",
+                "guid": "437065c7-ac64-56e4-b0e1-823b8e789904",
+                "title": "1 Afternoon \u2200",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 437065,
+                "slug": "39c3-1_afternoon"
+              },
+              {
+                "date": "2025-12-27T19:00:00+01:00",
+                "type": "block",
+                "guid": "13de7bd2-eabc-58f2-9bdc-a96dcfa9f836",
+                "title": "1 Evening \u2200",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 137258,
+                "slug": "39c3-1_evening"
+              },
+              {
+                "date": "2025-12-27T23:00:00+01:00",
+                "type": "block",
+                "guid": "5a38052e-10a1-53a7-b9e0-c6b871006ffb",
+                "title": "1 Night \u2200",
+                "duration": "3:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 538052,
+                "slug": "39c3-1_night"
+              }
+            ]
+          }
+        },
+        {
+          "index": 3,
+          "date": "2025-12-28",
+          "day_start": "2025-12-28T09:00:00+01:00",
+          "day_end": "2025-12-29T08:00:00+01:00",
+          "rooms": {
+            "Saal One": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "b1d8221c-0e59-51f4-8813-329791e23b41",
+                "title": "2 Morning O",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 182210,
+                "slug": "39c3-2_morning_o"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "88a03478-4139-5f97-866c-dfd987b2f32e",
+                "title": "2 Afternoon O",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 880347,
+                "slug": "39c3-2_afternoon_o"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "12c2e71b-5790-5a71-9ec5-134a1cc061b3",
+                "title": "2 Evening O",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 122715,
+                "slug": "39c3-2_evening_o"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "f50b4dcc-b3a9-5ab4-9278-3b49229c6935",
+                "title": "2 Night O",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 504395,
+                "slug": "39c3-2_night_o"
+              }
+            ],
+            "Saal Ground": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "7b0b0b84-f367-5fe7-82cf-2eeea01a1a51",
+                "title": "2 Morning G",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 700843,
+                "slug": "39c3-2_morning_g"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "f01f68f9-076f-509d-8ef7-f758a54c5a66",
+                "title": "2 Afternoon G",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 168907,
+                "slug": "39c3-2_afternoon_g"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "3449c4cc-e62f-5348-8698-ee721d5993f8",
+                "title": "2 Evening G",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 344946,
+                "slug": "39c3-2_evening_g"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "8287e76a-9d01-5bff-860d-99bd0e027b17",
+                "title": "2 Night G",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 828776,
+                "slug": "39c3-2_night_g"
+              }
+            ],
+            "Saal Zero": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "6899195d-a925-5c16-9c41-230cb436d083",
+                "title": "2 Morning Z",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 689919,
+                "slug": "39c3-2_morning_z"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "e5f61b5c-03ed-58c4-b590-57d4dc8fcf5d",
+                "title": "2 Afternoon Z",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 561503,
+                "slug": "39c3-2_afternoon_z"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "8499e970-873d-5022-923c-167e4e5c4dab",
+                "title": "2 Evening Z",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 849997,
+                "slug": "39c3-2_evening_z"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "d6cf2482-eac0-5f62-8df7-5cee0cca6b02",
+                "title": "2 Night Z",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 624820,
+                "slug": "39c3-2_night_z"
+              }
+            ],
+            "Saal Fuse": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "9fb64467-606a-5f58-88cb-cb42e67ee9b8",
+                "title": "2 Morning F",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 964467,
+                "slug": "39c3-2_morning_f"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "cfc11bc8-66ac-5304-9261-dd43472c20c1",
+                "title": "2 Afternoon F",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 118665,
+                "slug": "39c3-2_afternoon_f"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "be5b527d-151a-53b7-81c2-063d3d5fb65d",
+                "title": "2 Evening F",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 552715,
+                "slug": "39c3-2_evening_f"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "c843767d-2950-5dd0-a956-e32e0c82540b",
+                "title": "2 Night F",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 843767,
+                "slug": "39c3-2_night_f"
+              }
+            ],
+            "Sendezentrum B\u00fchne (Saal X 07)": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "1878e90b-1717-5944-bfd6-193ee1d2be38",
+                "title": "2 Morning X",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 187890,
+                "slug": "39c3-2_morning_x"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "0e3aaaa4-2c59-5b5f-8d5a-72ceba776c73",
+                "title": "2 Afternoon X",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 342595,
+                "slug": "39c3-2_afternoon_x"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "705a45dd-9d2c-524e-9407-c49af45f5f66",
+                "title": "2 Evening X",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 705459,
+                "slug": "39c3-2_evening_x"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "e5a3e9c0-3079-52ee-b377-a261432bea5c",
+                "title": "2 Night X",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 539030,
+                "slug": "39c3-2_night_x"
+              }
+            ],
+            "SoS Stage H": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "6e25a082-a27a-5ab6-9a29-28f36586855c",
+                "title": "2 Morning H",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 625082,
+                "slug": "39c3-2_morning_h"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "214cf30a-8de8-5105-8d07-d9ebe91b012a",
+                "title": "2 Afternoon H",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 214308,
+                "slug": "39c3-2_afternoon_h"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "f0348794-5ff4-57ce-9f00-39a925e033cd",
+                "title": "2 Evening H",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 348794,
+                "slug": "39c3-2_evening_h"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "9b4448c6-89c4-5ac3-9efa-2d5aa715c42e",
+                "title": "2 Night H",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 944486,
+                "slug": "39c3-2_night_h"
+              }
+            ],
+            "Club": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "cc5c52d3-dff8-533a-898c-54fcd0ef54e5",
+                "title": "2 Morning C",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 552385,
+                "slug": "39c3-2_morning_c"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "35d13c39-d230-56d7-a0e9-16b57a17a8c8",
+                "title": "2 Afternoon C",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 351339,
+                "slug": "39c3-2_afternoon_c"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "2b4019d8-dce9-5364-beee-b628f47160b4",
+                "title": "2 Evening C",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 240198,
+                "slug": "39c3-2_evening_c"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "11f1802e-be02-5a1f-8dc8-ce165c8811da",
+                "title": "2 Night C",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 111802,
+                "slug": "39c3-2_night_c"
+              }
+            ],
+            "Speakers Desk / SHOC": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "1a0c4b33-46d0-54c2-8f63-dba94b5e8b1e",
+                "title": "2 Morning SD",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 104334,
+                "slug": "39c3-2_morning_sd"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "cce65712-d104-5d04-a2e1-17cd22b2f17d",
+                "title": "2 Afternoon SD",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 657121,
+                "slug": "39c3-2_afternoon_sd"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "d8af11bf-a2c0-5fe0-b508-388ad15526ff",
+                "title": "2 Evening SD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 811205,
+                "slug": "39c3-2_evening_sd"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "0db843ba-f6be-5687-be47-bd23865cc7ee",
+                "title": "2 Night SD",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 843656,
+                "slug": "39c3-2_night_sd"
+              }
+            ],
+            "Raum 313": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "78bdcdb8-79c6-57d4-96ad-6fe7e25d938c",
+                "title": "2 Morning VC",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 788796,
+                "slug": "39c3-2_morning_vc"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "fc3f141b-7251-52ae-adce-1a524d14b421",
+                "title": "2 Afternoon VC",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 314172,
+                "slug": "39c3-2_afternoon_vc"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "7be0a7f6-e000-5256-8b6a-bd5b7472e402",
+                "title": "2 Evening VC",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 707600,
+                "slug": "39c3-2_evening_vc"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "db4e7fc7-ea8d-5426-b0dc-a6a90d41c02e",
+                "title": "2 Night VC",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 477854,
+                "slug": "39c3-2_night_vc"
+              }
+            ],
+            "Raum 314": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "7c386b94-02d0-529c-a01f-d93b29dcec92",
+                "title": "2 Morning VO",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 738694,
+                "slug": "39c3-2_morning_vo"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "78381523-47d9-5627-a664-60c536b634bd",
+                "title": "2 Afternoon VO",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 783815,
+                "slug": "39c3-2_afternoon_vo"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "14c90763-fe59-5d5c-b945-5fab4606b49b",
+                "title": "2 Evening VO",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 149076,
+                "slug": "39c3-2_evening_vo"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "14763276-0ea6-5c8d-8476-61dedf27a417",
+                "title": "2 Night VO",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 147632,
+                "slug": "39c3-2_night_vo"
+              }
+            ],
+            "Raum 315": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "40357013-9cce-5ba4-9f6c-088cdcebbc91",
+                "title": "2 Morning VHD",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 403570,
+                "slug": "39c3-2_morning_vhd"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "805ca648-5055-536b-bb11-4ab8a1a4c479",
+                "title": "2 Afternoon VHD",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 805648,
+                "slug": "39c3-2_afternoon_vhd"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "04da2a1d-4f13-5785-9f55-eb7e68b72e9c",
+                "title": "2 Evening VHD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 421413,
+                "slug": "39c3-2_evening_vhd"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "24f9fc80-febf-59c5-b4be-376e07d278ef",
+                "title": "2 Night VHD",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 249805,
+                "slug": "39c3-2_night_vhd"
+              }
+            ],
+            "Everywhere": [
+              {
+                "date": "2025-12-28T09:30:00+01:00",
+                "type": "block",
+                "guid": "db834f5a-47a7-59c7-bcaa-b9ad979a1383",
+                "title": "2 Morning \u2200",
+                "duration": "5:00",
+                "start": "09:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 834547,
+                "slug": "39c3-2_morning"
+              },
+              {
+                "date": "2025-12-28T14:30:00+01:00",
+                "type": "block",
+                "guid": "04fd82ca-5c2b-5a2c-9cc5-eae39b7f6931",
+                "title": "2 Afternoon \u2200",
+                "duration": "3:45",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 482525,
+                "slug": "39c3-2_afternoon"
+              },
+              {
+                "date": "2025-12-28T19:00:00+01:00",
+                "type": "block",
+                "guid": "189a2d19-e5ba-53a0-8c54-efaae8620e32",
+                "title": "2 Evening \u2200",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 189219,
+                "slug": "39c3-2_evening"
+              },
+              {
+                "date": "2025-12-28T23:00:00+01:00",
+                "type": "block",
+                "guid": "156933c3-bbce-51d2-8fb8-a5572116c663",
+                "title": "2 Night \u2200",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 156933,
+                "slug": "39c3-2_night"
+              }
+            ]
+          }
+        },
+        {
+          "index": 4,
+          "date": "2025-12-29",
+          "day_start": "2025-12-29T09:00:00+01:00",
+          "day_end": "2025-12-30T08:00:00+01:00",
+          "rooms": {
+            "Saal One": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "ca0d1477-62bd-56d3-bf10-35d4d252a5a1",
+                "title": "3 Morning O",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 147762,
+                "slug": "39c3-3_morning_o"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "c21bfb23-415e-5e2e-9d7b-9b1f641bec5f",
+                "title": "3 Afternoon O",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 212341,
+                "slug": "39c3-3_afternoon_o"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "711a54e1-2c5a-59c7-9db6-2ddba21b81e6",
+                "title": "3 Evening O",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 711541,
+                "slug": "39c3-3_evening_o"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "3ac4e1b6-63d2-54a3-81bd-9806abd2f4f4",
+                "title": "3 Night O",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 341663,
+                "slug": "39c3-3_night_o"
+              }
+            ],
+            "Saal Ground": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "a2e9cfe0-9597-5364-9a1e-5f29c322bef9",
+                "title": "3 Morning G",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 290959,
+                "slug": "39c3-3_morning_g"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "9fbc8143-3609-5dc5-9e7b-afc28e44dc4e",
+                "title": "3 Afternoon G",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 981433,
+                "slug": "39c3-3_afternoon_g"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "8f46c331-fe66-5422-b99d-93d758366cb6",
+                "title": "3 Evening G",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 846331,
+                "slug": "39c3-3_evening_g"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "84945989-7d40-52c6-8edb-a2d16c3ed2ce",
+                "title": "3 Night G",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 849459,
+                "slug": "39c3-3_night_g"
+              }
+            ],
+            "Saal Zero": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "17174633-f069-5697-bd01-554dedfa6117",
+                "title": "3 Morning Z",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 171746,
+                "slug": "39c3-3_morning_z"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "e5e107e1-2837-5ea3-85df-701d94a00e22",
+                "title": "3 Afternoon Z",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 510712,
+                "slug": "39c3-3_afternoon_z"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "be4ba6ca-c5fc-5b37-8958-e698e424218d",
+                "title": "3 Evening Z",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 465537,
+                "slug": "39c3-3_evening_z"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "fd8456cd-6ffe-5eec-8992-ab292bb82923",
+                "title": "3 Night Z",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 845665,
+                "slug": "39c3-3_night_z"
+              }
+            ],
+            "Saal Fuse": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "2e38b50a-71f5-55c5-a10b-51f460398afb",
+                "title": "3 Morning F",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 238507,
+                "slug": "39c3-3_morning_f"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "324ae67a-4144-595e-9c67-4bdd767447e7",
+                "title": "3 Afternoon F",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 324674,
+                "slug": "39c3-3_afternoon_f"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "22519b85-949c-5396-8281-5853d6f69967",
+                "title": "3 Evening F",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 225198,
+                "slug": "39c3-3_evening_f"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "904eb7b6-ff46-5e3d-9c62-d8f6e50ad1dc",
+                "title": "3 Night F",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 904764,
+                "slug": "39c3-3_night_f"
+              }
+            ],
+            "Sendezentrum B\u00fchne (Saal X 07)": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "69143466-38a3-553f-8357-a53c983d8416",
+                "title": "3 Morning X",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 691434,
+                "slug": "39c3-3_morning_x"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "130e933f-d7f5-5c56-ae54-14e6d1441558",
+                "title": "3 Afternoon X",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 130933,
+                "slug": "39c3-3_afternoon_x"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "6dc0b142-aa28-5b9a-aeab-4d01cff67eee",
+                "title": "3 Evening X",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 601422,
+                "slug": "39c3-3_evening_x"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "fba2f564-de99-5b1a-8097-e90c12045491",
+                "title": "3 Night X",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 256499,
+                "slug": "39c3-3_night_x"
+              }
+            ],
+            "SoS Stage H": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "b5249ae1-f313-5f4c-af8e-c47595bccaa0",
+                "title": "3 Morning H",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 524913,
+                "slug": "39c3-3_morning_h"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "5a63b9e6-8616-55c7-88a0-7ff823e1d988",
+                "title": "3 Afternoon H",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 563968,
+                "slug": "39c3-3_afternoon_h"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "8c159f80-30ab-5d81-b75d-01e95c9987ca",
+                "title": "3 Evening H",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 815980,
+                "slug": "39c3-3_evening_h"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "1908b398-c89c-5289-9aae-00b3e001962f",
+                "title": "3 Night H",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 190839,
+                "slug": "39c3-3_night_h"
+              }
+            ],
+            "Club": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "b5dc6d4c-fd53-532a-a43e-98cddb9cc489",
+                "title": "3 Morning C",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 564535,
+                "slug": "39c3-3_morning_c"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "e9d759c6-c350-5e91-86e4-3fa2c984a5bb",
+                "title": "3 Afternoon C",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 975963,
+                "slug": "39c3-3_afternoon_c"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "b7956d2a-5b6d-51dd-8c6d-92d827b1206c",
+                "title": "3 Evening C",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 795625,
+                "slug": "39c3-3_evening_c"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "97b7a36d-28c6-553c-945e-b5a105d7f2fd",
+                "title": "3 Night C",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 977362,
+                "slug": "39c3-3_night_c"
+              }
+            ],
+            "Speakers Desk / SHOC": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "4fd16239-6ebb-53b3-8ada-bf8bf9264124",
+                "title": "3 Morning SD",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 416239,
+                "slug": "39c3-3_morning_sd"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "8a1b49ff-1fb5-5d99-87be-98c0407d4f1e",
+                "title": "3 Afternoon SD",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 814915,
+                "slug": "39c3-3_afternoon_sd"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "68280264-4eff-586d-89eb-f8987666acae",
+                "title": "3 Evening SD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 682802,
+                "slug": "39c3-3_evening_sd"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "651c8eae-d877-57c3-84af-55b3a875f63d",
+                "title": "3 Night SD",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 651887,
+                "slug": "39c3-3_night_sd"
+              }
+            ],
+            "Raum 313": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "859e5891-6d21-515e-8485-65592eca1920",
+                "title": "3 Morning VC",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 859589,
+                "slug": "39c3-3_morning_vc"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "cba3aceb-08a5-5512-8a61-495182e48a4e",
+                "title": "3 Afternoon VC",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 308555,
+                "slug": "39c3-3_afternoon_vc"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "6a9c074e-22b7-525f-be4e-36dd7505b5e5",
+                "title": "3 Evening VC",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 690742,
+                "slug": "39c3-3_evening_vc"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "92ff94cc-730e-5549-9b5f-0648eb0afb19",
+                "title": "3 Night VC",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 929473,
+                "slug": "39c3-3_night_vc"
+              }
+            ],
+            "Raum 314": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "5bdb1455-6c4e-58de-a1ef-6b7f3336dcaa",
+                "title": "3 Morning VO",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 514556,
+                "slug": "39c3-3_morning_vo"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "ae9eab74-f785-5a4a-b79e-418aa9a76f6e",
+                "title": "3 Afternoon VO",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 974785,
+                "slug": "39c3-3_afternoon_vo"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "16a0b644-0106-5ee0-8cd1-f252f678e34a",
+                "title": "3 Evening VO",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 160644,
+                "slug": "39c3-3_evening_vo"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "ba047807-3b7f-5332-9ce0-0ca1b51a1fc1",
+                "title": "3 Night VO",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 478073,
+                "slug": "39c3-3_night_vo"
+              }
+            ],
+            "Raum 315": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "64e460b0-3908-5ebc-92c7-97a1c4074b1c",
+                "title": "3 Morning VHD",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 644600,
+                "slug": "39c3-3_morning_vhd"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "1725b3d6-168a-5981-aaf0-4a005a109c25",
+                "title": "3 Afternoon VHD",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 172536,
+                "slug": "39c3-3_afternoon_vhd"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "8ad2683b-8ce0-5b08-b43d-cb37b0cfb4d8",
+                "title": "3 Evening VHD",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 826838,
+                "slug": "39c3-3_evening_vhd"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "2013e4ea-a255-5096-9524-5f65f8037daf",
+                "title": "3 Night VHD",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 201342,
+                "slug": "39c3-3_night_vhd"
+              }
+            ],
+            "Everywhere": [
+              {
+                "date": "2025-12-29T09:00:00+01:00",
+                "type": "block",
+                "guid": "ea47e917-a1d7-583c-a05e-99cbc162be45",
+                "title": "3 Morning \u2200",
+                "duration": "5:30",
+                "start": "09:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 479171,
+                "slug": "39c3-3_morning"
+              },
+              {
+                "date": "2025-12-29T14:30:00+01:00",
+                "type": "block",
+                "guid": "d7abe85d-1974-5c45-a54e-94563f6097fa",
+                "title": "3 Afternoon \u2200",
+                "duration": "4:00",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 785197,
+                "slug": "39c3-3_afternoon"
+              },
+              {
+                "date": "2025-12-29T19:00:00+01:00",
+                "type": "block",
+                "guid": "f9b8d412-fae7-5e00-ac0d-b83e8952a554",
+                "title": "3 Evening \u2200",
+                "duration": "4:00",
+                "start": "19:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 984127,
+                "slug": "39c3-3_evening"
+              },
+              {
+                "date": "2025-12-29T23:00:00+01:00",
+                "type": "block",
+                "guid": "ae0db552-15ab-58ff-a280-ce4c2ec4af3e",
+                "title": "3 Night \u2200",
+                "duration": "4:00",
+                "start": "23:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 552155,
+                "slug": "39c3-3_night"
+              }
+            ]
+          }
+        },
+        {
+          "index": 5,
+          "date": "2025-12-30",
+          "day_start": "2025-12-30T09:00:00+01:00",
+          "day_end": "2025-12-31T08:00:00+01:00",
+          "rooms": {
+            "Saal One": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "dfa88812-9d7a-5122-9939-13a7eedf6c5b",
+                "title": "4 Morning O",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 888129,
+                "slug": "39c3-4_morning_o"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "6d86c629-3b8a-57a0-a6f0-a884836cd6d3",
+                "title": "4 Afternoon O",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal One",
+                "track": null,
+                "id": 686629,
+                "slug": "39c3-4_afternoon_o"
+              }
+            ],
+            "Saal Ground": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "b4d34ea1-372d-53f9-9f96-9a578d564df7",
+                "title": "4 Morning G",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 434137,
+                "slug": "39c3-4_morning_g"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "b59a53bb-de5d-533a-99e3-9c5f4d3c9da3",
+                "title": "4 Afternoon G",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Ground",
+                "track": null,
+                "id": 595355,
+                "slug": "39c3-4_afternoon_g"
+              }
+            ],
+            "Saal Zero": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "34d2784c-69ca-51f3-b9c3-86f52ec16033",
+                "title": "4 Morning Z",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 342784,
+                "slug": "39c3-4_morning_z"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "9a273261-32da-5581-86e6-1dd46e2e0d5d",
+                "title": "4 Afternoon Z",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Zero",
+                "track": null,
+                "id": 927326,
+                "slug": "39c3-4_afternoon_z"
+              }
+            ],
+            "Saal Fuse": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "ead84726-5aab-5568-a415-d53ac32c4a85",
+                "title": "4 Morning F",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 847265,
+                "slug": "39c3-4_morning_f"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "f59feace-e215-5e74-a2fd-faef7eade66e",
+                "title": "4 Afternoon F",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Saal Fuse",
+                "track": null,
+                "id": 592155,
+                "slug": "39c3-4_afternoon_f"
+              }
+            ],
+            "Sendezentrum B\u00fchne (Saal X 07)": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "770b3828-f23e-5e75-9e96-a62685cfde05",
+                "title": "4 Morning X",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 770382,
+                "slug": "39c3-4_morning_x"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "bc4e119e-fdda-5c4c-9887-f63da98299b9",
+                "title": "4 Afternoon X",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Sendezentrum B\u00fchne (Saal X 07)",
+                "track": null,
+                "id": 411954,
+                "slug": "39c3-4_afternoon_x"
+              }
+            ],
+            "SoS Stage H": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "4bdc3796-1cd1-539f-abb2-1174dae2968c",
+                "title": "4 Morning H",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 437961,
+                "slug": "39c3-4_morning_h"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "7890e31c-5642-518a-b880-4bd95aadff83",
+                "title": "4 Afternoon H",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "SoS Stage H",
+                "track": null,
+                "id": 789031,
+                "slug": "39c3-4_afternoon_h"
+              }
+            ],
+            "Club": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "2076764f-3752-5664-b28f-63312f9e8cb8",
+                "title": "4 Morning C",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 207676,
+                "slug": "39c3-4_morning_c"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "9de0b6ee-0c76-590b-b935-b68041d459e5",
+                "title": "4 Afternoon C",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Club",
+                "track": null,
+                "id": 906076,
+                "slug": "39c3-4_afternoon_c"
+              }
+            ],
+            "Speakers Desk / SHOC": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "63908719-ee9f-574f-948b-309a6a47b232",
+                "title": "4 Morning SD",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 639087,
+                "slug": "39c3-4_morning_sd"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "ffb94671-0af3-5832-bee7-91937f86fc4c",
+                "title": "4 Afternoon SD",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Speakers Desk / SHOC",
+                "track": null,
+                "id": 946710,
+                "slug": "39c3-4_afternoon_sd"
+              }
+            ],
+            "Raum 313": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "c8c2cd32-4a7c-516c-b384-229745325f84",
+                "title": "4 Morning VC",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 823247,
+                "slug": "39c3-4_morning_vc"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "d91a87b7-ab3e-5d5d-ab43-672948a3ea9a",
+                "title": "4 Afternoon VC",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 313",
+                "track": null,
+                "id": 918773,
+                "slug": "39c3-4_afternoon_vc"
+              }
+            ],
+            "Raum 314": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "7e9357b0-73e1-538b-97a2-777885fcb902",
+                "title": "4 Morning VO",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 793570,
+                "slug": "39c3-4_morning_vo"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "d92300b2-d6b1-5f8e-bb85-75eb895dc2e2",
+                "title": "4 Afternoon VO",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 314",
+                "track": null,
+                "id": 923002,
+                "slug": "39c3-4_afternoon_vo"
+              }
+            ],
+            "Raum 315": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "f3c78b53-1d99-5f47-974d-ede762f2f15f",
+                "title": "4 Morning VHD",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 378531,
+                "slug": "39c3-4_morning_vhd"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "a6a37235-c0ef-5bdd-8507-d65e7d3a6dd8",
+                "title": "4 Afternoon VHD",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Raum 315",
+                "track": null,
+                "id": 637235,
+                "slug": "39c3-4_afternoon_vhd"
+              }
+            ],
+            "Everywhere": [
+              {
+                "date": "2025-12-30T10:00:00+01:00",
+                "type": "block",
+                "guid": "1697f73e-80dd-5e67-a54e-c29fa6b37ed7",
+                "title": "4 Morning \u2200",
+                "duration": "4:30",
+                "start": "10:00",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 169773,
+                "slug": "39c3-4_morning"
+              },
+              {
+                "date": "2025-12-30T14:30:00+01:00",
+                "type": "block",
+                "guid": "8440fae1-aceb-5a0e-87a0-0294c39ee109",
+                "title": "4 Afternoon \u2200",
+                "duration": "2:30",
+                "start": "14:30",
+                "abstract": "",
+                "description": "",
+                "room": "Everywhere",
+                "track": null,
+                "id": 844015,
+                "slug": "39c3-4_afternoon"
+              }
+            ]
+          }
+        }
+      ],
+      "rooms": [
+        {
+          "name": "Saal One",
+          "guid": "ba692ba3-421b-5371-8309-60acc34a3c05",
+          "description": null,
+          "slug": "saal_one",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Saal Ground",
+          "guid": "7202df07-050c-552f-8318-992f94e40ef0",
+          "description": null,
+          "slug": "saal_ground",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Saal Zero",
+          "guid": "62251a07-13e4-5a72-bb3c-8528416ee0f2",
+          "description": null,
+          "slug": "saal_zero",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Saal Fuse",
+          "guid": "85a6ba5d-11d9-4efe-8d28-c5f7165a19ce",
+          "description": null,
+          "slug": "saal_fuse",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Sendezentrum B\u00fchne (Saal X 07)",
+          "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e20",
+          "description": null,
+          "slug": "sendezentrum_buehne_saal_x_07",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "SoS Stage H",
+          "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e42",
+          "description": null,
+          "slug": "sos_stage_h",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Club",
+          "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e21",
+          "description": null,
+          "slug": "club",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Speakers Desk / SHOC",
+          "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e10",
+          "description": null,
+          "slug": "speakers_desk_shoc",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Raum 313",
+          "guid": "a5b0b1c5-2872-48ee-a7ef-80252af0f76d",
+          "description": "C3VOC Coworking",
+          "slug": "raum_313",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Raum 314",
+          "guid": "a5b0b1c5-2872-48ee-a7ef-80252af0f76c",
+          "description": "C3VOC Office",
+          "slug": "raum_314",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Raum 315",
+          "guid": "a5b0b1c5-2872-48ee-a7ef-80252af0f76b",
+          "description": "C3VOC Hel(l|p)desk",
+          "slug": "raum_315",
+          "meta": {
+            "location": null
+          }
+        },
+        {
+          "name": "Everywhere",
+          "guid": "7abcfbfd-4b2f-4fc4-8e6c-6ff854d4936f",
+          "description": null,
+          "slug": "everywhere",
+          "meta": {
+            "location": null
+          }
+        }
+      ]
+    }
+  }
+}
