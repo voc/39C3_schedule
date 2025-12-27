@@ -1,0 +1,32 @@
+{
+  "guid": "c786effc-5631-5aa6-a0a9-f04de0246733",
+  "code": "JFESPL",
+  "id": 786563,
+  "date": "2025-12-29T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "01:30",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-diy-laptop-music-instruments",
+  "title": "DIY Laptop Music Instruments [all creatures welcome]",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Write software programs in ChucK that take in laptop input (e.g. keyboard, trackpad, mic) and output sounds of your choosing! No experience required, but some familiarity with programming recommended. Required: macOS/windows/linux laptop and headphones.",
+  "description": "This workshop will enable participants to map different types of computer input to different parameters of sound (e.g. pitch, volume, sound effects). The focus here is on creating laptop instruments intended for live performance.\n\nWe will use the ChucK programming language to do this. Imagine being able to create a fully-customizable synthesizer that you can run locally on your computer with your laptop keyboard, playing sound effects with a mouse click, or pitch-bending with your trackpad. No experience required, but some familiarity with programming is recommended. Everyone is welcome.\n\nRequired: a macOS/windows/linux laptop and headphones, and an external mouse would be a nice-to-have.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "241eeb9a-4345-5945-afac-bd60d96e3444",
+      "name": "Tess",
+      "public_name": "Tess",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/HT7R3X_5VbUqQW.jpeg",
+      "biography": "just a girl that likes to tinker. currently based in san francisco.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_241eeb9a-4345-5945-afac-bd60d96e3444"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/diy-laptop-music-instruments",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/JFESPL/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/JFESPL/feedback/"
+}

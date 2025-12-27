@@ -1,0 +1,46 @@
+{
+  "guid": "cf194c54-396f-46ed-8f1f-907ca8094837",
+  "code": null,
+  "id": 194543,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-c3gsm-ask-us-anything-about-the-39c3-cellular-netw",
+  "title": "c3gsm: Ask-us-Anything about the 39c3 cellular network",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We like to tell you how the 39c3's cellular network was created and is operated. Including the current tech stack and what changed over the last years.\n\nafterwards there will be a big Q&A session.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "cacc8165-d504-43d2-b9ca-08dd7a4f2c4e",
+      "name": "bibor",
+      "public_name": "bibor",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/bibor"
+    },
+    {
+      "guid": "c1fce486-e5ad-494a-8026-92b590897175",
+      "name": "Lennart Rosam",
+      "public_name": "Lennart Rosam",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/takuto"
+    },
+    {
+      "guid": "8923d30b-c4b9-4044-8bf9-f06f313014ea",
+      "name": "lynxis lazus",
+      "public_name": "lynxis lazus",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/lynxis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/c3gsm-ask-us-anything-about-the-39c3-cellular-netw",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "5ea690bc-6a9b-405e-ad0a-dc5e0df0a180",
+  "code": null,
+  "id": 569069,
+  "date": "2025-12-28T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "01:20",
+  "room": "SoS Saal 6",
+  "slug": "39c3-hello-qubitty-your-first-steps-on-a-quantum-comput",
+  "title": "Hello Qubitty! Your First Steps on a Quantum Computer",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In this workshop, we will program a gate-based quantum computer provided by IBM. After a short introduction to quantum physics (only the stuff we need for programming), we\u2019ll jump right in:\n\nWe will program three small examples on IBM\u2019s freely accessible Quantum platform, illustrating both the limitations and the potential of quantum computers.\n\nThe workshop is suitable for absolute beginners \u2014 no prior knowledge of any programming language is required.\n\nAfter the workshop, you will have a solid understanding of how such a machine works - and whether we really need to start worrying about Q-Day already.\nPlease bring your laptop. You can sign up for IBM Quantum in advance (https://quantum.cloud.ibm.com/), but it\u2019s also possible to participate without an account using the quantum simulator.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6e07912a-655b-48b2-a610-c055602ddddf",
+      "name": "greenygreenfarmer",
+      "public_name": "greenygreenfarmer",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/greenygreenfarmer"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hello-qubitty-your-first-steps-on-a-quantum-comput",
+  "links": []
+}

@@ -1,0 +1,40 @@
+{
+  "guid": "fb3ad2e1-084a-5d7e-ac57-d4b9e0a5256a",
+  "code": "33UMAC",
+  "id": 321084,
+  "date": "2025-12-28T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-wie-spreche-ich-ihn-an-mit-anderen-mannern-uber-se",
+  "title": "Wie spreche ich IHN an? Mit anderen M\u00e4nnern \u00fcber Sexismus, Grenz\u00fcberschreitung und sexualisierte/ Partnerschafts-Gewalt reden [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "FLINTA kennen meist einige FLINTA, die sexualisierte Gewalt von cis M\u00e4nnern erfahren haben, Cis M\u00e4nner kennen oft keinen cis Mann, der sexualisierte Gewalt ausge\u00fcbt hat. Wie kommt das?\r\nEin Workshop f\u00fcr M\u00e4nner.",
+  "description": "Wie k\u00f6nnen M\u00e4nner \u00fcber das Thema ins Gespr\u00e4ch kommen? Wie k\u00f6nnen M\u00e4nner andere M\u00e4nner auf sexistisches und grenz\u00fcberschreitendes Verhalten ansprechen?\nDer Workshop m\u00f6chte einen Austausch anregen, welche Barrieren es gibt, andere M\u00e4nner auf problematisches Verhalten anzusprechen, aber auch dar\u00fcber, wie diese \u00fcberwunden werden k\u00f6nnen. Es geht nicht darum, FLINTA ausschlie\u00dflich als Betroffene anzusehen und cis M\u00e4nner ausschlie\u00dflich als Aus\u00fcbende. Dennoch ist es wichtig, dass (cis) M\u00e4nner Verantwortung \u00fcbernehmen und solche Gespr\u00e4che f\u00fchren. Als solidarische Praxis, aber auch als Pr\u00e4vention. \nIm Workshop k\u00f6nnen Ideen, Erfahrungen und Strategien miteinander geteilt oder zusammen entwickelt werden. Also kommt vorbei, wenn ihr diese Gespr\u00e4che bereits f\u00fchrt, wenn ihr euch bisher noch nicht getraut habt oder auch, wenn ihr ein so cooles Umfeld habt, dass sie gar nicht n\u00f6tig sind.\n\nDer Workshop richtet sich an M\u00e4nner. Wir werden dies auch zu Beginn formulieren, aber wir wollen nat\u00fcrlich keine Nachweise. \nJulian [er/ they] und buecherwurm [sie/ ihr, agender] werden den Workshop begleiten, buecherwurm wird sich auf den methodischen Rahmen fokussieren und vermutlich irgendwann rausziehen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e3a72fdd-92f8-532d-9d91-0f9e9b429cc9",
+      "name": "buecherwurm",
+      "public_name": "buecherwurm",
+      "avatar": null,
+      "biography": "buecherwurm [sie/ ihr] ist Teil des Awareness-Teams, macht diskriminierungskritische Bildungsarbeit und engagiert sich als Rechtsberater_in bei der Feminist Law Clinic. Sie hat bei verschiedenen vergangenen Events Workshops rund um das Thema missbr\u00e4uchliche Beziehungen und Grenz\u00fcberschreitung angeboten.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e3a72fdd-92f8-532d-9d91-0f9e9b429cc9"
+    },
+    {
+      "guid": "c8975b67-bd62-5704-9ec4-72b87b73edce",
+      "name": "julian",
+      "public_name": "julian",
+      "avatar": null,
+      "biography": "julian (nick: haaase) [er/they] ist Teil von c3awareness. Interessiert an Feminismus, Anarchismus, Dezentralisierung, Sci-Fi und Utopien.\n\nlang: de/en\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c8975b67-bd62-5704-9ec4-72b87b73edce"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wie-spreche-ich-ihn-an-mit-anderen-mannern-uber-se",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/33UMAC/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/33UMAC/feedback/"
+}

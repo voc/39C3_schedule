@@ -1,0 +1,32 @@
+{
+  "guid": "186f05a3-2a76-5a9e-9aed-515f0543c5cc",
+  "code": "C7QZSJ",
+  "id": 400001,
+  "date": "2025-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:25",
+  "room": "Saal 5",
+  "slug": "39c3-die-un-cybercrime-konvention",
+  "title": "Die UN-Cybercrime-Konvention",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Die UN-Cybercrime-Konvention ist ein v\u00f6lkerechtliches Abkommen, das in vieler Hinsicht das Gegenteil zu Menschenrechtskonventionen darstellt. Statt Menschen zu st\u00e4rken, wird deren \u00dcberwachung, v\u00f6lkerrechtlich verpflichtend, in den Blick genommen. Klingt dystopisch? Ist es. Was hat sich da verdreht? Ist es wirklich so krass und schlimm? Und was l\u00e4sst sich da machen?",
+  "description": "Nach einer kleinen Einf\u00fchrung aus dezidiert nicht-juristischer Perspektive wollen wir diskutieren, welche Auswirkungen von dem Papier zu erwarten sind, wie sich Einzelne und Staaten (so sie Willens sind), dagegen wehren k\u00f6nnen. Und nat\u00fcrlich, wie das Problem \u00fcberhaupt bekannter gemacht werden kann.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "bb54a57f-9b77-566a-86aa-fa1ee632ad93",
+      "name": "ulif",
+      "public_name": "ulif",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_bb54a57f-9b77-566a-86aa-fa1ee632ad93"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/die-un-cybercrime-konvention",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/C7QZSJ/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/C7QZSJ/feedback/"
+}

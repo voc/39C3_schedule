@@ -1,0 +1,30 @@
+{
+  "guid": "91471fc6-77b7-41c7-a30d-c9faff63c538",
+  "code": null,
+  "id": 914716,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "TBD small",
+  "slug": "39c3-tbd-badge-soldering-workshops",
+  "title": "TBD friends badge soldering workshop",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "TBD friends badge soldering workshop",
+  "description": "There are some version 1.5 and version 2.0 TBD friends badges left to solder. Badges contain blinking lights and 2-way communication, so the badge can tell you if there are friends around that also wear their TBD friends badge.\n\nSoldering is done using solder paste and a hotplate. Takes about 1 hour for beginners (which mainly depends on my divergence when I talk you through it). Record time is 12 minutes.\n\nBadges are donation-ware - Pay whatever you like to TBD. Materials costs are currently about 1.5 euro\n\nIf you miss the scheduled event, contact The0 (DECT or OFTC) - it may be possible to schedule an extra session\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d619de5f1be1/tbdbadge.png",
+  "persons": [
+    {
+      "guid": "8215e424-1229-4bc5-8b8a-c16362b47fa9",
+      "name": "the0 (he his him)",
+      "public_name": "the0 (he his him)",
+      "avatar": null,
+      "biography": "organizer of electronics-related workshops at camps, hacker spaces & congress\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/the0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tbd-badge-soldering-workshops",
+  "links": []
+}

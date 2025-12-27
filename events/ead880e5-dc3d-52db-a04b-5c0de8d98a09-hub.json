@@ -1,0 +1,32 @@
+{
+  "guid": "ead880e5-dc3d-52db-a04b-5c0de8d98a09",
+  "code": "K9EB3H",
+  "id": 2479,
+  "date": "2025-12-28T02:30:00+01:00",
+  "start": "02:30",
+  "duration": "02:00",
+  "room": "Chill Floor",
+  "slug": "39c3-babooshka",
+  "title": "Babooshka",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Babooshka is Marian Bodenstein, \r\nwho played with several punk bands such as LASSIE, LAFFF BOX, NICK NORMAL\r\nand DBR at the moment. Under the moniker FUZZZGUN Marian is working as a graphic designer for bands, labels and other \"multinational corporations\". \r\nNormally Babooshka would serve you a high octane dance set rooted in 70s power pop, punk and rocknroll but for the CCCChillfloor you\u2019ll get a certain mixture of their favorite relaxin, beautiful and tearjerking  tracks, combined with some broken records to serve as analog loops and audioplay records. Babooshka is happy to play records that are normally reserved for the end of an emotional night of dance and shenanigans or even never would see the lights of the dance floor under \u201enormal\u201c circumstances.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/K9EB3H/photo_2025-12_vzJXn3D.jpeg",
+  "persons": [
+    {
+      "guid": "7d14adea-db04-5cc6-ac39-00946ce0e992",
+      "name": "Babooshka",
+      "public_name": "Babooshka",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7d14adea-db04-5cc6-ac39-00946ce0e992"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/babooshka",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/K9EB3H/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/K9EB3H/feedback/"
+}

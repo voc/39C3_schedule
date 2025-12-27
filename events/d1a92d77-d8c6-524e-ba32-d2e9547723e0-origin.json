@@ -1,0 +1,45 @@
+{
+  "guid": "d1a92d77-d8c6-524e-ba32-d2e9547723e0",
+  "code": "37HY7V",
+  "id": 1792,
+  "logo": null,
+  "date": "2025-12-28T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-1792-suing-spyware-in-europe-news-from-the-front",
+  "url": "https://cfp.cccv.de/39c3/talk/37HY7V/",
+  "title": "Suing spyware in Europe: news from the front!",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "In 2022, CitizenLab contacted a member of the Spanish non-profit Ir\u00eddia to tell them that one of their members had likely been hacked with Pegasus spyware. The target, a lawyer, had been spied on by the Spanish government in 2020 because he represented a Catalan politician who was in prison. His phone was infected with Pegasus during the COVID-19 lockdown, on the same day he was having an online meeting with other lawyers working on the case.\r\n\r\nIr\u00eddia and the lawyer (Andreu) decided to take the case to court. A few years later, he met with Data Rights and invited them to join forces and bring in partners from across Europe to increase the impact. This collaboration led to the creation of the PEGA coalition in May 2025.\r\n\r\nThis talk goes over the status of the case and work we have done across Europe to bring spyware use in court.",
+  "description": "Despite the European Parliament\u2019s PEGA investigation in 2023, spyware scandals in Europe continue to grow, with little real action to stop or address them. Many EU countries were \u2014 or still are \u2014 clients of the world\u2019s major spyware companies. As a result, nothing changes except the number of victims targeted by these technologies. Worst, offices or clients in the EU is useful for spyware companies' sales pitch. So, the EU is a growing hub for this ominous ecosystem! With no real political will to act, members of the PEGA investigation say the only hope for change is to take these cases to court \u2014 and that\u2019s exactly the path we\u2019ve chosen!\r\n\r\nIr\u00eddia\u2019s case is one of the flagship cases in the EU, both for its depth and for what it has achieved so far. We will review the current status and implications of the case, examining issues that range from state responsibility to the role of the spyware company behind Pegasus \u2014 in its creation, sale, and export \u2014 which maintains a strong presence within the EU.\r\n\r\nAfter that, we will take a step back to look at what is happening across Europe. We will highlight the most significant cases currently moving forward, as well as some of the PEGA coalition\u2019s strategies for driving accountability, strengthening safeguards, and ensuring remedies. The coalition\u2019s mission goes beyond legal action \u2014 it aims to prevent the devastating impact of spyware and push for systemic change.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "97WZA7",
+      "name": "Lori Roussey",
+      "avatar": "https://cfp.cccv.de/media/avatars/Gravatar_pic_xRrYBr1.png",
+      "biography": "Lori Roussey is a data protection law and policy specialist. She focuses on public private partnerships litigation as well as new technologies regulation. Lori has experience as the Data Protection Officer of a major humanitarian organisation and is now the Founder and Director of Data Rights, a litigation and advocacy non-profit focused on surveillance, sustainability, and interoperability.",
+      "public_name": "Lori Roussey",
+      "guid": "58da2197-1abf-52fc-8865-d0fe0f06af6b",
+      "url": "https://cfp.cccv.de/39c3/speaker/97WZA7/"
+    },
+    {
+      "code": "L7BZJS",
+      "name": "Celia/Ir\u00eddia",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Celia/Ir\u00eddia",
+      "guid": "62ca8c3c-1a12-5592-980d-9d6e5ef3d18f",
+      "url": "https://cfp.cccv.de/39c3/speaker/L7BZJS/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/37HY7V/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/37HY7V/",
+  "attachments": []
+}

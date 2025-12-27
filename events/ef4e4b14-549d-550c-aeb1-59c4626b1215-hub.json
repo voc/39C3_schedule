@@ -1,0 +1,33 @@
+{
+  "guid": "ef4e4b14-549d-550c-aeb1-59c4626b1215",
+  "code": "U7HLWW",
+  "id": 2406,
+  "date": "2025-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-tippeln-am-rande-des-abgrunds",
+  "title": "Tippeln am Rande des Abgrunds",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Das \"tipple radio\" ist eine Collage von Singer-Songwriter-Konzert und szenischer Lesung. \r\nEs tr\u00e4gt gecoverte und selbstgeschriebene Songs und Medleys von Punk \u00fcber Hamburger Schule bis Schlager mit Gitarre und Gesang vor und verkn\u00fcpft die Inhalte der Songs miteinander. Es entsteht ein Geflecht von Musik und Text, dass Aufbr\u00fcche in Abgr\u00fcnden aufzeigt und Hoffnung macht sich gegen die Faschisierung in der Gesellschaft zusammen zu schlie\u00dfen.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/U7HLWW/tipple-radio_Mwirylc_yaum_IR9eiBL.webp",
+  "persons": [
+    {
+      "guid": "4daa5c41-67b2-5710-b061-12dfa6d5abeb",
+      "name": "tippel radio",
+      "public_name": "tippel radio",
+      "avatar": "https://cfp.cccv.de/media/avatars/TPPV3F_z6YX0Nz.webp",
+      "biography": "*Die Sch\u00f6nheit liegt im Unfertigen, im Prozess. Das Private ist politisch und immer ein bisschen Ding.*\n\n**tippel radio** ist als erstes immer politisches Projekt, n\u00e4mlich **antifaschistisch**, **feministisch** und f\u00fcr eine Gesellschaft ohne Angst, Ausbeutung und Arbeitszwang.\n\nSie ist Freundin und Gef\u00e4hrtin, S\u00e4ngerin und Geschichtenerz\u00e4hlerin, die wei\u00df, dass eine Nachricht \u00fcber Melodien besser getragen wird und die Zuh\u00f6rer:innen eher erreicht und verbindet.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_4daa5c41-67b2-5710-b061-12dfa6d5abeb"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tippeln-am-rande-des-abgrunds",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/U7HLWW/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/U7HLWW/feedback/",
+  "do_not_record": true
+}

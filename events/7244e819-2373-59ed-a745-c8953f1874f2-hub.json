@@ -1,0 +1,31 @@
+{
+  "guid": "7244e819-2373-59ed-a745-c8953f1874f2",
+  "code": null,
+  "id": 300087,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-xmpp-and-metadata",
+  "title": "XMPP and metadata",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "In this talk, I will cover how XMPP manages metadata, what is technically required for which reason, what could be avoided and with which drawbacks, and do some comparisons with centralized (e.g. signal), other decentralized (e.g. matrix) and entirerly p2p systems trying to solve the same issue.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3f0d64fd-b33b-5d5e-877b-6a195c70df8d",
+      "name": "mathieui",
+      "public_name": "mathieui",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f0d64fd-b33b-5d5e-877b-6a195c70df8d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/xmpp-and-metadata",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/DCJXBV/"
+}

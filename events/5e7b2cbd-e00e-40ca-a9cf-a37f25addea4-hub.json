@@ -1,0 +1,38 @@
+{
+  "guid": "5e7b2cbd-e00e-40ca-a9cf-a37f25addea4",
+  "code": null,
+  "id": 572004,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "somewhere in the house of tea",
+  "slug": "39c3-dissoziative-ressourcen-teilen-eine-dis-kussion",
+  "title": "Dissoziative Ressourcen Teilen: Eine DIS-kussion",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Dies ist ein Meet-up f\u00fcr dissoziative, plurale Systeme* (oder Wesen die questioning sind). Das Meetup ist haupts\u00e4chlich daf\u00fcr da um einen Austausch herzustellen, Erfahrungen zu Teilen und sich weniger allein zu f\u00fchlen.",
+  "description": "this meet-up is in German, please be advised.\n\nThis is a meet-up for dissociative, plural Systems* (or creatures who are questioning themself). The meetup exists mainly as an exchange of experiences, and for mutual support.\n\nPlease only attend if you are well rested, have eaten something and are hydrated and other basic needs of your body are met!\n\nThe meet-up will be moderated, there will be speaking-rules and support available.\n\n**System, DID, Plurality, etc. are equally welcome, no one will be pathologiesed or forced to use different language.*\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ab2634e6-f6c9-4283-835b-83505db6d49e",
+      "name": "Amy (she/her)",
+      "public_name": "Amy (she/her)",
+      "avatar": null,
+      "biography": ":3\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/amy"
+    },
+    {
+      "guid": "572b49e4-d00e-4bcb-b542-d96d06dcbc2e",
+      "name": "Luxis",
+      "public_name": "Luxis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luxis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/dissoziative-ressourcen-teilen-eine-dis-kussion",
+  "links": []
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "5476150a-512d-564c-b2e3-527e5466d292",
+  "code": null,
+  "id": 300117,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-whos-afraid-of-anonymity-a-philosophical-and-polit",
+  "title": "Who's afraid of anonymity? A philosophical and political toolkit",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Online anonymity is being demonized and undermined. But anonymity has an important social function for preserving individuals and group against social threats. We will argue for the philosophical and political value of being anonymous, especially against the rising state of capture in state and corporate surveillance. Anonymity is more than namelessness: it's a tool of resistance.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0e5d1f73-558f-5f57-a5c2-7d6ea134148c",
+      "name": "Casey Ford",
+      "public_name": "Casey Ford",
+      "avatar": null,
+      "biography": "Casey has a PhD in Philosophy from the University of Guelph. He is currently researching anti-surveillance and anarchist technologies. He is the Comms Lead and lead writer for Nym.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0e5d1f73-558f-5f57-a5c2-7d6ea134148c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/whos-afraid-of-anonymity-a-philosophical-and-polit",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/NBWHGM/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "ef123e4d-4ee3-47e6-be47-9ab4f8e62374",
+  "code": null,
+  "id": 123443,
+  "date": "2025-12-28T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-twilight-imperium-gathering",
+  "title": "Twilight Imperium Gathering",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Do you play Twilight Imperium and want to discuss it with other creatures or want to find/create new gaming groups? Or do you not know this epic and complex sci-fi board game about diplomacy, politics, war and intrigue yet? Let us use this short time slot for a quick meeting to share our contacts to stay in touch. Possible advantages we are going to have are e.g.:\n\n- New regional groups for (regular) games\n- Sharing/Discussions about house rules\n- Creation/Discussions of new maps\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2caa5167-9ef6-41dc-9ca1-ff4c63285f0e",
+      "name": "beetroot",
+      "public_name": "beetroot",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/beetroot"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/twilight-imperium-gathering",
+  "links": []
+}

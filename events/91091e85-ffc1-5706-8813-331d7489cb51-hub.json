@@ -1,0 +1,32 @@
+{
+  "guid": "91091e85-ffc1-5706-8813-331d7489cb51",
+  "code": "NMZCPN",
+  "id": 2476,
+  "date": "2025-12-27T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-festnacht",
+  "title": "Festnacht",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Festnacht is a fixture in Hamburg\u2019s music scene. Together with L.F.T., he has steered the Neoprimitive label and event series for nearly a decade, releasing a broad range of mostly experimental electronic music from artists like Rosaceae, Children of Leir, and Alobhe, and inviting names such as Skee Mask, Anthony Rother, Bloody Mary, and Interstellar Funk to the iconic Golden Pudel Club. His DJ sets span the spectrum of Detroit-rooted techno and electro - always unpredictable, shaped by the night\u2019s energy, and known for his skill in slowly and subtly warming up a room.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/NMZCPN/image0_znR38c2.jpeg",
+  "persons": [
+    {
+      "guid": "d854caca-6f79-587a-9871-da3590839488",
+      "name": "Festnacht",
+      "public_name": "Festnacht",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d854caca-6f79-587a-9871-da3590839488"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/festnacht",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/NMZCPN/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/NMZCPN/feedback/"
+}

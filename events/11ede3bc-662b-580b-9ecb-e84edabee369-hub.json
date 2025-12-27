@@ -1,0 +1,39 @@
+{
+  "guid": "11ede3bc-662b-580b-9ecb-e84edabee369",
+  "code": "UNNRYM",
+  "id": 1908,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-von-fuzzern-zu-agenten-entwicklung-eines-cyber-reasoning-systems-fur-die-aixcc",
+  "title": "Von Fuzzern zu Agenten: Entwicklung eines Cyber Reasoning Systems f\u00fcr die AIxCC",
+  "subtitle": null,
+  "language": "de",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Die AI Cyber Challenge (AIxCC) der DARPA hatte zum Ziel, die Grenzen der autonomen Cybersicherheit zu erweitern: K\u00f6nnen AI-Systeme Software-Schwachstellen unabh\u00e4ngig, in Echtzeit und ohne menschliche Hilfe identifizieren, verifizieren und beheben?\r\nIm Laufe von zwei Jahren entwickelten Teams aus aller Welt \u201eCyber Reasoning Systems\u201c (CRS), die in der Lage sind, komplexe Open-Source-Software zu analysieren, Code zu analysieren, reproducer zu generieren, um zu zeigen, dass ein gemeldeter Fehler kein Fehlalarm ist, und schlie\u00dflich Patches zu synthetisieren.\r\nUnser Team nahm an dieser Challenge teil und entwickelte von Grund auf ein eigenes CRS. In diesem Vortrag geben wir Einblicke in den Wettbewerb: Wie funktioniert die LLM-gesteuerte Schwachstellenerkennung tats\u00e4chlich, welche Designentscheidungen sind wichtig und wie sind die Finalisten-Teams an das Problem herangegangen?",
+  "description": "Die AIxCC (DARPA\u2019s AI Cyber Challenge) ist ein zweij\u00e4hriger Wettbewerb, dessen Ziel es war, die M\u00f6glichkeiten der automatisierten Erkennung und Behebung von Sicherheitsl\u00fccken zu verbessern.\nDabei sollte ein autonomes, in sich geschlossenes System entwickelt werden, das Software analysiert, Schwachstellen erkennt, diese mithilfe von Reproducern nachweist und anschlie\u00dfend sichere Patches erzeugt.\n\nUnser Team hat sich diesem globalen Experiment angeschlossen und ein eigenes Cyber Reasoning System (CRS) von Grund auf neu entwickelt. Dazu haben wir mehrere Agenten entwickelt. Unser System profitierte von der Kombination klassischer Techniken wie Fuzzing mit modernen Large Language Models (LLMs). Die Synergie zwischen diesen Ans\u00e4tzen erwies sich als leistungsf\u00e4higer als jede der beiden Techniken f\u00fcr sich allein, sodass unser CRS Software auf eine Weise untersuchen und patchen konnte, wie es weder Fuzzing noch LLMs allein leisten konnten.\n\nIn diesem Vortrag werden wir:\n- das Konzept und die Ziele hinter AIxCC erl\u00e4utern\n- durchgehen, wie ein CRS tats\u00e4chlich funktioniert und wie wir unseres entwickelt haben\n- zeigen, wie LLMs traditionelle Fuzzing- und Analyse-Techniken unterst\u00fctzen k\u00f6nnen\n- Beobachtungen zu den Strategien der Finalisten-Teams teilen\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d2de089a-80f3-5428-a63d-dfde9f96a51c",
+      "name": "Mischa Meier (mmisc)",
+      "public_name": "Mischa Meier (mmisc)",
+      "avatar": "https://cfp.cccv.de/media/avatars/GRFASX_faM4AmE.jpg",
+      "biography": "Hacker and security researcher.\nLikes to climb rocks.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d2de089a-80f3-5428-a63d-dfde9f96a51c"
+    },
+    {
+      "guid": "8002efc5-2730-5942-8e01-31862e452f68",
+      "name": "Annika Kuntze",
+      "public_name": "Annika Kuntze",
+      "avatar": "https://cfp.cccv.de/media/avatars/LU99TG_uQSf6Z9.jpeg",
+      "biography": "CTF-Spielerin und Cyber-Security-Nerd mit Faszination f\u00fcr Maschinen, die selbst hacken lernen\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8002efc5-2730-5942-8e01-31862e452f68"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/von-fuzzern-zu-agenten-entwicklung-eines-cyber-reasoning-systems-fur-die-aixcc",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/UNNRYM/"
+}

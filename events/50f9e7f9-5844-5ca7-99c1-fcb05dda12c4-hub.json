@@ -1,0 +1,32 @@
+{
+  "guid": "50f9e7f9-5844-5ca7-99c1-fcb05dda12c4",
+  "code": "UP7PVU",
+  "id": 509795,
+  "date": "2025-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-haecksen-fur-nicht-haecksen",
+  "title": "Haecksen f\u00fcr Nicht-Haecksen [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Habt ihr Fragen an die Haecksen, seit aber keine Haeckse oder k\u00f6nnt sogar keine Haeckse werden?\r\nBringt sie mit, wir suchen die Antwort f\u00fcr eure Fragen.",
+  "description": "Dieser Workshop ist der Ort um komplizierte Fragen an die Haecksen zu stellen. Wir schauen die Fragen mit euch zusammen an und geben bei M\u00f6glichkeit eine Antwort.\n\nF\u00fcr diese eine Stunde sind 'unbequeme' Fragen ok, unangemessenes Verhalten aber nat\u00fcrlich nicht.\n\nSind die Haecksen wirklich der gr\u00f6\u00dfte Chaostreff vom CCC mit ~1000 Mitgliedern?\nWas sind die Ziele der Haecksen?\nWie kann man die Haecksen oder generell Gleichberechtigung unterst\u00fctzen?\nWarum k\u00f6nnen zB. endo cis M\u00e4nner keine Haecksen werden?\nWarum sind dann trotzdem die meisten Workshops der Haecksen f\u00fcr alle Wesen besuchbar?\n\nDiese Runde ist explizit an Menschen gerichtet, die sich nicht in FLINTA* wiederfinden k\u00f6nnen und damit keine unserer anderen Veranstaltungen besuchen k\u00f6nnen, in denen wir solche Fragen beantworten.\n\nKommt gern vorbei, wir antworten vermutlich ;)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "94223332-c8a6-58f4-8ddc-2ab4c0a24c51",
+      "name": "melzai",
+      "public_name": "melzai",
+      "avatar": null,
+      "biography": "Vorstand Haecksen\n\nehemals Schiedsstelle CCC e.V.\nehemals Vorstand CCCHH e.V.\n\nmacht komplizierte Dinge in der Pharmaforschungsinformatik\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_94223332-c8a6-58f4-8ddc-2ab4c0a24c51"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/haecksen-fur-nicht-haecksen",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/UP7PVU/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/UP7PVU/feedback/"
+}

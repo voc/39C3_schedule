@@ -1,0 +1,30 @@
+{
+  "guid": "432766b7-80ff-451f-8255-7b6441902f0e",
+  "code": null,
+  "id": 432766,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "House of Tea",
+  "slug": "39c3-lets-talk-about-psychedelics-honey",
+  "title": "Let's Talk about Psychedelics, Honey!",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Come join us for conversations about psychedelics at House of Tea!",
+  "description": "Do you have questions about Psychedelics, or other mind-altering substances that you never dared to ask? Do you love the idea of hanging out with others who may have similar curiosities?\nWant to know what all the fuzz is about? \nCome join me (Indiv, a studied neuroscientist & experienced psychonaut) and the Others at House of Tea for..well.. tea, inspiring conversation, maybe some new knowledge, and connection to like-minded individuals.\n\nThis event may represent the AMA follow-up from the presentation on Psychedelics that I will try to SOS before on this day. You are welcome without hearing the talk before and you are invited to participate whatever your prior knowledge on the subject. \nCome out, come out, whomever you are \ud83d\udc9f\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8fa7d5fb-cce7-4ee7-a022-85fd36d42805",
+      "name": "Indivisual",
+      "public_name": "Indivisual",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/indivisual"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lets-talk-about-psychedelics-honey",
+  "links": []
+}

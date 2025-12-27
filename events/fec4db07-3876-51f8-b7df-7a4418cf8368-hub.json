@@ -1,0 +1,40 @@
+{
+  "guid": "fec4db07-3876-51f8-b7df-7a4418cf8368",
+  "code": "Q7DSV8",
+  "id": 83822,
+  "date": "2025-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-digital-humanities-auf-dem-39c3-sendezentrum_28ux",
+  "title": "Digital Humanities auf dem 39C3 @ Sendezentrum",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Wir haben zwei Slots am Sendezentrum Podcast-Tisch gebucht um eure Stimmen zu den DH auf dem 39C3 unter professionellen Bedingungen aufzufangen und ON AIR zu bringen. Kommt vorbei und lasst euch \u00fcberraschen. Ulrike diskutiert am liebsten \u00fcber Datentracking in der Wissenschaft, aber auch andere Themen sind willkommen. Wer es nicht zum Tisch schafft, spricht Ulrike am besten dezentral an.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b17ad620-8949-58a2-a9dd-74bc9433a4a8",
+      "name": "Ulrike Wuttke",
+      "public_name": "Ulrike Wuttke",
+      "avatar": null,
+      "biography": "Ulrike Wuttke Digital Humanities - WissKomm - InfoWiss - jenseits des Funklochs zwischen Potsdam und Berlin!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b17ad620-8949-58a2-a9dd-74bc9433a4a8"
+    },
+    {
+      "guid": "c37650f7-c396-552b-83b3-cd16f450c160",
+      "name": "Torsten Roeder",
+      "public_name": "Torsten Roeder",
+      "avatar": "https://cfp.cccv.de/media/avatars/dino_RaA5dRd.png",
+      "biography": "Torsten Roeder works at the University of Wurzburg and is specialized on digital heritage research. His work in digital editing and textual history made him a member of the TEI Technical Council. Recently, he started a Retro Computing Lab at his department which is used for studying the digital culture of the 1980s and 1990s. He also holds a PhD in musicology and plays some guitar, and enjoys gardening. Jack of all trades, master of none.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c37650f7-c396-552b-83b3-cd16f450c160"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/digital-humanities-auf-dem-39c3-sendezentrum_28ux",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/Q7DSV8/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/Q7DSV8/feedback/"
+}

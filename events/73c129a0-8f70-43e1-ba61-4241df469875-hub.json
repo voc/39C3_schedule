@@ -1,0 +1,30 @@
+{
+  "guid": "73c129a0-8f70-43e1-ba61-4241df469875",
+  "code": null,
+  "id": 731290,
+  "date": "2025-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "02:00",
+  "room": "Chaoswellen Assembly",
+  "slug": "39c3-pota-parks-on-the-air-day-3",
+  "title": "POTA - Parks on the Air [DAY 3]",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Introduction to Parks on the Air (POTA). POTA is an international radiosport award program that encourages licensed amateur radio operators to visit, enjoy and operate portable equipment in a variety of parks and public lands.",
+  "description": "POTA introduction \"in a nutshell\" followed by joint POTA activation on shortwave in the \"Planten un Blomen\" park right next to the CCH.\n\nWe meet daily at 01:00 p.m. at the Assembly for a short introduction and then go out into the park together. The participants learn how to set up a portable shortwave station and get a crash course in shortwave operation. Then it's time to get on the air! Other radio amateurs around the world are waiting to contact us. Can you manage the 10 radio connections necessary for a successful \"activation\" of the park?\n\nNOTE: We meet AT THE CHAOSWELLE ASSEMBLY and start there with a short introduction to the POTA program. Then we go out into the park together. Dress warmly and weatherproof! We go outside even when it's raining or snowing!\n\nIf anyone wants to join us later: radio amateurs can reach us in the park on 145.500 MHz FM.\n\nOur location in the park: [OpenStreetMap](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=53.561346%2C9.986447%3B53.559593%2C9.986438#map=18/53.560490/9.986277)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e376bdeda7dc/pota_banner_winter_2.jpg",
+  "persons": [
+    {
+      "guid": "db7de33d-b829-4f37-b4c7-c6ae7906d12a",
+      "name": "DK4HAA",
+      "public_name": "DK4HAA",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dk4haa"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/pota-parks-on-the-air-day-3",
+  "links": []
+}

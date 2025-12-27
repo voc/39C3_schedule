@@ -1,0 +1,30 @@
+{
+  "guid": "7310fde2-79ec-43bb-b5c6-219f3ce5b2f6",
+  "code": null,
+  "id": 731027,
+  "date": "2025-12-29T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-regiotreffen",
+  "title": "Regiotreffen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Regiotreffen auf dem 39c3. Das Treffen aller Regiovertreter*innen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8e64df38-3a6a-4cb2-99a3-064ec4890c00",
+      "name": "gnom (sie,es / ihr)",
+      "public_name": "gnom (sie,es / ihr)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/gnom"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/regiotreffen",
+  "links": []
+}

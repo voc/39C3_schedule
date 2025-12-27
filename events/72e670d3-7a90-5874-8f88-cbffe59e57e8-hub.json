@@ -1,0 +1,31 @@
+{
+  "guid": "72e670d3-7a90-5874-8f88-cbffe59e57e8",
+  "code": null,
+  "id": 300118,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-how-to-contribute-to-open-source-projects-stack-wa",
+  "title": "How to Contribute to Open Source Projects: Stack Wallet, Monero, Tor (Arti!)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "A walk-through of how to contribute to open source projects, with Stack Wallet, Monero, and Tor (Arti!) as examples. A quick guide to setting up development environments for each on Linux, macOS, and/or Windows, an update on where each project stands, and a list of big and small tasks to do for each. A \"quickstart\" guide for newcomers and a survey of outstanding TODOs for more experienced hands.",
+  "description": "Starting with Tor and The Tor Project's new Rust project Arti (A Rust Tor Implementation), we'll walk through how to build, set up for development, and submit Pull Requests which have a good chance of being accepted.  We'll proceed to Monero development, both for the original C++ codebase as well as the newer Cuprate project, a Rust Monero implementation, and what's coming for both.  Finally, we'll look at how Stack Wallet incorporates and provides a UX for both Tor and Monero.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "70b8c507-b3cd-52a9-9118-805e9c3a6ea1",
+      "name": "Joshua Babb",
+      "public_name": "Joshua Babb",
+      "avatar": "https://pretalx.riat.at/media/avatars/sneurlax_yRnOWKh.png",
+      "biography": "Got into scripting via The Elder Scrolls III: Morrowind modding as a wee lad and went onto earn a first job by programming free bots for EverQuest II, Guild Wars, and World of Warcraft, which led to being hired by a succession of online gaming loot companies.  Dabbled in PlayStation Portable modding, learning more scripting and delving into lower-level languages and the jailbreaking process itself.  Studied at the United States Naval Academy, including Cyber Warfare coursework, with associated Navy service.  Moved onto machine learning work (mostly categorization) for BlyncSync Technologies correlating head and eye movements to fatigue, all the while becoming more and more engrossed in privacy and cryptography applications.  Now working with Cypher Stack, a cryptography and cryptocurrency software development studio focusing on privacy protocols, on applications related to or directly involving Tor, Monero, and similar privacy protocols and cryptocurrencies like Firo, Epic Cash, Bitcoin Cash and CashFusion, etc.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_70b8c507-b3cd-52a9-9118-805e9c3a6ea1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-contribute-to-open-source-projects-stack-wa",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/9MBKDN/"
+}

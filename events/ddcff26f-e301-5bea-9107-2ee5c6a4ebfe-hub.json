@@ -1,0 +1,32 @@
+{
+  "guid": "ddcff26f-e301-5bea-9107-2ee5c6a4ebfe",
+  "code": "UDYXQU",
+  "id": 2485,
+  "date": "2025-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-betontes-schonen",
+  "title": "Betontes Schonen",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Dj Set",
+  "description": "Betontes Schonen mit Jeanette\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/UDYXQU/39c3_WhqdynM.gif",
+  "persons": [
+    {
+      "guid": "da0855fc-87a6-502d-9991-c28f87631446",
+      "name": "Jeanette",
+      "public_name": "Jeanette",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_da0855fc-87a6-502d-9991-c28f87631446"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/betontes-schonen",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UDYXQU/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UDYXQU/feedback/"
+}

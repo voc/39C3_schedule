@@ -1,0 +1,30 @@
+{
+  "guid": "b4b8a7b5-61f8-45bc-82a8-a893b10a70af",
+  "code": null,
+  "id": 487561,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:00",
+  "room": "OGM Workshop Space",
+  "slug": "39c3-building-antennas-and-tinkering-with-them",
+  "title": "Antennen bauen und damit herumspielen",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Lasst uns ein paar Antennen f\u00fcr LoRa 868MHz oder 70cm bauen, die analysieren, die wir bereits haben und mit deren unglaublicher Performance angeben. Dieser Workshop richtet sich an alle Wesen mit Interesse an Elektromagnetismus, wir rechnen aber damit, dass um diese Uhrzeit auch Junghacker:Innen mit Interesse an einer (veganen) Fuchsjagd auftauchen werden.",
+  "description": "Energy must leave into space so we can communicate, for that we need antennas.\nThis small workshop will provide a rough introduction to what characteristics an antenna has and how you can build antennas for your devices. And in the end we'll build some antennas together, so that you are well equipped for congress.\nWe'll bring a small selection of tools as well as supplies, but we'll be happy if you bring some along yourself, too.\nIf you are a Junghacker:in this session is especially well suited for you, but if you want to join us for the same workshop in the afternoon you're as welcome.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ff6b904d-1f86-4b70-87c8-0c4b01bdc694",
+      "name": "strafpla.net (he/him)",
+      "public_name": "strafpla.net (he/him)",
+      "avatar": null,
+      "biography": "Matrix: @chris:strafpla.net\nMastodon: @chris@strafpla.net\nDECT: 9218\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/strafplanet"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/building-antennas-and-tinkering-with-them",
+  "links": []
+}

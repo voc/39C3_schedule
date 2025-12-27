@@ -1,0 +1,30 @@
+{
+  "guid": "e00ef146-ab6f-4f61-aeb2-49eac8edeaeb",
+  "code": null,
+  "id": 1466,
+  "date": "2025-12-27T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Fediverse shared table",
+  "slug": "39c3-ende-des-haftungsprivilegs-fur-hosting-provider-wa",
+  "title": "Ende des Haftungsprivilegs f\u00fcr Hosting-Provider? Was das Russmedia-Urteil des EuGH f\u00fcr das Fediverse bedeutet",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "At the beginning of December, the European Court of Justice ruled that online marketplaces are liable for data protection violations committed by their users, regardless of whether they took timely action against them. The liability privilege for hosting providers does not apply to violations of the GDPR. Online marketplaces and their users are jointly responsible. Providers are therefore required to verify the identity of users and their content in advance. Does this spell the end for the Fediverse? We take a look at the ruling together and discuss what it means for instance operators in the Fediverse.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/acb8ef51e0b3/Unbenannt.jpg",
+  "persons": [
+    {
+      "guid": "3398f338-cdbc-43a4-80a7-96ad0fbab86f",
+      "name": "firefly",
+      "public_name": "firefly",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/firefly"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ende-des-haftungsprivilegs-fur-hosting-provider-wa",
+  "links": []
+}

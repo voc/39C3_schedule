@@ -1,0 +1,30 @@
+{
+  "guid": "b822ef22-ef29-4c0d-897d-0ebb7a96a9f2",
+  "code": null,
+  "id": 822222,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-inklusion-and-research-data-management-rdm-mi_rje7",
+  "title": "Inklusion and Research Data Management (RDM): Missing visibility of neurodivergent researcher",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Data literacy and digitalisation are crucial topics in today's research institutions, to tackle global challenges like climate change, the dramatic loss of species and the erosion of democracy. Nevertheless, most research data is not digitalised nor back-uped; reproducible & transparent research is often a dream.\nIn Research Data Management, a lot of guidlines exist to face these difficulties: Data Management Plans, FAIR data, ELSA, etc. It seems like there is a strategy and buzzword for every problem.\n\n**But what is missing is a discussion, if these strategies are inclusive (for neurodivergent people).** How can we alter them, what is needed for you to apply them?\n\nI would love to **discuss** with you about your experiences in digitalisation in research institutions & universities and hear about your experiences to raise awareness in the research data community.\n\nAbout the Speaker:\nWhile working as a Data Scientist at the Data Science Center (BMFTR founded Data Nord Project @ University of Bremen) and beeing neurodivergent myself, I have faced a lot of not inclusive strategies and would love to change the current situation.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0b7e9a23-380a-41c9-a2b8-d07f7681fa51",
+      "name": "sarah31415",
+      "public_name": "sarah31415",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/sarah31415"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/inklusion-and-research-data-management-rdm-mi_rje7",
+  "links": []
+}

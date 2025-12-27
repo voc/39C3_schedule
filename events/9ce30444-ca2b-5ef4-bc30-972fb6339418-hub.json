@@ -1,0 +1,32 @@
+{
+  "guid": "9ce30444-ca2b-5ef4-bc30-972fb6339418",
+  "code": "QDDQKT",
+  "id": 1885,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "02:30",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-zweite-sahne-olga-rhythmus",
+  "title": "Zweite Sahne & Olga Rhythmus",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "A DJ duo from Frankfurt playing technoid Dark Disco. Soundcloud: https://on.soundcloud.com/ieVMVNI9qlqR6BNBHh",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/QDDQKT/IMG_7866_8rH2vUN.jpeg",
+  "persons": [
+    {
+      "guid": "31e86167-ea89-5a5f-9d01-2e53b9debcd0",
+      "name": "Tesa",
+      "public_name": "Tesa",
+      "avatar": null,
+      "biography": "DJ\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_31e86167-ea89-5a5f-9d01-2e53b9debcd0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/zweite-sahne-olga-rhythmus",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/QDDQKT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/QDDQKT/feedback/"
+}

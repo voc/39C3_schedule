@@ -1,0 +1,32 @@
+{
+  "guid": "f0116eaa-6859-5333-b4d9-234a23ab5da3",
+  "code": "7SWGNH",
+  "id": 1239,
+  "date": "2025-12-27T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-barbnerdy",
+  "title": "BarbNerdy",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Sharing Means Caring:\r\nMost of the music of this series was recorded at a Chaos Event in the last 10 (or more) years.\r\nIt is time for a new episode: \r\nhttps://soundcloud.com/barbnerdy/sets/mixtape-sharing-means-caring-1",
+  "description": "Sharing Means Caring:\nMost of the music of this series was recorded at a Chaos Event in the last 10 (or more) years.\nIt is time for a new episode: \nhttps://soundcloud.com/barbnerdy/sets/mixtape-sharing-means-caring-1\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8e685589-fabf-5151-bbd9-9b8ac8bd60b3",
+      "name": "BarbNerdy",
+      "public_name": "BarbNerdy",
+      "avatar": "https://cfp.cccv.de/media/avatars/GWAFUE_7YgSZ5A.JPG",
+      "biography": "soon.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8e685589-fabf-5151-bbd9-9b8ac8bd60b3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/barbnerdy",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7SWGNH/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7SWGNH/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "a37717e9-2116-533c-af99-868ef66a8991",
+  "code": "RP3H7Z",
+  "id": 400025,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-digital-rights-communities-meetup_7rx9",
+  "title": "Digital Rights Communities Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "A place for digital rights NGOs and activists to share their stories and network.",
+  "description": "Almost all of us have some connection to the topic, but we want to give you a chance to share what is going on in your country or city, how your fight for maintaining our digital rights looks like.\nYou'll have the chance to share in a lightning-talk style what you or your organisation has been up to, no longer than 3 minutes, so bring your stories if you'd like.\nAfterwards we'll probably have plenty of topics to talk about, and continue over a Tschunk or two.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e782f247-5d0c-5055-9348-92fc7159fd82",
+      "name": "Freedom Not Fear",
+      "public_name": "Freedom Not Fear",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e782f247-5d0c-5055-9348-92fc7159fd82"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/digital-rights-communities-meetup_7rx9",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/RP3H7Z/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/RP3H7Z/feedback/"
+}

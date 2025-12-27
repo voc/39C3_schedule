@@ -1,0 +1,31 @@
+{
+  "guid": "f51a40a9-a8ba-55bb-875a-0907cb2d66cc",
+  "code": "UUUYHJ",
+  "id": 1800,
+  "date": "2025-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-not-an-impasse-child-safety-privacy-and-healing-together",
+  "title": "Not an Impasse: Child Safety, Privacy, and Healing Together",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "From the EU\u2019s \u201cChat Control\u201d to the UK\u2019s age verification, there is a growing legislative momentum across jurisdictions to regulate the Internet in the name of protecting children. The monstrosity of child sexual abuse looms large in shaping how policymakers, advocates, and the public understand the problem area of and propose solutions for detecting, reporting, and removing harmful/illegal content. Children\u2019s safety and adults\u2019 privacy are thus pitted against each other, deadlocked into an impasse. As technologists deeply concerned with safety and privacy, where do we go from here?",
+  "description": "There is a path forward! Many, in fact. But the impasse framing seriously limits how policymakers, technologists, advocates, and our communities understand child sexual abuse (CSA). We need informed, principled, and bold alternatives to policing-driven tech solutions like client-side scanning and grooming classifiers. To effectively and humanely break the cycles of abuse that enables CSA in our communities, we have to think beyond criminalization. This talk will unpack how and why this impasse framing exists, how it constrains us from candidly engaging with the complexity of CSA. Drawing from scientific and clinical research and informed by transformative justice approaches, I detail what CSA is, how and why it happens offline and online, and why the status quo of detection and criminalization does not work. Ultimately, I argue that effective, humane, and collective interventions require protecting the safety and privacy of all those harmed by CSA, and that this creates a unique role for technologists to play.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/UUUYHJ/Screenshot_2025-10-21_at_15.43.24_dpunR_Nean0es.webp",
+  "persons": [
+    {
+      "guid": "993a9a76-87a1-5dec-9867-dc8c6a540030",
+      "name": "Kate Sim",
+      "public_name": "Kate Sim",
+      "avatar": "https://cfp.cccv.de/media/avatars/EPZKMM_NgDjXMr.jpg",
+      "biography": "Dr. Kate Sim (she/her) directs the COSPR program, which stands for Children's Online Safety and Privacy Research (cospr.net). She has over 14 years of experience in sexual violence prevention and response, having worked across community organizing, frontline support, government, academia, and industry in the US, UK, and South Korea. Most recently, she worked at Google where she shaped product policy on a range of children's safety issues, including non-consensual intimate imagery, financial sextortion, grooming, and help-seeking journeys for people impacted by harmful sexual behaviors. Kate holds a PhD and MSc from the Oxford Internet Institute and a BA in Gender and Sexuality Studies from Harvard University.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_993a9a76-87a1-5dec-9867-dc8c6a540030"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/not-an-impasse-child-safety-privacy-and-healing-together",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/UUUYHJ/"
+}

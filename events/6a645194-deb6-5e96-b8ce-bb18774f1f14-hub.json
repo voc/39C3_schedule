@@ -1,0 +1,31 @@
+{
+  "guid": "6a645194-deb6-5e96-b8ce-bb18774f1f14",
+  "code": "TK8TUQ",
+  "id": 1558,
+  "date": "2025-12-27T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-neuroexploitation-by-design-wie-algorithmen-in-glucksspielprodukten-sich-wirkweisen-des-reinforcement-learning-und-dopaminergen-belohnungssystems-zunu",
+  "title": "Neuroexploitation by Design: Wie Algorithmen in Gl\u00fccksspielprodukten sich Wirkweisen des Reinforcement Learning und dopaminergen Belohnungssystems zunutze machen",
+  "subtitle": null,
+  "language": "de",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "Die Legalisierung des Online-Gl\u00fccksspiels in Deutschland im Jahr 2021 und die zunehmende Normalisierung von Gl\u00fccksspiel und Sportwetten in den Medien haben ein Umfeld geschaffen, in welchem Gl\u00fccksspielprodukte leichter zug\u00e4nglich und gesellschaftlich st\u00e4rker akzeptiert sind als je zuvor. Diese weit verbreitete Exposition birgt erhebliche Risiken f\u00fcr vulnerable Personen, insbesondere da die Grenzen zwischen Spielen und Gl\u00fccksspiel zunehmend verwischen. Seit einiger Zeit ist beispielsweise ein deutlicher Anstieg von Spielen zu beobachten, die Gl\u00fccksspiel-\u00e4hnliche Items wie Loot-Boxen beinhalten. Komplexe Designmerkmale in elektronischen Gl\u00fccksspielprodukten, z.B. Gl\u00fccksspielautomaten und Online-Slots, sind gezielt darauf ausgerichtet, Individuen zu verl\u00e4ngerten Spielsitzungen zu motivieren, um den Umsatz zu maximieren. W\u00e4hrend Gl\u00fccksspiel f\u00fcr viele Menschen eine Form der Unterhaltung darstellt, kann das Spielverhalten bei manchen eskalieren und schwerwiegende Folgen f\u00fcr das Leben der Betroffenen haben. Dieser Vortrag wird Mechanismen in Gl\u00fccksspielprodukten und Loot Boxen beleuchten und aufzeigen, weshalb diese Merkmale das Suchtpotenzial f\u00f6rdern k\u00f6nnen. Hierbei spielen Mechanismen des sogenannten Verst\u00e4rkungslernens (engl. Reinforcement Learning) eine Rolle, die das menschliche Belohnungssystem aktivieren, also dopaminerge Bahnen, welche an der Vorhersage von Belohnungen beteiligt sind. Besonderes Augenmerk liegt auf dem Reinforcement-Learning, einem Framework zur Modellierung von Lernen durch belohnungsbasiertes Feedback, welches sowohl in der Psychologie zur Beschreibung menschlichen Lernens und Entscheidungsverhaltens als auch zur Optimierung von Machine-Learning-Algorithmen eingesetzt wird. Im Vortrag werden auch Ergebnisse aus eigener Forschung am Labor der Universit\u00e4t zu K\u00f6ln vorgestellt. Ziel ist es, Mechanismen des Gl\u00fccksspiels zu erkl\u00e4ren, sowie das Bewusstsein f\u00fcr potenzielle Sch\u00e4den f\u00fcr Individuen und die Gesellschaft zu sch\u00e4rfen und die Notwendigkeit von Regulation sowie verantwortungsbewussten Designpraktiken zu diskutieren.",
+  "description": "In diesem Vortrag wird beleuchtet, wie moderne Gl\u00fccksspielprodukte und gl\u00fccksspiel\u00e4hnliche Spielmechaniken, etwa Lootboxen, gezielt psychologische und neurobiologische Lernprozesse ausnutzen, um Umsatz durch l\u00e4ngeres Spielen und st\u00e4rkere Interaktion zu generieren. Im Fokus stehen dabei Mechanismen des Verst\u00e4rkungslernens (Reinforcement Learning) und deren Zusammenspiel mit dem dopaminergen Belohnungssystem. Anhand aktueller Forschungsergebnisse werden Designstrategien vorgestellt, die das Suchtpotenzial von Gl\u00fccksspielen erh\u00f6hen k\u00f6nnen. Ziel des Vortrags ist es, ein wissenschaftlich fundiertes Verst\u00e4ndnis dieser Dynamiken zu vermitteln, Risiken f\u00fcr Individuen und Gesellschaft aufzuzeigen und die Notwendigkeit von Regulierung und verantwortungsvollem Design zu diskutieren.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "68ff7ac7-61b7-5cbb-a675-641d511d9663",
+      "name": "Elke Smith",
+      "public_name": "Elke Smith",
+      "avatar": null,
+      "biography": "Elke Smith ist Psychologin und Neurowissenschaftlerin mit einem weiteren, interdisziplin\u00e4ren Hintergrund in Informationsverarbeitung und IT. Sie ist Postdoc an der Universit\u00e4t zu K\u00f6ln und forscht zu menschlichen Entscheidungs- und Lernprozessen, wobei ihr besonderer Fokus auf der Rolle von Dopamin liegt. Dabei nutzt sie kognitive Modellierung, psychophysiologische Methoden sowie Ans\u00e4tze aus maschineller Sprachverarbeitung und Machine Learning, um kognitive Mechanismen und deren Auswirkungen auf Verhalten besser zu verstehen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_68ff7ac7-61b7-5cbb-a675-641d511d9663"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/neuroexploitation-by-design-wie-algorithmen-in-glucksspielprodukten-sich-wirkweisen-des-reinforcement-learning-und-dopaminergen-belohnungssystems-zunu",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TK8TUQ/"
+}

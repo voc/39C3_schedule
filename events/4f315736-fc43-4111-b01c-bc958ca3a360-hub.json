@@ -1,0 +1,30 @@
+{
+  "guid": "4f315736-fc43-4111-b01c-bc958ca3a360",
+  "code": null,
+  "id": 431573,
+  "date": "2025-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-foundation-workshop-hands-on-how-does-the-internet",
+  "title": "Foundation workshop: Hands-on, how does the Internet work?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "This workshop is for all who do not know at all or only have a vague idea what an \u201cIP address\u201d is. We\u2019ll learn how the Internet works by making Internet traffic visible. This is a beginner\u2019s workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.\n\nInvisible to the casual user, lots of computers communicate and work together to deliver the kitten videos you\u2019re craving. In this workshop, we use the tool Wireshark (available for all operating systems) to make this communication visible. In lots of life demos, we\u2019ll learn that the domain names we\u2019re familiar with, like ccc.de or fridaysforfuture.de, are a thin layer around IP addresses, which are the real addresses computers use to identify themselves. We\u2019ll uncover which hidden information your browser sends along each request, and we\u2019ll see how easy it is to intercept traffic.\n\nThis workshop is for everybody who is interested in knowing how the Internet works, in which form computers talk to each other. Absolutely no prerequisites are required. People who are familiar with network stacks will be bored to hell.\n\nNote to the infrastructure team: In the final part of the talk, we\u2019ll perform a standard ARP spoofing attack to intercept traffic from a volunteer and display their website login password on the projector. Of course we won\u2019t use the congress network for this. I\u2019ll use an hotspot of my own.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a986b9de-e627-4450-953a-aa4efe3160e3",
+      "name": "IngoBlechschmidt",
+      "public_name": "IngoBlechschmidt",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ingoblechschmidt"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/foundation-workshop-hands-on-how-does-the-internet",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "416af645-da83-41b6-8215-705ea35af152",
+  "code": null,
+  "id": 416645,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-von-der-wascheklammer-bis-zur-modell-kuppelklemme-",
+  "title": "Von der W\u00e4scheklammer bis zur Modell-Kuppelklemme einer Seilbahn",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "How does a detachable cable car actually work?\n\nI've been fascinated by these mechanical giants for a long time and have been working on implementing this technology as a working model. I've brought along the first prototypes to show you!\n\nIn this short talk, I'd like to show you what's needed to clamp onto a cable and how to develop such a detachable clamp.\n\nRequired prior knowledge: What a clothespin is\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3837e3d1-f91b-4df2-a556-97b2a3e216b8",
+      "name": "timmod",
+      "public_name": "timmod",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/timmod"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/von-der-wascheklammer-bis-zur-modell-kuppelklemme-",
+  "links": []
+}

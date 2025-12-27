@@ -1,0 +1,40 @@
+{
+  "guid": "aa41d9d4-3034-54c7-9051-312a1efdd574",
+  "code": "FHWUYW",
+  "id": 400019,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "FNF Assembly",
+  "slug": "39c3-datarequestsorg-office-hours-we-answer-your-gdpr-r",
+  "title": "datarequests.org office hours: We answer your GDPR request questions",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Help desk",
+  "abstract": "Have you encountered problems with a data subject request? You think think someone is processing your data illegally and you want help filing a report? Or you want to volunteer with datarequests.org and want some help getting started? Meet up with us to talk data protection and how to make use of the GDPR, while we still can.\r\nNote: Due to German law, when it comes to specific advice, we need to refer you to a lawyer. But we can give you general advice and exchange experiences.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a0a635be-c3e5-57c3-b90d-984a266fa825",
+      "name": "Lorenz",
+      "public_name": "Lorenz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0a635be-c3e5-57c3-b90d-984a266fa825"
+    },
+    {
+      "guid": "a96aa350-8c36-5b97-99e7-bcc440f38b7f",
+      "name": "Benni",
+      "public_name": "Benni",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a96aa350-8c36-5b97-99e7-bcc440f38b7f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/datarequestsorg-office-hours-we-answer-your-gdpr-r",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/FHWUYW/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/FHWUYW/feedback/"
+}

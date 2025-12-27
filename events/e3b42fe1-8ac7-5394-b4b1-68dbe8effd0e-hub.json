@@ -1,0 +1,32 @@
+{
+  "guid": "e3b42fe1-8ac7-5394-b4b1-68dbe8effd0e",
+  "code": "ZWFE9L",
+  "id": 500079,
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:15",
+  "room": "Wohnzimmerb\u00fchne",
+  "slug": "39c3-long-term-support-bei-jugend-hackt-infos_xe96",
+  "title": "Long Term Support bei Jugend hackt - Infos",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Bist du 14-21 Jahre alt und tr\u00e4umst davon, mit anderen ein gr\u00f6\u00dferes Projekt umzusetzen? Mit dem [Jugend hackt Long Term Support](https://jugendhackt.org/lts/) bekommst du 1 Jahr lang alle Unterst\u00fctzung, die du brauchst, von Mentoring bis Materialkosten. In dieser Session gibt es Infos & Vernetzungsm\u00f6glichkeiten dazu.",
+  "description": "**Teil 1 (15min): Infos zum Long Term Support - diese Session**\n\nIhr erfahrt alles zum [Jugend hackt Long Term Support](https://jugendhackt.org/lts/) f\u00fcr junge Projektgruppen im Alter von 14-21 Jahren: Jugend hackt unterst\u00fctzt eure Projektideen nicht nur mit 3 Tagen Hackathon, sondern mit 365 Tagen Projektsupport.\n\nDer Long Term Support bietet Wochenenden mit der Projektgruppe, Beratung durch erfahrene Mentor\\*innen, hilfreichen Input, spannende Workshops - und die M\u00f6glichkeit, Projektergebnisse auf dem Congress 2026 und dem Chaos Communication Camp 2027 zu pr\u00e4sentieren!\n\n**Teil 2 (45min): Vernetzung und Brainstorming f\u00fcr Projektideen - Session im Anschluss**\n\nIm Anschluss besteht die M\u00f6glichkeit f\u00fcr Interessierte, sich gleich mit anderen Junghacker\\*innen, Aktivist\\*innen, Ideenverspr\u00fcher\\*innen, verplanten Bastler\\*innen und krass organisierten Planer\\*innen zu vernetzen und eine Projektidee auf die Beine zu stellen.\n\nDenn Projektgruppen k\u00f6nnen sich noch bis zum 11.01.2026 mit ihren Projektideen f\u00fcr eine bessere Welt bewerben: [Hier geht es zur Anmeldung](https://anmeldung.alpaka.space/berlin/lts/).\n",
+  "logo": "https://pretalx.chaos.jetzt/media/jugend/submissions/ZWFE9L/LTS-Rakete_26hqChP.png",
+  "persons": [
+    {
+      "guid": "64589ff2-5154-5e71-8250-083731f7ab9b",
+      "name": "eliah",
+      "public_name": "eliah",
+      "avatar": null,
+      "biography": "seit dem 38c3 bei Jugend hackt dabei\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_64589ff2-5154-5e71-8250-083731f7ab9b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/long-term-support-bei-jugend-hackt-infos_xe96",
+  "links": [],
+  "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/ZWFE9L/",
+  "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/ZWFE9L/feedback/"
+}

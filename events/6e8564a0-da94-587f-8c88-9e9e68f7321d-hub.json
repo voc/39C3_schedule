@@ -1,0 +1,32 @@
+{
+  "guid": "6e8564a0-da94-587f-8c88-9e9e68f7321d",
+  "code": "WYT8DR",
+  "id": 83828,
+  "date": "2025-12-27T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-die-sicherheits_lucke-live-vom-39c3-ein-tag-mit-de",
+  "title": "Die Sicherheits_l\u00fccke live vom 39c3: ein Tag mit der GI",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Die **Sicherheits_l\u00fccke** (https://sicherheitsluecke.fm) greift aktuelle Ereignisse und Trends der Cybersecurity auf. Im Podcast werden die Themen - gerne auch mal humoristisch, sarkastisch oder selbstironisch - von Volker Skwarek, Monina Schwarz und Ingo Timm mit Tiefgang aufbereitet.\r\nMit dem Format **live** ist der Podcast auch regelm\u00e4\u00dfig auf Kongressen zu finden und diskutiert interessante Vortr\u00e4ge mit ausgew\u00e4hlten G\u00e4sten.",
+  "description": "Wir berichten mit G\u00e4stinnen von der Gesellschaft f\u00fcr Informatik \u00fcber interessante Vortr\u00e4ge und Erlebnisse vom ersten Tag des 39c3.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/WYT8DR/HOOU_Cover-Sicherheitsluec_UFVsIk4.webp",
+  "persons": [
+    {
+      "guid": "11b9887b-9830-51f2-99d5-8531e829c648",
+      "name": "Volker",
+      "public_name": "Volker",
+      "avatar": null,
+      "biography": "Volker Skwarek, Professor f\u00fcr Informatik, \u00fcberzeugter Wissenschaftler und Nerd, was Privacy, Identity und \"low level Cyberangriffe\" angeht. Hat seit 2 Jahren seine Freude am Podcasting und Wissenschaftsjournalismus entdeckt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11b9887b-9830-51f2-99d5-8531e829c648"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/die-sicherheits_lucke-live-vom-39c3-ein-tag-mit-de",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/WYT8DR/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/WYT8DR/feedback/"
+}

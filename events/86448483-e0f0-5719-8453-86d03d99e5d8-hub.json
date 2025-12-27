@@ -1,0 +1,31 @@
+{
+  "guid": "86448483-e0f0-5719-8453-86d03d99e5d8",
+  "code": null,
+  "id": 300079,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-qaul-decentralized-off-the-grid-mesh-communication",
+  "title": "qaul - Decentralized Off-the-Grid Mesh Communication App",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "qaul is a P2P mesh communication app, with a strong focus on privacy and usability. Every user is identified via their self-sovereign cryptographic identity.\r\n\r\nIt not only communicates P2P, but builds a mesh network, interconnecting multiple communication such as BLE (Bluetooth Low Energy), Local Area Networks, and Internet overlay links.\r\n\r\nThe messaging app has an automated user discovery, end-to-end encrypted direct messaging and group chats for text, voice-messages and files, as well as public communication channels.\r\n\r\nhttps://qaul.net",
+  "description": "",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/VG7YRC/qaul-splash_IhPhsvk.jpg",
+  "persons": [
+    {
+      "guid": "3f3fe3ec-0df6-5257-8536-ccbcaecfb214",
+      "name": "Mathias Jud",
+      "public_name": "Mathias Jud",
+      "avatar": null,
+      "biography": "Mathias develops since over 25 years open-source projects. He created the OSINT project Zone*Interdite, developed censorship detection and circumvention software, as well as resilient communication tools. He is the project manager of  the off-the-grid P2P mesh communication messenger qaul.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f3fe3ec-0df6-5257-8536-ccbcaecfb214"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/qaul-decentralized-off-the-grid-mesh-communication",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/VG7YRC/"
+}

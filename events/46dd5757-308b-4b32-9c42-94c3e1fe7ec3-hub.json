@@ -1,0 +1,30 @@
+{
+  "guid": "46dd5757-308b-4b32-9c42-94c3e1fe7ec3",
+  "code": null,
+  "id": 465757,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-c3gelb-hygieneschulung-nach-43-ifsg-frikadellendip",
+  "title": "C3GELB: Hygieneschulung nach \u00a7 43 IfSG (\"Frikadellendiplom\")",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Hygiene Training according to \u00a7 43 IfSG (German Infection Protection Act)\n\nWe are again conducting hygiene training sessions \u2014 the \"Meatball Diploma\", as it's called in German slang \u2014 for everyone involved in food preparation for others.\n\nThe goal is to raise awareness of a hygienic environment surrounding the preparation and serving of food at 39C3 and, consequently, to contribute to a higher level of healthiness of us all.\n\n\nIdeally, this training is preceeded initially by an instruction by the relevant public health department (Gesundheitsamt). Even better, of course, is if you have already attended \"follow-up training\", for example, at 38C3 or CCCCamp.\n\nIf you have any relevant documents, please bring them along so we can update, stamp, and sign your proof of training. :-)\n\nOf course, we also welcome everyone who is joining us for the first time without prior training from the public health department and/or without any prior knowledge of food hygiene at all.\n\n\nWe look forward to seeing you! - Be excellent to each other :-)\n\nTeam C3GELB (DECT 4352)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a379a76e-a93e-402b-ae0e-6ef4602a1b88",
+      "name": "m4rtin",
+      "public_name": "m4rtin",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/m4rtin"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/c3gelb-hygieneschulung-nach-43-ifsg-frikadellendip",
+  "links": []
+}

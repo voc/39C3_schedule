@@ -1,0 +1,45 @@
+{
+  "guid": "11a7f79c-4ac5-5449-8fd4-6467ef2d6d2c",
+  "code": "EMFYMG",
+  "id": 1372,
+  "logo": null,
+  "date": "2025-12-27T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-1372-life-on-hold-what-does-true-solidarity-look-like-beyond-duldung-camps-deportation-and-payment-cards",
+  "url": "https://cfp.cccv.de/39c3/talk/EMFYMG/",
+  "title": "Life on Hold: What Does True Solidarity Look Like Beyond Duldung, Camps, Deportation, and Payment Cards?",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Lager, Duldung, Bezahlkarte, Essensscheine \u2013 Criminalization, Radicalization, Reality for Many People in East Germany\r\nThis talk sheds light on how these terms shape everyday life. We dive into an existence marked by uncertainty, isolation, and psychological strain, both in anonymous big cities and rural areas of East Germany. We ask: What does \u201csolidarity\u201d really mean in this context?",
+  "description": "In this session, people share everyday experiences with a system that often systematically undermines human rights and dignity.\r\nWe don\u2019t just talk about the obvious obstacles like the payment card or residency obligation, but also the invisible wounds: the constant fear of deportation, the psychological consequences of isolation, and the daily experience of hostility. We highlight the specific challenges of life in cramped camps on the outskirts of big cities, as well as the social control and visibility in rural communities.\r\nHowever, this talk is not just about naming problems. At its core is the urgent question: What does true solidarity really look like? How can support go beyond symbolic politics and short-term aid offers? This session is an invitation to shift perspectives, listen, and collaboratively develop concrete approaches for a more humane policy and a more solidaric coexistence.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "D37TDX",
+      "name": "Hafid Shaaib",
+      "avatar": "https://cfp.cccv.de/media/avatars/D37TDX_FIFVDh3.jpeg",
+      "biography": "Human right Activist,",
+      "public_name": "Hafid Shaaib",
+      "guid": "43d7e1be-0ae2-5a68-97dd-165adcdfd4e4",
+      "url": "https://cfp.cccv.de/39c3/speaker/D37TDX/"
+    },
+    {
+      "code": "MYFSVW",
+      "name": "Eric Noel Mbiakeu",
+      "avatar": "https://cfp.cccv.de/media/avatars/MYFSVW_VhHzP2r.jpg",
+      "biography": "\u00c9ric Mbiakeu \u2013 Social and Cultural Development Practitioner, Brandenburg\r\n\r\n\u00c9ric Mbiakeu is a social and cultural development practitioner based in Brandenburg, Germany. Through his work with BBAG e.V. and the House of Resources Brandenburg, he promotes youth participation, intercultural dialogue, and the inclusion of refugees and migrants.\r\n\r\nAs Coordinator of Open Dreams Brandenburg, he supports empowerment and civic engagement among young people from diverse backgrounds. His work also involves a critical stance on refugee camp systems and migration policies, advocating for human dignity and genuine solidarity as the foundation of social coexistence.",
+      "public_name": "Eric Noel Mbiakeu",
+      "guid": "66ec2894-08b0-564a-a4cf-b315db22db28",
+      "url": "https://cfp.cccv.de/39c3/speaker/MYFSVW/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/EMFYMG/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/EMFYMG/",
+  "attachments": []
+}

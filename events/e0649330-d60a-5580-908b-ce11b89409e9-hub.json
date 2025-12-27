@@ -1,0 +1,32 @@
+{
+  "guid": "e0649330-d60a-5580-908b-ce11b89409e9",
+  "code": "7AJVHX",
+  "id": 2517,
+  "date": "2025-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-little-miss-freedmans-relaxession",
+  "title": "Little Miss Freedman's Relaxession",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "DJ Set",
+  "abstract": "Chaotic harmonious journey through music, language, sound, and text.",
+  "description": "Naama Freedman invites you to become a fl\u00e2neur through her sonic stream of consciousness, including live reading, singing, movie clips, and music ranging different genres. Eindelijk meyhem.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/7AJVHX/Messenger_cre_ZkqSC08.webp",
+  "persons": [
+    {
+      "guid": "68d4c667-6804-577c-a086-aefcc4f247c9",
+      "name": "Naama",
+      "public_name": "Naama",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_68d4c667-6804-577c-a086-aefcc4f247c9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/little-miss-freedmans-relaxession",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7AJVHX/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7AJVHX/feedback/"
+}

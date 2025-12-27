@@ -1,0 +1,30 @@
+{
+  "guid": "ddd6b2da-8d5d-4fa7-a8ab-442265bee611",
+  "code": null,
+  "id": 628547,
+  "date": "2025-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-solder-your-very-own-iot-pusheen-cat-lamp-wit_zgns",
+  "title": "Solder your very own IoT Pusheen Cat Lamp with WLED! (Day 4)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Solder your very own IoT Pusheen Cat Lamp with WLED!",
+  "description": "**Solder your very own IoT Pusheen Cat Lamp with WLED!**\n\n**Materials costs**:  \n\u20ac70\n\n**Taught by** Retia / Michael.\n\n**Workshop Itinerary**: Build the cutest IoT device on the network, and defend your home Wi-Fi! You will solder a custom PCB designed to light up and connect a Pusheen cat lamp. Once assembled, we will flash it with WLED, the industry-standard open-source software for controlling addressable LEDs. You\u2019ll leave with a lamp you can control from your phone to display rainbows, fire effects, and notifications. It also doubles as a Wi-Fi defender, with firmware to detect and warn you of the presence of Wi-Fi jamming attacks!\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-solder-your-own-iot-pusheen-cat-lamp-30-dec-10-00-11-30)\n\n**Workshop Includes**: Pusheen Kit (Custom PCB & 3d printed base)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/330f67f981c7/pusheen.PNG",
+  "persons": [
+    {
+      "guid": "50846e30-a1fc-45dc-afb8-aa51f56ff1fb",
+      "name": "Hoid (he/him)",
+      "public_name": "Hoid (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hoid"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/solder-your-very-own-iot-pusheen-cat-lamp-wit_zgns",
+  "links": []
+}

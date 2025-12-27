@@ -1,0 +1,31 @@
+{
+  "guid": "8ee9d576-ecb3-51b9-b6d1-2308a2d5a907",
+  "code": null,
+  "id": 300077,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-namecoin-and-tor-pki-2025",
+  "title": "Namecoin and Tor PKI 2025",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Namecoin has been used in the wild for years as a TLS Public Key Infrastructure, and using Tor onion services with TLS has been nearing deployment as well. But what kinds of other PKI wizardry can we do with Namecoin and Tor?",
+  "description": "Topics to be covered include:\n\n* How we can use Namecoin as a PKI with ~0 bytes of blockchain overhead.\n* How Namecoin's smart contract functionality (allowing multisig and timelocks to control updating a name) interacts with PKI use cases.\n* How we generalized Namecoin and Tor PKI to work with non-TLS protocols.\n* How revocations can be handled securely.\n* How we ensured anonymity (including Tor stream isolation) despite TLS implementations not providing API's for this.\n* How the anonymity protections actually *improved* performance.\n* How all of the above interoperates with existing software.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/39LAUG/namecoin-coin_1j2egNh.svg",
+  "persons": [
+    {
+      "guid": "98767aec-fbd5-587c-b1f8-41b20d795e67",
+      "name": "Jeremy Rand",
+      "public_name": "Jeremy Rand",
+      "avatar": "https://pretalx.riat.at/media/avatars/JeremyAvatar-500px_RXU9ww2.jpg",
+      "biography": "I'm the Lead Application Engineer at Namecoin. I work on Namecoin's TLS and Tor interoperability, among other things.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_98767aec-fbd5-587c-b1f8-41b20d795e67"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/namecoin-and-tor-pki-2025",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/39LAUG/"
+}

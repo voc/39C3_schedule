@@ -1,0 +1,39 @@
+{
+  "guid": "ea8f748a-65d2-5bcd-8010-9f4c2a7af3e6",
+  "code": null,
+  "id": 200493,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-einfuhrung-sparql-wikidata-query-service",
+  "title": "Einf\u00fchrung SPARQL + Wikidata Query Service",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Einf\u00fchrung in den Wikidata Query Service und die SPARQL-Abfragesprache.",
+  "description": "Mit dem Wikidata Query Service kann man ganz viele interessante Daten aus Wikidata ziehen \u2013 hier finden wir heraus, wie das geht.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5e4a742b-3e67-5905-8655-f871f1cde3e4",
+      "name": "Andrew McAllister",
+      "public_name": "Andrew McAllister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/icon_square_FhQtdbT.png",
+      "biography": "Andrew is a Data Analyst focusing on Wikidata and Linked Open Data at Wikimedia Deutschland.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5e4a742b-3e67-5905-8655-f871f1cde3e4"
+    },
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-sparql-wikidata-query-service",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/7HWBNK/"
+}

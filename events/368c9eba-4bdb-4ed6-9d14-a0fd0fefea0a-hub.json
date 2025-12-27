@@ -1,0 +1,30 @@
+{
+  "guid": "368c9eba-4bdb-4ed6-9d14-a0fd0fefea0a",
+  "code": null,
+  "id": 368944,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-geschichten-erzahlen-tag-1-waldwesen-grusel-und-ge",
+  "title": "Geschichten Erz\u00e4hlen Tag 1 - Waldwesen (Grusel und Geheimnis)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Waldwesen (Grusel und Geheimnis)",
+  "description": "Es ist Winter. Der erste Schnee ist gefallen. Und da steht ein Monster vor der T\u00fcr und es bringt Geschenke. (Rollenspiel ohne Regelsystem, 2 Stunden, bis zu 6 Leute, auf Deutsch)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/geschichten-erzahlen-tag-1-waldwesen-grusel-und-ge",
+  "links": []
+}

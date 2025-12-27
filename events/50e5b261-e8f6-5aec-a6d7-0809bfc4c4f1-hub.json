@@ -1,0 +1,33 @@
+{
+  "guid": "50e5b261-e8f6-5aec-a6d7-0809bfc4c4f1",
+  "code": "HETKAT",
+  "id": 1590,
+  "date": "2025-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "01:00",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-4ever-punk",
+  "title": "4ever punk",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "one hour of punk music, encompassing many different styles",
+  "description": "Let's rock with the rebellious, radical and revolutionary rhymes and rhythms!\n\nListen and celebrate to various kinds of punk music from all over the world.\n\nI am punk-rocker at heart since my early youth and simply love the music!\nThis love is what I want to share with you acoustically.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/HETKAT/djB_BN6tjVI_ObwgRfs.webp",
+  "persons": [
+    {
+      "guid": "5fd1aef2-4fd0-56ab-923a-4c5a7e9e6c0d",
+      "name": "DJ Baba Grande",
+      "public_name": "DJ Baba Grande",
+      "avatar": "https://cfp.cccv.de/media/avatars/UNZKNN_HUezeMG.png",
+      "biography": "I love the music. I play the music. For you.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5fd1aef2-4fd0-56ab-923a-4c5a7e9e6c0d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/4ever-punk",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/HETKAT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/HETKAT/feedback/",
+  "do_not_record": true
+}

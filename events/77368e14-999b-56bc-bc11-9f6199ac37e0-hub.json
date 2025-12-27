@@ -1,0 +1,32 @@
+{
+  "guid": "77368e14-999b-56bc-bc11-9f6199ac37e0",
+  "code": "Q3GKFY",
+  "id": 773681,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-transmasc-meetup",
+  "title": "transmasc meetup [all creatures welcome]",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi.",
+  "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi. we transmascs can be quite invisible sometimes, each walking around as individuals, never finding each other, always having to figure things out by ourselves. I would like to make a change to that and build solidarity and support between transmascs in the CCC community.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "73ed9985-bbf4-5288-967a-6966f5d25bd0",
+      "name": "Li0n",
+      "public_name": "Li0n",
+      "avatar": null,
+      "biography": "transmasc. I'm trans and I'm masc. I have strong opinions about the right to self determination. in the Netherlands, where I live, transitioning is gatekept behind extensive and intrusive years long psychological assessments. I think this is not okay and this situation has to change. I hope to meet likeminded people in our community, as the hacker spirit is full of self determination, regardless of the topic.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_73ed9985-bbf4-5288-967a-6966f5d25bd0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/transmasc-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/Q3GKFY/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/Q3GKFY/feedback/"
+}

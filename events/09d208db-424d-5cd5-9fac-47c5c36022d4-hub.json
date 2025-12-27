@@ -1,0 +1,31 @@
+{
+  "guid": "09d208db-424d-5cd5-9fac-47c5c36022d4",
+  "code": null,
+  "id": 300067,
+  "date": "2025-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-referendum-citoyen-the-revolutionnary-app",
+  "title": "\"Referendum Citoyen\" the revolutionnary app",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "this talk will present the story behind the \"referendum citoyen\" app, the ZK tech built by Rarimo team, but also how social movements are embracing cypherpunk tools to engage into challenging the structure of power in a country such France.",
+  "description": "The voting app is a simple blockchain voting app, based on ZK proof generated from a french ID card. The presentation will deep dive in the tech part, first but also present the social movement that wants to bring the referendum culture in France through a voting system that is independent from the State infrastructure, but still can prove that voters are french with the ID digital signature.\nThe voting app is Work in Progress and needs a lot of work. This is also an open call for hackers to help improve and make the app the easiest app for people.\n\nhttps://github.com/ReferendumCitoyen/referendum-citoyen-react-native\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fcf97edc-b674-5209-b742-d0971d8da8d5",
+      "name": "Alexis Roussel",
+      "public_name": "Alexis Roussel",
+      "avatar": "https://pretalx.riat.at/media/avatars/Alexis_Roussel_-_COO_512x512_1JBnxIt.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fcf97edc-b674-5209-b742-d0971d8da8d5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/referendum-citoyen-the-revolutionnary-app",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/YRYKY3/"
+}

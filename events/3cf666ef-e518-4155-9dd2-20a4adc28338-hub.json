@@ -1,0 +1,30 @@
+{
+  "guid": "3cf666ef-e518-4155-9dd2-20a4adc28338",
+  "code": null,
+  "id": 366651,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "CADUS Skill-Station",
+  "slug": "39c3-cadus-x-off-grid-assembly",
+  "title": "CADUS x Off-Grid-Assembly",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The Off-Grid-Assembly introducing themselves!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4975f3c8-6a26-429c-a940-e300127983df",
+      "name": "Anna-Lea",
+      "public_name": "Anna-Lea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/anna-lea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cadus-x-off-grid-assembly",
+  "links": []
+}

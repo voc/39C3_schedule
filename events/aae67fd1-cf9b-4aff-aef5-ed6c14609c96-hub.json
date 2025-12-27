@@ -1,0 +1,30 @@
+{
+  "guid": "aae67fd1-cf9b-4aff-aef5-ed6c14609c96",
+  "code": null,
+  "id": 671945,
+  "date": "2025-12-29T01:30:00+01:00",
+  "start": "01:30",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-cybersecurity-marchen-xxl-neues-und-altes-aus-nerd",
+  "title": "Cybersecurity M\u00e4rchen XXL \u2013 Neues und Altes aus Nerdistan",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Cybersecurity M\u00e4rchen XXL \u2013 New and Old Stories from Nerdistan\n\nThis session ist held in german\n\nI\u2019m mitBen, and with over 25 years of experience as a Cybersecurity expert, I invite you to a very special journey into the world of digital security \u2013 in an exclusive XXL Night Session. In this extended session, I will read fairy tales from last year and perhaps even some that didn\u2019t make it into the daytime session. We\u2019ll experience familiar tales like The Seven Little Goats and Puss in Boots in a new light, while also diving even deeper into the secrets of cybersecurity.\n\nThe XXL Night Session will take place in an abandoned room, providing the perfect atmosphere for a deeper journey through Nerdistan. This session is your chance to immerse yourself more intensively into the world of cybersecurity. With a relaxed yet thrilling vibe, it\u2019s designed for all the night owls out there.\n\nThe day session the day before can be found here:\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/cybersecurity-marchen-neues-aus-nerdistan\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d087f294-dc7d-452f-bb19-9b95c3742ff4",
+      "name": "mitBen (He,him,he-man)",
+      "public_name": "mitBen (He,him,he-man)",
+      "avatar": null,
+      "biography": "With over 25 years of experience in cybersecurity, I focus on making digital safety easy to understand and engaging. As a speaker, I blend technical expertise with creativity, using stories and analogies to explain complex security topics. My goal is to help people navigate the digital world more safely, with a bit of humor along the way.\n\nCheck out my SOS session:\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/cybersecurity-marchen-neues-aus-nerdistan\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/mitben"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cybersecurity-marchen-xxl-neues-und-altes-aus-nerd",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "adb60b30-3c39-4765-8da1-06f0596376fe",
+  "code": null,
+  "id": 603033,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "House of Tea",
+  "slug": "39c3-imagining-emergent-network-structures",
+  "title": "Imagining Emergent Network Structures",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "What might future p2p networks look like?",
+  "description": "In the early 2000s, a range of p2p network structures were explored. This led to systems in use today for both coordination (like DHTs) and communication (like Gossiping).\n\nWe have more tools today to model, prototype, and evaluate structures. The first step though is to imagine them.\nWhat can we design to reach cases beyond DHTs? - What might network-level structures look like that might be safer, more scalable, more private, and/or more resilient than the ones we have today?\n\nTables will be provided with seeding inspiration and paper for recording ideas, to serve as inspiration for subsequent network system modeling.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fac7ae50-bf56-4e27-947e-328f2868c9d4",
+      "name": "willscott",
+      "public_name": "willscott",
+      "avatar": null,
+      "biography": "![image](/congress/2025/hub/static/plainui/img/shield-grey.1aeaaea5884a.svg)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/willscott"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/imagining-emergent-network-structures",
+  "links": []
+}

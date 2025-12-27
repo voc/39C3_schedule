@@ -1,0 +1,30 @@
+{
+  "guid": "42acf091-30c5-416b-a6d4-d11997c2f6f4",
+  "code": null,
+  "id": 420913,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Art & Play: Bus Stage",
+  "slug": "39c3-christian-faubel-electronic-oscillators-for-organi",
+  "title": "Christian Faubel: Electronic Oscillators for organic patterns and polyrhythms Jam Session (live)",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Die Ergebnisse des Workshops \u201eElektronische Oszillatoren f\u00fcr organische Muster und Polyrhythmen\u201c werden in einer Jam-Session pr\u00e4sentiert. Dazu werden die im Workshop entstandenen Soundboards verwendet.",
+  "description": "The results of the workshop \u201cElectronic Oscillators for Organic Patterns and Polyrhythms\u201d will be presented in a jam session. The soundboards created in the workshop will be used for this purpose.\n\n[https://christian.faubel.derstrudel.org](https://christian.faubel.derstrudel.org)\n\n[https://post.lurk.org/@derstrudel](https://post.lurk.org/@derstrudel)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "44636aa8-eb33-4548-8e70-007750e83ab8",
+      "name": "Marty",
+      "public_name": "Marty",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marty"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/christian-faubel-electronic-oscillators-for-organi",
+  "links": []
+}

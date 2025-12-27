@@ -1,0 +1,30 @@
+{
+  "guid": "0331af51-5e0c-4085-8f68-78e4cd37ad41",
+  "code": null,
+  "id": 33151,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "CADUS Skill-Station",
+  "slug": "39c3-der-talk-solidarisch-preppen_vonm",
+  "title": "Der Talk: Solidarisch Preppen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We want to engage in a joint discussion with you about what far-right crisis narratives are and why they can never be based on solidarity.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4975f3c8-6a26-429c-a940-e300127983df",
+      "name": "Anna-Lea",
+      "public_name": "Anna-Lea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/anna-lea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/der-talk-solidarisch-preppen_vonm",
+  "links": []
+}

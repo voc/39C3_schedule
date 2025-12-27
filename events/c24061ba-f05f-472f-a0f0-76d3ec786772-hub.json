@@ -1,0 +1,30 @@
+{
+  "guid": "c24061ba-f05f-472f-a0f0-76d3ec786772",
+  "code": null,
+  "id": 240610,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-papierbasteln-tag-1",
+  "title": "Papierbasteln Tag 1",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Eine kleine H\u00fctte im Schnee (1 Stunde, Material und Werkzeug sind vorhanden)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/papierbasteln-tag-1",
+  "links": []
+}

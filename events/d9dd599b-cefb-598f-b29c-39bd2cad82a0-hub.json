@@ -1,0 +1,31 @@
+{
+  "guid": "d9dd599b-cefb-598f-b29c-39bd2cad82a0",
+  "code": null,
+  "id": 300081,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "CDC Circle",
+  "slug": "39c3-a-hands-on-guide-for-people-who-want-to-install-an",
+  "title": "A hands-on guide for people who want to install and use Sockstrace.",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Join us for a practical session on auditing network traffic. In this workshop, you will learn how to use SocksTrace to intercept, analyze, and socksify applications.",
+  "description": "Workshop Plan:\n- Setup & Installation\n- Basic Usage (Detecting Leaks)\n- Advanced Configuration (Whitelist/Blacklist)\n- Q&A and Debugging (Troubleshooting common setup)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5d6611a3-2c64-59f2-ab36-e034823e0fb1",
+      "name": "Robert Mindo",
+      "public_name": "Robert Mindo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5d6611a3-2c64-59f2-ab36-e034823e0fb1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-hands-on-guide-for-people-who-want-to-install-an",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/8UK8XJ/"
+}

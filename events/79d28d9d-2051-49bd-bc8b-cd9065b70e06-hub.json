@@ -1,0 +1,30 @@
+{
+  "guid": "79d28d9d-2051-49bd-bc8b-cd9065b70e06",
+  "code": null,
+  "id": 792892,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-elektronische-patientenakte-13-fragen-ob-die-epa-e",
+  "title": "Elektronische Patientenakte (ePA) - 13 Fragen, ob die ePA eine gute Idee ist",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wir stellen 13 Fragen dazu, ob die elektronische Patienenakte (ePA) in der vorliegenden Form eine gute Idee ist.\n\nAu\u00dferdem zeigen wir M\u00f6glichkeiten zum Widerspruch gegen die ePA: Man kann bei der Assembly von Freedom not Fear einen Widerspruch erstellen und gleich abschicken.\n\nQ&A findet an der Assembly von Freedom not Fear statt, Uhrzeiten werden noch bekanntgegeben.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2c7b41bb-bba1-4a63-bb86-49f1348b2b23",
+      "name": "Stefan_Streit",
+      "public_name": "Stefan_Streit",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/stefan_streit"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/elektronische-patientenakte-13-fragen-ob-die-epa-e",
+  "links": []
+}

@@ -1,0 +1,46 @@
+{
+  "guid": "84a4b924-80e1-4a3d-b245-06bb11c7ee22",
+  "code": null,
+  "id": 844924,
+  "date": "2025-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:30",
+  "room": "Kidspace - Hackcenter",
+  "slug": "39c3-spieleprogrammieren-mit-pygame",
+  "title": "Spieleprogrammieren mit PyGame",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wir besch\u00e4ftigen uns damit wie Spiele aufgebaut werden und funktionieren und programmieren ein eigenes Spiel auf Grundlage von einer erweiterbaren und je nach Zeit und Interesse vollst\u00e4ndig austauschbaren Jump'n'Run-Vorlage. Wir arbeiten dabei mit der Programmiersprache Python und der dazugeh\u00f6rigen Bibliothek PyGame.\n\nEs ist kein Vorwissen notwendig um die Inhalte zu verstehen; der Workshop ist f\u00fcr alle geeignet die ein Interesse daran haben, zu verstehen wie Videospiele gemacht werden oder eigene Ideen f\u00fcr Spiele umsetzen wollen.\n\nWer sich ein Laptop f\u00fcr den Workshop ausleihen m\u00f6chte, sollte sich sp\u00e4testens eine Stunde vor dem Workshop an der Teckids-Assembly im Digitalcourage-Habitat melden.\nSiehe auch [https://events.ccc.de/congress/2025/hub/de/project/detail/assembly/laptop-ausleihe-fur-junghackerinnen/](https://events.ccc.de/congress/2025/hub/de/project/detail/assembly/laptop-ausleihe-fur-junghackerinnen/)\nWer ein eigenes Laptop benutzen m\u00f6chte, ben\u00f6tigt ein Linux-System mit Thonny und Tiled.\n\nWer nach den ersten 1,5 Stunden noch weiter machen m\u00f6chte, kann [bei Teil 2 an der Teckids-Assembly]([https://events.ccc.de/congress/2025/hub/de/event/detail/spieleprogrammieren-mit-pygame-teil-2-tag-2](https://events.ccc.de/congress/2025/hub/de/event/detail/spieleprogrammieren-mit-pygame-teil-2-tag-2)) weitermachen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f2678b69-65b6-4c41-b3a7-000809480654",
+      "name": "darius",
+      "public_name": "darius",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/darius"
+    },
+    {
+      "guid": "0ac5199c-e3d6-43e8-81c8-a09281203db0",
+      "name": "kenorca",
+      "public_name": "kenorca",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kenorca"
+    },
+    {
+      "guid": "5c91a0bd-75bf-4e02-8bf4-3eba6ae14830",
+      "name": "Natureshadow",
+      "public_name": "Natureshadow",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/natureshadow"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/spieleprogrammieren-mit-pygame",
+  "links": []
+}

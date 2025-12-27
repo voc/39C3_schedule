@@ -1,0 +1,32 @@
+{
+  "guid": "4c72fd89-b037-5761-b6a6-0b759edbb67d",
+  "code": "R3JU9U",
+  "id": 2440,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-steve-simon",
+  "title": "Steve Simon",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Als Part der ToxicFamily, die seit mittlerweile 25 Jahren Label, elektronisches Magazin, Veranstalter und einfach eine Institution in Frankfurt ist, f\u00f6rdert Steve, der \u00fcbrigens einer der dienst\u00e4ltesten Residents des Tanzhaus West in Frankfurt ist, aktiv die Frankfurter Underground Clubszene und vor allem den Nachwuchs. Ob es ein Gig bei der Toxic Family Radio Show im lokalen FM Radio ist, ein CDJ Lehrgang oder einfach nur aufmunterte Worte w\u00e4hrend eines Sets - viele Frankfurter DJs haben eine Geschichte \u00fcber Steve zu erz\u00e4hlen.\r\nWenn Steve House Musik spielt, sieht man oft DJ Kollegen mit gespitzen Ohren an der Bar stehen - oder auch mal mitten auf der Tanzfl\u00e4che - weil das Barpersonal selbst auf der Theke tanzt.",
+  "description": "Als ein bescheidener, introvertierter und klaustrophobischer Misanthrop und Glatzentr\u00e4ger meidet Steve das Rampenlicht. Deswegen steht er in einem Nachtclub gern in der dunklen Ecke, verbarrikadiert hinter Technik.\n\nEigentlich war es sein gro\u00dfer Traum, als Teil des ostkasachstanischen Staatsballett mit einer neopostbarockmodernen Auff\u00fchrung von Schwanensee um die Welt zu touren. Da er aber die erforderliche Mindestgr\u00f6\u00dfe f\u00fcr neopostbarockanische, ostkasachstanische Staatsballett-T\u00e4nzer unterschreitet, schwache Sprunggelenke hat und au\u00dferdem nie tanzt, wird dieser wohl nie in Erf\u00fcllung gehen.\n\nAusgebildet als Vodka-Vernichtungsexperte weiss er, dass die Bar das wichtigste Element eines Clubs ist. Er ist ausserdem seit seinem 22. Lebensjahr ein erfolgreicher Leser und kann seit kurzem 6 der 8 in seinem Namen enthaltenen Buchstaben aufmalen. Wenn man ihm Zeit l\u00e4sst. Aber Autogramme geben muss er ja eh nicht.\n\nWie im Hitchhikers Guide empfohlen, den er \u00fcbrigens auch fast ganz allein durchgelesen hat, hat er immer sein Schmuse-Handtuch dabei.\n\nAchja \u2026 und er spielt einfach grandiose House-Musik.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/R3JU9U/steve_1JyyQRC.jpg",
+  "persons": [
+    {
+      "guid": "8ea76314-d3b1-5857-928b-7063033576ee",
+      "name": "Steve",
+      "public_name": "Steve",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8ea76314-d3b1-5857-928b-7063033576ee"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/steve-simon",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/R3JU9U/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/R3JU9U/feedback/"
+}

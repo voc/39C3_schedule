@@ -1,0 +1,31 @@
+{
+  "guid": "e860e296-72da-532c-a4a0-bee85f11ac57",
+  "code": null,
+  "id": 300107,
+  "date": "2025-12-29T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-a-brief-history-of-keeping-secrets",
+  "title": "A Brief History of Keeping Secrets",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "We walk from ancient Roman times to modern day, discussing the general advancement of applied cryptography across history. We begin with the Caesar cipher, fast forward to the World Wars of the early 20th century, before moving onto the rise and fall of elliptic curve cryptography, including Monero's past, present, and future protocol design philosophy. This talk is informal, intended as a primer for the historically-minded.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8b8530d7-8bb6-5739-b148-b4537f218b23",
+      "name": "Brandon Goodell",
+      "public_name": "Brandon Goodell",
+      "avatar": "https://pretalx.riat.at/media/avatars/IMG_20210605_144355_Q8qglQ1.jpg",
+      "biography": "Brandon has been a privacy advocate and an occasional contributor to the Monero protocol, via the Monero Research Lab, since 2014. He earned his Ph.D. in Mathematical Sciences from Clemson University in 2017, and has since worked at Monero Research Lab, Geometry Labs, and Cypher Stack.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8b8530d7-8bb6-5739-b148-b4537f218b23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-brief-history-of-keeping-secrets",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/ZKYJ8N/"
+}

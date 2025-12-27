@@ -1,0 +1,36 @@
+{
+  "guid": "62a4c15d-6efb-5d85-b41d-5363e08ebeae",
+  "code": "MLZFLU",
+  "id": 2154,
+  "logo": null,
+  "date": "2025-12-28T17:35:00+01:00",
+  "start": "17:35",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-2154-variable-fonts-it-was-never-about-file-size",
+  "url": "https://cfp.cccv.de/39c3/talk/MLZFLU/",
+  "title": "Variable Fonts \u2014 It Was Never About File Size",
+  "subtitle": "",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "A brief history of typographic misbehavior or intended and unintended uses of variable fonts.\r\n\r\nNine years after the introduction of variable fonts, their most exciting uses have little to do with what variable fonts originally were intended for and their original promise of smaller file sizes. The talk looks at how designers turned a pragmatic font format into a field for experimentation \u2014 from animated typography and uniwidth button text to pattern fonts and typographic side effects with unintended aesthetics. Using examples from projects such as TypoLabs, Marjoree, Kario (the variable font that\u2019s used as part of the 39C3 visual identity), and Bronco, we\u2019ll explore how variable fonts evolved from efficiency tools into creative systems \u2014 and why the most interesting ideas often emerge when technology is used in unintended ways.",
+  "description": "When the OpenType 1.8 specification introduced variable fonts in 2016, the idea was simple: combine all weights and styles of a font family into one file and save file size and therefore bandwidth. Yet in 2025, variable fonts have become a platform for artistic and technical exploration far beyond their initial goal.\r\n\r\nThis talk follows that transformation from the inside. It starts with a short history of flexible font technologies \u2014 Adobe\u2019s Multiple Master and Apple\u2019s TrueType GX formats of the 1990s (I am just mentioning the company names as they were the publishers of these technologies) \u2014 and how they failed to become standards. It then shows why variable fonts succeeded: many designers today are more tech savvy and know some basic HTML, CSS and maybe even some JavaScript. And at the same time all major browsers and almost all design apps support variable fonts  by now.\r\n\r\nFrom there, I present a series of first-hand projects where typography met code:\r\n\u2013 TypoLabs (2017), whose identity used a custom variable font animating between extremes of weight and width \u2192 the variable font family became the (probably forever) unpublished variable font family Denman;\r\n\u2013 Marjoree (2024), a pair of variable pattern fonts based on hexagonal and pentagonal tilings that explore legibility and repetition;\r\n\u2013 Kario (2025), a duplex variable font powering the 39C3 identity, with uniwidth weights, optical-size adjustments, and typographic Easter eggs;\r\n\u2013 and Bronco (2017?), an experiment using the arbitrary-axis model for interpolation to escape the cube-shaped multiple master design space of traditional variable fonts.\r\n\r\nThe talk then moves from history to speculation. Early head-tracking experiments once tried to adjust a variable font\u2019s optical size based on reader position \u2014 producing total chaos as text reshaped itself while being read. On the other hand this playful chaos marks the moment when things become truly interesting: connecting a font axis to live data, to mouse movement, to sound, to network input \u2014 anything that makes type responsive and alive. That\u2019s the kind of misbehavior I want to talk about \u2014 not breaking for the sake of breaking, but using technology the \u201cwrong\u201d way to see what happens.\r\n\r\nThe talk will mix images, a lot of short videos, and a bit of behind-the-scenes insight into font development. It\u2019s about what happens when design tools meet code, and how that intersection keeps typography alive and unpredictable.\r\n\r\nLink list of variable font experiments:\r\nhttps://www.bronco.varfont.com/\r\nhttps://www.denman.varfont.com/\r\nhttps://www.seraphs.varfont.com/ \r\nhttps://marjoree.showmefonts.com/\r\n+ 39C3 visual identity",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "VWMQDH",
+      "name": "Bernd",
+      "avatar": "https://cfp.cccv.de/media/avatars/VWMQDH_oqwh3Pg.jpg",
+      "biography": "Bernd Volmer is a type designer and font engineer based in Berlin. He studied graphic design at ArtEZ in Arnhem and type design at type]media at the Royal Academy of Art in The Hague. His background spans both the technical and expressive sides of typography \u2014 from font engineering and scripting to exploring calligraphy both analog and digitally, drawing on paper and in vector outlines.\r\nBernd runs a small font foundry called Show Me Fonts, works as a freelancer on all font related things and previously worked in various roles within the type industry, gaining insight into how fonts are designed, built, tested and used at scale. His work often explores the overlap between design and technology \u2014 where structure, language, aesthetic and code intersect.",
+      "public_name": "Bernd",
+      "guid": "411eb1f1-55a7-5598-a14d-5e593da2d5c7",
+      "url": "https://cfp.cccv.de/39c3/speaker/VWMQDH/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/MLZFLU/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/MLZFLU/",
+  "attachments": []
+}

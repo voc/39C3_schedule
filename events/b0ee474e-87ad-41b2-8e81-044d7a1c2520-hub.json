@@ -1,0 +1,30 @@
+{
+  "guid": "b0ee474e-87ad-41b2-8e81-044d7a1c2520",
+  "code": null,
+  "id": 47487,
+  "date": "2025-12-28T01:30:00+01:00",
+  "start": "01:30",
+  "duration": "01:20",
+  "room": "SoS Stage H",
+  "slug": "39c3-lounge-tunes",
+  "title": "Lounge Tunes",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Listen to some eclectic lounge tunes with your favorite crew.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c0895b22-0927-4820-9f2b-b5fdb80e6fbb",
+      "name": "yolo_crew",
+      "public_name": "yolo_crew",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/yolo_crew"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lounge-tunes",
+  "links": []
+}

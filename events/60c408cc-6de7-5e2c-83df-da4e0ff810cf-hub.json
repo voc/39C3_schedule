@@ -1,0 +1,32 @@
+{
+  "guid": "60c408cc-6de7-5e2c-83df-da4e0ff810cf",
+  "code": "SVFTLG",
+  "id": 83812,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:30",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-binrgewitter-talk",
+  "title": "Bin\u00e4rgewitter Talk",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch (lang)",
+  "abstract": "Auch in diesem Jahr ist die Bin\u00e4rgewitter Crew wieder auf dem Chaos Communication Congress vertreten! Beim 39C3 sprechen wir \u00fcber aktuelle Tech-Trends, Open Source, wilde Debugging-Stories und nat\u00fcrlich jede Menge Nerdkram. Erwartet eine Mischung aus tiefem technischen Einblick, lockeren Diskussionen und dem gewohnt trockenen Bin\u00e4rgewitter-Humor.",
+  "description": "",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/SVFTLG/binaergewitter_logo_text_0N7dVQv.png",
+  "persons": [
+    {
+      "guid": "057b371f-f0d6-5c79-ad87-9942057ac8d9",
+      "name": "Ingo Ebel",
+      "public_name": "Ingo Ebel",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/HQ73WY_jrHkn49.jpeg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_057b371f-f0d6-5c79-ad87-9942057ac8d9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/binrgewitter-talk",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/SVFTLG/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/SVFTLG/feedback/"
+}

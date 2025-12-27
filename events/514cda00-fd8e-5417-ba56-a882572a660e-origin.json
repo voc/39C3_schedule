@@ -1,0 +1,45 @@
+{
+  "guid": "514cda00-fd8e-5417-ba56-a882572a660e",
+  "code": "QRHPLE",
+  "id": 2193,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/QRHPLE/Screenshot_2025-10-27_at_20.22.45_aSuqv5f.png",
+  "date": "2025-12-27T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-2193-die-kanguru-rebellion-digital-independence-day",
+  "url": "https://cfp.cccv.de/39c3/talk/QRHPLE/",
+  "title": "Die K\u00e4nguru-Rebellion: Digital Independence Day",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Marc-Uwe Kling liest neues vom K\u00e4nguru vor.",
+  "description": "Vielleicht auch was von Elon und Jeff on Mars.\r\nUnd dann ruft das K\u00e4nguru zum Digital Independence Day auf.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "A3WJWT",
+      "name": "Marc-Uwe Kling",
+      "avatar": null,
+      "biography": "Marc-Uwe Kling Autor, Liedermacher und Kabarettist. Bekannt wurde er vor allem durch seine \u201eK\u00e4nguru-Chroniken\u201c \u2013 eine satirische Buchreihe (sp\u00e4ter auch H\u00f6rbuch und Film) \u00fcber das Zusammenleben eines Berliner K\u00fcnstlers mit einem kommunistischen K\u00e4nguru.\r\n\r\nSein Stil ist humorvoll, gesellschaftskritisch und oft politisch. Neben den K\u00e4nguru-B\u00fcchern hat er auch andere erfolgreiche Werke geschrieben, darunter:\r\n\u2022 \u201eQualityLand\u201c \u2013 eine Zukunftssatire \u00fcber Algorithmen, \u00dcberwachung und Konsumgesellschaft\r\n\u2022 \u201eDer Tag, an dem die Oma das Internet kaputt gemacht hat\u201c \u2013 ein Kinderbuch \u00fcber digitale Verantwortung\r\n\u2022 \u201eDas NEINhorn\u201c \u2013 ein Kinderbuch mit Wortwitz und Sprachspielereien\r\n\r\n\"Kling verbindet politische Themen mit zug\u00e4nglichem Humor und kluger Gesellschaftskritik\" findet ChatGPT 5o.",
+      "public_name": "Marc-Uwe Kling",
+      "guid": "f8c01070-a75d-55d6-b877-7573bbb4f676",
+      "url": "https://cfp.cccv.de/39c3/speaker/A3WJWT/"
+    },
+    {
+      "code": "MZXSRS",
+      "name": "Linus Neumann",
+      "avatar": null,
+      "biography": "Linus Neumann ist ein Sprecher des Chaos Computer Clubs.\r\n\r\nEr verteidigt digitale Grundrechte gegen staatliche und private \u00dcberwachung.\r\nAnsonsten macht er IT-Sicherheitssysteme karp0tt.\r\n\r\nIm Podcast \u201eLogbuch:Netzpolitik\u201c kommentiert Linus gemeinsam mit Tim Pritlove w\u00f6chentlich aktuelle politische und technische Entwicklungen im Bereich Netzpolitik und IT-Sicherheit \u2013 meistens kritisch, und fast immer humorvoll.",
+      "public_name": "Linus Neumann",
+      "guid": "6647ec2f-3df1-5ed3-9b3d-58ef78a4b107",
+      "url": "https://cfp.cccv.de/39c3/speaker/MZXSRS/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/QRHPLE/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/QRHPLE/",
+  "attachments": []
+}

@@ -1,0 +1,38 @@
+{
+  "guid": "5f628589-e717-4f00-99b9-e7b4aa7a957a",
+  "code": null,
+  "id": 562858,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-was-ist-awareness-was-macht-c3awareness_qmf7",
+  "title": "Was ist Awareness? Was macht c3awareness? \u2764\ufe0f\u200d\ud83e\ude79 What is awareness? What does c3awareness do?",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Are you interested in awareness work during Chaos events? Would you even like to help the c3awareness Team? Come by and get to know us then!\n\nWe will talk a bit about how we work - during the events and throughout the year. There will be a chance to ask questions and there are some things we would like your opinion on as well!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1b9996c6-6203-4c52-8440-0222792b3f56",
+      "name": "fuchsi",
+      "public_name": "fuchsi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fuchsi"
+    },
+    {
+      "guid": "d080360b-72ab-4b30-a501-12276f393758",
+      "name": "Keks",
+      "public_name": "Keks",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/keks"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/was-ist-awareness-was-macht-c3awareness_qmf7",
+  "links": []
+}

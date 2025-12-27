@@ -1,0 +1,30 @@
+{
+  "guid": "df9f13bf-73b8-4e71-9aea-d264745ca285",
+  "code": null,
+  "id": 913738,
+  "date": "2025-12-29T00:00:00+01:00",
+  "start": "00:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-fafo-how-we-stopped-worrying-and-bought-an-electro",
+  "title": "FAFO: How we stopped worrying and bought an Electron Microscope",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We went on Kleinanzeigen and started a non-profit semiconductor lab.\n\nWe created a space to do the kind of research we've always wanted, but couldn't do at our local hackerspaces - either due to space constraints, or lack of structures allowing for a safe operation of a proper lab.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4950ba11-3c44-4508-931b-34000533764b",
+      "name": "hug0",
+      "public_name": "hug0",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hug0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fafo-how-we-stopped-worrying-and-bought-an-electro",
+  "links": []
+}

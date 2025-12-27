@@ -1,0 +1,30 @@
+{
+  "guid": "78e9dd70-6a4c-47cc-a62a-31370dfb48aa",
+  "code": null,
+  "id": 789706,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "06:00",
+  "room": "Hardware Hacking Area -- Rear-middle",
+  "slug": "39c3-tictaclights-nano-colour-reflow-soldering",
+  "title": "TicTacLights Nano Colour -- reflow soldering",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "We will solder, test and debug the TicTacLights Nano Colour kits together using reflow soldering (solder paste and hot plate & hot air).",
+  "description": "## Materials costs\n45.\u2014 \u20ac\n\n## Taught by\n[Arne](https://events.ccc.de/congress/2025/hub/en/user/arne)\n\n## Workshop Itinerary\nWe will assemble and solder the [TicTacLights Nano Colour](https://wiki.blinkenarea.org/index.php/TicTacLightsNanoColourEnglish) kit together. No prior knowledge of reflow soldering is required, but a steady hand (go easy on caffeine!) and good eyes are useful.\n\n**The steps we'll go through are:**\n1. Apply solder paste to the front board with a stencil\n2. Place the 144 LEDs on the board one-by-one, using tweezers (this can easily take a couple of hours)\n3. Solder the LEDs on a hot plate\n4. Apply solder paste to the back of the board with another stencil\n5. Place the microcontroller, capacitors, resistors and other components on the board one-by-one\n6. Solder the components with a hot air\n7. Repeat the same steps for the 2nd board (with far fewer components on it)\n8. Test and debug the boards (this can take until after midnight if there are many problematic boards)\n\n## Registration\nTo register for this workshop, please buy a kit at the [BlinkenArea](https://events.ccc.de/congress/2025/hub/assembly/detail/blinkenarea) assembly *as early as possible*. Only a limited number of kits is available.\n\nIf you have any questions or would like to see an already built TicTacLights Nano Colour first, please visit us at the BlinkenArea.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/2506200c29f1/workshop-banner.jpg",
+  "persons": [
+    {
+      "guid": "98c17ff7-7f7e-404e-aa26-cada9ac9c153",
+      "name": "Arne",
+      "public_name": "Arne",
+      "avatar": null,
+      "biography": "Find me at the BlinkenArea assembly.\n\nTo contact me, please use arne at blinkenarea dot org, or DECT 2082. I do not get notifications for messages in the 39C3 system so I'll probably see them (too) late.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/arne"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tictaclights-nano-colour-reflow-soldering",
+  "links": []
+}

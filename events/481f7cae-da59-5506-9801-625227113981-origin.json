@@ -1,0 +1,36 @@
+{
+  "guid": "481f7cae-da59-5506-9801-625227113981",
+  "code": "D77XG8",
+  "id": 1926,
+  "logo": null,
+  "date": "2025-12-27T23:55:00+01:00",
+  "start": "23:55",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1926-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps",
+  "url": "https://cfp.cccv.de/39c3/talk/D77XG8/",
+  "title": "From Silicon to Darude Sand-storm: breaking famous synthesizer DSPs",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Have you ever wondered how the chips and algorithms that made all those electronic music hits work? Us too!\r\n\r\nAt The Usual Suspects we create open source emulations of famous music hardware, synthesizers and effect units. After releasing some emulations of devices around the Motorola 563xx DSP chip, we made further steps into reverse engineering custom silicon chips to achieve what no one has done before: a real low-level emulation of the JP-8000. This famous synthesizer featured a special \"SuperSaw\" oscillator algorithm, which defined an entire generation of electronic and trance music. The main obstacle was emulating the 4 custom DSP chips the device used, which ran software written with a completely undocumented instruction set. In this talk I will go through the story of how we overcame that obstacle, using a mixture of automated silicon reverse engineering, probing the chip with an Arduino, statistical analysis of the opcodes and fuzzing. Finally, I will talk about how we made the emulator run in real-time using JIT, and what we found by looking at the SuperSaw code.",
+  "description": "This talk is a sequel to my last year's talk \"Proprietary silicon ICs and dubious marketing claims? Let's fight those with a microscope!\", where I showed how I reverse engineered a pretty old device (1986) by looking at microscope silicon pics alone, with manual tracing and some custom tools. Back then I claimed that taking a look at a more modern device would be way more challenging, due to the increased complexity.\r\n\r\nThis time, in fact, I've reverse engineered a much modern chip: the custom Roland/Toshiba TC170C140 ESP chip (1995). Completing this task required a different approach, as doing it manually would have required too much time. We used a guided automated approach that combines clever microscopy with computer vision to automatically classify standard cells in the chip, saving us most of the manual work.\r\nThe biggest win though came from directly probing the chip: by exploiting test routines and sending random data to the chip we figured out how the internal registers worked, slowly giving us insights about the encoding of the chip ISA. By combining those two approaches we managed to create a bit-accurate emulator, that also is able to run in real-time using JIT.\r\n\r\nIn this talk I want to cover the following topics:\r\n- What I learned since my previous talk by looking at more complicated chips\r\n- Towards automating the silicon reverse engineering process\r\n- How to find and exploit test modes to understand how stuff works\r\n- How we tricked the chips into spilling its own secrets\r\n- How the ESP chip works, compared to existing DSP chips\r\n- How the SuperSaw oscillator turned out to work",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "Y8GPFY",
+      "name": "giulioz",
+      "avatar": "https://cfp.cccv.de/media/avatars/profile_square_fZr5F9k.jpg",
+      "biography": "I'm an Italian guy that likes games, programming, designing user interfaces and tinkering with old stuff (especially vintage computers and games). Sometimes I also play the bass guitar. Let's chat if you happen to like those things too!\r\n\r\nI've got my MSc in Computer Science in the beautiful city of Venice, studying Machine Learning and Artificial Intelligence, and right now I work at Flux, where I'm building a next generation tool for Hardware Design.",
+      "public_name": "giulioz",
+      "guid": "70a7d8a7-cdf3-5495-bc69-f8f496e88bd1",
+      "url": "https://cfp.cccv.de/39c3/speaker/Y8GPFY/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/D77XG8/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/D77XG8/",
+  "attachments": []
+}

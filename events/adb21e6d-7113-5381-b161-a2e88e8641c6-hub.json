@@ -1,0 +1,32 @@
+{
+  "guid": "adb21e6d-7113-5381-b161-a2e88e8641c6",
+  "code": "CXA7HZ",
+  "id": 83829,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-die-sicherheits_lucke-live-vom-39c3-die-wissenscha",
+  "title": "Die Sicherheits_l\u00fccke live vom 39c3: die Wissenschaft zu Gast",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Die **Sicherheits_l\u00fccke** (https://sicherheitsluecke.fm) greift aktuelle Ereignisse und Trends der Cybersecurity auf. Im Podcast werden die Themen - gerne auch mal humoristisch, sarkastisch oder selbstironisch - von Volker Skwarek, Monina Schwarz und Ingo Timm mit Tiefgang aufbereitet.\r\nMit dem Format **live** ist der Podcast auch regelm\u00e4\u00dfig auf Kongressen zu finden und diskutiert interessante Vortr\u00e4ge mit ausgew\u00e4hlten G\u00e4sten.",
+  "description": "Wir berichten mit den G\u00e4sten Prof. Dr. Christoph Saatjohann von der FH M\u00fcnster und Prof. Dr. Gerd Beuster von der FH Wedel \u00fcber interessante Vortr\u00e4ge und Events am zweiten Tag des 39c3 (28.12.2025).\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/CXA7HZ/HOOU_Cover-Sicherheitsluec_iwrbW67.webp",
+  "persons": [
+    {
+      "guid": "11b9887b-9830-51f2-99d5-8531e829c648",
+      "name": "Volker",
+      "public_name": "Volker",
+      "avatar": null,
+      "biography": "Volker Skwarek, Professor f\u00fcr Informatik, \u00fcberzeugter Wissenschaftler und Nerd, was Privacy, Identity und \"low level Cyberangriffe\" angeht. Hat seit 2 Jahren seine Freude am Podcasting und Wissenschaftsjournalismus entdeckt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11b9887b-9830-51f2-99d5-8531e829c648"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/die-sicherheits_lucke-live-vom-39c3-die-wissenscha",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/CXA7HZ/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/CXA7HZ/feedback/"
+}

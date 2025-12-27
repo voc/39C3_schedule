@@ -1,0 +1,30 @@
+{
+  "guid": "1b5d70da-6a46-4855-94c1-97577b3c34f7",
+  "code": null,
+  "id": 157064,
+  "date": "2025-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "c4E-Roundtable",
+  "slug": "39c3-datenschutz-sprechstunde",
+  "title": "Datenschutz-Sprechstunde",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Kleine Datenschutz-Sprechstunde f\u00fcr eure Fragen an Mitarbeitende von Datenschutzaufsichtsbeh\u00f6rden.",
+  "description": "You want to know how a Data Protection-Fine is issued? Or why Ireland plays such a big role in EU Data Protection? People who work in Data protection supervisory authorities have once again joined forces to answer your questions and get to talk about the data protection topics that you are interested in. Don't hesitate to ask us anything related to data protection or working in a supervisory authority. We are eager to get to talk with you.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6a85c809-fac0-4e16-bda3-e58062f4bd5e",
+      "name": "Alvar",
+      "public_name": "Alvar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/alvar"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/datenschutz-sprechstunde",
+  "links": []
+}

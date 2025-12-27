@@ -1,0 +1,38 @@
+{
+  "guid": "f0425c0b-ef72-424b-85bb-ca224de48754",
+  "code": null,
+  "id": 42507,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-we-show-quadball-brooms-a-snitch-six-round-goals-a",
+  "title": "We show Quadball\ud83c\udfd0\ud83e\udd3e\ud83c\udfff\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f: brooms, a snitch, six hoop-goals and lots of gender diversity and fun",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Quadball combines the best of rugby, handball, and dodgeball -- let's talk about that!\nIt looks like this -> [https://chaos.social/@saxnot/115754026830564736](https://chaos.social/@saxnot/115754026830564736)\n\nAgain we will present Quadball (Muggle Quidditch) at congress! Very small intro to the sport rules followed by casual Q&A.\n\nQuadball champions gender diversity with its gender rule:\n\"A team may not have more than three players who identify as the same gender in play at the same time\"\ngiving an edge to nonbinary players.\n\nJendrik and saxnot play in the Braunschweiger Broomicorns, one of the leading german quadball teams.\n\nFind a quadball league near you!\n\n<https://dqbsport.de/>\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f358b9ea-a204-4bf3-a76b-b9ff135620cb",
+      "name": "jendrik (any)",
+      "public_name": "jendrik (any)",
+      "avatar": null,
+      "biography": "https://chaos.social/@jendrik\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/jendrik"
+    },
+    {
+      "guid": "1b3c27b2-3cbf-48a5-9ed0-137093359e25",
+      "name": "saxnot (he/him)",
+      "public_name": "saxnot (he/him)",
+      "avatar": null,
+      "biography": "<@saxnot@chaos.social>\n\nhttps://matrix.to/#/@jonas:stratum0.org\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/saxnot"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/we-show-quadball-brooms-a-snitch-six-round-goals-a",
+  "links": []
+}

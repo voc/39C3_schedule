@@ -1,0 +1,47 @@
+{
+  "guid": "7fe75d23-5966-5dca-a736-e7664a475be3",
+  "code": "JQUCQ7",
+  "id": 2399,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "Zero",
+  "slug": "39c3-lightning-talks-tag-3",
+  "title": "Lightning Talks - Tag 3",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Lightning Talks - Tag 3",
+  "description": "- **Lightning Talks Introduction**\n- **\"Oma, erz\u00e4hl mir von der Zukunft\" oder: Wie wir weiter interessante Sachen machen, ohne den Planeten zu ruinieren  \ud83c\udf31** \u2014 *EstherD*\n- **Don't abuse the ecosystem** \u2014 *michele*\n- **The Climatepoetry.org video tool** \u2014 *Magnus Ahltorp*\n- **Neo-Kolonialismus & Katzenbilder - Installation zur Lieferkette von GenAI** \u2014 *Stefan, Yannik & Rike*\n- **Build social inventories with StashSphere** \u2014 *Maximilian G\u00fcntner*\n- **Invitation to the Fermentation Camp \"Kvas 2026\"** \u2014 *algoldor*\n- **Stretching nginx to its limits: a music player in the config file** \u2014 *Eloy*\n- **2D Graphics Creation with Graphite - How to build a hackable graphics Editor** \u2014 *Dennis Kobert*\n- **The Modulator: a Custom Controller for Live Music Performance** \u2014 *Jakob Kilian*\n- **Find hot electronic devices for cheap using Lock-In Thermography** \u2014 *Clemens Gr\u00fcnewald*\n- **Those Who Control** \u2014 *Andreas Haupt*\n- **SearchWing - Search&Rescue Drones** \u2014 *searchwing team*\n- **Hacking ID3 MP3 Metadata** \u2014 *Danilo Erazo*\n- **Genetic engineering with CRISPR/Cas9: how far are we today from biopunk?** \u2014 *Dmytro Danylchuk*\n- **Discovering the Orphan Source Village** \u2014 *Martin Hamilton*\n- **kicoil - generate planar coils in any shape for PCBs and ICs** \u2014 *jaseg*\n- **Trade Offer: Pentest Data for CTF Points** \u2014 *Sebastian*\n- **Soziologische Gabentheorie - Grundlage f\u00fcr die Bewertung von Social Media?** \u2014 *sozialwelten*\n- **WissKomm Wiki - Bibliothek f\u00fcr Videos und Podcasts** \u2014 *TimBorgNetzWerk*\n- **Shitty Robots** \u2014 *Neo*\n- **Lightning** \u2014 *Vi*\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5f7ecbd8-6f6f-573b-8519-242ab484d22e",
+      "name": "Bonnie",
+      "public_name": "Bonnie",
+      "avatar": "https://cfp.cccv.de/media/avatars/NAYM8A_XqdDXgI.png",
+      "biography": "Bonnie Mehring has been politically active since 20 years now and has always believed in the chance to better the future for everybody. Technology and especially Free Software  has brought her into the Chaos. Since the past 12 years she has brought her political and technological interest's together.\nThrough Free Software, she has not only acquired extensive knowledge about computers and technology but has also forged connections with others. She thoroughly enjoys participating in various Free Software conferences and events, where she relishes the opportunity to connect with individuals from the Free Software community. It is of utmost importance for Bonnie that inclusive and welcoming Free Software communities are established, allowing everyone to engage and learn.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5f7ecbd8-6f6f-573b-8519-242ab484d22e"
+    },
+    {
+      "guid": "aacad21d-44ff-5b15-9c3a-6678c39e3c0f",
+      "name": "keldo",
+      "public_name": "keldo",
+      "avatar": null,
+      "biography": "Keldo besch\u00e4ftigt sich mit Nachhaltigkeit, mit speziellem Fokus auf IT. Er ist deshalb seit einigen Jahren bei Bits und B\u00e4ume und im Forum InformatikerInnen f\u00fcr Frieden und Gesellschaftliche Verantwortung aktiv.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_aacad21d-44ff-5b15-9c3a-6678c39e3c0f"
+    },
+    {
+      "guid": "f98532ec-f471-56df-848c-3cfd8c158f3c",
+      "name": "Andi Br\u00e4u",
+      "public_name": "Andi Br\u00e4u",
+      "avatar": null,
+      "biography": "Andi ist Softwareentwickler und DevOps-Spezialist aus Berlin mit einem besonderen Interesse an Datenschutz, Datensouver\u00e4nit\u00e4t und Self-Hosting. Er engagiert sich seit vielen Jahren im Freifunk-Umfeld und ist als Vorstand des F\u00f6rdervereins Freie Netzwerke aktiv. Au\u00dferdem organisiert er regelm\u00e4\u00dfig Veranstaltungen wie das Wireless Community Weekend oder das Battlemesh.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f98532ec-f471-56df-848c-3cfd8c158f3c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lightning-talks-tag-3",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/JQUCQ7/"
+}

@@ -1,0 +1,39 @@
+{
+  "guid": "bf34e289-afe1-59a8-8c1c-018b755772e3",
+  "code": "3SNDCP",
+  "id": 1958,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-blackbox-palantir",
+  "title": "Blackbox Palantir",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Wer nutzt in Deutschland Software von Palantir und wer hat das in naher Zukunft vor? Was sind die rechtlichen Voraussetzungen f\u00fcr den Einsatz solcher Analysewerkzeuge? Und was plant Innenminister Alexander Dobrindt in Sachen Palantir f\u00fcr die Polizeien des Bundes?",
+  "description": "Software von Palantir analysiert f\u00fcr Polizeien und Milit\u00e4r deren Daten \u2013 daf\u00fcr lizenzieren auch deutsche Polizeibeh\u00f6rden seit Jahren die Analysesoftware Gotham des US-Unternehmens. Die Software verarbeitet strukturierte und unstrukturierte Informationen aus Polizeidatenbanken. Die genauen Funktionsweisen sind f\u00fcr die \u00d6ffentlichkeit, Gesetzgeber und Kontrollbeh\u00f6rden jedoch nicht einsehbar.\n\nDas US-Unternehmen ist hochumstritten und auch in Deutschland seit einigen Gesetzesinitiativen wieder umk\u00e4mpft \u2013 wegen seiner intransparenten Analysemethoden, seiner Zusammenarbeit mit autorit\u00e4ren Staaten und seiner N\u00e4he zur US-Regierung.\n\nRechtlich ist der Einsatz von Analysetools wie von Palantir in Deutschland ohnehin komplex, denn das Bundesverfassungsgericht hat 2023 deutliche Grenzen f\u00fcr polizeiliche Datenanalysen gezogen. Dennoch haben mehrere Bundesl\u00e4nder f\u00fcr ihre Polizeien Vertr\u00e4ge oder streben sie an. Auch auf Bundesebene wird der Einsatz f\u00fcr das Bundeskriminalamt und die Bundespolizei hitzig diskutiert.\n\nWie funktioniert Gotham und welche Gefahren gehen damit einher?\nWelche Entwicklungen sind  im Bund und in den L\u00e4ndern zu beobachten? Wie geht es weiter?\n\nWir wollen \u00fcber den Stand der Dinge in Bund und L\u00e4ndern informieren und auch zeigen, wie wir versuchen, rechtliche Vorgaben durchzusetzen. Denn die GFF und der CCC sind an Verfassungsbeschwerden beteiligt, unter anderem in Hessen, Hamburg und zuletzt in Bayern.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/3SNDCP/GS7OQp5WwAAUTyi_M06P8hJ.jpeg",
+  "persons": [
+    {
+      "guid": "79aa12ea-2d29-5df7-972b-1124a48a838b",
+      "name": "Constanze Kurz",
+      "public_name": "Constanze Kurz",
+      "avatar": "https://cfp.cccv.de/media/avatars/ich-7-2_8SjCXsu.jpg",
+      "biography": "Constanze Kurz ist promovierte Informatikerin und ehrenamtlich Sprecherin des Chaos Computer Clubs. Sie schreibt bei netzpolitik.org \u00fcber Technik und Gesellschaft. Sie war technische Sachverst\u00e4ndige beim Bundesverfassungsgericht bei den Verfassungsbeschwerden gegen Wahlcomputer, die Vorratsdatenspeicherung, das BKA-Gesetz, das BND-Gesetz, Staatstrojaner sowie automatisierte Datenanalyse bei der Polizei (Palantir).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_79aa12ea-2d29-5df7-972b-1124a48a838b"
+    },
+    {
+      "guid": "6feac4ee-d530-5d9a-b076-c8608ab1be86",
+      "name": "Franziska G\u00f6rlitz",
+      "public_name": "Franziska G\u00f6rlitz",
+      "avatar": "https://cfp.cccv.de/media/avatars/HBDWLR_ERUee0C.jpg",
+      "biography": "Juristin und Verfahrenskoordinatorin bei der Gesellschaft f\u00fcr Freiheitsrechte e.V. \nPronomen: sie/ihr\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6feac4ee-d530-5d9a-b076-c8608ab1be86"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/blackbox-palantir",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/3SNDCP/"
+}

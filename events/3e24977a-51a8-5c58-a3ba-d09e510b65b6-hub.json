@@ -1,0 +1,32 @@
+{
+  "guid": "3e24977a-51a8-5c58-a3ba-d09e510b65b6",
+  "code": "KPZDXZ",
+  "id": 400011,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "FNF Assembly",
+  "slug": "39c3-introduction-to-fnf",
+  "title": "Introduction to FNF",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "An introductory talk for people unfamiliar with FreedomNotFear, stating the goals and purpose of the organization, the event itself and idiosyncratic, open format. Similar organizations may also be brought up for context.\r\nAn overview on where we are as Europeans, and as a global community on the stance of privacy, digital rights, and current law/policy and its stated vs (real)potential goals and effects.\r\nFinally a section where participants are invited to speak briefly on whats going on in their country and how they see people's rights being affected.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e782f247-5d0c-5055-9348-92fc7159fd82",
+      "name": "Freedom Not Fear",
+      "public_name": "Freedom Not Fear",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e782f247-5d0c-5055-9348-92fc7159fd82"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/introduction-to-fnf",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/KPZDXZ/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/KPZDXZ/feedback/"
+}

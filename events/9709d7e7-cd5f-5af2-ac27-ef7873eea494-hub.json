@@ -1,0 +1,31 @@
+{
+  "guid": "9709d7e7-cd5f-5af2-ac27-ef7873eea494",
+  "code": null,
+  "id": 200494,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wikidata-live-querying",
+  "title": "Wikidata Live Querying",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Lasst uns gemeinsam lustige Wikidata-Abfragen schreiben!",
+  "description": "In Wikidata warten ganz viele Sch\u00e4tze darauf, gehoben zu werden. In diesem Workshop schreiben wir gemeinsam SPARQL-Queries, um Daten aus Wikidata abzufragen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wikidata-live-querying",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/VTELBK/"
+}

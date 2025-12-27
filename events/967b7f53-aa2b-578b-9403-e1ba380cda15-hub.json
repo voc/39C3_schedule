@@ -1,0 +1,31 @@
+{
+  "guid": "967b7f53-aa2b-578b-9403-e1ba380cda15",
+  "code": "DVKRSC",
+  "id": 1375,
+  "date": "2025-12-29T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-celestial-navigation-with-very-little-math",
+  "title": "Celestial navigation with very little math",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Learn how to find your position using a sextant and a custom slide rule, almost no math required!",
+  "description": "Since the dawn of time people have asked themselves: where am I and why am I here?  This talk won't help you answer the why question, but it will discuss how determine the where in the pre-GPS age of sextants, slide rules and stopwatches by taking the noon sight, aka the meridian passage.\n\nThe usual way to find your position using the Sun requires a large almanac of lookup tables and some challenging math.  The books are frustrating to consult on every sight and the base 60 degree-minute-second math is frustrating even with a calculator, and if you're on a traditional ship it seems wrong to do traditional navigation with electronic devices.\n\nTo speed up the process I\u2019ve designed a specialized circular slide rule that handles most of the table lookups to correct height of eye, semi-diameter, temperature, refraction and index errors, and also simplifies the degree-minute-second arithmetic required to calculate the exact declination of the Sun.\n\nIn this talk I\u2019ll demonstrate how to make your own printable paper slide rule and use it to reduce the meridian passage measurement to a lat/lon with just a few rotations of the wheels and pointer, no electronics or bulky books necessary!\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/DVKRSC/IMG_6736_preview_r6BFUP2.jpeg",
+  "persons": [
+    {
+      "guid": "cdd2bbf8-bcfd-521f-b615-1198a23348e2",
+      "name": "Trammell Hudson",
+      "public_name": "Trammell Hudson",
+      "avatar": "https://cfp.cccv.de/media/avatars/MXCHDF_prOd0lZ.jpg",
+      "biography": "I like to take things apart. https://trmm.net/\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cdd2bbf8-bcfd-521f-b615-1198a23348e2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/celestial-navigation-with-very-little-math",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DVKRSC/"
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "dd990a78-1e11-5c5e-aef4-6eb0214c772a",
+  "code": "FUKKM3",
+  "id": 2172,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-greenhouse-gas-emission-data-public-difficult-to-access-and-not-always-correct",
+  "title": "Greenhouse Gas Emission Data: Public, difficult to access, and not always correct",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "Data about greenhouse gas emissions, both from countries and individual factories, is\r\noften publicly available. However, the data sources are often not as accessible and\r\nreliable as they should be. EU emission databases contain obvious flaws, and nobody\r\nwants to be responsible.",
+  "description": "Which factory in my city is the largest emitter of CO2? Which industrial sector is\nresponsible for the largest share of a country's contribution to climate change? It\nshould not be difficult to answer these questions. Public databases and reporting\nrequired by international agreements usually allow us to access this data.\n\nHowever, trying to access and work with these datasets \u2014 or, shall we say, Excel tables\n\u2014 can be frustrating. UN web pages that prevent easy downloads with a \"security\nfirewall\", barely usable frontends, and other issues make it needlessly difficult to\ngain transparency about the sources of climate pollution.\n\nWhile working with official EU datasets, the speaker observed data points that could not\npossibly be true. Factories suddenly dropped their emissions by orders of magnitude\nwithout any explanation, different official sources report diverging numbers for the\nsame emission source, and responsible European and National authorities appear not to\ncare that much.\n\nThe talk will show how to work with relevant greenhouse gas emission data sources and\nhow we can access them more easily by converting them to standard SQL tables. Furthermore, we will dig into some of the\nstrange issues one may find while investigating emission datasets.\n\n# Background / Links\n\n* Why is it needlessly difficult to access UNFCCC Emission Data? <https://industrydecarbonization.com/news/why-is-it-needlessly-difficult-to-access-unfccc-emission-data.html>\n* UNFCCC Emission Data Downloads: <https://industrydecarbonization.com/docs/unfccc/>\n* Code (Docker, MariaDB/MySQL, phpMyAdmin) to easily access EU emisison data: <https://github.com/decarbonizenews/ghgsql>\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/FUKKM3/amdun_3r5IGFl_a95Bxqu_4cUleB3_7QB13YQ_U_9MnW56j.webp",
+  "persons": [
+    {
+      "guid": "9ab9adbd-9ddb-52b6-9857-41b3e690c4c9",
+      "name": "Hanno B\u00f6ck",
+      "public_name": "Hanno B\u00f6ck",
+      "avatar": "https://cfp.cccv.de/media/avatars/hanno-bild_QUFusvU.jpg",
+      "biography": "Hanno is a freelance Journalist with a focus on climate, energy, and IT security. He has previously given talks at CCC events on a variety of topics, including [industrial decarbonization](https://media.ccc.de/v/camp2023-57173-the_difficult_path_to_climate_neutrality) and [green methanol](https://media.ccc.de/v/38c3-is-green-methanol-the-missing-piece-for-the-energy-transition). He writes a [regular newsletter about industrial decarbonization](https://industrydecarbonization.com/) and the lesser-known challenges of climate mitigation.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9ab9adbd-9ddb-52b6-9857-41b3e690c4c9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/greenhouse-gas-emission-data-public-difficult-to-access-and-not-always-correct",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/FUKKM3/"
+}

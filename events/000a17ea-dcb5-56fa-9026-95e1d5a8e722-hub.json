@@ -1,0 +1,32 @@
+{
+  "guid": "000a17ea-dcb5-56fa-9026-95e1d5a8e722",
+  "code": "YCALV8",
+  "id": 175,
+  "date": "2025-12-27T20:45:00+01:00",
+  "start": "20:45",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-trans-austauschrunde",
+  "title": "Trans Austauschrunde [TINA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Austauschrunde \u00fcber Freud und Leid der Transition und allen Themen, die euch drumherum besch\u00e4ftigen.\r\n\r\nNicht cis Personen only, d. h. offen f\u00fcr TINA (trans, inter, non-binary, agender).",
+  "description": "Nicht cis Personen only\n\nDer Weg der Transition ist f\u00fcr jede*n sehr individuell und trotzdem gibt es viele \u00dcberschneidungen. Mensch bemerkt die ersten Ver\u00e4nderungen und kann diese nicht einordnen oder bekommt eine Ablehnung oder Zusage von der Krankenkasse. Erz\u00e4hl uns von deinen Erfahrungen, denn hier findest du Leute, die \u00e4hnliche Erlebnisse oder Erfahrungen gemacht haben. Eventuell standen diese vor einem \u00e4hnlichen Problem und wissen, wie es weiter gehen kann oder du willst einfach deine aktuelle Freude teilen. Lass uns austauschen, denn gemeinsam sind wir st\u00e4rker.\n\nWie letztes Jahr, sollen am Anfang kurz Themencluster gefunden und dann in kleineren Gruppen an Tischen weiter bearbeitet, diskutiert oder sich gegenseitig damit geholfen werden.\n\nDas Ganze findet dann in drei Runden \u00e1 15 min statt, damit die Teilnehmenden die M\u00f6glichkeit haben, \u00fcber mehrere Themen zu reden.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "11825085-f5d1-554c-89e5-65023ae48fbe",
+      "name": "captain-maramo",
+      "public_name": "captain-maramo",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/avatar_4xzkG1Y.png",
+      "biography": "Haeckse\nTrans\nirgendwas mit DevSecOps und Platform Engineering\nCybernanny\n@captain_maramo@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11825085-f5d1-554c-89e5-65023ae48fbe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trans-austauschrunde",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/YCALV8/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/YCALV8/feedback/"
+}

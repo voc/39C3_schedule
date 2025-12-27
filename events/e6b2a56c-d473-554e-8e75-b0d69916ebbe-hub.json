@@ -1,0 +1,32 @@
+{
+  "guid": "e6b2a56c-d473-554e-8e75-b0d69916ebbe",
+  "code": "M3YDTV",
+  "id": 2526,
+  "date": "2025-12-30T03:00:00+01:00",
+  "start": "03:00",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-jascha-hagen",
+  "title": "Jascha Hagen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "DJ Set",
+  "abstract": "Dj-Set Jascha Hagen",
+  "description": "Dj-Set Jascha Hagen\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2a634ea5-dce1-595c-b6f9-cfc9943546fa",
+      "name": "Jascha Hagen",
+      "public_name": "Jascha Hagen",
+      "avatar": null,
+      "biography": "..\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2a634ea5-dce1-595c-b6f9-cfc9943546fa"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/jascha-hagen",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/M3YDTV/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/M3YDTV/feedback/"
+}

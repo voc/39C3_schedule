@@ -1,0 +1,32 @@
+{
+  "guid": "e8dcbfd9-0436-5b47-823c-c50ae171fb75",
+  "code": "Z7YUZD",
+  "id": 1530,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-wante-dj-set",
+  "title": "Wante (DJ Set)",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Wante (Cologne) is drawn to dark, tunnely sets. With a soft spot for long, atmospheric, break-driven intros, her carefully curated selections evolve into relentless, hypnotic techno with ambient soundscapes.",
+  "description": "deep (minimal) techno, ambient & dub techno.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/Z7YUZD/wante-2_qMqVOUJ.png",
+  "persons": [
+    {
+      "guid": "7c93a5cc-a10c-559c-988a-0163904c28f5",
+      "name": "Wante",
+      "public_name": "Wante",
+      "avatar": "https://cfp.cccv.de/media/avatars/TZ3TP9_GaYJW1l.png",
+      "biography": "User Interface Designer & Art Director\nco-founder of krakelee eG/krakelee club \nresearch through design\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7c93a5cc-a10c-559c-988a-0163904c28f5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wante-dj-set",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/Z7YUZD/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/Z7YUZD/feedback/"
+}

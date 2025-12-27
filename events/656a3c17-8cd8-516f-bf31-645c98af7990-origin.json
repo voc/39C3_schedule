@@ -1,0 +1,36 @@
+{
+  "guid": "656a3c17-8cd8-516f-bf31-645c98af7990",
+  "code": "YVTT8U",
+  "id": 1493,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/YVTT8U/Screenshot_2025-10-24_095330_rhJQm3k.png",
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1493-chaos-communication-chemistry-dna-security-systems-based-on-molecular-randomness",
+  "url": "https://cfp.cccv.de/39c3/talk/YVTT8U/",
+  "title": "Chaos Communication Chemistry: DNA security systems based on molecular randomness",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "**Over the past few decades, nucleic acids have increasingly been investigated as alternative data storage media and platforms for molecular computation. This talk builds on past research and introduces another branch to the field: DNA cryptography based on random chemistry. This technology provides a platform for conceiving new security architectures that bridge the physical with the digital world.**",
+  "description": "Nucleic acids have been theorized as potential data storage and computation platforms since the mid-20th century. In the meantime, notable advances have been made in implementing such systems, combining academic research with industry efforts.\r\nMore recently, this research has also started to branch into cryptography. In addition to giving a general introduction to this interdisciplinary field, this talk zooms in on the example of chemical unclonable functions (CUFs) based on randomly generated, synthetic DNA sequences. Similar to Physical Unclonable Functions (PUFs), these DNA-based systems contain vast random elements that cannot be reconstructed \u2013 neither algorithmically nor synthetically. Using biochemical processing, we can operate these systems in a fashion comparable to cryptographic hash functions, enabling new authentication protocols. After covering the basics, we delve into the advantages, as well as the drawbacks, of DNA as a medium. Finally, we explore how CUFs could in the future be implemented as physical security architectures: For example, in anti-counterfeiting of medicines or as personal signatures for artworks. \r\nFinally, in a broader sense, this talk aims to inspire a reconsideration of entropy and randomness in the experimental sciences through a lens long familiar to computer scientists: not as mere noise, but as a resource. In doing so, it provides examples of how looking at physical systems through an information perspective can unravel new synergies.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "PSA9FQ",
+      "name": "Anne L\u00fcscher",
+      "avatar": null,
+      "biography": "Anne has always been curious about exploring (and actively transgressing) disciplinary boundaries. She works as a postdoctoral researcher at ETH Z\u00fcrich, where she has specialized in using nucleic acids of non-biological origin as data carriers. Her current focus is DNA computation and cryptography, working at the intersection of chemistry, biotechnology, chemical engineering, materials science and information technology. Aside from her core research, she has been part of science communication initiatives, transdisciplinary projects and art collaborations, aiming to reflect on the ethical and political dimensions of science.",
+      "public_name": "Anne L\u00fcscher",
+      "guid": "220f1d7e-7407-514c-aa30-45cd496126e0",
+      "url": "https://cfp.cccv.de/39c3/speaker/PSA9FQ/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/YVTT8U/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YVTT8U/",
+  "attachments": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "3354df70-61f8-4709-b5ea-9c04a12e311e",
+  "code": null,
+  "id": 335470,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:30",
+  "room": "Kidspace - Basteltische",
+  "slug": "39c3-bugelperlen-aber-anders",
+  "title": "B\u00fcgelperlen ... aber anders",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "F\u00fcr B\u00fcgelperlen braucht es nicht unbedingt ein B\u00fcgeleisen.",
+  "description": "Normally, you'd use a pegboard and an iron for fuse beads.\n\nBut you can also do it without... all you need is a needle and thread, and you can make bracelets or coasters.\n\nWant to know how? Come by, let me show you, and get started yourself.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
+      "name": "elzbeth",
+      "public_name": "elzbeth",
+      "avatar": null,
+      "biography": "You can find me in Kidspace.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bugelperlen-aber-anders",
+  "links": []
+}

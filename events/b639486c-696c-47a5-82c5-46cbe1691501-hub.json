@@ -1,0 +1,21 @@
+{
+  "guid": "b639486c-696c-47a5-82c5-46cbe1691501",
+  "code": null,
+  "id": 639486,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:00",
+  "room": "CADUS Skill-Station",
+  "slug": "39c3-hack-the-training-call-for-ideas-fur-diy-losungen-",
+  "title": "Hack the Training! Call for Ideas f\u00fcr DIY-L\u00f6sungen in Einsatzsimulationen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "F\u00fcr die Katastrophe trainieren hei\u00dft am besten so realistisch wie m\u00f6glich trainieren. Das praktizieren wir bei CADUS schon lange so gut wie nur irgend m\u00f6glich. Aber wie simuliert mensch eigentlich Katastrophe? Und wie das Material, das man f\u00fcr die Trainings braucht? Und hat da grade wer \u201eopen source\u201d gesagt?",
+  "description": "Our CADUS trainings are based on the motto \u201cTrain as you fight,\u201d which means we try to make our operational simulations as realistic as possible. To achieve this, we have to simulate the \u201cdangerous aspects\u201d of disasters such as fire, explosions, toxic substances, highly infectious germs, radiation, dangerous injuries, etc.  Training equipment such as fire simulators, mannequins that can be used to train ultrasound examinations , radiation sources, and detectors are available on the market at exorbitant prices, making it impossible to scale high-quality, realistic training. In this open workshop format, we first want to show you how we've already approached this problem productively here and there... and then brainstorm together about where the journey could take us. From F/X to a bit of creative electronics, innovative event technology, to 3D printing and digital simulations. We are looking for elegant programming and realistic DIY constructions! So if you feel like brainstorming creative workarounds and maybe even implementing them with and for CADUS after the congress, come on by!\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hack-the-training-call-for-ideas-fur-diy-losungen-",
+  "links": []
+}

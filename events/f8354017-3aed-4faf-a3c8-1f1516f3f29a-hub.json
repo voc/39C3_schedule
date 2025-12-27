@@ -1,0 +1,38 @@
+{
+  "guid": "f8354017-3aed-4faf-a3c8-1f1516f3f29a",
+  "code": null,
+  "id": 835401,
+  "date": "2025-12-28T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "00:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-open-source-hearing-technology",
+  "title": "Open source hearing technology",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The hearing aid space is antiquated and overpriced and badly in need of a widely available and easy to use open source alternative. 5 manufacturers control 99% of the global market, and have little incentive to innovate or compete on prices, so hearing aids cost thousands of Euros. Everyone we meet has either themselves or through a loved one had a bad experience with hearing aids, or experienced quality of life issues with hearing loss.\n\nWe've been working on making an alternative with our knowledge of professional audio technology, which has long outpaced the medical hearing aid realm. We want to both share the journey, and learn about your experiences both with the technology and hearing itself.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d89150c3-7c3e-4cc3-858f-55a3d8f271d8",
+      "name": "A73X",
+      "public_name": "A73X",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/a73x"
+    },
+    {
+      "guid": "893bffe0-374e-4f39-9573-602b1c089485",
+      "name": "drquaithe",
+      "public_name": "drquaithe",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/drquaithe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/open-source-hearing-technology",
+  "links": []
+}

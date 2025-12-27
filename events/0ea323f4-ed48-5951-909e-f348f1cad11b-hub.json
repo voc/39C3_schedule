@@ -1,0 +1,32 @@
+{
+  "guid": "0ea323f4-ed48-5951-909e-f348f1cad11b",
+  "code": "VGN8LP",
+  "id": 400007,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Saal 5",
+  "slug": "39c3-how-even-the-safest-places-arent-safe-from-cctvs",
+  "title": "How even the safest places aren't safe from CCTVs",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Short talk",
+  "abstract": "Historically as one of the safest countries in the world and a dictatorship its recent past, it's surprising how in Portugal, in a matter of 15 years had narrative around surveillance shift from skepticism to full endorsement across all large political parties. We'll cover how the GDPR screwed up privacy in Portugal and how the law effectively gags the data protection authority, among other outrageous examples. We'll share some of our initial efforts in a data analysis project to correlate public contracts with deployed surveillance systems and we welcome ideas / lessons from others who've engaged in similar initiatives.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7b00897d-c0ab-52db-9e54-ff0d8c4561ec",
+      "name": "Francisco",
+      "public_name": "Francisco",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7b00897d-c0ab-52db-9e54-ff0d8c4561ec"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-even-the-safest-places-arent-safe-from-cctvs",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/VGN8LP/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/VGN8LP/feedback/"
+}

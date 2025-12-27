@@ -1,0 +1,31 @@
+{
+  "guid": "c43046a1-bac9-54d3-a551-d86630e7ab3b",
+  "code": "FNCLLE",
+  "id": 2130,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-i-hated-all-the-cross-stitch-software-so-i-made-my-own-my-deranged-outsider-software-suite-for-making-deranged-outsider-art",
+  "title": "I Hated All The Cross-Stitch Software So I Made My Own: My Deranged Outsider Software Suite For Making Deranged Outsider Art",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "I wanted to design beautiful header diagrams and ASCII tables suitable for stitching on throw pillows, but found existing tools for cross-stitch design to be all wrong. I made my own set of command-line tools for building this chunky, pixelated visual art. If you've never seen a cross-stitch sampler that had bitrot, this talk will fix it.",
+  "description": "Designing cross-stitch patterns, I got frustrated with all the programs which expected me to click around a canvas setting individual pixels. I wanted a cross-stitch design software suite that I could drive with a Makefile, which could give me an interactive interface for stitching or compile them to PDF. In short, I wanted to say `echo \"shutdown -h now\" | embellish --border | export pattern --pdf` and get a design worthy of stitching on a pillow.\n\nSo, I made the thing I wanted. I'll discuss the many yak shaves along the way (proprietary file format reverse-engineering, OAuth2, what 'color' even means, unikernel hosting, and more). I'll talk a bit about the joy of making something so you can make something, and how it feels to craft software that is unapologetically personal.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/FNCLLE/tcp_header_in_progress_closeup_N9zKLZV.jpg",
+  "persons": [
+    {
+      "guid": "317c6dda-6637-5a1d-bc01-6cdbe4621739",
+      "name": "yomimono",
+      "public_name": "yomimono",
+      "avatar": null,
+      "biography": "yomimono is your typical middle-aged American woman: an OCaml programmer interested in operating systems and fiber arts. She has a completely normal level of knowledge about old adventure games.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_317c6dda-6637-5a1d-bc01-6cdbe4621739"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/i-hated-all-the-cross-stitch-software-so-i-made-my-own-my-deranged-outsider-software-suite-for-making-deranged-outsider-art",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/FNCLLE/"
+}

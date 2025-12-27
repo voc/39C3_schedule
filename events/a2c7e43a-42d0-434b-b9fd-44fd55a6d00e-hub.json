@@ -1,0 +1,30 @@
+{
+  "guid": "a2c7e43a-42d0-434b-b9fd-44fd55a6d00e",
+  "code": null,
+  "id": 274342,
+  "date": "2025-12-28T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-dickmaulrussler",
+  "title": "Jurist:innentreffen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Von Jura-Studis \u00fcber Rechtsanw\u00e4ltinnen und Rechtsanw\u00e4lten bis zu Jura-Profs sind alle Jurist:innen i.w.S. eingeladen, sich gegenseitig in lockerer Runde kennenzulernen und zu vernetzen.\n\nDie verf\u00fcgbaren R\u00e4ume auf dem Congress sind knapp. Daher haben wir im SOS 6 nur 25 Minuten. Es wird vorgeschlagenen, ab 12 Uhr f\u00fcr weitere Gespr\u00e4che in die N\u00e4he des c3Sp\u00e4ti weiterzuziehen (genauer Treffpunkt: Bottle Drop Point 73 am Gel\u00e4nder, direkt gegen\u00fcber der Chaos Post, in Blickweite des c3Sp\u00e4ti).\n\nDer einladende Dickmaulr\u00fcssler ist Rechtsanwalt in Hamburg.\n\nDECT: 8018\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "71c67a41-e94c-4f2b-a474-56d5f1616234",
+      "name": "Dickmaulrussler",
+      "public_name": "Dickmaulrussler",
+      "avatar": null,
+      "biography": "Fediverse: @Dickmaulruessler@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/dickmaulrussler"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/dickmaulrussler",
+  "links": []
+}

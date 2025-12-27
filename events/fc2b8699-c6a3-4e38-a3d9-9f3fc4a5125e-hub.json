@@ -1,0 +1,30 @@
+{
+  "guid": "fc2b8699-c6a3-4e38-a3d9-9f3fc4a5125e",
+  "code": null,
+  "id": 286996,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-cognitive-effects-meetup",
+  "title": "Cognitive Effects Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Meetup for those interested in the cognitive effects (that is, influence on decision-making) of in particular AI and personalized systems. See also https://www.cstf.dev/.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b2e11a06-c488-47a6-8c46-08b2c1da0a9f",
+      "name": "Indraos",
+      "public_name": "Indraos",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/indra0s"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cognitive-effects-meetup",
+  "links": []
+}

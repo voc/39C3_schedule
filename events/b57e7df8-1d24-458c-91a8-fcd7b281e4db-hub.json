@@ -1,0 +1,30 @@
+{
+  "guid": "b57e7df8-1d24-458c-91a8-fcd7b281e4db",
+  "code": null,
+  "id": 577812,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-roleplay-night",
+  "title": "Vortrag: Wie k\u00f6nnen wir durch gute Kommunikation \u00fcber unsere Spielvorlieben mehr Spa\u00df an Pen&Paper-Rollenspiel haben, anschlie\u00dfend Congress-Pen&Paper-Night",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A place for your TTRPG session. The whole night!\nFantasy to sci-fi, cosy to thrilling, rules light to rules heavy. It doesn't matter if you already played or will try it for the first time, this is the place to do it.\nThere will be limited materials (pens, paper). Please bring your own to ensure everyone can have some.\n\nMore information on https://c3rp.koehr.ing/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c9ecb2d6-a76b-433d-b973-5f2c34b27c55",
+      "name": "Luna",
+      "public_name": "Luna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/roleplay-night",
+  "links": []
+}

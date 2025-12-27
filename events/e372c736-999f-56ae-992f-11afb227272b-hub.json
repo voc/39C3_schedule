@@ -1,0 +1,32 @@
+{
+  "guid": "e372c736-999f-56ae-992f-11afb227272b",
+  "code": "DXNFZW",
+  "id": 2561,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "02:30",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-aladdin",
+  "title": "Aladdin",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Hamdi (Berlin)\r\nHouse and minimal techno built for immersion. Extended mixes, controlled pacing, and Fog-filled rooms where the story unfolds gradually.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/DXNFZW/IMG_6722_3nSF_1UKmbZV.webp",
+  "persons": [
+    {
+      "guid": "ab3ea60c-8bb3-5d24-a67c-ec3f5fcdbfb4",
+      "name": "Hamdi",
+      "public_name": "Hamdi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ab3ea60c-8bb3-5d24-a67c-ec3f5fcdbfb4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/aladdin",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/DXNFZW/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/DXNFZW/feedback/"
+}

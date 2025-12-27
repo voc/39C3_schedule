@@ -1,0 +1,32 @@
+{
+  "guid": "05c3cc8e-7ae6-5383-a227-12b409d334bc",
+  "code": "WHBNUK",
+  "id": 1659,
+  "date": "2025-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-kathadingsda",
+  "title": "kathadingsda",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "kathadingsda vereint treibende Beats und sanfte Grooves mit dubbigen Elementen und experimentellen Kl\u00e4ngen. So entstehen warme, organische Soundwelten, die sich stetig ver\u00e4ndern und in Bewegung bleiben.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/WHBNUK/avatar1836180_2Ug61ov.webp",
+  "persons": [
+    {
+      "guid": "b7dab89c-ea8d-551f-be88-d6fe47538b98",
+      "name": "dingsda",
+      "public_name": "dingsda",
+      "avatar": "https://cfp.cccv.de/media/avatars/DDT83W_V6xAHnw.jpg",
+      "biography": "Urspr\u00fcnglich in der Hanseatischen Materialverwaltung \u2013 einem Ort voller kreativer K\u00f6pfe und geretteter B\u00fchnenwelten \u2013 mit der Technik und der Freiheit des Auflegens in Ber\u00fchrung gekommen, entwickelte ich meinen eigenen Zugang zur elektronischen Musik. Was als Experiment begann, hat dann doch sehr viel Spa\u00df gemacht!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b7dab89c-ea8d-551f-be88-d6fe47538b98"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/kathadingsda",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WHBNUK/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WHBNUK/feedback/"
+}

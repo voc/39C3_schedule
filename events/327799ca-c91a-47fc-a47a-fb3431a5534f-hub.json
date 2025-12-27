@@ -1,0 +1,30 @@
+{
+  "guid": "327799ca-c91a-47fc-a47a-fb3431a5534f",
+  "code": null,
+  "id": 327799,
+  "date": "2025-12-27T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-wtf-nochmal-das-ganze_rvsg",
+  "title": "WTF, nochmal das Ganze?",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The system of harassing payment cards for people receiving asylum seeker benefits is not a new idea, but has been dusted off from the 1990s/2000s. But even back then, there was resistance \u2013 and it was anything but boring!\nRevel in the old days with us and be inspired by past actions and successes!\n\nWe show pictures of the initiative against the chip card system in Berlin, which was active there mainly in the noughties against the precursors of today's payment cards.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e6bd7fb9-1bc6-4c72-8041-f9da0bc9049d",
+      "name": "neinzurbezahlkarte",
+      "public_name": "neinzurbezahlkarte",
+      "avatar": null,
+      "biography": "As local initiatives against the payment card, we organize solidarity voucher exchanges and resistance against racist policies. As the nationwide network \u201cEqual Social Rights for All,\u201d we take a united political stand against socio-political injustices and racism.\n\nEnd the exclusion of marginalized groups! Cash for all!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/neinzurbezahlkarte"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wtf-nochmal-das-ganze_rvsg",
+  "links": []
+}

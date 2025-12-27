@@ -1,0 +1,31 @@
+{
+  "guid": "562f7db7-c4c4-5120-903d-a782e8a17894",
+  "code": "YXGADP",
+  "id": 2411,
+  "date": "2025-12-28T17:35:00+01:00",
+  "start": "17:35",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-current-drone-wars",
+  "title": "Current Drone Wars",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "The character of drone wars has changed. The large, cumbersome long-range drones have been complemented with small and low-budget drones. Moreover, more and more states are developing, deploying and selling them. Ten years ago at least 50 states were developing them. At the top are USA, Israel, Turkey, China, Iran and Russia.\r\n \r\nRussia's attack on Ukraine has unleashed a drone war unlike any seen before.\r\nIn short time the Ukraine has build significant drone production capabilities and announcement that it will increase its own production of quadcopters and kamikaze drones to one million units per year.\r\n \r\nGerman defense companies and startups are now promoting a \u201cdrone wall on NATO's eastern flank.\u201d Moreover, despite their vulnerability to air defenses, large drones are also being further developed. They are intended to accompany next generation fighter jets in swarms.\r\n \r\nIn this talk, past and current developments are discussed. What are the perspectives now?",
+  "description": "The character of drone wars has changed. The large, cumbersome long-range drones have been complemented with small and low-budget drones. Moreover, more and more states are developing, deploying and selling them. Ten years ago at least 50 states were developing them. At the top are USA, Israel, Turkey, China, Iran and Russia.\n\nRussia's attack on Ukraine has unleashed a drone war unlike any seen before.\nIn short time the Ukraine has build significant drone production capabilities and announcement that it will increase its own production of quadcopters and kamikaze drones to one million units per year.\n\nGerman defense companies and startups are now promoting a \u201cdrone wall on NATO's eastern flank.\u201d Moreover, despite their vulnerability to air defenses, large drones are also being further developed. They are intended to accompany next generation fighter jets in swarms.\n\nIn this talk, past and current developments are discussed. What are the perspectives now?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9127492e-4a90-59e9-9297-b96c3cbfc3a8",
+      "name": "Leonard",
+      "public_name": "Leonard",
+      "avatar": null,
+      "biography": "As an activist and computer scientist, Leonard has investigated the developments in surveillance and computerized warfare for more than 10 years.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9127492e-4a90-59e9-9297-b96c3cbfc3a8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/current-drone-wars",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YXGADP/"
+}

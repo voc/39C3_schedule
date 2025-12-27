@@ -1,0 +1,36 @@
+{
+  "guid": "29678965-8b0b-5428-b63f-4de3a79b0a47",
+  "code": "J7MRSC",
+  "id": 1215,
+  "logo": null,
+  "date": "2025-12-28T21:05:00+01:00",
+  "start": "21:05",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1215-css-clicker-training-making-games-in-a-styling-language",
+  "url": "https://cfp.cccv.de/39c3/talk/J7MRSC/",
+  "title": "CSS Clicker Training: Making games in a \"styling\" language",
+  "subtitle": "",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "CSS is a programming language, and you can make games in it. Let's install NoScript and make some together!",
+  "description": "This talk is about how HTML and CSS can be used to make interactive art and games, without using any JS or server-side code.  \r\n  \r\nI'll explain some of the classic Cohost CSS Crimes, how I made [CSS Clicker](https://lyra.horse/css-clicker/), and what's next for the CSS scene.   \r\n  \r\nI hope this talk will teach and/or inspire you to make cool stuff of your own!  \r\n  \r\n---\r\n  \r\n*Content notes:*  \r\nSlides feature animations and visual effects  \r\nShort video clip (with music) will be played  \r\nClicker sound at the end of the talk",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "DHNTDD",
+      "name": "Lyra Rebane",
+      "avatar": "https://cfp.cccv.de/media/avatars/DHNTDD_LXtx6Z6.png",
+      "biography": "An Estonian transfem and a former Cohoster with a bunch of browser CVEs and a love for the web.\r\n\r\nCheck out my cool website: [https://lyra.horse/](https://lyra.horse/)",
+      "public_name": "Lyra Rebane",
+      "guid": "8b74ea64-1e0e-50a3-a555-576132b8ad9f",
+      "url": "https://cfp.cccv.de/39c3/speaker/DHNTDD/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/J7MRSC/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/J7MRSC/",
+  "attachments": []
+}

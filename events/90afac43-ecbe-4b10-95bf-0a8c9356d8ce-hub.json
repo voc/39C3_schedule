@@ -1,0 +1,30 @@
+{
+  "guid": "90afac43-ecbe-4b10-95bf-0a8c9356d8ce",
+  "code": null,
+  "id": 904341,
+  "date": "2025-12-28T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-den-solidarischen-gutscheintausch-mit-unterstutzun",
+  "title": "Den solidarischen Gutscheintausch mit Unterst\u00fctzung der App Couponexpress  organisieren",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The initiative \u201cNo to Payment Cards Leipzig\u201d organizes the solidarity-based voucher exchange with the help of the open source app Couponexpress. The app is freely available on codeberg.org and comes with instructions for use. The app is only used within the group to manage an ordering system for vouchers. With the help of the app, voucher orders from solidarity buyers can be matched with the vouchers actually available after an exchange, and the distribution to be made can be calculated. Without the app, the now large number of vouchers to be distributed would no longer be manageable, and it would not be possible to help so many people obtain more cash to circumvent the discriminatory payment card system.\n\nIn the SoS, the app is presented by people from the Leipzig initiative and its use is explained.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e6bd7fb9-1bc6-4c72-8041-f9da0bc9049d",
+      "name": "neinzurbezahlkarte",
+      "public_name": "neinzurbezahlkarte",
+      "avatar": null,
+      "biography": "As local initiatives against the payment card, we organize solidarity voucher exchanges and resistance against racist policies. As the nationwide network \u201cEqual Social Rights for All,\u201d we take a united political stand against socio-political injustices and racism.\n\nEnd the exclusion of marginalized groups! Cash for all!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/neinzurbezahlkarte"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/den-solidarischen-gutscheintausch-mit-unterstutzun",
+  "links": []
+}

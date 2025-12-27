@@ -1,0 +1,30 @@
+{
+  "guid": "320acfbc-ca83-41bc-88e0-5cfcf4507c95",
+  "code": null,
+  "id": 320834,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-betreutes-hacken-broken-access-control",
+  "title": "Betreutes hacken: Broken Access Control",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "(Workshop will be primarily in German and the introduction will be in German. However, most of the interaction will happen between you, your computer and maybe the person(s) next to you, so non-German-speaker should also be able to participate. I will walk around and can answer questions in English.)\n\nIn this interactive workshop, you will hunt for widespread vulnerabilities from the popular category \u201cBroken Access Control.\u201d In a specially designed cyber range, you will be challenged to detect and exploit security gaps and understand the dangers posed by inadequately secured access points.\n\nAfterwards, we will work together to develop solutions that will help you avoid such vulnerabilities in the future and ensure the security of your applications.\n\nTarget group: Developers (at least hobbyists) with no particular connection to IT security.\n\nTechnical requirements: You have used websites before. You can read simple code.\n\nTechnical requirements: Laptop with internet access (shared with another person if necessary). Firefox(!)-Browser (no Chrome, no Safari, no Edge).\n\nTranslated with DeepL.com (free version)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1a11069a-44e8-408d-b523-5001944deba9",
+      "name": "DerHorst",
+      "public_name": "DerHorst",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/u"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/betreutes-hacken-broken-access-control",
+  "links": []
+}

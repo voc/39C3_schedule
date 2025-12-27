@@ -1,0 +1,32 @@
+{
+  "guid": "79806071-dd16-5054-84f0-9719ab51886f",
+  "code": "VYFESY",
+  "id": 2525,
+  "date": "2025-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-spontaneous-space-live",
+  "title": "Spontaneous Space (Live)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "live performance",
+  "abstract": "Es spielen mit:\r\nClaas Uebersch\u00e4r: Trompete\r\nLennart Meyer: Bass\r\nJan-Philipp Meyer: Drums\r\nMarta Winnitzki: Keys",
+  "description": "Free improvised Ambient-Jazz\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "116f2bf8-98b5-5f4e-a8c5-9126fc89563a",
+      "name": "Marta",
+      "public_name": "Marta",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_116f2bf8-98b5-5f4e-a8c5-9126fc89563a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/spontaneous-space-live",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/VYFESY/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/VYFESY/feedback/"
+}

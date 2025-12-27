@@ -1,0 +1,31 @@
+{
+  "guid": "caa4ec01-8d41-5192-adb9-3d5d57a6d1a8",
+  "code": null,
+  "id": 200519,
+  "date": "2025-12-29T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-fragdenstaat-nutzerinnen-treffen",
+  "title": "FragDenStaat Nutzer*innen-Treffen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Eine offene Austauschrunde mit dem FragDenStaat-Team sowie allen FragDenStaat-Nutzer*innen sowie allen, die es werden wollen.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7a5e9944-6378-5cc2-befa-67e087f8da11",
+      "name": "Kara",
+      "public_name": "Kara",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7a5e9944-6378-5cc2-befa-67e087f8da11"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fragdenstaat-nutzerinnen-treffen",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/X88PYJ/"
+}

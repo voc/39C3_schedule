@@ -1,0 +1,32 @@
+{
+  "guid": "a4287fcb-ef45-5992-8d4b-aaa417e2cddd",
+  "code": "W8LNRT",
+  "id": 2534,
+  "date": "2025-12-31T04:00:00+01:00",
+  "start": "04:00",
+  "duration": "01:30",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-finona-rider",
+  "title": "Finona Rider",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Finona Rider is a Hamburg based artist.\r\nRenowned for her vibrant sets and relentless crate-digging for record rarities, she carries the spirits of Phantasia and remains a pillar of the city\u2019s underground.\r\nWhere dancefloor rush meets quiet mind, she\u00b4s mostly into blending early-2000s minimal, rare electro, and house-infused old-school psytrance in her DJ-sets, while her productions swing between sonic journeys and introspection.",
+  "description": "My journey into sound has been a lifelong passion, but my deep love for dancefloor-related electronic music truly ignited through attending raves in my hometown. Time after time, I immersed myself in arts, including studies in systematic musicology, event techniques and audio engineering, while working at Remoto-Records and surrounding myself with inspiring people who encouraged me to bring my ideas to life. This also led me to experiment with analogue sounds, which gradually evolved into producing.\nSince I began playing my sets at several dancefloors across Germany and beyond in 2018, my connection with music has become increasingly intense and adventurous. For the past five years, I have been organizing events with my collective Phantasia at various locations, creating unique spaces for musical exploration. At the end of 2024, we launched our own label, where you can find my very first release on wax.\nI also perform under my artist alias problem.child, where I focus on CD-only sets featuring 90s and early 2000s Goa and progressive-house.\nAdditionally, I hold a bi-monthly residency for my show Exo-Drive on London-based radio station Komrad 94, as well as for my concept Gro\u00dfstadtromantik, which takes an experimental approach, on Koska Radio in Maastricht.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "603239f6-e6c2-552b-9c35-f9a9c1d78271",
+      "name": "Finona Rider",
+      "public_name": "Finona Rider",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_603239f6-e6c2-552b-9c35-f9a9c1d78271"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/finona-rider",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/W8LNRT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/W8LNRT/feedback/"
+}

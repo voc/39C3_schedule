@@ -1,0 +1,31 @@
+{
+  "guid": "b818c405-71b9-57cd-996d-beaf40c75b5e",
+  "code": null,
+  "id": 300109,
+  "date": "2025-12-27T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "01:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-software-liberation-toolbox-exchange",
+  "title": "Software Liberation Toolbox Exchange",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Free/libre software promotes users' rights, safeguards privacy, individual control over technology and fosters autonomy and decentralisation within our communities. In contrast, proprietary software limits user freedoms leading to centralised monopolies that often misuse their power to oppress and exploit. This imbalance can result in malware, degradation of privacy and service enshitification. Unfortunately, many remain unaware of the unjustices created by proprietary software, but increased awareness and shift towards free software can fuel resistance.\r\n\r\nReplacing of proprietary software is a crucial first step to liberate users, yet many need support to make this transition successfully. Workshops for system installation, repair centres and tech-savvy friends can offer essential assistance. However, what is the most effective way to offer this support? Which software should be recommended and how to engage the novice users while minimising the challenges associated with the transition?\r\n\r\nIn this workshop we aim to discuss possible strategies of providing information on the path to software freedom. We will examine the installation process and ongoing use of free software within our circles. Key topics will include sparking interest in free distributions, selecting ideal software configuration, and exploring various forms of assistance during installation. Additionally, we'll address onboarding into the new system and troubleshooting potential issues. Finally, we hope to gather and share ideas on streamlining the process for everyone involved.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "103bb96e-8030-53ce-9f01-084dd66d8bce",
+      "name": "Zebra",
+      "public_name": "Zebra",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_103bb96e-8030-53ce-9f01-084dd66d8bce"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/software-liberation-toolbox-exchange",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/SZWNVV/"
+}

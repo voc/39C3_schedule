@@ -1,0 +1,30 @@
+{
+  "guid": "21f24081-0093-47fa-986a-a7e017f9324d",
+  "code": null,
+  "id": 212408,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-esperanto-schnupperkurs-esperanto-lightning-c_uzyw",
+  "title": "Esperanto Schnupperkurs / Esperanto Lightning course",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A short sneak peek course to the International language Esperanto.\n\nEsperanto is a planned language, initiated more than 130 years ago by Ludwik Lejzer Zamenhof. Nowadays it is spoken by more than 100 000 people worldwide.\n\nWe are people who for many years have been speaking Esperanto in our every day life. Its the language of our global circle of friends. As there are quite some parallelisms between the worldwide Esperanto community and the worldwide hacker scene, usually there are some Esperanto speakers attending the big Chaos events.\n\nOf course we cannot give a comprehensive course about Esperanto, but a few insights to the language and its community first hand.\n\nThe slides are available here: https://c3esperanto.github.io/kurseto/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9892b675-d64f-4d45-819f-53972fa53364",
+      "name": "johmue",
+      "public_name": "johmue",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/johmue"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/esperanto-schnupperkurs-esperanto-lightning-c_uzyw",
+  "links": []
+}

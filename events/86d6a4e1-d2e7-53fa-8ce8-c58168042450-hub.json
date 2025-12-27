@@ -1,0 +1,32 @@
+{
+  "guid": "86d6a4e1-d2e7-53fa-8ce8-c58168042450",
+  "code": "7FTXUM",
+  "id": 2482,
+  "date": "2025-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "02:00",
+  "room": "Chill Floor",
+  "slug": "39c3-weebz",
+  "title": "Weebz",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "WEEBZ likes to move between the odds, the rough and the soft: Breakbeat, dissonances, noise and sounds of deep dungeons belong to their mixes as well as the hymns of our hearts\r\nMost of the time the genres are mixed to an eclectic collection mirroring own confusions in the spirit of making the unmatching matching xx",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/7FTXUM/photo_2025-12_kEoCsT5.jpeg",
+  "persons": [
+    {
+      "guid": "59d41d25-25af-5b47-85cc-b1ab60d305e4",
+      "name": "Weebz",
+      "public_name": "Weebz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_59d41d25-25af-5b47-85cc-b1ab60d305e4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/weebz",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7FTXUM/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7FTXUM/feedback/"
+}

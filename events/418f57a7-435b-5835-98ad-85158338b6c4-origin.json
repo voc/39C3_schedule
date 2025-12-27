@@ -1,0 +1,36 @@
+{
+  "guid": "418f57a7-435b-5835-98ad-85158338b6c4",
+  "code": "S3FPQX",
+  "id": 1873,
+  "logo": null,
+  "date": "2025-12-29T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1873-hacking-karlsruhe-10-years-later",
+  "url": "https://cfp.cccv.de/39c3/talk/S3FPQX/",
+  "title": "Hacking Karlsruhe - 10 years later",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "\"Wir gehen nach Karlsruhe!\u201c \u2013 das klang vor zehn Jahren nach Aufbruch und juristischem Hack. Heute ist klar: Strategische Prozessf\u00fchrung ist kein Sprint, sondern ein z\u00e4hes, manchmal frustrierendes Dauerprojekt.\r\n\r\nIn diesem Talk ziehen wir Bilanz: Was haben wir mit zivilgesellschaftlichen Verfassungsbeschwerden im Bereich Technologie erreicht \u2013 und wo sind wir gescheitert? Welche Fehler w\u00fcrden wir heute vermeiden, welche Wege waren richtig? Und was bedeutet es, wenn das h\u00f6chste deutsche Gericht zunehmend weniger Lust auf digitalpolitische Grundrechtsfragen zeigt?\r\n\r\nEin realistischer Blick hinter die Kulissen strategischer Klagen \u2013 und die Frage: Wie hackt man das Rechtssystem im Jahr 2025?",
+  "description": "Wenn Gesetze Grundrechte verletzen, warum nicht das Bundesverfassungsgericht hacken \u2013 mit Strategie, Teamwork und guter Begr\u00fcndung? Aus dieser Idee ist inzwischen ein zentrales Werkzeug zivilgesellschaftlicher Gegenmacht geworden: Strategische Prozessf\u00fchrung. Das Prinzip ist einfach: Gesetze nicht nur kritisieren, sondern systematisch angreifen, mit gezielten Verfassungsbeschwerden gegen \u00dcberwachung, Zensur und staatliche Eingriffe in die digitale Freiheit.\r\nSeitdem hat sich viel getan. Organisationen wie die Gesellschaft f\u00fcr Freiheitsrechte (GFF) haben den Weg nach Karlsruhe professionalisiert und Verfahren angesto\u00dfen, die viele aus den Nachrichten kennen:\r\ngegen die Vorratsdatenspeicherung,\r\ngegen das BND-Gesetz zur Auslands\u00fcberwachung,\r\ngegen den Einsatz von Palantir,\r\nund gegen den Einsatz von Staatstrojanern.\r\nEinige dieser Verfahren waren erfolgreich und haben Gesetze gekippt. Andere sind krachend gescheitert \u2013 oder h\u00e4ngen seit Jahren in Karlsruhe fest. Dabei zeigt sich: Der Weg zum Urteil wird h\u00e4rter, die Erfolgsaussichten kleiner, und das Verfassungsgericht ist nicht mehr der progressive Motor, der es mal war.\r\nDieser Talk zieht eine ehrliche Bilanz: Was bringt strategische Prozessf\u00fchrung wirklich? Was l\u00e4sst sich aus Erfolgen und Misserfolgen lernen? Welche F\u00e4lle lohnen sich \u2013 und wo wird der Rechtsweg zur Sackgasse? Und wie verschiebt sich das Ganze inzwischen auf die europ\u00e4ische Ebene \u2013 wo neue Schaupl\u00e4tze wie der Digital Services Act oder der AI Act warten?\r\nKeine juristische Vorlesung, sondern ein Erfahrungsbericht aus zehn Jahren digitaler Grundrechtsarbeit. Es geht um Taktik, Fehlentscheidungen, unerwartete Allianzen \u2013 und um die Frage, wie man auch heute noch im Rechtssystem r\u00fctteln kann, wenn die T\u00fcren in Karlsruhe enger werden.\r\nDer Vortrag wird gehalten von Simone Ruf und J\u00fcrgen Bering von der Gesellschaft f\u00fcr Freiheitsrechte.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "RMY3D3",
+      "name": "J\u00fcrgen Bering",
+      "avatar": null,
+      "biography": null,
+      "public_name": "J\u00fcrgen Bering",
+      "guid": "c628754f-db69-5973-a535-52e518c4e542",
+      "url": "https://cfp.cccv.de/39c3/speaker/RMY3D3/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/S3FPQX/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/S3FPQX/",
+  "attachments": []
+}

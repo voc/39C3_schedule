@@ -1,0 +1,30 @@
+{
+  "guid": "99713ed4-925a-467f-a15a-22d3e1687303",
+  "code": null,
+  "id": 997134,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "03:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-blonkenclick-the-esp32-16-segment-rgb-blinken-cloc",
+  "title": "Blonkenclick, the ESP32 16 segment RGB blinken clock",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Blonkenclick, the ESP32 16 segment RGB blinken clock",
+  "description": "**Blonkenclick, the ESP32 16 segment RGB blinken clock**\n\n**Materials costs**:  \n\u20ac35 or \u20ac47\n\n**Taught by** mazzoo.\n\n**Workshop Itinerary**:\n\n    solder a beautiful RGB realtime clock with temperature sensor.\n\n![blonkenclick showing temperature](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/p/72017369b458/blonkenclick_time.jpg)\n\nit's a begginner to medium level soldering kit. but not a beginner's kit.\n\nit's made up of an ESP32 running micropython (obviously you're free to run rust on an emulated 6502 if that's your kink!) and a RTC module and one of our large 6 digit digitus16 RGB displays of 16-segment displays. HW and SW are fully opensource in case you wonder =)\n\n[blonkenclick description](https://github.com/wenzellabs/blonkenclick)\n\n[digitus16 description](https://github.com/wenzellabs/digitus16)\n\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4b8d63d6-0643-46b0-ba64-a10fa986c6b7",
+      "name": "mazzoo",
+      "public_name": "mazzoo",
+      "avatar": null,
+      "biography": "this year I'll do a workshop in the hardware hacking area on soldering our blonkenclick kit.\n\nthere will also be other kits like the anal0g flow3r, the flwr, digitus16, LIEBE and more.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/mazzoo"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/blonkenclick-the-esp32-16-segment-rgb-blinken-cloc",
+  "links": []
+}

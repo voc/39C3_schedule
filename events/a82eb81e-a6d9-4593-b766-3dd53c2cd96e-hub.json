@@ -1,0 +1,38 @@
+{
+  "guid": "a82eb81e-a6d9-4593-b766-3dd53c2cd96e",
+  "code": null,
+  "id": 828169,
+  "date": "2025-12-27T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-ethical-non-monogamy-enm-101-what-are-they-talking",
+  "title": "Ethical Non-Monogamy (ENM) 101 \u2013 What are they talking about, and why?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Ethical non-monogamy, whether its polyamory, relationship-anarchy, open relationships, solo-poly and so on are on the rise.\nBut understanding, what these new approaches to relationships are all about sometimes seems a little difficult because of all the lingo we use to make our conversations easier. This session gives a little look into the meaning of strange terms like polycule, compersion or metamour, easily misunderstood ideas like garden party enm vs. kitchen table enm, or acronyms like NRE. Armed with these (new?) concepts we'll also have a little Q&A where we'll try to give some insights into the realities of ENM life.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "03009b1d-1c72-42f6-9d67-a3d17a0341ef",
+      "name": "zenme",
+      "public_name": "zenme",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/zenme"
+    },
+    {
+      "guid": "72022c4b-64ef-4071-8e0b-000f5e6ab22d",
+      "name": "so-ka (he / him)",
+      "public_name": "so-ka (he / him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/so-ka"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ethical-non-monogamy-enm-101-what-are-they-talking",
+  "links": []
+}

@@ -1,0 +1,33 @@
+{
+  "guid": "8912bb29-1b01-5e73-a6b5-7c0a0f7c8219",
+  "code": "HC9NH7",
+  "id": 110646,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-elixir-name-badge-workshop",
+  "title": "Elixir Name Badge Workshop",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop B\u00fchne (lang)",
+  "abstract": "Kleiner Workshop f\u00fcr die Empf\u00e4nger des Goatmire/Nerves-Name Badge Prototypen.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f1d36b8e-7ca5-544d-a725-ecdf50c7957c",
+      "name": "Tim Pritlove",
+      "public_name": "Tim Pritlove",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/97391367796db965d19e63b690e72b3d_dxPeImC.jpg",
+      "biography": "Diskordischer Evangelist, Professioneller Amateur, Dedizierter Podcaster\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f1d36b8e-7ca5-544d-a725-ecdf50c7957c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/elixir-name-badge-workshop",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HC9NH7/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HC9NH7/feedback/",
+  "do_not_record": true
+}

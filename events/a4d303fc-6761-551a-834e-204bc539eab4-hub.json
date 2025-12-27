@@ -1,0 +1,31 @@
+{
+  "guid": "a4d303fc-6761-551a-834e-204bc539eab4",
+  "code": "JVGQEN",
+  "id": 2079,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-breaking-architecture-barriers-running-x86-games-and-apps-on-arm",
+  "title": "Breaking architecture barriers: Running x86 games and apps on ARM",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Presenting FEX, a translation layer to run x86 apps and games on ARM devices: Learn why x86 is such a pain to emulate, what tricks and techniques make your games fly with minimal translation overhead, and how we are seamless enough that you'll forget what CPU you're using in the first place!",
+  "description": "ARM-powered hardware in laptops promises longer battery life at the same compute performance as before, but a translation layer like FEX is needed to run existing x86 software. We'll look at the technical challenges involved in making this possible: designing a high-performance binary recompiler, translating Linux system calls across architectures, and forwarding library calls to their ARM counterparts.\n\nGaming in particular poses extreme demands on FEX and raises further questions: How do we enable GPU acceleration in an emulated environment? How can we integrate Wine to run Windows games on Linux ARM? Why is Steam itself the ultimate boss battle for x86 emulation? And why in the world do we care more about page sizes than German standardization institutes?\n\nThis talk will be accessible to a technical audience and gaming enthusiasts alike. However, be prepared to learn cursed knowledge you won't be able to forget!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "215a5d2e-f2df-51ca-bca1-fceb521f9242",
+      "name": "Tony Wasserka",
+      "public_name": "Tony Wasserka",
+      "avatar": "https://cfp.cccv.de/media/avatars/991f6fc4e925ac4a_gfvoAWJ.png",
+      "biography": "System software developer and free software enthusiast. Always looking for a tough challenge, be it console emulators, GPU drivers, or compilers!\n\nI'll talk about FEX, an x86 emulator for ARM systems. My other biggest hits in the emulator world include Dolphin\ud83d\udc2c, Citra\ud83c\udf4b, and Mikage\ud83e\udd77.\n\nhttps://github.com/neobrain/\nhttps://mastodon.social/@neobrain\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_215a5d2e-f2df-51ca-bca1-fceb521f9242"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/breaking-architecture-barriers-running-x86-games-and-apps-on-arm",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/JVGQEN/"
+}

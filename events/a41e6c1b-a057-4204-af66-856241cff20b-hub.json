@@ -1,0 +1,30 @@
+{
+  "guid": "a41e6c1b-a057-4204-af66-856241cff20b",
+  "code": null,
+  "id": 416105,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-nerd-game-show",
+  "title": "\ud83d\ude48 \ud83d\ude49 \ud83d\ude4a Nerd Game Show \ud83d\ude38 \ud83d\ude39 \ud83d\ude3b",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "\ud83d\ude48 \ud83d\ude49 \ud83d\ude4a You Know Stuff \u274e \ud83c\udd97 \u2611\ufe0f Answer nerdy questions on your notebook / smartphone and win a (small) price \ud83d\ude38 \ud83d\ude39 \ud83d\ude3b\n\nhttps://kahoot.it/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ffc167ec-5ca8-4017-8153-cb6eb3f837bd",
+      "name": "Birdy1976",
+      "public_name": "Birdy1976",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/birdy1976"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nerd-game-show",
+  "links": []
+}

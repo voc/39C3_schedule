@@ -1,0 +1,40 @@
+{
+  "guid": "0d8b2ff3-3f35-5fb7-abd2-a196ca3b1be2",
+  "code": "MJXDV7",
+  "id": 82333,
+  "date": "2025-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-chaotischer-schreiben-mehr-erzahlen-ein-kollaborat",
+  "title": "Chaotischer schreiben - mehr erz\u00e4hlen. Ein kollaborativer Schreibworkshop zum Congress, f\u00fcr alle, die was zu schreiben haben. [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "\u201eHattest du einen sch\u00f6nen Congress?\u201c \u201eJa klar, also\u2026\u00e4hm\u2026was erz\u00e4hle ich jetzt?\u201c\r\nDer Congress ist intensiv. Er inspiriert, \u00fcberfordert, \u00fcberrascht und ber\u00fchrt. Gemeinsam extrahieren wir unsortierte Congress-Erlebnisse aus dem Cache und booten neu.",
+  "description": "Gar nicht so einfach, in Worte zu fassen, was zwischen LEDs und Gespr\u00e4chen, Vortr\u00e4gen und Hallen, Workshops und Zufallsmomenten entsteht. in diesem Workshop erproben wir Methoden des kreativen und ethnographischen Schreibens. Wir schreiben f\u00fcr uns allein und kollaborativ, ausgehend vom Congress, \u00fcber uns und diese Welt.\n\nSchreiben kann mehr sein als eine Technologie, um sensorische Signale zu speichern. Schreibend l\u00e4sst sich reflektieren und die Welt gestalten. Schreiben ist in diesem Sinne eine politische Praxis. Die Geschichten, die wir \u00fcber die Welt erz\u00e4hlen und uns darin erz\u00e4hlen, pr\u00e4gen, was wir f\u00fcr m\u00f6glich halten. Kultur, Wissen, Weltordnungen werden von Menschen geschrieben, gelesen und weitergetragen. Wenn wir selbst zu Schreibenden werden, k\u00f6nnen wir diese Geschichten anders erz\u00e4hlen, verschieben und aufbrechen. Hier kn\u00fcpfen wir an \u201especulative fabulations\u201c (Donna Haraway) an: die Idee, neue Zuk\u00fcnfte zu erfinden, indem wir anders erz\u00e4hlen.\nWir begreifen ethnografisches Schreiben als eine Praxis des \u201ereflecting selves and others\u201c: eine Form, die uns erlaubt wahrzunehmen, wie wir selbst und andere in Beziehung stehen, sich bewegen, f\u00fchlen, handeln.\n\nMit praktischen \u00dcbungen, kleinen Inputs und gemeinsamen Diskussionen probieren wir verschiedene Zug\u00e4nge aus: vom freien Schreiben \u00fcber Vignetten bis hin zu kollaborativen Texten, die aus unseren Congress-Erlebnissen heraus entstehen.\n\nVorkenntnisse sind nicht erforderlich, aber willkommen. Bringt euch angenehmes Schreibzeug mit: Laptop, Telefon oder Papier und Stift. Zus\u00e4tzlich haben wir auch Papier und Stifte da.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f7b2a1ed-4efe-5bee-b31d-12712c8fa3d5",
+      "name": "Lisa Tschorn",
+      "public_name": "Lisa Tschorn",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/9R8HXJ_MCog8dB.jpg",
+      "biography": "Lisa Tschorn ist K\u00fcnstlerin und Geografin. Sie arbeitet interdisziplin\u00e4r. Kollaboration ist zentral. Ihre Praxis umfasst Performances, Textarbeiten und Installationen. Sie veranstaltet Salons als offene Austauschformate und studiert jetzt auch noch biografisches und kreatives Schreiben im Master.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f7b2a1ed-4efe-5bee-b31d-12712c8fa3d5"
+    },
+    {
+      "guid": "64b913b7-31ac-5ee7-aabc-6248a4643710",
+      "name": "Isabella K\u00f6lz",
+      "public_name": "Isabella K\u00f6lz",
+      "avatar": null,
+      "biography": "Dr. Isabella K\u00f6lz ist Kulturanthropologin, Aktivistin und queer-feminstische S\u00fc\u00dfmaus. Ihre Forschungsarbeiten thematisieren Fragen nach Arbeit, Geschlecht, Digitalit\u00e4t und Gestaltung, hinterfragen common-sense Annahmen und finden kollaborativ, angewandt und experimentell statt. Sie bringt Wissenschaft, Kunst und Aktivismus, aber vor allem Menschen in ihren Projekten zusammen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_64b913b7-31ac-5ee7-aabc-6248a4643710"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chaotischer-schreiben-mehr-erzahlen-ein-kollaborat",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/MJXDV7/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/MJXDV7/feedback/"
+}

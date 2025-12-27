@@ -1,0 +1,47 @@
+{
+  "guid": "0df52094-ee30-5d05-bf48-573a5eae1a8d",
+  "code": "GQESGN",
+  "id": 1581,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-amateurfunk-im-all-kontakt-mit-fram2",
+  "title": "Amateurfunk im All \u2013 Kontakt mit Fram2",
+  "subtitle": null,
+  "language": "de",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Wir geben Einblicke in zwei intensive Wochen Planung, Koordination und Aufbau, den Betrieb einer (improvisierten) Bodenstation, sprechen \u00fcber technische H\u00fcrden, Antennendesign und Organisation \u2013 und wie wir schlie\u00dflich mit Astronautin Rabea Rogge im Weltraum gefunkt haben.",
+  "description": "Schon kurz nachdem die ersten Satelliten den Weltraum eroberten, waren auch Amateurfunkende dabei und brachten ihr Hobby in dieses Feld ein. Auch bei Fram2, der ersten bemannten Mission, die beide Polarregionen \u00fcberflog, war der Sprechfunkkontakt mit einer Universit\u00e4t fest eingeplant.\n\nDer studentische Funkclub \"AFuTUB\" (https://dk0tu.de) an der TU Berlin hat die Crew der Fram2 angefunkt \u2013 mit einem experimentellen Funksetup, das f\u00fcr viele von uns Neuland war.\n\nWir geben Einblicke in zwei intensive Wochen Planung, Koordination und Aufbau, den Betrieb einer (improvisierten) Bodenstation, sprechen \u00fcber technische H\u00fcrden, Antennendesign und Organisation \u2013 und wie wir schlie\u00dflich mit der Astronautin Rabea Rogge im Weltraum gefunkt haben.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/GQESGN/20250331_201341_Gruppenbild_Vorbereitun_MisQ644.webp",
+  "persons": [
+    {
+      "guid": "d03634a8-7ecf-5c2c-a60b-36115f5c6df8",
+      "name": "akira25",
+      "public_name": "akira25",
+      "avatar": null,
+      "biography": "Ich habe angefangen, mal irgendwas mit Freifunk zu machen, so gegen 2015. Dieses Hobby hat mich nicht nur dem Chaos n\u00e4her gebracht, sondern auch irgendwann Richtung Amateurfunk gef\u00fchrt. Somit habe ich meine Lizenz 2023 gemacht und habe seither nicht nur mit WLAN Spa\u00df, sondern auch mit allem, was davor kam und mehr Sendeleistung erlaubt. :)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d03634a8-7ecf-5c2c-a60b-36115f5c6df8"
+    },
+    {
+      "guid": "a568b3ff-c3a6-5302-94a9-abe715cc84fe",
+      "name": "flx",
+      "public_name": "flx",
+      "avatar": null,
+      "biography": "Nach meiner Ausbildung als Mechatroniker und einigen \"Erfahrungen\" mit Software in der Automatisierungstechnik wollte ich im Informatikstudium lernen wie es richtig geht.\nW\u00e4hrend des Studiums bin ich dann ein paar mal links abgebogen und habe mich komplett in die Funktechnik verwickelt. Seit 2022 bin ich Mitglied im Amaterufunkclub DK0TU und vor allem an den technischen Aspekten des Hobbys interessiert. Speziell alles rund um Satelliten hat es mir angetan.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a568b3ff-c3a6-5302-94a9-abe715cc84fe"
+    },
+    {
+      "guid": "a893aee0-16f6-5464-b713-204f48acb90b",
+      "name": "Gato",
+      "public_name": "Gato",
+      "avatar": "https://cfp.cccv.de/media/avatars/BVM8FM_8sEh35P.jpeg",
+      "biography": "Ich bin Studentin an der TU Berlin und Clubmitglied in AFuTUB.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a893aee0-16f6-5464-b713-204f48acb90b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/amateurfunk-im-all-kontakt-mit-fram2",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/GQESGN/"
+}

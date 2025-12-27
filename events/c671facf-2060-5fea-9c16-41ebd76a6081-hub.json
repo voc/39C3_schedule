@@ -1,0 +1,31 @@
+{
+  "guid": "c671facf-2060-5fea-9c16-41ebd76a6081",
+  "code": null,
+  "id": 200520,
+  "date": "2025-12-27T15:15:00+01:00",
+  "start": "15:15",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wikidata-introduction",
+  "title": "Wikidata Introduction",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "An introduction to Wikidata, the free knowledge base.",
+  "description": "Wikidata is a sister project of Wikipedia, Wikimedia Commons and other Wikimedia projects to collect and publish Linked Open Data (LOD). Here yo ucan find out what that means and how you can edit and reuse the data.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wikidata-introduction",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/YLBHLH/"
+}

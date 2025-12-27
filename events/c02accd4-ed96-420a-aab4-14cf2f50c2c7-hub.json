@@ -1,0 +1,30 @@
+{
+  "guid": "c02accd4-ed96-420a-aab4-14cf2f50c2c7",
+  "code": null,
+  "id": 24964,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Art & Play: Bus Stage",
+  "slug": "39c3-noisy-improvised-concert-on-analogdigital-modular-",
+  "title": "\u03a0XL: Noisy Improvised Concert on Analog&Digital Modular Synths (live)",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "**Artist: \u03a0XL**\r\n\r\n**Genre: Performance**\r\n\r\n\r\nImprovisierte elektronische Musik auf einem hybriden Setup, bestehend aus einem kleinen modularen System und digitalen Komponenten, die in Pure Data programmiert sind. Der Fokus liegt auf der musikalischen Erforschung roher elektronischer Kl\u00e4nge ohne den Einsatz von Echo, Hall oder Loopern. Auch wenn es rhythmische Momente geben mag, stehen diese nicht im Mittelpunkt, ebenso wenig wie Harmonie und Melodie \u2013 vielmehr sind technische/mathematische Strukturen die Ausgangspunkte. Die \u00e4sthetische Anziehungskraft entsteht durch die Akzeptanz des Klangmoments als kognitive Erfahrung und die gemeinsame Wahrnehmung eines Spannungsbogens durch Publikum und Performer*in.",
+  "description": "Improvised electronic music on a hybrid setup consisting of a small modular system and digital components programmed in Pure Data. The focus is on the musical exploration of raw electronic sounds without the use of echoes, reverb, or loopers. Even though there may be rhythmic moments, these are not the focus, nor are harmony and melody\u2014rather, technical/mathematical structures are the starting points. The aesthetic appeal arises from the acceptance of the sound moment as a cognitive experience and the shared perception of a tension arc by the audience and performer.\n\n#### Artist Bio:\n\ni am an electronic/experimental musician, composer, improviser, programmer based in leipzig/germany.\n\nafter more than 3 decades as a professional musician and instrumental teacher in various styles and on various traditional instruments, i have become a little bored and saturated with it. in addition, i have felt the desire to devote my life to other tasks such as left wing political, activist work and exploring the social space. therefore i have decided to stop making traditional music and to focus musically on improvisation and electronic sound generation.\n\nthis allows me to combine some strong interests - for example, exploring sounds, computer programming, electronic tinkering - and use them for my artistic work. i play live with a small modular system as well as with self-developed digital, computer-based instruments and controllers. in addition to ensemble \nimprovisation, i am increasingly interested in solo performances. through my long time as a wind instrumentalist i have become accustomed to always using my breath for articulation and dynamic control. \nthat's why i usually use a breath controller for my electronic performances.\nin this concert i expect to use an eurorack-modular in combination with pure data & supercollider\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ba338e686236/1120-700-max.jpg",
+  "persons": [
+    {
+      "guid": "44636aa8-eb33-4548-8e70-007750e83ab8",
+      "name": "Marty",
+      "public_name": "Marty",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marty"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/noisy-improvised-concert-on-analogdigital-modular-",
+  "links": []
+}

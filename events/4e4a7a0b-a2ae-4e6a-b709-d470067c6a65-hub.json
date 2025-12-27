@@ -1,0 +1,30 @@
+{
+  "guid": "4e4a7a0b-a2ae-4e6a-b709-d470067c6a65",
+  "code": null,
+  "id": 447024,
+  "date": "2025-12-27T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:55",
+  "room": "RopeLabs Assembly",
+  "slug": "39c3-seile-takeln-fur-anfanger_p947",
+  "title": "Seile takeln f\u00fcr Anf\u00e4nger",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Ich zeige euch zwei Techniken zum takeln von Seilen.",
+  "description": "Unter Takling versteht sich (unter Anderem) eine Reihe von N\u00e4htechniken, um Seilenden gegen Aufdr\u00f6seln oder Ausfransen zu sichern.\n\nIch zeige euch zwei Techniken zum takeln von Seilen.\n\nMaterial wird gestellt, eigene Seile k\u00f6nnen gerne mitgebracht werden.\n\n> INFO\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d3e82a3b-3101-4e15-a2a8-41b0b6cda6dd",
+      "name": "kluthulhu",
+      "public_name": "kluthulhu",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kluthulhu"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/seile-takeln-fur-anfanger_p947",
+  "links": []
+}

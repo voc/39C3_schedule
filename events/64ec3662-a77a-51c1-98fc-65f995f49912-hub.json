@@ -1,0 +1,47 @@
+{
+  "guid": "64ec3662-a77a-51c1-98fc-65f995f49912",
+  "code": "QPPQ3R",
+  "id": 1997,
+  "date": "2025-12-27T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-who-cares-about-the-baltic-jammer-terrestrial-navigation-in-the-baltic-sea-region",
+  "title": "Who cares about the Baltic Jammer? \u2013 Terrestrial Navigation in the Baltic Sea Region",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Reports of GNSS interference in the Baltic Sea have become almost routine \u2014 airplanes losing GPS, ships drifting off course, and timing systems failing. But what happens when a group of engineers decides to build a navigation system that simply *doesn\u2019t care* about the jammer?\r\n\r\nSince 2017, we\u2019ve been developing **R-Mode**, a terrestrial navigation system that uses existing radio beacons and maritime infrastructure to provide independent positioning \u2014 no satellites needed. In this talk, we\u2019ll share our journey from an obscure research project that \u201cnobody needs\u201d to a system now seen as crucial for resilience and sovereignty. Expect technical insights, field stories from ships in the Baltic, and reflections on what it means when a civilian backup system suddenly attracts military interest.",
+  "description": "Since 2017, our team at DLR and partners across Europe have been working on an alternative to satellite navigation: **R-Mode**, a backup system based on terrestrial transmitters. Our main testbed spans the Baltic Sea \u2014 a region now infamous for GNSS jamming and spoofing.\n\nWe\u2019ll start by showing what GNSS interference actually means in practice: aircraft losing navigation data, ships switching to manual control, and entire regions facing timing outages \u2014 such as the recent disruption of telecommunications in Gda\u0144sk during Easter 2025.\n\nThen we\u2019ll take you behind the scenes of building R-Mode: designing signals that can coexist with legacy systems, installing transmitters along the coast, and testing shipborne receivers in rough conditions. We\u2019ll share personal moments \u2014 like the first time we received a stable position fix in the middle of the Baltic.\n\nFinally, we\u2019ll talk about perception and politics: how a \u201cresearch curiosity\u201d became a critical infrastructure project, why ESA now wants to build a *satellite* backup (with the same vulnerabilities), and how it feels when your civilian open-source navigation system suddenly becomes strategically relevant.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/QPPQ3R/ORMOBASS_2024_GuSS2q0_hKdyYTU.webp",
+  "persons": [
+    {
+      "guid": "c929a50b-a40a-51e9-be9a-6f0f42b52f59",
+      "name": "Lars",
+      "public_name": "Lars",
+      "avatar": "https://cfp.cccv.de/media/avatars/VXECUF_tyFBhPx.png",
+      "biography": "R&D Ingenieur der Satelliten over Engineered findet.\nArbeitet seit 8 Jahren an terrestrischen Navigation Systemen\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c929a50b-a40a-51e9-be9a-6f0f42b52f59"
+    },
+    {
+      "guid": "da804efb-6dca-511c-8abd-32a020e0c1b9",
+      "name": "Niklas Hehenkamp",
+      "public_name": "Niklas Hehenkamp",
+      "avatar": "https://cfp.cccv.de/media/avatars/WCEEPL_TDelhbt.jpg",
+      "biography": "Niklas has been working as a research assistant at DLR in Neustrelitz since 2018, researching the propagation of medium frequency R-mode signals along the Earth's surface. He likes to geek out about Earth observation and high-frequency technology, has a talent for destroying measurement equipment, and programs primarily in Python. As a true Mecklenburg native, he is politically active against right-wing extremism after work and enjoys fishing.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_da804efb-6dca-511c-8abd-32a020e0c1b9"
+    },
+    {
+      "guid": "6781559c-2d3b-5ba5-aeba-914ca87f1860",
+      "name": "Markus",
+      "public_name": "Markus",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6781559c-2d3b-5ba5-aeba-914ca87f1860"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/who-cares-about-the-baltic-jammer-terrestrial-navigation-in-the-baltic-sea-region",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/QPPQ3R/"
+}

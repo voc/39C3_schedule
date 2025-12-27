@@ -1,0 +1,32 @@
+{
+  "guid": "c5c32520-ad00-5ad9-a35c-7f0fa8150e83",
+  "code": "D9NEGK",
+  "id": 532520,
+  "date": "2025-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-antistalkinghaecksenorg",
+  "title": "antistalking.haecksen.org [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Vorstellung der Seite https://antistalking.haecksen.org/, eine Seite mit Anleitungen gegen Cyberstalking.\r\nAuch Chaostreffs k\u00f6nnen bei dieser Arbeit unterst\u00fctzen!\r\nIm Anschluss: Beratung in der Haecksen-Assembly.",
+  "description": "W\u00e4hrend der Pandemie entstand die Seite https://antistalking.haecksen.org/ in gemeinschaftlicher Arbeit verschiedener Haecksen. Seitdem sind neue Seiten hinzugekommen und neue Einfallstore wurden entdeckt. Einige Haecksen beraten Klient*innen per E-Mail und schulen Frauenberatungsstellen.\nAuch Chaostreffs k\u00f6nnen unsere Arbeit durch Hardwarespenden unterst\u00fctzen, denn h\u00e4ufig m\u00fcssen Ger\u00e4te zur Beweissicherung stillgelegt werden.\nEs soll aufgezeigt werden, wie die Seite den Beratenden helfen kann und wie man sie anwendet.\nIm Anschluss werde ich Beratung in der Haecksen-Assembly anbieten, auch f\u00fcr privatere Fragen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "175d8aeb-c2fd-582f-b54b-9783278d8163",
+      "name": "Princess",
+      "public_name": "Princess",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/NKWE7K_G2rmTA3.png",
+      "biography": "Princess bewegt sich seit November 1990 im\nInternet und hat die Entwicklung des Internets von einem rein\nakademischen Netzwerk der Vor-WWW-Zeit zu einem Massenmedium verfolgt.\nSeit 2001 engagiert sie sich beim Chaos Computer Club Stuttgart e.V.\nund tritt dort f\u00fcr \"Spa\u00df am Ger\u00e4t\" aber doch auch f\u00fcr Umsicht\nim Umgang mit Daten und Technologie ein und versieht die Arbeit der\nPressesprecherin. Der Datenschutz inner- und au\u00dferhalb des Netzes ist\nhierbei das Hauptthema.\nEin weiteres Anliegen ist ihr auch die Frauen- und M\u00e4dchenf\u00f6rderung im\ntechnischen und naturwissenschaftlichen Bereich und setzt sich daf\u00fcr bei\nden \"Haecksen\" ein, ebenso im dortigen Antistalking-Team.\nHauptberuflich ist sie in der Technikabteilung eines nichtkommerziellen\nInternetproviders besch\u00e4ftigt.\n\nE-Mail: princess@bofh.de\nWWW: https://www.querulantin.de/\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_175d8aeb-c2fd-582f-b54b-9783278d8163"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/antistalkinghaecksenorg",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/D9NEGK/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/D9NEGK/feedback/"
+}

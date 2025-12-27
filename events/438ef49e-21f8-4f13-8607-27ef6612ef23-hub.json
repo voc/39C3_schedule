@@ -1,0 +1,30 @@
+{
+  "guid": "438ef49e-21f8-4f13-8607-27ef6612ef23",
+  "code": null,
+  "id": 438492,
+  "date": "2025-12-27T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-hack-your-brain-part-2",
+  "title": "Hack Your Brain Part 2",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Warum f\u00e4llt es uns schwer, konzentriert zu bleiben \u2013 und wie l\u00e4sst sich Aufmerksamkeit gezielt trainieren?\n\nIn diesem zweiten Teil geht es um die neurobiologischen Grundlagen von Fokus, Aufmerksamkeit und Lernen. Du erf\u00e4hrst, wie dein Gehirn Informationen ausw\u00e4hlt, speichert und langfristig verf\u00fcgbar macht \u2013 und warum Ablenkung, Multitasking und Reiz\u00fcberflutung diese Prozesse messbar beeintr\u00e4chtigen.\n\nZus\u00e4tzlich erh\u00e4ltst du konkrete, wissenschaftlich fundierte Werkzeuge zur Verbesserung von Konzentration, Lernf\u00e4higkeit und mentaler Klarheit im Alltag.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3f386845-997e-422f-be9a-29e02984ee02",
+      "name": "Johannes_Max",
+      "public_name": "Johannes_Max",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/johannes_max"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hack-your-brain-part-2",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "d0ed382b-de48-4d79-a09e-0512fe713f61",
+  "code": null,
+  "id": 38248,
+  "date": "2025-12-30T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-chaos-im-thw-meetup",
+  "title": "Chaos im THW Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "THW is the civil defense agency of Germany. We will meet with people in the Chaos universe and THW to discuss topics in civil defense and disaster relief. Everyone is welcome to join us.\n\nThe session will be mainly in German. Questions and discussions can also be held in english.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f93a0a86-f833-435a-86f9-d4bd88b7d981",
+      "name": "jp",
+      "public_name": "jp",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/jp"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chaos-im-thw-meetup",
+  "links": []
+}

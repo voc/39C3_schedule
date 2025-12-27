@@ -1,0 +1,39 @@
+{
+  "guid": "cd3af7ee-3204-5404-8714-f18d33f08bd8",
+  "code": "9YBCSL",
+  "id": 1891,
+  "date": "2025-12-29T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-teckids-eine-verstehbare-digitale-welt",
+  "title": "Teckids \u2013 eine verstehbare (digitale) Welt",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Die Teckids-Gemeinschaft bringt Kinder, Jugendliche und Erwachsene zusammen, um gemeinsam aktiv f\u00fcr eine verstehbare (digitale) Welt zu sein.",
+  "description": "Bei Teckids geht es nicht \"nur\" um Technikbasteln und Programmieren mit Kindern, sondern darum, mit anderen, f\u00fcr andere, bei Events und gesellschaftlich aktiv zu werden.\n\nIn letzter Zeit haben wir viele Projekte daf\u00fcr unternommen. Unter anderem haben wir den neuen Themen-Slot \"Jung und \u00fcberwacht\" bei den BigBrotherAwards 2025 gestaltet und bereiten Jugendthemen f\u00fcr das n\u00e4chste Jahr vor. Zum zweiten Mal laden wir beim 39c3 Kinder beim Fairydust-T\u00fcr\u00f6ffner-Tag \"hinter die Kulissen\" der Chaos-Teams ein.\n\nUnser Slogan mit dem etwas merkw\u00fcrdigen Wort \"Verstehbarkeit\" steht daf\u00fcr, dass alle nicht nur die F\u00e4higkeiten, sondern auch das Recht behalten sollen, mit ihrer Technik zu machen, was sie wollen, und alles zu hinterfragen und zu verstehen. Daf\u00fcr wollen wir noch mehr junge Menschen und auch Erwachsene erreichen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a1f2b088-e43f-5870-9567-d25b01294e3f",
+      "name": "Keno",
+      "public_name": "Keno",
+      "avatar": "https://cfp.cccv.de/media/avatars/RDNA9C_ElsYTK5.png",
+      "biography": "Ich hei\u00dfe Keno, bin 11 Jahre alt und bin aktives Mitglied in der Teckids-Gemeinschaft.\n\nSeit \u00fcber zwei Jahren bin ich als eines der j\u00fcngsten Mitglieder bei Teckids aktiv und besch\u00e4ftige mich mit vielen Themen, sowohl tecnisch als auch p\u00e4dagogisch und didaktisch. Ich habe schon mehrere Workshops und Vortr\u00e4ge gehalten und gestalte fast alles in der Gemeinschaft mit \u2013 zuletzt einen Kreativbeitrag auf der B\u00fchne der BigBrotherAwards. Im Moment lerne ich, neue Kinder in der Gemeinschaft zu begleiten.\n\nAuf dem 39c3 leite ich auch Workshops zu [Luanti (Minetest)](https://luanti.org) im Kidspace.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a1f2b088-e43f-5870-9567-d25b01294e3f"
+    },
+    {
+      "guid": "48ceced7-15ca-5fb5-968b-c943873a4ca3",
+      "name": "Darius Auding",
+      "public_name": "Darius Auding",
+      "avatar": null,
+      "biography": "Hallo, mein Name ist Darius und ich bin seit ungef\u00e4hr drei Jahren aktives Mitglied der Teckids-Gemeinschaft.\n\nMein Hauptgebiet sind Workshops; ich leite selber Workshops zu verschiedenen Coding-Themen und helfe auch anderen Kindern und Jugendlichen in der Teckids-Gemeinschaft dabei, Workshops vorzubereiten und durchzuf\u00fchren.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_48ceced7-15ca-5fb5-968b-c943873a4ca3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/teckids-eine-verstehbare-digitale-welt",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9YBCSL/"
+}

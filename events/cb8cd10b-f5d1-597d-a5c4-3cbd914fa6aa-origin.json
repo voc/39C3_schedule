@@ -1,0 +1,54 @@
+{
+  "guid": "cb8cd10b-f5d1-597d-a5c4-3cbd914fa6aa",
+  "code": "SYAF7Y",
+  "id": 1899,
+  "logo": null,
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1899-power-cycle-b7-oder-warum-kauft-man-eine-zeche",
+  "url": "https://cfp.cccv.de/39c3/talk/SYAF7Y/",
+  "title": "Power Cycle B7 oder Warum kauft man eine Zeche?",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Aus einem Barwitz wurde ein Projekt!\r\n\r\nBlumenthal7 ist die letzte vollst\u00e4ndig erhaltene Schachtanlage des ehemaligen Steinkohlebergwerks General Blumenthal in Recklinghausen im n\u00f6rdlichen Ruhrgebiet. Nach diversen Startschwierigkeiten ist aus im Dornr\u00f6schenschlaf liegenden Industriebrache ein Projekt geworden das bereits jetzt einer Vielzahl von Entit\u00e4ten und Gruppen eine Heimat und einen gro\u00dfen, nahezu grenzenlosen Spielplatz bietet.\r\n\r\nBegleitet uns gerne auf beim Power Cycle B7",
+  "description": "Wir - Mitglieder des Recklingh\u00e4user Chaostreffs c3re haben gemeinsam mit einigen weiteren Menschen einen weiteren Verein, den Blumenthal7 e.V. gegr\u00fcndet mit dem Ziel ein altes Steinkohlebergwerk zu kaufen, zu erhalten, zu renovieren und vielen Menschen als Raum f\u00fcr Chaos, Kreativit\u00e4t und Happening zug\u00e4nglich zu machen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "EQ7ETN",
+      "name": "Kohlenpod",
+      "avatar": "https://cfp.cccv.de/media/avatars/EQ7ETN_kjSMt8r.png",
+      "biography": "Christian, 59 Jahre, seit dem 34c3 bei Camps und Congressen dabei.\r\n(Ex)-Podcaster, Mitglied im c3re und Blumenthal7\r\nHat viele Ideen und von nix Ahnung",
+      "public_name": "Kohlenpod",
+      "guid": "772e38f6-4ffd-5216-8bd9-22300dc12b14",
+      "url": "https://cfp.cccv.de/39c3/speaker/EQ7ETN/"
+    },
+    {
+      "code": "8AZ3LX",
+      "name": "kater",
+      "avatar": "https://cfp.cccv.de/media/avatars/8AZ3LX_MOHDJS1.png",
+      "biography": "More fields of interest than knowledge, but that's how it is. Working in IT since last millennium.",
+      "public_name": "kater",
+      "guid": "0f2af464-3a51-539d-ad0c-19dea50c77e8",
+      "url": "https://cfp.cccv.de/39c3/speaker/8AZ3LX/"
+    },
+    {
+      "code": "B7VMZE",
+      "name": "Stephan",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Stephan",
+      "guid": "9b14847d-4c87-5f73-bb38-2df93b20ed2b",
+      "url": "https://cfp.cccv.de/39c3/speaker/B7VMZE/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/SYAF7Y/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/SYAF7Y/",
+  "attachments": []
+}

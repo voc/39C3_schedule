@@ -1,0 +1,30 @@
+{
+  "guid": "013a6423-dba5-40fc-8f2a-c907c5922900",
+  "code": null,
+  "id": 13642,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-podcasting-fur-einsteigerinnen",
+  "title": "Podcasting f\u00fcr Einsteiger*innen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Podcasting ist mittlerweile sehr bekannt \u2013 also warum nicht selbst mal podcasten?\r\nDas Sendezentrum bietet euch die M\u00f6glichkeit, in einem Workshop einen Podcast aufzunehmen und bis zur Ver\u00f6ffentlichungsreife zu bearbeiten.",
+  "description": "Podcasting ist mittlerweile sehr bekannt \u2013 also warum nicht selbst mal podcasten?\nDas Sendezentrum bietet euch die M\u00f6glichkeit, in einem Workshop einen Podcast aufzunehmen und bis zur Ver\u00f6ffentlichungsreife zu bearbeiten. Dabei stehen euch erfahrene Podcaster*innen zur Seite.\nEs gibt zwei Termine, die beide denselben Workshop beinhalten.\n\nDie Anmeldung findet jeweils von 11:00 bis 11:15 bzw. von 13:30 bis 13:45 Uhr im Sendezentrum statt. Bitte daf\u00fcr vorbeikommen.\n\nHinweis: Zum Schutz der Privatsph\u00e4re der Teilnehmenden werden die Aufnahmen direkt nach dem Workshop gel\u00f6scht und k\u00f6nnen daher NICHT mitgenommen werden.\n\nTeilnehmer*innen: max. 6 pro Slot\n\nAlter: ab 10\n\nAnmeldung bei: rupi42ai (DECT: 6032)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/4ed888af392e/logo_s.png",
+  "persons": [
+    {
+      "guid": "57560921-2921-4b50-bd2c-12a8a3c38ce1",
+      "name": "Bernd",
+      "public_name": "Bernd",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/rupi42ai"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/podcasting-fur-einsteigerinnen",
+  "links": []
+}

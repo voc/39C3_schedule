@@ -1,0 +1,30 @@
+{
+  "guid": "88d03650-60d9-4e8c-8498-f12eaa10255b",
+  "code": null,
+  "id": 880365,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-neurodivergenz-meetup",
+  "title": "Neurodivergenz-Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Meetup - Revival of 37C3 and 38C3\n\nWe want to get to know each other (better) and chat about the everyday madness of living in a neurotypical world.\n\nAnyone who identifies as neurodivergent, particularly those with ADHD and/or autism, is welcome to join us.\n\nNo official diagnosis is necessary. If you don't have one or are still unsure, you are just as welcome. :-)\n\nWe'll start by collecting topics and then form discussion groups on these topics at individual tables. It is possible to switch tables during the event.\n\nFeel free to join us even after the event has started.\nThere's no such thing as being late with us, we'll be there until the end of the SOS and are happy to see more of you. <3\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b686df5b-abcf-4fa9-a3c6-f86919ec24c8",
+      "name": "Deanna (keins/none-they/them)",
+      "public_name": "Deanna (keins/none-they/them)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/deanna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/neurodivergenz-meetup",
+  "links": []
+}

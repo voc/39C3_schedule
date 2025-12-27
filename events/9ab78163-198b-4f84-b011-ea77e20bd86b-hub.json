@@ -1,0 +1,30 @@
+{
+  "guid": "9ab78163-198b-4f84-b011-ea77e20bd86b",
+  "code": null,
+  "id": 978163,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-noisio-levitation-osc-drone-synthesizer",
+  "title": "noisio Levitation OSC Drone Synthesizer",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "With its 10 oscillators, the Levitation OSC produces spherical sounds and beats down to the very deepest sub-bass range. Sine and sawtooth are available as waveforms in a wide frequency range. In addition to additive synthesis, there are optional noisio-typical 8-bit register overflows for sound calculation and a one button random chime generator.",
+  "description": "**noisio Levitation OSC Drone Synthesizer**\n\n**Materials costs**:  \n\u20ac20 - \u20ac50\n\n**Taught by** noisio.\n\n**Workshop Itinerary**: Solder yourself a synth from easy to peasy. This workshop will focus on the Levitation OSC, but other noisio synths can be build in parallel.\nNo previous solder experiences are necessary.\n\n**Registration**:  \nBuy a kit in the hours before the workshop at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: https://noisio.de/boards/levitation-oscillator\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9390da1dc9de/P1010052.jpg",
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/noisio-levitation-osc-drone-synthesizer",
+  "links": []
+}

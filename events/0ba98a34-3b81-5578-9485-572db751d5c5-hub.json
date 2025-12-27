@@ -1,0 +1,32 @@
+{
+  "guid": "0ba98a34-3b81-5578-9485-572db751d5c5",
+  "code": "WD3PZB",
+  "id": 83756,
+  "date": "2025-12-27T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-och-menno-it-und-it-security-uppsis",
+  "title": "Och Menno \u2013 IT und IT Security Uppsis",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Willkommen     zum inkompetenten Podcast mit der besonderen Folge zur Inkompetenz in der IT und IT Security. Warum ist das Password Louvre schlecht ? Wie l\u00e4uft die Cloud Transformation richtig schlecht ?\r\nEine kleine Show der Pleiten, Pech und Pannen. Und f\u00fcr die Besucher des Talks \u00fcber Uboote letztes Jahr gibt es noch einen kleinen Ausflug in die Welt der ultrakomprimierten Daten, oder die Server formaly known als TITAN Steuersystem.",
+  "description": "Ein kleiner Rundflug \u00fcber die besten Fails der letzten Jahre.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc",
+      "name": "Sven Uckermann",
+      "public_name": "Sven Uckermann",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/sticker2a_sSfUyCi.png",
+      "biography": "Der Failpodcaster, der immer wieder merkw\u00fcrdige Talks zu merkw\u00fcrdigen Themen h\u00e4lt. MAcht im realen Leben was mit kaputten Computern.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/och-menno-it-und-it-security-uppsis",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/WD3PZB/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/WD3PZB/feedback/"
+}

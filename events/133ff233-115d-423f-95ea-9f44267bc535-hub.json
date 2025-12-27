@@ -1,0 +1,30 @@
+{
+  "guid": "133ff233-115d-423f-95ea-9f44267bc535",
+  "code": null,
+  "id": 133233,
+  "date": "2025-12-28T11:45:00+01:00",
+  "start": "11:45",
+  "duration": "00:45",
+  "room": "Fediverse shared table",
+  "slug": "39c3-alternative-nutzungsweisen-von-microblogging_fbv4",
+  "title": "Alternative Nutzungsweisen von Microblogging",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "When people say Mastodon, they often mean Fediverse\u2014on the one hand because Mastodon represents a mainstream within the Fediverse, but on the other hand because even microblogging usage patterns can vary greatly and even within Mastodon there is no uniform usage pattern, which can make Mastodon seem confusing as a term. Automated posting of RSS feeds, personal exchanges with a closed community, global networking with peers from all over the world, or individual card index boxes\u2014we categorize different ways of using the platform and draw inspiration from unusual approaches to uncover the relevance and potential of Fediverse.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/b7c2b021d6ad/altnutzung.png",
+  "persons": [
+    {
+      "guid": "702d4e67-386c-47f9-a411-96f2a203d234",
+      "name": "sozialwelten (er/ihn)",
+      "public_name": "sozialwelten (er/ihn)",
+      "avatar": null,
+      "biography": "Fediverse: @sozialwelten@ifwo.eu \nMatrix: @sozialwelten:c-base.org\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/sozialwelten"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/alternative-nutzungsweisen-von-microblogging_fbv4",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "eb88bd6b-3f79-4145-9521-17ba53cde44a",
+  "code": null,
+  "id": 886379,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-jujutsu-a-git-compatible-version-control-system",
+  "title": "Jujutsu: A Git-compatible version control system",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Jujutsu (jj) is a new version control system that uses Git as its backend. Since trying it last year, it has completely replaced Git for me. It manages to be less complex than Git, while giving you more control. I think you'll like it too!\n\nLately, when people ask me complex Git questions, my answer is often: \"First, install jj\u2026\" And that's only half a joke. :P\n\n---\n\nA few things I like about Jujutsu: There's no index, but instead you get a subcommand for splitting changes. Commits have stable IDs that stay the same even after rewriting. Anonymous branches! Conflicts are first-class objects and don\u2019t have to be resolved immediately during a rebase. Rewriting history is very easy.\n\nAnd because it's Git-compatible, you can use Jujutsu right away in existing projects without anyone else noticing. :3\n\nI'm planning to do this session in two parts: First, an introductory talk about jj. After that, a \"workshop\" part where you can install Jujutsu and try it for yourself!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "be66ecaf-43fe-4862-9906-8a7081bd1b59",
+      "name": "blinry",
+      "public_name": "blinry",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/blinry"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/jujutsu-a-git-compatible-version-control-system",
+  "links": []
+}

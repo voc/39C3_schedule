@@ -1,0 +1,30 @@
+{
+  "guid": "75a7dc64-3519-47df-9cb8-6134334fecf1",
+  "code": null,
+  "id": 757643,
+  "date": "2025-12-30T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-meshtastic-for-flipper-zero",
+  "title": "Meshtastic for Flipper Zero",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "**Meshtastic for Flipper Zero**\n\n**Materials costs**:  \n\u20ac140\n\n**Taught by** Retia / Kody.\n\n**Workshop Itinerary**:  Combine the power of the LoRa Nibble with the Flipper Zero! In this specialized class, we will focus on the interoperability between your LoRa node and the Flipper Zero. Learn how to use the Flipper as a controller for your mesh node, display messages, and send messages over the mesh network.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or on the website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served. **Note: Bring your own Flipper Zero if you have one, though class content is accessible via the Nibble screen as well.**\n\n**Workshop Includes**: New Nibble Zero (Flipper Interface Compatible)\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-meshtastic-with-the-flipper-zero-30-dec-14-30-16-00)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/2ce54f172b97/signal-2025-12-23-193626.jpeg",
+  "persons": [
+    {
+      "guid": "8e9fde75-8969-4fbd-ab16-5bd330b8addb",
+      "name": "skickar",
+      "public_name": "skickar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skickar"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meshtastic-for-flipper-zero",
+  "links": []
+}

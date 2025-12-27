@@ -1,0 +1,32 @@
+{
+  "guid": "f13ada2b-70b4-5e3c-a9be-ee2b71c506fb",
+  "code": "GVYGP3",
+  "id": 2535,
+  "date": "2025-12-30T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "03:00",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-ingo-boss",
+  "title": "Ingo Boss",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Ingo Boss",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7e0b2cdc-fce3-515e-91fd-e61d01c11424",
+      "name": "Ingo Boss",
+      "public_name": "Ingo Boss",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7e0b2cdc-fce3-515e-91fd-e61d01c11424"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ingo-boss",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GVYGP3/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GVYGP3/feedback/"
+}

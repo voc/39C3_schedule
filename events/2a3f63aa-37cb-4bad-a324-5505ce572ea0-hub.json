@@ -1,0 +1,30 @@
+{
+  "guid": "2a3f63aa-37cb-4bad-a324-5505ce572ea0",
+  "code": null,
+  "id": 236337,
+  "date": "2025-12-27T17:10:00+01:00",
+  "start": "17:10",
+  "duration": "00:20",
+  "room": "Chaoswellen Assembly",
+  "slug": "39c3-sparkie",
+  "title": "Antennas and 3D printing",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "How curiosity developed a good tool for antennas. and how you can do it too.",
+  "description": "Antennen  aus dem 3D Drucker, und wie es dazu kam. eine kurze einfuerung in HF Voodoo und antennendesing. Ein show and tell.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "aadd1e27-7cfd-46de-9572-3272bb707c12",
+      "name": "marco",
+      "public_name": "marco",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marco"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sparkie",
+  "links": []
+}

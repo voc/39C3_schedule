@@ -1,0 +1,32 @@
+{
+  "guid": "5a72b08d-61e7-5ac6-b2f8-29ffef4c0d8e",
+  "code": "RPE9VY",
+  "id": 400014,
+  "date": "2025-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-mehr-privatsphare-fur-android-smartphones",
+  "title": "Mehr Privatsph\u00e4re f\u00fcr Android-Smartphones",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Keine Vorkenntnisse erforderlich!\r\nDu m\u00f6chtest Dein Android-Smartphone datenschutzfreundlicher machen? Ich zeige Dir was Du mit  Deinem vorhanden Ger\u00e4t daf\u00fcr tun kannst. Im zweiten Teil gehe ich dann auf \u201egooglefreie\u201c Android-Varianten (custom roms) und auf Linux-Smartphones ein.",
+  "description": "Keine Lust mehr, dass jede App genau wei\u00df wo Du Dich gerade befindest? Keine Lust mehr personenbezogene Werbung zu erhalten, die eh nicht passt? Ich zeige Dir, welche Einstellungen Du an Deinem Android Smartphone vornehmen kannst, damit Du etwas weniger offenherzig mit Deinen Daten umgehst. Es sind keine Vorkenntnisse erforderlich. Wir starten mit ganz einfachen Schritten. Bei Bedarf helfe ich Dir. \nIm zweiten Teil geht es dann um sogenannte custom roms, die \u201eentgoogled\u201c sind,  wie Iod\u00e9OS, GrapheneOS, etc. und eine kurzer Abstecher zu Linux-Smartphones.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0393f5c1-0680-5062-b5d8-5bc994f335d6",
+      "name": "flysch",
+      "public_name": "flysch",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0393f5c1-0680-5062-b5d8-5bc994f335d6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mehr-privatsphare-fur-android-smartphones",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/RPE9VY/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/RPE9VY/feedback/"
+}

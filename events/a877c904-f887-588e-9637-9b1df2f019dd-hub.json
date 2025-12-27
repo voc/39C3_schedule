@@ -1,0 +1,39 @@
+{
+  "guid": "a877c904-f887-588e-9637-9b1df2f019dd",
+  "code": "7MSRA7",
+  "id": 1451,
+  "date": "2025-12-29T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-10-years-of-dieselgate",
+  "title": "10 years of Dieselgate",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Let's have a (hopefully) final look at Diesel emission cheating. This technical talk summarizes what I learned by reverse-engineering dozens of engine ECU software, how I found and characterized \"interesting logic\" which, more often than not, ended up being a court-approved \"defeat device\".\r\n\r\nWhat started as a \"curious investigation\" in 2015 to obtain a ground truth to widespread media reports of \"VW being caught for cheating\" ended up as a full-blown journey through the then-current state of the Diesel car industry.\r\n\r\nIn this talk, Karsten and Felix will walk through the different implementation of defeat devices, their impact on emissions, and the challenges in documenting seemingly black boxes in court-proven expert reports.",
+  "description": "10 years ago, Felix spent a lot of sleepless nights on reverse-engineering the Diesel software that implemented the (by now) well-known \"Acoustic Function\" defeat device; he presented my findings at the 32c3 and 33c3 in 2015 and 2016, expecting this to be the last time we needed to hear about this.\n\nLittle did he know about the extent of the Diesel emissions cheating. Since then he has analyzed many more vehicles, learned a bit or two about mechanical engineering problems of cars.\n\nKarsten, working as a court-appraised expert, will add his unique view on the challenges in documenting software that was never meant to be understood by the public.\n\nThis talk will discuss methodologies of independent analysis of highly dynamic systems that many people see as black boxes (but that, of course, are not: they are just machines running software).\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a384f3b5-7578-5d78-96cf-9ad54eddaea9",
+      "name": "Felix Domke",
+      "public_name": "Felix Domke",
+      "avatar": "https://cfp.cccv.de/media/avatars/3XW7PG_vTVZIRz.webp",
+      "biography": "Felix has been reverse-engineering embedded systems for a long time. He stumbled across satellite TV receivers, gaming consoles and more recently automotive vehicle electronics and consumer drones.\n\nSince 2015, starting from a curious view at his own \"cheating\" Diesel car, he is involved in reverse-engineering and documenting various defeat devices that have been used in Diesel cars.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a384f3b5-7578-5d78-96cf-9ad54eddaea9"
+    },
+    {
+      "guid": "a37a17ed-12b4-5289-9c0b-6c0a835b5782",
+      "name": "Karsten Burger",
+      "public_name": "Karsten Burger",
+      "avatar": null,
+      "biography": "Dr. Karsten Burger hat 1997 Experimentalphysik, Spezialgebiet\nR\u00f6ntgen-Strukturbestimmung von Kristallen, promoviert. Seit 1999 ist er\nFreelancer-Softwareentwickler, seit 2021 u.a. gerichtlich bestellter\nSachverst\u00e4ndiger beim Thema \"Dieselabgas\" mittels Reverse Engineering.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a37a17ed-12b4-5289-9c0b-6c0a835b5782"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/10-years-of-dieselgate",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/7MSRA7/"
+}

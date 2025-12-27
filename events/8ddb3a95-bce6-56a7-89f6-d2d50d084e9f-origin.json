@@ -1,0 +1,45 @@
+{
+  "guid": "8ddb3a95-bce6-56a7-89f6-d2d50d084e9f",
+  "code": "TRGCPS",
+  "id": 1924,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TRGCPS/chip_LyQpGYr.png",
+  "date": "2025-12-30T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1924-laser-beams-light-streams-letting-hackers-go-pew-pew-building-affordable-light-based-hardware-security-tooling",
+  "url": "https://cfp.cccv.de/39c3/talk/TRGCPS/",
+  "title": "Laser Beams & Light Streams: Letting Hackers Go Pew Pew, Building Affordable Light-Based Hardware Security Tooling",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Stored memory in hardware has had a long history of being influenced by light, by design. For instance, as memory is represented by the series of transistors, and their physical state represents 1's and 0's, original EPROM memory could be erased via the utilization of UV light, in preparation for flashing new memory.\r\nNaturally, whilst useful, this has proven to be an avenue of opportunity to be leveraged by attackers, allowing them to selectively influence memory via a host of optical/light-based techniques. As chips became more advanced, the usage of opaque resin was used as a \"temporary\" measure to combat this flaw, by coating chips in a material that would reflect UV.\r\nPresent day opinions are that laser (or light) based hardware attacks, are something that only nation state actors are capable of doing Currently, sophisticated hardware labs use expensive, high frequency IR beams to penetrate the resin.\r\nThis project demonstrates that with a limited budget and hacker-and-maker mentality and by leveraging more inexpensive technology alternatives, we implement a tool that does laser fault injection, can detect hardware malware, detect supply chain chip replacements, and delve into the realm of laser logic state imaging.",
+  "description": "Stored memory in hardware has had a long history of being influenced by light, by design. For instance, as memory is represented by the series of transistors, and their physical state represents 1's and 0's, original EPROM memory could be erased via the utilization of UV light, in preparation for flashing new memory.\r\n\r\nNaturally, whilst useful, this also has proven to be an avenue of opportunity to be leveraged by attackers, allowing them to selectively influence memory via a host of optical/light-based techniques. As chips became more advanced, the usage of opaque resin was used as a \"temporary\" measure to combat this flaw, by coating chips in a material that would reflect undesirable UV.\r\n\r\nPresent day opinions are that laser (or light) based hardware attacks, are something that only nation state actors are capable of doing; due to both limitations of cost in tooling as well as personnel expertise required. Currently, sophisticated hardware labs use expensive, high frequency IR beams to penetrate the resin.\r\n\r\nThis project demonstrates that with a limited budget and hacker-and-maker mentality, similar results can be obtained at a fraction of the cost, from the comfort of your home or garage. With the modifications of an opensource low-cost microscope, addition of a home-built beam splitter and interchangeable diode laser, it has been shown that consumer-grade diodes are capable of producing results similar to the high-cost variants, such as the YAG lasers.\r\n\r\nOne example of results includes introducing affordable avenues to conduct laser-based fault injection, via the usage of such budget-friendly tooling. We are opening the study of these low-level hardware attacking methodologies to more entry-level security testers, without the need for hundreds of thousands of dollars in startup capital.\r\n\r\nBy leveraging more affordable technology alternatives, we have embarked on a mission to uncover hardware malware, detect supply-chain chip replacements, and delve into the realm of laser-logic-state imaging. Our approach integrates optics, laser selection, and machine learning components.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "9X79A9",
+      "name": "Patch",
+      "avatar": "https://cfp.cccv.de/media/avatars/9X79A9_4oOyyYa.jpg",
+      "biography": "Larry is a Director at NetSPI responsible for leading and executing IOT/Embedded Penetration Testing and researching new security techniques to ensure the safety of embedded systems. Larry has a master's degree in mathematics with emphases on Computer Science and Artificial Intelligence from Georgia Southern University. He has worked with several Fortune 250 companies both as an embedded systems engineer and security expert focused on medical devices. He has aided in the design and security of multiple devices in the Automotive, Financial, Medical, Wireless, and Multimedia spectrums, has been published in medical journals, and has spoken at",
+      "public_name": "Patch",
+      "guid": "16997d7d-42c7-5b62-bd31-541d4df0e8b4",
+      "url": "https://cfp.cccv.de/39c3/speaker/9X79A9/"
+    },
+    {
+      "code": "C7HVN9",
+      "name": "Sam. Beaumont (PANTH13R)",
+      "avatar": "https://cfp.cccv.de/media/avatars/C7HVN9_hzHtBOX.jpg",
+      "biography": "Sam Beaumont (PANTH13R) is the Director of Transportation, Mobility, and Cyber-Physical Systems at NetSPI, Sam is at the forefront of developing and delivering technical strategies and solutions for Hardware and Integrated Systems at NetSPI. With a career spanning 10+ years in tech and cybersecurity, Sam has established a formidable reputation for hacking anything with a chip \u2013 from hardware and embedded systems to all things that \"fly, sail, or drive\". Her extensive expertise provides NetSPI customers with unmatched technical leadership, depth, and delivery excellence in advisory and cybersecurity services, ensuring assets existing in physical spaces are fortified against evolving threats. In previous roles, Sam has served in a technical capacity as an offensive security Principal Consultant, Red Teamer, Exploit Developer, Vulnerability Researcher, and more. She has continually demonstrated a unique ability to bridge the gap between business, regulatory needs, and the most prevalent theoretical vulnerabilities. Sam's commitment to the cybersecurity community and approach to tackling cyber-physical systems has cemented her status as a practical thought leader in the field. Through continued research, speaking engagements, and mentorship, Sam is dedicated to pushing the boundaries of what's possible for women in cybersecurity, ensuring a safer, more diverse future for those who wish to secure technologies.",
+      "public_name": "Sam. Beaumont (PANTH13R)",
+      "guid": "9b232770-db59-531e-abbe-34f97f0c20df",
+      "url": "https://cfp.cccv.de/39c3/speaker/C7HVN9/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/TRGCPS/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TRGCPS/",
+  "attachments": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "6ecf04a1-465b-5722-a8fa-9f1d95660888",
+  "code": "8E3AE9",
+  "id": 2514,
+  "date": "2025-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-flow-vi",
+  "title": "Flow-Vi",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "DJ Set",
+  "abstract": "Dj Set",
+  "description": "S\u00fc\u00dfe Fr\u00fchst\u00fccke auf dem Plattenteller.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/8E3AE9/Flow-Vi_CYBGl_sDfrcsD.webp",
+  "persons": [
+    {
+      "guid": "58d5ee92-b58f-5298-93bd-d91ced04a4d8",
+      "name": "Viv & Flo",
+      "public_name": "Viv & Flo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_58d5ee92-b58f-5298-93bd-d91ced04a4d8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/flow-vi",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8E3AE9/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8E3AE9/feedback/"
+}

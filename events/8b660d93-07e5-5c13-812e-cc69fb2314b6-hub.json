@@ -1,0 +1,31 @@
+{
+  "guid": "8b660d93-07e5-5c13-812e-cc69fb2314b6",
+  "code": null,
+  "id": 200515,
+  "date": "2025-12-28T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-glam-digital-kulturerbe-im-virtuellen-dialog-zugan",
+  "title": "GLAM digital \u2013 Kulturerbe im virtuellen Dialog zug\u00e4nglich machen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Vorstellung des Online-Partizipationsformates \"GLAM digital\"",
+  "description": "Innerhalb der letzten Monate konnten wir zwei sch\u00f6ne Jubil\u00e4en begehen, das gemeinsam von Wikimedia \u00d6sterreich und Wikimedia Deutschland durchgef\u00fchrte Format \u201eGLAM digital\u201c konnte j\u00fcngst \u00fcber 100 Gastvortragende begr\u00fc\u00dfen, die an \u00fcber 50 Ausgaben teilgenommen haben. Fast jeden Monat bringt die Reihe ausgew\u00e4hlte Kultur- und Ged\u00e4chtnisinstitutionen in den Austausch mit der Wikipedia-Community. Die beteiligten Institutionen reichten von gro\u00dfen H\u00e4usern wie dem Kunsthistorischen Museum in Wien oder dem Museum Barberini in Potsdam bis zu Entdeckungen wie dem Archiv deutscher Frauenbewegungen oder dem Osttiroler Bauernhofmuseum Wurzerhof. Auch Museumsverb\u00e4nde oder nationale UNESCO-Kommissionen z\u00e4hlten bereits zu den G\u00e4sten. Wir m\u00f6chten euch das Format kurz vorstellen und euch zur Mitwirkung an k\u00fcnftigen Ausgaben von \u201eGLAM digital\u201c einladen. Mehr zum Format k\u00f6nnt ihr auch in Blogbeitr\u00e4gen oder in der Wikipedia nachlesen.\n",
+  "logo": "https://pretalx.wikimedia.de/media/39c3-2025/submissions/GPVCHH/Bildschirmfoto_2025-12-22_um_11.39.16_YjbnCnG.png",
+  "persons": [
+    {
+      "guid": "72b67aa4-ec68-53e3-8fd8-d6d74cad6e75",
+      "name": "Holger Plickert (WMDE)",
+      "public_name": "Holger Plickert (WMDE)",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/76589c02c6ad2d3fe812f8d4612aab0b_bipI1cL.jpg",
+      "biography": "Holger Plickert ist Referent f\u00fcr Kultur- und Ged\u00e4chtnisinstitutionen bei Wikimedia Deutschland e. V. Zuvor arbeitete er u. a. f\u00fcr die Stiftung Preu\u00dfische Schl\u00f6sser und G\u00e4rten Berlin-Brandenburg und die Kulturquartier Mecklenburg-Strelitz gGmbH. In seiner jetzigen Funktion versteht er sich als Bindeglied zwischen den Ehrenamtlichen der Wikimedia-Projekte und den Kultur- und Ged\u00e4chtnisinstitutionen sowie den Fachverb\u00e4nden.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_72b67aa4-ec68-53e3-8fd8-d6d74cad6e75"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/glam-digital-kulturerbe-im-virtuellen-dialog-zugan",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/GPVCHH/"
+}

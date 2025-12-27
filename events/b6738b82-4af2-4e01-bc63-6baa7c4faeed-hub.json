@@ -1,0 +1,38 @@
+{
+  "guid": "b6738b82-4af2-4e01-bc63-6baa7c4faeed",
+  "code": null,
+  "id": 673882,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-kein-palantir-bw",
+  "title": "Kein Palantir BW",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wir erz\u00e4hlen euch wie Palantir in Baden-W\u00fcrttemberg Fu\u00df fasste, wie wir versuchten dagegen vorzugehen und was ihr daraus lernen k\u00f6nnt.\n\n\u26a0\ufe0f \ud83d\udea7 \ud83c\udfd7\ufe0f \ud83d\udc77 Es handelt sich um einen **vorl\u00e4ufigen Termin**!!11 Dieser wird sich voraussichtlich noch einmal \u00e4ndern \ud83d\udc77 \ud83c\udfd7\ufe0f \ud83d\udea7 \u26a0\ufe0f\n\nWir peilen am 29.12.25 um 13:30 bis 14:30 an, wenn wir den Slot kriegen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8c001079-88bc-41de-a9aa-dc81af8e9783",
+      "name": "Dam0k1es",
+      "public_name": "Dam0k1es",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dam0k1es"
+    },
+    {
+      "guid": "f7b38e4d-336a-4a50-b232-91c1d0746964",
+      "name": "NaN (he/him)",
+      "public_name": "NaN (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/nan"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/kein-palantir-bw",
+  "links": []
+}

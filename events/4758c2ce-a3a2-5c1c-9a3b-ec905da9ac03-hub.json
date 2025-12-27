@@ -1,0 +1,39 @@
+{
+  "guid": "4758c2ce-a3a2-5c1c-9a3b-ec905da9ac03",
+  "code": "V9WGVB",
+  "id": 2034,
+  "date": "2025-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-the-39c3-drag-show",
+  "title": "The 39c3 Drag Show",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Finally a drag show at the chaos! Blinking lights, colorful outfits, and queers everywhere already seems normal at the congress. So how can it be, that all of this did not come together as drag on stage?! It is time for a really awesome, great drag show at the 39c3!\r\nAnd to show right away how divers drag is, a wonderful cast of drag artists of various genders and expressions can spread their queer joy and art for the audience.\r\n\r\nThe show is hosted by Milky Gay, the nerdiest drag king from NRW, who does not only want to throw glitter at the congress incognito this year. And he is bringing an amazing cast with him\r\nBingus Bongus (Drag Queen, Hamburg)\r\nNeuro Spicy (Drag King, NRW)\r\nMissass Nostalgia (Drag Queen, NRW) and\r\nKa\u00edn Mensch (Drag Thing, Hamburg)\r\nwill bring their queer art to finally merge chaos and drag!\r\n\r\nEveryone is welcome, we are trying to have as little barriers as possible to come and watch. No blinking lights during the show (no guarantee for the path there and acts before and after), Music Club accessible with mobility aids and wheel chairs (ask assigned angles). Mostly standing room, few seats at the side might not allow for a good view of the show. Content notes for certain parts of the show include death, cancer, violence, fake weapons, and sexual violence, and will be announced in time so people can leave and come back afterwards. Cheering is encouraged, so it might get loud. (more details tba). Please be nice to each other and especially help short people as well as queers to find a spot where they can see enough. Also, as drag is expensive, there will be a tipping round in the end - please bring some cash if you consider tipping the artists, but of course you are also welcome either way.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "dd7ebf84-d9d4-5672-84a9-4fca90789c15",
+      "name": "Keks",
+      "public_name": "Keks",
+      "avatar": null,
+      "biography": "Who is Keks?! Nope, this is MILKY GAY! The nerdiest Drag King NRW has - so no surprise that he will be found at the 39c3. While he loves infodumping khem I mean giving very important and good talks on astrophysics on drag stages, this time he will rather bring drag to the congress and is happy to offer a stage to established and new artists in this show.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_dd7ebf84-d9d4-5672-84a9-4fca90789c15"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-39c3-drag-show",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/V9WGVB/",
+  "attachments": [
+    {
+      "url": "/media/39c3-chaos-computer-music-club/submissions/V9WGVB/resources/2025_nXg8Ugo.png",
+      "type": "related",
+      "title": "Poster"
+    }
+  ],
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/V9WGVB/feedback/"
+}

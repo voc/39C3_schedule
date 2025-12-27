@@ -1,0 +1,30 @@
+{
+  "guid": "dc26f79b-96e7-4124-a4a6-36182853e94c",
+  "code": null,
+  "id": 267996,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-mocha-with-metamours-a-world-cafe-on-decoding_gum6",
+  "title": "Mocha with Metamours: A World Caf\u00e9 on Decoding Ethical Non-Monogamy",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Abstract: The world caf\u00e9 creates a space for exchanging stories and insights about ethical non-monogamy (ENM) through rotating small-group conversations. Departing from the experiences of everyone in the room, we'll explore the realities of ENM life, learn from each other's stories and questions and decode relationship patterns. The caf\u00e9 is primarily for those practicing ENM, regardless: those who are curious/exploring are equally welcome.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9186ce57-1308-4c60-af4a-d1374ea9fba6",
+      "name": "catileptic (they/she)",
+      "public_name": "catileptic (they/she)",
+      "avatar": null,
+      "biography": "Catileptic (Alex \u0218tef\u0103nescu) moves slow and fixes things.\n\nThey blog (rarely, and mostly long-form) at https://catileptic.tech/ .\n\nThey contribute to the development, maintenance and deployment of OpenAleph, a FOSS tool for investigative journalists and researchers. They do advocacy for digital rights, in Romania and the wider EU context, with Asocia\u021bia pentru Tehnologie \u0219i Internet (https://apti.ro).\n\nThey are profoundly interested in (and sometimes horrified by) how technology shapes the way we connect, imagine and prefigurate the world.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/catileptic"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mocha-with-metamours-a-world-cafe-on-decoding_gum6",
+  "links": []
+}

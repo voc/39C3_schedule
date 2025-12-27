@@ -1,0 +1,46 @@
+{
+  "guid": "67af22d6-787e-46bf-9578-6943e5c826dc",
+  "code": null,
+  "id": 672267,
+  "date": "2025-12-27T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:30",
+  "room": "Kidspace - Hackcenter",
+  "slug": "39c3-luantiminetest-mods-programmieren",
+  "title": "Luanti(Minetest)-Mods programmieren",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Das freie Open-World-Spiel Luanti(Minetest) bietet viele M\u00f6glichkeiten, kreativ zu werden und zusammen zu spielen. Das Spielprinzip ist \u00e4hnlich zu Minecraft, dennoch ist Luanti ein ganz anderes Spiel und keineswegs ein nachgemachter Klon von Minecraft. Genau genommen ist Luanti ein Framework, also ein Baukasten, mit dem sich alle ihr eigenes Sandbox- oder Voxel-Game nach eigenen Vorstellungen zusammenbauen k\u00f6nnen.\n\nWir lernen Luanti und seine Erweiterungsm\u00f6glichkeiten kennen und programmieren eine eigene Mod, die dem Spiel individuelle Items hinzuf\u00fcgt. Zudem ist es m\u00f6glich, eigene Craftingrezepte zu erstellen, mit denen die neuen Bl\u00f6cke, Items oder Werkzeuge hergestellt werden k\u00f6nnen. Je nach Interesse und Zeit werden weitere Bereiche, wie das Programmieren von Commands, eingebracht.Freund*innen spielen kann. Dabei gibt es kleinere Mods, die einzelne Elemente des Spiels ver\u00e4ndern, aber auch ganze Games, die ein eigenes Spielprinzip mit sich bringen.\n\n[https://teckids.org/projekte/hack-n-fun/workshops/luanti/](https://teckids.org/projekte/hack-n-fun/workshops/luanti/)\n\nWer sich ein Laptop f\u00fcr den Workshop ausleihen m\u00f6chte, sollte sich sp\u00e4testens eine Stunde vor dem Workshop an der Teckids-Assembly im\nDigitalcourage-Habitat melden. Wer ein eigenes Laptop benutzen m\u00f6chte, ben\u00f6tigt ein Linux-System mit Luanti ab Version 5.10.\nSiehe auch [https://events.ccc.de/congress/2025/hub/de/project/detail/assembly/laptop-ausleihe-fur-junghackerinnen/](https://events.ccc.de/congress/2025/hub/de/project/detail/assembly/laptop-ausleihe-fur-junghackerinnen/)\n\nWer nach den ersten 1,5 Stunden noch weiter machen m\u00f6chte, kann [bei Teil 2 an der Teckids-Assembly]([https://events.ccc.de/congress/2025/hub/de/event/detail/luanti-mods-minetest-programmieren-teil-2](https://events.ccc.de/congress/2025/hub/de/event/detail/luanti-mods-minetest-programmieren-teil-2)) weitermachen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0ac5199c-e3d6-43e8-81c8-a09281203db0",
+      "name": "kenorca",
+      "public_name": "kenorca",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kenorca"
+    },
+    {
+      "guid": "f2678b69-65b6-4c41-b3a7-000809480654",
+      "name": "darius",
+      "public_name": "darius",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/darius"
+    },
+    {
+      "guid": "5c91a0bd-75bf-4e02-8bf4-3eba6ae14830",
+      "name": "Natureshadow",
+      "public_name": "Natureshadow",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/natureshadow"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/luantiminetest-mods-programmieren",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "5bc4560d-2332-42f5-8c8a-c95b6fa6f56d",
+  "code": null,
+  "id": 545602,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Art & Play: Bus Stage",
+  "slug": "39c3-aylin-leclaire-electronic-live-performance",
+  "title": "Aylin Leclaire: Electronic live performance (live)",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Eing\u00e4ngige Hooks, druckvolle Beats und ein Hauch Science Fiction:\r\nAls Produzentin, Songwriterin und interdisziplin\u00e4re K\u00fcnstlerin\r\nverwebt Aylin Leclaire schillernde Pop-Melodien mit d\u00fcster\r\npulsierenden Electro-Texturen. Ihre Stimme gleitet vom sanften\r\nFl\u00fcstern bis zum strahlenden H\u00f6henflug und tr\u00e4gt Texte, die klare\r\nHaltung zeigen, ohne den Ohrwurm aus dem Blick zu verlieren.",
+  "description": "Catchy hooks, powerful beats, and a touch of science fiction:\nAs a producer, songwriter, and interdisciplinary artist, Aylin Leclaire weaves shimmering pop melodies with dark, pulsating electro textures. Her voice moves effortlessly from soft whispers to radiant soaring highs, carrying lyrics that convey a clear stance without ever losing sight of the earworm.\n\n[aylinleclaire.com](https://aylinleclaire.com)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ea56762edcf1/1667-2500-max.jpg",
+  "persons": [
+    {
+      "guid": "44636aa8-eb33-4548-8e70-007750e83ab8",
+      "name": "Marty",
+      "public_name": "Marty",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marty"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/aylin-leclaire-electronic-live-performance",
+  "links": []
+}

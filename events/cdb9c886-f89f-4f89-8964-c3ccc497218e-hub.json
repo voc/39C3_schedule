@@ -1,0 +1,30 @@
+{
+  "guid": "cdb9c886-f89f-4f89-8964-c3ccc497218e",
+  "code": null,
+  "id": 988689,
+  "date": "2025-12-28T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-queerit-gathering",
+  "title": "Queer*IT Gathering \ud83c\udf08",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We would like to invite all queer individuals interested in queer digital infrastructure (\"it by us for us as queers\") to meet with us and build a collective/community.\n\nWhether you develop software solutions, design IT infrastructure, or are simply looking for technical solutions that are suitable for us as queers and that we can trust\u2014you are very welcome \ud83d\udc96!\n\nEven if you just want to meet other queer people at the Congress, feel free to come by.\n\n\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\n\n\u201cWe\u201d are the loose collective [queerit.org](https://queerit.org), the [Digital Empowerment Project by Local IT](https://digitalempowermentproject.de/) together with the [\"queersupport\" of the youth network Lambda](https://queersupport.de).\n\nLet's build on what we already discussed as QueerIT at the Chaos Feminist Convention (you can see what that was [here](https://queerit.org/queer-it-auf-der-chaos-feminist-convention/)) and form alliances.\n\nWe look forward to seeing you!\n\n\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b190df9b-7615-4791-b7ab-061207c1f5a1",
+      "name": "lambdaqueer",
+      "public_name": "lambdaqueer",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/lambdaqueer"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/queerit-gathering",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "0d75e4c9-4e7d-4aee-bb7d-40b715b00cb1",
+  "code": null,
+  "id": 75494,
+  "date": "2025-12-27T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:30",
+  "room": "Kidspace - Hackcenter",
+  "slug": "39c3-minecraft-education-beginner-workshop-6",
+  "title": "Minecraft Education Beginner Workshop (6+)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Lerne Minecraft in Ruhe kennen und stelle deine Fragen.",
+  "description": "An educational introduction to the popular computer game with Minecraft Education. Have you always wanted to know what Minecraft is all about and would you like to find out if you feel comfortable in this digital sandbox? Our two-hour workshop offers beginners of all ages the perfect environment to get to know the popular game in peace.\n\nThe workshop will be held in German. However, we are also able to communicate in English and are happy to help you in this language.\n\n## Contents\n**Basics:** Introduction to controls and game mechanics.\n**Creative Mode:** Unlimited building and creative design.\n**Survival Mode:** Basic skills for resource management and survival.\n**Collaborative Projects:** Teamwork on building projects.\n\n## Participation Requirements\n**Target Group:** Beginners in Minecraft\n**Age:** Children aged 6+ years, as well as interested parents and grown-ups\n\n## Technical Requirements\n**No License Required:** We provide user accounts.\n**Own Internet-Enabled Device + Charger**\n**Pre-Installed Minecraft Education App:** Download from the [manufacturer\u2019s website](https://education.minecraft.net/de-de/get-started/download)\n\n## Registration\n- Please ask on Day 1 from 10:00am in Kidspace (Hall C, first floor) for a participation pass. You\u2019ll need it during the workshop.\n- Guests are welcome as long as there is space in the room.\n- Max Seats: 24\n\n## Wondering?\nAre you curious about Minecraft? Wondering if Minecraft is a suitable game for your child? Do you have questions about safety, game mechanics and the educational aspects of the game? Feel free to contact me! I'am look forward to the exchange.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f967c058-2642-4e92-b8b6-8cf75d8f7a76",
+      "name": "ghenny",
+      "public_name": "ghenny",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ghenny"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/minecraft-education-beginner-workshop-6",
+  "links": []
+}

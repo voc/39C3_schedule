@@ -1,0 +1,38 @@
+{
+  "guid": "f438c615-13cb-42a8-8f0a-1732e072d6b9",
+  "code": null,
+  "id": 438615,
+  "date": "2025-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-solder-your-own-meshtastic-meshcore-node",
+  "title": "Solder Your Own Meshtastic / Meshcore Node",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Solder Your Own Meshtastic / Meshcore Node",
+  "description": "**Solder Your Own Meshtastic / Meshcore Node**\n\n**Materials costs**:  \n\u20ac130\n\n**Taught by** Retia / Kody.\n\n**Workshop Itinerary**:  Anyone can build their own off-grid mesh communication from scratch! This beginner soldering class teaches you how to build your own full-featured LoRa mesh node from scratch. We will guide you through basic through-hole and surface-mount soldering techniques to build a custom, cat-shaped node! By the end, you'll have a fully functional node you built with your own hands, capable of running Meshtastic or Meshcore.\n**Note: This is a hardware assembly class; advanced software configuration is covered in the Meshcore classes.**\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-solder-your-own-meshtastic-meshcore-node-28-dec-10-00-11-30)\n\n**Workshop Includes**: Nibble Connect Unsoldered Kit\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/b9fd38e1fb8d/signal-2025-12-22-212237.jpeg",
+  "persons": [
+    {
+      "guid": "8e9fde75-8969-4fbd-ab16-5bd330b8addb",
+      "name": "skickar",
+      "public_name": "skickar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skickar"
+    },
+    {
+      "guid": "50846e30-a1fc-45dc-afb8-aa51f56ff1fb",
+      "name": "Hoid (he/him)",
+      "public_name": "Hoid (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hoid"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/solder-your-own-meshtastic-meshcore-node",
+  "links": []
+}

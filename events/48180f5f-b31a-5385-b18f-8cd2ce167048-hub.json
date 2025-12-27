@@ -1,0 +1,48 @@
+{
+  "guid": "48180f5f-b31a-5385-b18f-8cd2ce167048",
+  "code": "JMQVG3",
+  "id": 481805,
+  "date": "2025-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "02:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-3-in-1-crafting-workshop-hakeln-sticken-und-strick",
+  "title": "[3-in-1] Crafting-Workshop: H\u00e4keln, Sticken und Stricken f\u00fcr Anf\u00e4nger:innen [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Drei Handarbeits-Workshops finden zeitgleich statt!\r\n\r\n**H\u00e4keln:**\r\nIm Workshop wir eine Tampon-f\u00f6rmige Baumwollh\u00fclle geh\u00e4kelt, in der ein (verpackter) Tampon Platz hat und transportiert werden kann.\r\n\r\n**Sticken:**\r\nWir treffen uns in entspannter Runde, um gemeinsam Kreuzstich zu lernen und zu sticken. Keine Vorerfahrung erforderlich! Kits, N\u00e4hmaterial und Vorlagen mit bunten chaosnahen Motiven sind vorhanden. Kommt gerne auch mit euren eigenen Projekten und setzt euch dazu :3\r\n\r\n**Stricken:**\r\nStricktreffen f\u00fcr Anf\u00e4nger\\*innen und alle, die ein paar Maschen beim 39c3 stricken wollen und Ihre Skills weitergeben wollen.\r\nKnitting gathering for beginners and everyone else interested in knitting a few stitches at 39c3, and sharing their skills with beginners.",
+  "description": "**H\u00e4keln mit anma**\nH\u00e4kel Deine eigene Tampon-H\u00fclle, die praktischer Weise auch Tampon-f\u00f6rmig ist und am Rucksack getragen oder schwungvoll durch die Luft gewirbelt nicht nur ein fantastischer Gespr\u00e4chsstarter ist, sondern auch ein Statement gegen die Tabuisierung der Menstruation.\nOb f\u00fcr Dich selbst, als Geschenk oder als origineller Anh\u00e4nger f\u00fcr den Weihnachtsbaum oder Osterstrau\u00df - die Einsatzm\u00f6glichkeiten sind endlos.\nWir verwenden einfaches Baumwollgarn in passenden Farben: klassisch wei\u00df oder natur bis hin zu Rott\u00f6nen f\u00fcr den \"Used look\". H\u00e4kelkenntnisse sind von Vorteil, aber nicht zwingend erforderlich.\n\nDer Workshop ist f\u00fcr alle interessierten Personen offen.\n\n---\n\n**Sticken mit rhandos**\nWir treffen uns in entspannter Runde, um gemeinsam Kreuzstich zu lernen und zu sticken. Keine Vorerfahrung erforderlich! Ich bringe Kits, N\u00e4hmaterial und Vorlagen mit bunten chaosnahen Motiven mit. Kommt gerne auch mit euren eigenen Projekten und setzt euch dazu :3\n\nEine Liste der Motive findet ihr hier:\nhttps://git.hamburg.ccc.de/rhandos/crossstitch-patterns\n\nIch bringe genug Kits f\u00fcr alle mit. Wenn ihr au\u00dferhalb des Workshops ein Kit (mit Stoff, Nadel, Vorlage und Garn) zum Selbstkostenpreis reservieren wollt, schreibt mich gerne unter Angabe des Motivs an.\n\n---\n\n**Stricken/Knitting mit Sarah**\nIch m\u00f6chte einen Strickworkshop / ein Stricktreffen f\u00fcr Anf\u00e4nger\\*innen und alle, die ein paar Maschen beim 39c3 stricken wollen und Ihre Skills weitergeben wollen, anbieten. Stricken ist eine tolle Fertigkeit, die Du Dir am besten \"learning by doing\" mit anderen zusammen aneignen kannst. Anf\u00e4nger\\*innen k\u00f6nnten sofort einige Grundlagen lernen oder \u00fcber Projektideen sprechen. Falls Interesse besteht, k\u00f6nnen wir \u00fcber das upcycling alter Pullover(garne) sprechen.\n\nI would like to offer a knitting workshop / gathering for beginners and everyone else interested in knitting a few stitches at 39c3, and sharing their skills with beginners. I think knitting it is a wonderful skill best to be learned by doing and face to face. Beginners could learn some basics straight away, or talk about project ideas. If there is anyone interested in talking about the re-use / upcycling of old sweaters & sweater yarn, we could also do that.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "85d2c0a1-d85a-58e1-85ac-521b041dc6b7",
+      "name": "rhandos",
+      "public_name": "rhandos",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/SFXD8X_f9BIz58.png",
+      "biography": "rhandos (sie/they) macht Dinge mit Recht, Computern, Aktivismus und Kunst, oft in Kombination. Ihr aktueller home space ist CCCHH.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_85d2c0a1-d85a-58e1-85ac-521b041dc6b7"
+    },
+    {
+      "guid": "b33d5370-37ff-5673-a484-1198020a8772",
+      "name": "anma",
+      "public_name": "anma",
+      "avatar": null,
+      "biography": "Treibende Kr\u00e4fte f\u00fcr mich sind Optimismus und Idealismus.\nLeidenschaften: Handarbeit, Fahrrad fahren, backen, Chaos, Feminismus und diverses Anderes in keiner spezifischen Reihenfolge.\nIch verachte jede Form von Faschismus und Menschenfeindlichkeit.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b33d5370-37ff-5673-a484-1198020a8772"
+    },
+    {
+      "guid": "82580717-7075-54ce-b7cd-2d97cf974387",
+      "name": "Sarah",
+      "public_name": "Sarah",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/signal-2023-12-01-201356_OwgRYBL.png",
+      "biography": "Mir macht es Spa\u00df, Dinge mit meinen eigenen H\u00e4nden zu schaffen und Wissen dazu in nichtkommerziellen Kontexten weiterzugeben.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_82580717-7075-54ce-b7cd-2d97cf974387"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/3-in-1-crafting-workshop-hakeln-sticken-und-strick",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/JMQVG3/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/JMQVG3/feedback/"
+}

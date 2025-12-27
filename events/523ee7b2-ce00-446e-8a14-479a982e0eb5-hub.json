@@ -1,0 +1,30 @@
+{
+  "guid": "523ee7b2-ce00-446e-8a14-479a982e0eb5",
+  "code": null,
+  "id": 523720,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-prafiguration",
+  "title": "Pr\u00e4figuration",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A session on prefiguration.\n\nAs a term. \nAs a concept. \nAs a theory.\nAs a practice.\nAs an attitude. \nAs an emotional mode of life.\nAs a method.\n\nI will tell you about my current activist-research activities and then we can get into discussions about it.\n\nWhat does prefiguration mean? A few approaches:\n\n...'a transformative political instrument, [...]  [which] aims to establish social relationships, practices and institutions in the here and now that are intended to represent a glimpse of the desired society \u2013 among other things, in order to generate motivational effects through exemplarity and to test and practise post-transformative subjectivity.\" (S\u00f6rensen 2023, p. 14), from S\u00f6rensen, P. (2023). Prefiguration: On the political nature of transformative practice. Campus.\n\n...\u201cthe deliberative experimental implementation of desired future social relations and practices in the here-and-now\u201d (Raekstad & Gradin 2020, p. 10), from Raekstad, P. & Gradin, S. (2020). Prefigurative Politics: Building Tomorrow Today. Polity Press.\n\n...\u2018the concept of prefigurations simply refers to the search for ways of anticipating an egalitarian, horizontal society [...] a shared existence in solidarity with living beings without mutual oppression and exploitation\u2019 (Starodub 2025, p. 8), from Starodub, A. (2025). Future Without Borders: History of Ideas and the Present State of Border Demarcation. edition assemblage.\n\n...'anarchist organizations generally prefigured the future anarchist society in two ways. First, by embodying the kinds of organizational structure and methods of deliberation and decision-making that a future society would contain. Second, by performing the kinds of functions that organizations in a future society will carry out. [...] which was not original or exclusive to the anarchist movement.' (Baker 2023, S. 122-123), aus Baker, Z. (2023). Means and Ends: The Revolutionary Practice of Anarchism in Europe and The United States. ak press.\n\nTranslated with DeepL.com (free version)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e700c679-6b1e-4103-a70e-346758d066cb",
+      "name": "Tomate_aka_Radikale_Liebe",
+      "public_name": "Tomate_aka_Radikale_Liebe",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/tomate_aka_radikale_liebe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/prafiguration",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "41f2cd87-dd79-41a8-a3d1-006502123ddd",
+  "code": null,
+  "id": 412877,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:00",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-minecraft-education-erfahrung-praktische-einblicke",
+  "title": "Minecraft Education \u2013 Erfahrung, Praktische Einblicke & Austausch",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Ein kurzer Einblick in meine praktische Arbeit mit Minecraft Education im Bildungskontext \u2013 warum es als Lernwerkzeug funktioniert, wie man startet und was im Schulalltag wirklich z\u00e4hlt.\r\n\r\nDer Workshop findet je nach Teilnehmenden auf Deutsch oder Englisch statt.\r\n\r\nA brief look into my practical use of Minecraft Education in schools \u2013 why it works as a learning tool, how to get started, and what actually matters in everyday teaching.\r\nThe workshop will be held in German or English depending on the participants.",
+  "description": "The workshop will be held in German or English depending on the participants.\n\n## Description\nThis workshop offers a personal look into four years of using Minecraft Education in media literacy classes at primary and secondary schools. Many people only know Minecraft as a game \u2013 I aim to show how it can become a practical learning tool that supports creativity, problem-solving, collaboration, and digital skills.\n\nThe workshop is intended for anyone interested in how Minecraft can be used meaningfully in education or how teaching works inside an open sandbox environment.\n\n## Topics\n- Why I use Minecraft as an educational tool\n- Concrete experiences from real classrooms\n- Setup and technical requirements\n- Funding options available to schools\n- What Minecraft Education is and how it differs from other versions\n- Open Q&A and peer exchange\n\n## Note on proprietary software\nMinecraft Education is proprietary and owned by Microsoft. This is a valid point of debate within the Chaos community. I will explain why I chose it for school settings, what alternatives I have considered, and where open solutions currently reach their limits. The goal is a transparent, experience-based discussion rather than product promotion.\n\n**Format:** Short input and open discussion\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f967c058-2642-4e92-b8b6-8cf75d8f7a76",
+      "name": "ghenny",
+      "public_name": "ghenny",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ghenny"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/minecraft-education-erfahrung-praktische-einblicke",
+  "links": []
+}

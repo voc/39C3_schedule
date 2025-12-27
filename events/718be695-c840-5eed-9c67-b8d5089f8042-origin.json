@@ -1,0 +1,45 @@
+{
+  "guid": "718be695-c840-5eed-9c67-b8d5089f8042",
+  "code": "UXDELZ",
+  "id": 2257,
+  "logo": null,
+  "date": "2025-12-30T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2257-redscout42-zur-digitalen-wohnungsfrage",
+  "url": "https://cfp.cccv.de/39c3/talk/UXDELZ/",
+  "title": "RedScout42 \u2013 Zur digitalen Wohnungsfrage",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Wer heutzutage eine Wohnung sucht, kommt kaum noch darum herum, sich einen Account bei Immoscout24 & Co. zu erstellen. Diese \u201ePlatform Real Estate\u201c sind eine besondere Art der \u201eWalled Gardens\u201c, die ihr Gesch\u00e4ftsmodell auf die sich immer weiter versch\u00e4rfende Wohnungskrise ausgerichtet haben. Und das ist \u00e4u\u00dferst profitabel f\u00fcr die Besitzer dieser Strukturen der Daseinsvorsorge: Im September 2025 stieg Scout24 in den DAX auf und reiht sich damit in Unternehmen wie BMW, Rheinmetall und SAP ein.",
+  "description": "In unserem Vortrag zeigen wir, wie Immoscout & Co. mit einem ausgekl\u00fcgelten technischen System Monopolprofite generiert, die Mieten in die H\u00f6he treibt und ein Vermieterparadies aufgebaut hat, das die Mieter:innen in den Wahnsinn treibt. \r\n\r\nWir bleiben aber nicht bei der Kritik stehen, sondern zeigen, wie durch die Vergesellschaftung von Plattformen der Daseinsvorsorge ein Werkzeug entstehen kann, das den Mittellosen auf dem Wohnungsmarkt hilft. Vermieter in ihre Schranken zu weisen und Markttransparenz f\u00fcr alle statt nur f\u00fcr die Besitzenden zu schaffen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "TSL8NC",
+      "name": "Sandra",
+      "avatar": null,
+      "biography": "Sandra forscht zur Politischen \u00d6konomie der KI und technologischem Wandel, ist Mitglied beim Zentrum Emanzipatorische Technikforschung und Redakteurin der PROKLA. Zeitschrift f\u00fcr kritische Sozialwissenschaft.",
+      "public_name": "Sandra",
+      "guid": "6c739ba3-fa1c-5ba6-b6f7-770f9b13e7ab",
+      "url": "https://cfp.cccv.de/39c3/speaker/TSL8NC/"
+    },
+    {
+      "code": "X3SB8W",
+      "name": "Leonard",
+      "avatar": null,
+      "biography": "Ist aktiv bei **Deutsche Wohnen & Co enteignen** und veranstaltet den Developer Meetup **techfrombelow**. Beruflich arbeitet er als Produktmanager bei einer Non-Profit.",
+      "public_name": "Leonard",
+      "guid": "49c8949a-916a-5c12-8630-785e2f625512",
+      "url": "https://cfp.cccv.de/39c3/speaker/X3SB8W/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/UXDELZ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/UXDELZ/",
+  "attachments": []
+}

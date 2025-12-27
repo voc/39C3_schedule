@@ -1,0 +1,36 @@
+{
+  "guid": "6396165e-0c44-58d3-a345-a63966473508",
+  "code": "FJWMWQ",
+  "id": 2386,
+  "logo": null,
+  "date": "2025-12-30T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "01:30",
+  "room": "One",
+  "slug": "39c3-2386-die-groe-datenschutz-datenpannen-und-ds-gvo-show",
+  "url": "https://cfp.cccv.de/39c3/talk/FJWMWQ/",
+  "title": "Die gro\u00dfe Datenschutz-, Datenpannen- und DS-GVO-Show",
+  "subtitle": "",
+  "track": "Entertainment",
+  "type": "Game show",
+  "language": "de",
+  "abstract": "Datenschutz darf auch Spa\u00df machen, und alle k\u00f6nnen dabei etwas lernen, egal ob Einsteiger oder Profi-Hacker: Bei dem Datenschutz- und Datenpannen-Quiz k\u00e4mpfen vier Kandidat:innen aus dem Publikum zusammen mit dem Publikum um den Sieg. Nicht nur Wissen rund um IT-Sicherheit und Datenschutz sondern auch eine schnelle Reaktion und das n\u00f6tige Qu\u00e4ntchen Gl\u00fcck entscheiden \u00fcber Sieg und Niederlage. Die Unterhaltsame Datenschutz-Quiz-Show mit Bildungsauftrag!",
+  "description": "Datenschutz wird oftmals als l\u00e4stige Pflicht wahrgenommen \u2013 aber was will und macht Datenschutz, f\u00fcr was ist er sinnvoll und was ist zu beachten? In welche Stolperfallen k\u00f6nnen auch Nerds hineinfallen? **Die Datenschutz- und DSGVO-Show vermittelt spielerisch Datenschutzgrundlagen,** bietet einen Einblick in die Praxis der Datenschutz-Aufsichtsbeh\u00f6rden und zeigt typische technische wie rechtliche Fehler im Umgang mit personenbezogenen Daten. Aber auch f\u00fcr Datenschutz-Profis und Superhirne sind einige harte N\u00fcsse dabei.\r\n\r\nDer Moderator arbeitet beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg und berichtet aus der praktischen Arbeit einer Aufsichtsbeh\u00f6rde, nennt rechtliche Grundlagen, gibt Hinweise zu notwendigen technischen Ma\u00dfnahmen nach Artikel 32 DS-GVO und die oftmals schwierige Risikoabsch\u00e4tzung nach \u201ewir wurden gecybert\u201c-Sicherheitsvorf\u00e4llen.\r\n\r\nIm Quiz selbst m\u00fcssen die Kandidat:innen in ihren Antworten praktische L\u00f6sungsvorschl\u00e4ge f\u00fcr h\u00e4ufige technische und rechtliche Probleme vorschlagen, zum Beispiel welche technischen Ma\u00dfnahmen bei bestimmten Datenpannen nach dem \u201eStand der Technik\u201c angebracht sind, ob man als Website-Betreiber denn nun Google Analytics nutzen darf oder wie man sich gegen (rechtswidrige) Datensammler wehrt. Dadurch k\u00f6nnen Teilnehmer wie Zuschauer die praktische Anwendung der DS-GVO spielerisch lernen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "BHSBAY",
+      "name": "Alvar C.H. Freude",
+      "avatar": "https://cfp.cccv.de/media/avatars/BHSBAY_4wpRxa0.jpg",
+      "biography": "Alvar Freude ist Leiter der Abteilung f\u00fcr technisch-organisarischen Datenschutz, Datensicherheit und Internet-Recht beim Landesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit Baden-W\u00fcrttemberg.",
+      "public_name": "Alvar C.H. Freude",
+      "guid": "b75ccf8d-26e5-5954-a3e9-c2f0104c3b92",
+      "url": "https://cfp.cccv.de/39c3/speaker/BHSBAY/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/FJWMWQ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/FJWMWQ/",
+  "attachments": []
+}

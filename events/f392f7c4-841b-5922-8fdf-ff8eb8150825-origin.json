@@ -1,0 +1,36 @@
+{
+  "guid": "f392f7c4-841b-5922-8fdf-ff8eb8150825",
+  "code": "AFTZCD",
+  "id": 1631,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/AFTZCD/Summary-min_vFYP5QT.png",
+  "date": "2025-12-29T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1631-shit-for-future-turning-human-shit-into-a-climate-solution",
+  "url": "https://cfp.cccv.de/39c3/talk/AFTZCD/",
+  "title": "Shit for Future: turning human shit into a climate solution",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Humanity has already crossed the point where simply reducing emissions will no longer be enough to keep global warming below 2\u00b0C. According to the IPCC (AR6, WGIII), it is now essential to actively remove greenhouse gases from the atmosphere in order to meet global climate targets, maintain net-zero (or even net-negative emissions), and address the burden of historical emissions. At the same time, degraded soils and the climate crisis are a threat to global food security.\r\nTwo years ago, I presented an overview of different methods available for carbon dioxide removal. Today, I want to show you an example of how CO\u2082 can be removed from the atmosphere while simultaneously improving the lives of local communities:\r\n\r\nHuman shit.\r\n\r\nHuman shit is a high abundant biomass, contains critical nutrients for global food security, and causes serious health and environmental issues from poor or non-existent treatment outside industrial countries. Converting shit into biochar presents a powerful solution: the process eliminates contaminants, stabilizes and locks away carbon, and can be used to improve agricultural soils. The challenge is that most nutrients in this biochar are not accessible to plants. To overcome this, I mixed human and chicken shit and produced a \u201cSuperchar\u201d that releases far more nutrients. It\u2019s not magic, it\u2019s just some chemistry and putting aside your prejudices and disgust. I\u2019ll show you how I did some shit experiments in Hamburg and Guatemala and how you can do it too.",
+  "description": "Today\u2019s science mostly follows worn-out pathways and lack big discoveries and innovations. Scientists often don\u2019t want to take a risk because the competition for a permanent position in academia is so high, which pressures them into conservative research topics supported by their supervisors. Even when science provides helpful solutions for urgent problems, the knowledge mostly ends up in libraries, written in papers that nobody understands. I want to show that it is worthwhile to follow research ideas that are unconventional, upset your boss af and explore topics that are unpopular like working with shit. I hope that sharing stories of how a funny idea turned into a solution encourage others to start making impact in their environment.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "APPKYC",
+      "name": "Elena",
+      "avatar": "https://cfp.cccv.de/media/avatars/APPKYC_ZFY8iwg.png",
+      "biography": "Hey there. I'm a geoscientist removing carbon dioxide permanently from the air by spreaking volcanic rock powder and biochar on agricultural fields. This is something Earth has done for billions of years and humans have used it for several thousands of years because it makes soils more fertile and resilient. Visit my presentation and enjoy the shitshow. ;)",
+      "public_name": "Elena",
+      "guid": "69eaf97b-36cc-58a5-9d62-7c84f0b69dbe",
+      "url": "https://cfp.cccv.de/39c3/speaker/APPKYC/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/AFTZCD/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/AFTZCD/",
+  "attachments": []
+}

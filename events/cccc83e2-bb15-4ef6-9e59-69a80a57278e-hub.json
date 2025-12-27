@@ -1,0 +1,21 @@
+{
+  "guid": "cccc83e2-bb15-4ef6-9e59-69a80a57278e",
+  "code": null,
+  "id": 832154,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "12:00",
+  "room": "SegFaultDragons Assembly",
+  "slug": "39c3-soldering-competition-day-2",
+  "title": "Soldering Competition - Day 2",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Hand soldering competition",
+  "description": "This is a smd hand soldering competition - the goal is to solder a Winkekatze with some LED lights in the shortest time possible. Every contestant keeps the board and the overall top 3 win a prize. \nContestants are expected to have smd soldering experience - beginners will not be able to finish within 90 minutes. For more details check out the competition's website: https://handsolderingcompetition.de/\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/soldering-competition-day-2",
+  "links": []
+}

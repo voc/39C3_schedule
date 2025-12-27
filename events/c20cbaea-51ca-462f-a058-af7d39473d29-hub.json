@@ -1,0 +1,30 @@
+{
+  "guid": "c20cbaea-51ca-462f-a058-af7d39473d29",
+  "code": null,
+  "id": 205146,
+  "date": "2025-12-30T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-reform-des-nachrichtendienstrechts-austausch-uber-",
+  "title": "Reform des Nachrichtendienstrechts: Austausch \u00fcber pr\u00e4ventive Schutzkonzepte f\u00fcr hochgef\u00e4hrdete Personen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Die deutsche Bundesregierung plant aktuell die Reform des Nachrichtendienstrechts. Was bei der medialen Aufregung oft unerw\u00e4hnt bleibt: Die neuen Regelungen spielen mit Feuer mit Leib und Leben h\u00f6chstgef\u00e4hrdeter Personen.\n\nDas Problem: Ein ex post Rechtsschutz kommt meistens zu sp\u00e4t, nachdem der gravierende Schaden bereits eingetreten ist. Das bedeutet, der Schadensfall muss bereits ex ante durch pr\u00e4ventive Schutzkonzepte und Handlungsvorschl\u00e4ge m\u00f6glichst verhindert werden.\n\nIn einer Austauschsession soll besprochen werden, wie m\u00f6gliche Handlungsvorschl\u00e4ge, Standards und policy-Entw\u00fcrfe f\u00fcr ex ante Schutzkonzepte und m\u00f6glichst effizienten Rechtsschutz im Eilfall entwickelt und verbreitet werden k\u00f6nnen. Zielgruppe sind nicht nur Jurist:innen, sondern insbesondere auch gef\u00e4hrdete Personen und solche, die mit ihnen zusammenarbeiten (insb. Journalist:innen, Anw\u00e4lt:innen, etc).\n\nDie Organisationskreatur ist Jurastudi in Examensvorbereitung.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "36f11832-3d42-46d6-a47d-fbd26ae6d603",
+      "name": "eugene (he/him)",
+      "public_name": "eugene (he/him)",
+      "avatar": null,
+      "biography": "Just a dude trying to learn more about cyber security. Always open to meet new people in the community. Memes about adhd and/or academia are highly appreciated. When not @39c3, I\u2018m finishing my law degee.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/eugene"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/reform-des-nachrichtendienstrechts-austausch-uber-",
+  "links": []
+}

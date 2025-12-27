@@ -1,0 +1,39 @@
+{
+  "guid": "910d24ff-efce-5adc-8b86-0f9c55fb1cda",
+  "code": "9AEJAR",
+  "id": 1820,
+  "date": "2025-12-30T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-cuii-wie-konzerne-heimlich-webseiten-in-deutschland-sperren",
+  "title": "CUII: Wie Konzerne heimlich Webseiten in Deutschland sperren",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Stellt euch vor, eine private Organisation aus milliardenschweren Konzernen entscheidet, welche Webseiten ihr nicht besuchen d\u00fcrft - ohne Richter, ohne \u00f6ffentliche Kontrolle oder Transparenz. \r\nGenau das macht die CUII in Deutschland seit Jahren.",
+  "description": "In Deutschland entscheidet eine private Organisation aus Internetanbietern und gro\u00dfen Unterhaltungskonzernen, welche Webseiten f\u00fcr den Gro\u00dfteil der Bev\u00f6lkerung nicht mehr erreichbar sind. \nDie selbsternannte \"Clearingstelle Urheberrecht im Internet\" sperrt ohne richterliche Beschl\u00fcsse den Zugriff auf Hunderte von Domains. \nWir haben daraufhin cuiiliste.de ins Leben gerufen, um die geheim gehaltene Liste von Domains zu ver\u00f6ffentlichen und so mehr Transparenz in die heimliche Zensur der Konzerne zu bringen.\nUnsere Auswertung der Liste zeigte: Fast ein Drittel der gesperrten Domains erf\u00fcllte \u2013 teils seit Jahren \u2013 nicht mehr die Kriterien f\u00fcr eine Sperre.\nWir werden uns ansehen, wie dutzende Domains nach \u00f6ffentlichem Druck wieder entsperrt wurden, w\u00e4hrend Provider gleichzeitig deren Sperren noch mehr verschleierten.\nVor ein paar Monaten soll sich angeblich viel ge\u00e4ndert haben bei der CUII - doch diese \u00c4nderung sieht leider verd\u00e4chtig nach einem PR-Stunt aus, um weiterhin Seiten ohne Transparenz sperren zu k\u00f6nnen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0c099462-801e-57e6-adf2-e5a869adaf5e",
+      "name": "Lina Lastname",
+      "public_name": "Lina Lastname",
+      "avatar": "https://cfp.cccv.de/media/avatars/79UQ3F_jDhHQTV.webp",
+      "biography": "Hey! Ich recherchiere zu Netzsperren und Zensur im deutschen Internet. Website: [lina.sh](https://lina.sh/)\n\njust your local silly goober\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0c099462-801e-57e6-adf2-e5a869adaf5e"
+    },
+    {
+      "guid": "f6cf0ed8-a922-5cd5-b81e-34b6eeb7ce46",
+      "name": "Elias Zeidler (Northernside)",
+      "public_name": "Elias Zeidler (Northernside)",
+      "avatar": "https://cfp.cccv.de/media/avatars/87RVFF_zomVBeP.jpg",
+      "biography": "Hallo, ich bin Elias, in manchen Ecken des Internets besser bekannt als \"Northernside\".\n-- f\u00fcge sp\u00e4ter noch mehr hinzu :p\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f6cf0ed8-a922-5cd5-b81e-34b6eeb7ce46"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cuii-wie-konzerne-heimlich-webseiten-in-deutschland-sperren",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9AEJAR/"
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "8a09918c-9b59-53b2-ab8e-4f2cfdb460d5",
+  "code": "SSWHEP",
+  "id": 1798,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/SSWHEP/reference_6h837ss.png",
+  "date": "2025-12-29T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1798-a-media-almost-archaeology-on-data-that-is-too-dirty-for-ai",
+  "url": "https://cfp.cccv.de/39c3/talk/SSWHEP/",
+  "title": "a media-almost-archaeology on data that is too dirty for \"AI\"",
+  "subtitle": "",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "when datasets are scaled up to the volume of (partial) internet, together with the idea that scale will average out the noise,  large dataset builders came up with a human-not-in-the-loop, cheaper-than-cheap-labor method to clean the datasets: heuristic filtering. Heuristics in this context are basically a set of rules came up by the engineers with their imagination and estimation to work best for their perspective of \u201ccleaning\u201d. Most datasets use heuristics adopted from existing ones, then add some extra filtering rules for specific characteristics of the datasets. I would like to invite you to have a taste together of these silent, anonymous yet upheld estimations and not-guaranteed rationalities in current sociotechnical artifacts, and on for whom these estimations are good-enough, as it will soon be part our technological infrastructures.",
+  "description": "In 1980s, non-white women\u2019s body size data was categorized as dirty data when establishing the first women's sizing system in US. Now in the age of GPT, what is considered as dirty data and how are they removed from massive training materials? \r\n\r\nDatasets nowadays for training large models have been expanded to  the volume of (partial) internet, with the idea of \u201cscale averages out noise\u201d, these datasets were scaled up by scrabbling whatever available data on the internet for free then \u201ccleaned\u201d with a human-not-in-the-loop, cheaper-than-cheap-labor method: heuristic filtering. Heuristics in this context are basically a set of rules came up by the engineers with their imagination and estimation that are \u201cgood enough\u201d to remove \u201cdirty data\u201d of their perspective, not guaranteed to be optimal, perfect, or rational.\r\n\r\nThe talk will show some intriguing patterns of \u201cdirty data\u201d from 23 extraction-based datasets, like how NSFW gradually equals to NSFTM (not safe for training model), and reflect on these silent, anonymous yet upheld estimations and not-guaranteed rationalities in current sociotechnical artifacts, and ask for whom these estimations are good-enough, as it will soon be part our technological infrastructures.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "ZLEHE7",
+      "name": "jiawen uffline",
+      "avatar": null,
+      "biography": "jiawen(b.~362 PPM) exists as a user most of the time in their life, having little agency as a standard user, both technologically and politically. She seeks for possibilities in internet cracks for queering the given identity of a user, their wish is to be an analogk\u00e4se in the digital figurations and drip sizzling fat on the cables and ports.\r\n\r\napart from that, jiawen's work focuses on technology as memory and desire, with contaminated history but appearing pure, sterilized, decontextualized and dehistoricized, operating through reducing rather than relating. jiawen looks into the infrastructure, (counter)history, materiality, locality, materiality, poetics and politics of technology. She sees l\u0338\u0353\u032a\u031c\u0355\u032e\u0306\u030e\u0313e\u0337\u034d\u0332\u0355\u032b\u0326\u034ca\u0335\u0321\u031d\u0348\u0317\u0310k\u0334\u0322\u0356\u032e\u031e\u0323\u0304\u035b\u0313\u035b\u0310 as an instance of the space-time continuum and a definite part of the digital reality, and leaking as a method to survive together.\r\n\r\n currently based in Bremen, Germany.",
+      "public_name": "jiawen uffline",
+      "guid": "f1d763b6-26aa-55c9-bbaa-c9840cc80e14",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZLEHE7/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/SSWHEP/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/SSWHEP/",
+  "attachments": []
+}

@@ -1,0 +1,48 @@
+{
+  "guid": "413ea353-3fa6-5b40-b502-d51cb84fb779",
+  "code": "AEJYVK",
+  "id": 83768,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-landtagsrevue-live",
+  "title": "Landtagsrevue Live - AUA (Ask us Anything)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Live-Sonderausgabe der Landtagsrevue - dem Landespolitik-Ableger der Parlamentsrevue.",
+  "description": "Wir schauen zur\u00fcck auf das erste Jahr der Landtagsrevue und beantworten eure Fragen rund um die Parlamente - wie funktioniert das eigentlich alles? Wo k\u00f6nnen wir als Zivilgesellschaft am besten Einfluss nehmen? Wer sind all diese Leute?? Schickt uns eure Fragen gern vorab an landtag@parlamentsrevue.de - so k\u00f6nnen wir auch Antworten aus den L\u00e4ndern mitbringen, die nicht live dabei sind.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "09bef151-6bfe-5e26-876d-e89b5973a46f",
+      "name": "Sabrina",
+      "public_name": "Sabrina",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/TJQJAX_LtkqhOP.jpg",
+      "biography": "Seit vier Jahren versuche ich zu verstehen, was im Bundestag passiert und anderen davon zu erz\u00e4hlen. Das gelingt mal besser und mal schlechter. Ein paar Dinge habe ich dabei aber gelernt und die h\u00f6rt man dann im Podcast Parlamentsrevue.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_09bef151-6bfe-5e26-876d-e89b5973a46f"
+    },
+    {
+      "guid": "b0c94153-9c20-5a76-9149-a35e68c849da",
+      "name": "Lukas (veti)",
+      "public_name": "Lukas (veti)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b0c94153-9c20-5a76-9149-a35e68c849da"
+    },
+    {
+      "guid": "baa950d7-2945-5353-b45d-0b8069352aa4",
+      "name": "Karo",
+      "public_name": "Karo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_baa950d7-2945-5353-b45d-0b8069352aa4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/landtagsrevue-live",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/AEJYVK/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/AEJYVK/feedback/"
+}

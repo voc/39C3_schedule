@@ -1,0 +1,30 @@
+{
+  "guid": "1107113b-60b2-488a-b1a8-af10051c9c36",
+  "code": null,
+  "id": 110711,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "02:00",
+  "room": "Food Hacking Base",
+  "slug": "39c3-fhb-cheese-rendezvous",
+  "title": "FHB Cheese Rendezvous 1",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "The traditional cheese tasting! - Session 1",
+  "description": "[To secure spot on the Session I. (Day 1, SAT 20h30) please sign in here](https://dud-poll.inf.tu-dresden.de/cheese1_39c3/)\n\n[To secure spot on the Session 2. (Day 3, MON 20h30) please sign in here.](https://dud-poll.inf.tu-dresden.de/cheese2_39c3/)\n\nEach cheese tasting session is open to 25 people max, please do sign in advance, you can just show up before the event but we are very likely going to be full for this one (like three times overbooked). If you can bring cheese which you made by yourself that would be great! Of course some specific local or extraordinary cheese/s or other related condiments like sun dried tomatoes, good quality olives, mustards, wine all would be appreciated. If you are bringing cheese please do label it well with at least it's name and type of milk used, your nick or name/contact would come handy too. The best would be of course to add short description to our wiki (please check the sample). Still please sign in in advance! FHB will be getting some high quality cheeses to offer basic selection with other samples surrounding it plus some basic condiments. Note that due to the interest in previous years we are going to run two sessions, each one lasting for about two hours or bit over.\n\nThis event is based on donation at your will no one turned away for lack of funds.\n\nSo lets meet all together again enjoying these lovely creations! Here you can find cheeses which are going to be present, please do add your ones and keep in mind that good half of the cheeses will be not listed here, they will just appear and they are worth of your attention!\n\n[A full overview of cheeses you can get here](https://foodhackingbase.org/wiki/FHB@39C3/Cheese_Rendezvous)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "49d9ddd7-b146-4e94-9562-41c3a0b39b25",
+      "name": "vrs",
+      "public_name": "vrs",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/vrs"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fhb-cheese-rendezvous",
+  "links": []
+}

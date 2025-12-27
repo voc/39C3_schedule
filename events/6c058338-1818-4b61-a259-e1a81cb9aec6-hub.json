@@ -1,0 +1,30 @@
+{
+  "guid": "6c058338-1818-4b61-a259-e1a81cb9aec6",
+  "code": null,
+  "id": 605833,
+  "date": "2025-12-28T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-plushie-verse-meetup",
+  "title": "Plushie(-verse) Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Location and time can still be subject of change :3\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3d8d305d-0857-42a1-87d3-3a28c08a8b7e",
+      "name": "NcamGnrvngu (they/them)",
+      "public_name": "NcamGnrvngu (they/them)",
+      "avatar": null,
+      "biography": "Fedi: @ncamgnrvngu@nerdculture.de\n\nMatrix: @ncamgnrvngu:stratum0.org\n\nWebsite: https://ncamgnrvngu.eu\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/ncamgnrvngu"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/plushie-verse-meetup",
+  "links": []
+}

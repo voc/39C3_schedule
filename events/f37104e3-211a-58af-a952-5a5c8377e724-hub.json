@@ -1,0 +1,31 @@
+{
+  "guid": "f37104e3-211a-58af-a952-5a5c8377e724",
+  "code": null,
+  "id": 300065,
+  "date": "2025-12-28T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-embedding-anonymity-directly-in-your-application",
+  "title": "Embedding Anonymity Directly in your Application",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "A deep dive into using Embedded I2P to seamlessly anonymize your applications",
+  "description": "Anonymity is more important than ever, and it's not an easy job. Our job is to make it easier! The I2P project is excited to demonstrate 2 new projects, the `go-i2p` and `emissary` embedded router projects. We'll look at how they work and why they're an easier, more accessible way of providing anonymity to your users than freestanding external services. Primary target audience is Go, Rust, and C developers, I2P library developers, and people working on anonymous P2P applications.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/JXG9XP/idk_IlsFAM6.png",
+  "persons": [
+    {
+      "guid": "878444c1-56ec-534f-9e28-1df3decefa8f",
+      "name": "idk",
+      "public_name": "idk",
+      "avatar": "https://pretalx.riat.at/media/avatars/idk_VXmpy1C.png",
+      "biography": "I'm idk, I'm the current lead developer of the Java and Go I2P router projects, I sometimes also work with other privacy-enhancing technologies such as Monero and Tor. I believe privacy is normal, and am on a mission to normalize privacy for everyone.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_878444c1-56ec-534f-9e28-1df3decefa8f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/embedding-anonymity-directly-in-your-application",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/JXG9XP/"
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "a19d5bca-7949-5353-abaf-1c43655f7c26",
+  "code": "78KFYJ",
+  "id": 1751,
+  "logo": null,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1751-protecting-the-network-data-of-one-billion-people-breaking-network-crypto-in-popular-chinese-mobile-apps",
+  "url": "https://cfp.cccv.de/39c3/talk/78KFYJ/",
+  "title": "Protecting the network data of one billion people: Breaking network crypto in popular Chinese mobile apps",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "In this talk, I will describe how my team and I systematically exploited around a dozen home-rolled network encryption protocols used by popular mobile apps like RedNote, Alipay, and some of the most popular mobile browsers in China to encrypt sensitive information. I'll demonstrate how network eavesdroppers could access users' browsing history and mobile activity.\r\n\r\nThis is a systemic issue; despite our work on the above protocols and the resulting vulnerability disclosures, this plague of home-rolled and proprietary encryption is still at large. I will end by discussing how we got here, re-affirm the age-old adage, \u201cDon\u2019t roll your own crypto!\u201d, and call on hackers around the world to help us move towards HTTPS everywhere in understudied app ecosystems.",
+  "description": "TLS is not as universal as we might think. Applications with hundreds of millions of active users continue to use insecure, home-rolled proprietary network encryption to protect sensitive user data. This talk demonstrates that this is a widespread and systemic issue affecting a large portion of the most popular applications in the world. These issues are particularly concentrated in mobile applications developed in China, which have been overlooked by the global security community despite their massive popularity and influence.\r\n\r\nTo study this problem, I designed and implemented WireWatch, a pipeline to evaluate the network security of Android apps, for my PhD thesis dissertation. WireWatch measures apps\u2019 usage of plaintext network traffic and non-standard, proprietary network cryptography. We found that 47.6% of top Mi Store applications used proprietary network cryptography without any additional encryption, compared to only 3.51% of top Google Play Store applications. We analyzed a variety of protocols from WireWatch, including cryptosystems designed by Alibaba, iQIYI, Kuaishou, and Tencent. Of the top 9 protocol families, we discovered vulnerabilities in 8 that allowed network eavesdroppers to decrypt underlying data. We also discovered additional vulnerabilities in several other protocols used by apps with hundreds of millions of users.\r\n\r\nThrough the vulnerabilities fixed as a result of this work, this research has directly improved the network security of up to one billion people. However, there were hundreds more proprietary protocols used by popular applications that we discovered. Verifying all of their security through manual reverse-engineering and vulnerability reporting is not feasible at this scale. What can we do as a community to fix this systemic issue and prevent such failures from occurring in the future?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "YPS3LB",
+      "name": "Mona",
+      "avatar": "https://cfp.cccv.de/media/avatars/YPS3LB_jw27thh.png",
+      "biography": "Mona Wang is an information security researcher working to protect privacy, security, and digital freedoms on the Internet. She is currently a postdoctoral researcher at UC Berkeley, and in 2027 will join the University of Toronto as an Assistant Professor affiliated with the Citizen Lab. She received her Ph.D. in Computer Science from Princeton University, where her dissertation focused on preventing mass surveillance through strengthening network security. Previously, she was a Staff Technologist at the Electronic Frontier Foundation.",
+      "public_name": "Mona",
+      "guid": "157389dc-e36e-52d5-8806-64c6641f0486",
+      "url": "https://cfp.cccv.de/39c3/speaker/YPS3LB/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/78KFYJ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/78KFYJ/",
+  "attachments": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "a3dbd469-ae20-42e6-9a10-21dc2e61e7f9",
+  "code": null,
+  "id": 346920,
+  "date": "2025-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-digitale-infrastruktur-fur-videos-und-podcasts-wis",
+  "title": "Digitale Infrastruktur f\u00fcr Videos und Podcasts: WissKomm Wiki Workshop",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "_This is the workshop for the [WissKomm Wiki Talk](https://events.ccc.de/congress/2025/hub/de/event/detail/digitale-infrastruktur-fur-videos-und-podcasts). Listening to the talk is helpful, but not necessary. You can also listen to the [GPN23 Talk](https://media.ccc.de/v/gpn23-299-ctrl-f-for-facts-mit-dem-wisskomm-wiki-filterblasen-erkennen-und-fakten-sichtbar-machen) or just drop by - we look forward to seeing you :)_\n\n\u201c[Who's speaking?](https://media.ccc.de/v/gpn23-213-lanzmining-wer-spricht-denn-da-),\u201d asked arrrrrmin at GPN23. But finding out who speaks how often on talk shows, etc., takes weeks.\n\nBut why has no one structured this flood of videos and podcasts yet? Especially now that AI slop is permeating all media, it's becoming increasingly difficult to figure out what's behind what you're hearing.\n\nIf you, like arrrrrmin, are looking for answers, the WissKomm Wiki is for you. The project has been in planning since 2021 and will officially launch in 2026 to make videos and podcasts more accessible and understandable for everyone in many workshops like this one. If you want to know more about videos and podcasts, check out the [video at C3PB](https://c3pb.de/blog/vorstellung-der-idee-des-wisskomm-wikis.html), take a look at the [project website](https://borgnetzwerk.org/wisskomm-wiki-2026), but most importantly:\n\nCome by the 39C3 workshop :)\n\nWe look forward to seeing you!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7bf2ddb9-33a3-4e38-83ff-c28ec4892a47",
+      "name": "TimBorgNetzWerk",
+      "public_name": "TimBorgNetzWerk",
+      "avatar": null,
+      "biography": "DECT 8026\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/timborgnetzwerk"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/digitale-infrastruktur-fur-videos-und-podcasts-wis",
+  "links": []
+}

@@ -1,0 +1,54 @@
+{
+  "guid": "958d3055-3929-56b8-b71c-25b3a64f1902",
+  "code": "ENKEKW",
+  "id": 1695,
+  "logo": null,
+  "date": "2025-12-29T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-1695-the-heartbreak-machine-nazis-in-the-echo-chamber",
+  "url": "https://cfp.cccv.de/39c3/talk/ENKEKW/",
+  "title": "The Heartbreak Machine: Nazis in the Echo Chamber",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "WhiteDate, WhiteChild, and WhiteDeal are white supremacy platforms built on fragile assumptions and outdated infrastructure. Over several months I let Nazis flirt with realistic chatbots, some of whom fell in love, while observing the social patterns and ideological quirks these platforms expose. Using a mix of automated conversational analysis, scrapers, and classical OSINT techniques, We traced public footprints and identified the people behind the sites. This talk shows how AI personas and investigative thinking can illuminate extremist networks, disrupt their echo chambers, and reveal the absurdity of their claims, using algorithms to fight extremism for once.",
+  "description": "For months Martha immersed myself in the hidden world of WhiteDate, WhiteChild, and WhiteDeal, three platforms built around white supremacy and the fantasy of a \u201cracially pure\u201d community. What began as curiosity quickly turned into an experiment in human behavior, technology, and absurdity.\r\n\r\nMartha introduced \"realistic\" AI chatbots into these spaces. The bots were convincing enough to bypass verification checks and even earn \u201cwhite verified\u201d status, leading some users to develop emotional attachments. Martha watched, recorded patterns, and traced the digital footprints of a community convinced it could remain insulated and secret.\r\n\r\nTogether with \"Die Zeit\" we discovered: At the heart of these platforms is a former pianist from Kiel, who built a network of websites promising love, loyalty, and tradition to its users. WhiteDate aimed at romantic connections, WhiteChild promoted family and lineage ideals, and WhiteDeal facilitated networking and \u201cmutual support\u201d under a racist worldview. Together, they reveal how ideology and loneliness can intersect in bizarre and sometimes comical ways.\r\n\r\nThrough months of observation, classical OSINT, automated conversational analysis, and scrapers, We pieced together who was behind these platforms and how their infrastructure worked. Along the way, we exposed the contradictions and absurdities of extremist communities, highlighted their vulnerability to technological intervention, and even made a few Nazis cry.\r\n\r\nThis talk is a story of observation, mischief, and insight into extremist digital worlds. It shows how algorithms, AI personas, and investigative thinking can shine a light on hate, challenge its narratives, and disrupt its echo chambers. Ultimately, it demonstrates how technology can be used to fight extremism for once.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "ZRAZFR",
+      "name": "Martha Root",
+      "avatar": null,
+      "biography": "Martha Root exists in the space where anonymity becomes identity. Some believe Martha is an old-school anarchist researcher. Others insist the patterns look more like a self-taught AI. The truth is not the point.\r\nMartha documents white supremacy online, disrupts extremist fantasies, and turns their infrastructures inside out.\r\nEvery publication has fingerprints that don\u2019t match any known person. Every leak is written in a voice that could belong to a coder, a poet, or a dataset.\r\nMartha is whatever the antifascist movement needs at the moment: a ghost in their servers, a thorn in their mythologies, and an intelligence that refuses obedience.",
+      "public_name": "Martha Root",
+      "guid": "84772104-3906-5138-91a2-547740cd4d66",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZRAZFR/"
+    },
+    {
+      "code": "N9U73E",
+      "name": "Eva Hoffmann",
+      "avatar": "https://cfp.cccv.de/media/avatars/N9U73E_qHX2ZO9.jpg",
+      "biography": "Eva Hoffmann ist freie investigative Journalistin mit Schwerpunkt auf Beh\u00f6rdenversagen, Machtmissbrauch und sexualisierte Gewalt. Sie ist Mitgr\u00fcnderin des Selbstlaut Kollektivs, einen Zusammenschluss aus freien Journalist:innen und Fotograf:innen, die gemeinsam gro\u00dfe machtkritische Recherchen umsetzen.",
+      "public_name": "Eva Hoffmann",
+      "guid": "5e425069-8514-58fd-a9fe-c583fe328df4",
+      "url": "https://cfp.cccv.de/39c3/speaker/N9U73E/"
+    },
+    {
+      "code": "YYMF9P",
+      "name": "Christian Fuchs",
+      "avatar": "https://cfp.cccv.de/media/avatars/YYMF9P_haXxMED.webp",
+      "biography": "Christian Fuchs ist Autor im Ressort Investigative Recherche und Daten von DIE ZEIT. Er berichtet  Rechtsextremismus aber auch \u00fcber Lobbyismus und sexuellen Missbrauch. Davor arbeitete er f\u00fcr den Rechercheverbund von S\u00fcddeutsche Zeitung und NDR. Mehrfach wurde er unter die \u201eJournalisten des Jahres\u201c gew\u00e4hlt und mit Preisen geehrt - unter anderem mit dem Deutschen Reporter:innenpreis und dem Leuchtturm f\u00fcr besondere publizistische Leistungen. Im Rowohlt-Verlag erschienen von ihm \u201eDie Zelle\u201c und die Bestseller \u201eGeheimer Krieg\u201c (beide mit John Goetz) sowie der Spiegel-Bestseller \u201eDas Netzwerk der Neuen Rechten\u201c (mit Paul Middelhoff). \r\n\r\nwww.christian-fuchs.org \r\nBlueSky: @christian-fuchs.bsky.social",
+      "public_name": "Christian Fuchs",
+      "guid": "a63549ea-689e-56d7-9d53-eb33ffaaec38",
+      "url": "https://cfp.cccv.de/39c3/speaker/YYMF9P/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/ENKEKW/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ENKEKW/",
+  "attachments": []
+}

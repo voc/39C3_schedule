@@ -1,0 +1,32 @@
+{
+  "guid": "de8378e5-ace4-5544-9ef7-cd49f6595629",
+  "code": "NBVQXD",
+  "id": 2441,
+  "date": "2025-12-29T02:00:00+01:00",
+  "start": "02:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-tatendrangwav",
+  "title": "Tatendrang.wav",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Seine Sets sind gepr\u00e4gt von d\u00fcsteren, treibenden Beats und hypnotischen Grooves, die sich perfekt f\u00fcr Underground-Partys und n\u00e4chtliche Dancefloors eignen. Tatendrang ist kein Mainstream-DJ, sondern ein klarer Szene-DJ, der sich auf spezielle, energiegeladene Sounds konzentriert und damit eine loyale Fangemeinde anspricht. Mit viel Gesp\u00fcr f\u00fcr Atmosph\u00e4re und Spannungsaufbau nimmt er sein Publikum mit auf eine intensive musikalische Reise.",
+  "description": "In seinen Sets widmet sich Tatendrang.wav vor allem dem Psytrance in seinen unterschiedlichen Facetten \u2013 von tiefen, psychedelischen Klanglandschaften bis hin zu druckvollen, treibenden Passagen. Sein Fokus liegt darauf, eine dichte Atmosph\u00e4re aufzubauen, die K\u00f6rper und Geist gleicherma\u00dfen in Bewegung versetzt.\n\nDabei geht es ihm weniger um schnelle Effekte, sondern um einen konstanten Flow, hypnotische Rhythmen und eine intensive Verbindung zum Dancefloor. Tatendrang.wav steht f\u00fcr authentische Underground-Vibes, kompromisslosen Sound und lange N\u00e4chte voller Energie, Psychedelic Feelings und ekstatischer Momente.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/NBVQXD/WhatsApp_Imag_IU094Zl.webp",
+  "persons": [
+    {
+      "guid": "59345b0f-9dcb-5bdd-972d-b59f5ad87206",
+      "name": "Adnan",
+      "public_name": "Adnan",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_59345b0f-9dcb-5bdd-972d-b59f5ad87206"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tatendrangwav",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/NBVQXD/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/NBVQXD/feedback/"
+}

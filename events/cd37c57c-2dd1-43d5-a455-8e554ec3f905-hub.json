@@ -1,0 +1,21 @@
+{
+  "guid": "cd37c57c-2dd1-43d5-a455-8e554ec3f905",
+  "code": null,
+  "id": 375721,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "CADUS Skill-Station",
+  "slug": "39c3-gis-im-krisengebiet-karten-chaos-cadus",
+  "title": "GIS in Crisis Areas: Cards, Chaos & Cadus",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "GIS im Krisengebiet: Karten, Chaos & Cadus",
+  "description": "GIS at CADUS: How we work with sensitive map data in crisis zones, which tools (OSMAND, Maps.me, OSM, Google) actually work, where they fail, and how we\u2019re building our own offline-first GIS. Looking forward to your experiences and ideas!\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gis-im-krisengebiet-karten-chaos-cadus",
+  "links": []
+}

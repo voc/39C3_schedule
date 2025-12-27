@@ -1,0 +1,30 @@
+{
+  "guid": "abcc9535-44f1-480a-9996-bc17d4137c7e",
+  "code": null,
+  "id": 953544,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-sbor-medzuslowjanskogo-jezyka",
+  "title": "Sbor med\u017euslovjanskogo jezyka",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Med\u017euslovjanski jest ustrojny jezyk, razumlivy vsim Slovjanam.\n\nSbor otvorny vsem interesovatim \u2013 to\u017e ako med\u017euslovjanskym ne govori\u0161. C\u011blkom bez plana.\n\nDobrodo\u0161li!\n\n[Ho\u010dem ve\u010de togo!](http://steen.free.fr/interslavic/) / [Ne razum\u011bm :(](https://interslavic-dictionary.com)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a7e4f945-33d5-4d42-81c2-7d37e2734a92",
+      "name": "doofus",
+      "public_name": "doofus",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/doofus"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sbor-medzuslowjanskogo-jezyka",
+  "links": []
+}

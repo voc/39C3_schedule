@@ -1,0 +1,39 @@
+{
+  "guid": "d397c338-c631-5a03-a335-e3043d49188c",
+  "code": "XJ8G3Z",
+  "id": 2135,
+  "date": "2025-12-30T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-we-the-eu-and-1064-danes-decided-to-look-into-youtube-a-story-about-how-the-eu-gave-us-a-law-1064-danes-gave-us-their-youtube-histories-and-reality-ga",
+  "title": "We, the EU, and 1064 Danes decided to look into YouTube: A story about how the EU gave us a law, 1064 Danes gave us their YouTube histories, and reality gave us a headache",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "We explore what happens when Europe\u2019s ambitious data access laws meet the messy realities of studying major digital platforms. Using YouTube as a central case, we show how the European Union\u2019s efforts to promote transparency through the GDPR, the Digital Services Act (DSA), and the Digital Markets Act (DMA) are reshaping the possibilities and limits of independent platform research.\r\n\r\nAt the heart of the discussion is a paradox: while these laws promise unprecedented access to the data that shape our digital lives, the information researchers and citizens actually receive is often incomplete, inconsistent, and difficult to interpret. \r\n\r\nIn this talk, we take a close look at data donations from over a thousand Danish YouTube users, which at first glance did not reveal neat insights but sprawling file structures filled with cryptic data points. Still, if the work is put in, these digital traces offer glimpses of engagement and attention, and help us understand what users truly encountered or how the platform influenced their experiences.\r\n\r\nThe talk situates this challenge within a broader European context, showing how data access mechanisms are set up in ways that strengthen existing power imbalances. Application processes for research data vary widely, requests are rejected or delayed without clear justification, and the datasets that do arrive frequently lack the granularity required for meaningful analysis.\r\n\r\nYet the picture is not purely bleak. Citizens, researchers, and civil society already have multiple legal levers to demand greater transparency and accountability. The fundamental question is no longer whether democratic oversight is possible, but how we can use the tools at hand to make it real.",
+  "description": "**Talk Description**\nIn this talk, we explore what happens when the European Union\u2019s data access laws meet the practical realities of platform research. The talk opens with a shared introduction, where David and LK set the stage: why social media platforms like YouTube matter for democracy and what the EU has done to make them more transparent.\n\nLK will then provide a short introduction into the legally mandated ways we can currently use to access platform data: from the GDPR\u2019s right of access, the research data access provisions in the DSA, to the portability obligations into the DMA. But access is not the same as insight, a lesson David learned the hard way. Along with his team he invited over a thousand Danes to make use of their GDPR-right to their own data and donate their YouTube watch histories, searches, subscriptions and comments. Using the DSA, the team then obtained meta-data on the millions of videos the data donors had interacted with. The goal: Seeing what the digital data traces YouTube collects from its users can tell us about the platform\u2019s effect on people\u2019s lives and society. Are the data carrying indicators of polarization, loneliness, political extremism or any of the numerous other ails of society that YouTube has been suspected to cause? However, the data are difficult to get a hold of, messy, not properly annotated, and parsing them requires an almost archeological mindset. Together, we will peek behind the Youtube curtain, shine a light on what platform data actually looks like, and sketch out what can and cannot be learned from them.\n\nAll around Europe, researchers are currently facing similar challenges, parsing cryptic user and platform data from Facebook and TikTok to porn sites and Zalando. The platforms implement the data access laws to achieve minimal compliance but not to provide meaningful transparency. Data gathered by the DSA40 Data Access Collaboratory shows that application forms vary widely, researchers are rejected for non-compliant reasons, and applications artificially stalled. Other researchers have shown that the data received through some of the APIs is incomplete and inaccurate. In short: there is a lot of space for improvement. But we do not need to wait for investigations into platform compliance to conclude.. The basic conditions for democratic oversight have been set, which means that theoretically various legal ways into the platforms exist for citizens, researchers and civil society. The question that remains is which levers to use to practically realise as much of this potential as possible.\n\n**About the Presenters**\nDavid Wegmann is a PhD student at Aarhus University, Denmark. He researches social media and its societal effects using data science. As part of DATALAB, he led the analysis of donated data for \u201cData donation as a method for investigating trends and challenges in digital media landscapes at national scale: The Danish population\u2019s use of YouTube as an illustrative case\u201d by Bechmann and colleagues (2025).\n\nLK Seiling coordinates the DSA40 Data Access Collaboratory, where they research the implementation of the DSA\u2019s data access provisions. At the Weizenbaum Institute Berlin, they are also looking into research engineering and data access as well as technologically mediated risks for individuals, society, and science.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/XJ8G3Z/Presentation1_oRJ8H9B.png",
+  "persons": [
+    {
+      "guid": "b6e1bde0-4d75-56c7-83f8-859f0c1f2eb3",
+      "name": "David",
+      "public_name": "David",
+      "avatar": null,
+      "biography": "David Wegmann is a PhD student at Aarhus University, Denmark. He researches social media and its societal effects using data science. As part of DATALAB, he led the analysis of donated data for \u201cData donation as a method for investigating trends and challenges in digital media landscapes at national scale: The Danish population\u2019s use of YouTube as an illustrative case\u201d by Bechmann and colleagues (2025).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b6e1bde0-4d75-56c7-83f8-859f0c1f2eb3"
+    },
+    {
+      "guid": "d6ec4ed0-c9b8-5f56-a3a9-31132492e216",
+      "name": "LK Seiling",
+      "public_name": "LK Seiling",
+      "avatar": "https://cfp.cccv.de/media/avatars/JRL7J8_z5aLerN.jpg",
+      "biography": "LK Seiling earned a psychology degree from the University of Mannheim and continued towards master\u2019s degrees in Cognitive Systems (University of Potsdam) and Human Factors (TU Berlin). At the Weizenbaum Institute since 2020, they co-led the Privacy Icons Project, are affiliated to the Digital News Dynamics research group, and now coordinate the DSA40 Data Access Collaboratory. Their research focuses on research engineering, data access, and the societal and scientific risks of digital technologies.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d6ec4ed0-c9b8-5f56-a3a9-31132492e216"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/we-the-eu-and-1064-danes-decided-to-look-into-youtube-a-story-about-how-the-eu-gave-us-a-law-1064-danes-gave-us-their-youtube-histories-and-reality-ga",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/XJ8G3Z/"
+}

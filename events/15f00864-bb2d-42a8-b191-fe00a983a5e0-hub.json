@@ -1,0 +1,30 @@
+{
+  "guid": "15f00864-bb2d-42a8-b191-fe00a983a5e0",
+  "code": null,
+  "id": 150086,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Call for Art: Workshopspace 2",
+  "slug": "39c3-trikkitt-polygen-hands-on",
+  "title": "Trikkitt: PolyGen Hands on",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "PolyGen: Sehe dir das Innere der Ger\u00e4te an, erfahre, wie sie funktionieren, und baue eines auseinander. Lerne, wie das Spiel funktioniert, und stelle alle Fragen, die du dazu hast.",
+  "description": "Artist: Trikkitt\n\nGenre: workshop\n\nPolyGen: See inside the units, see how they work, and get to pull one apart. Learn how the game works and ask any questions you have about it.\n\nPicture: PolyGen \u00a9Trikkitt\n\n[https://gen.polyb.io](https://gen.polyb.io)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9e63f7834dd1/319-240-max.jpg",
+  "persons": [
+    {
+      "guid": "44636aa8-eb33-4548-8e70-007750e83ab8",
+      "name": "Marty",
+      "public_name": "Marty",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marty"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trikkitt-polygen-hands-on",
+  "links": []
+}

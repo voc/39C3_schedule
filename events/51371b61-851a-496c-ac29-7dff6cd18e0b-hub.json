@@ -1,0 +1,38 @@
+{
+  "guid": "51371b61-851a-496c-ac29-7dff6cd18e0b",
+  "code": null,
+  "id": 513716,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-chatkontrolle-stoppen_0i0p",
+  "title": "Chatkontrolle STOPPEN!",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "This workshop will take place in German. (see German version for more)\n\nFor practical information on Chat Control and an update on the current situation we recommend you attend the talk \"Chatkontrolle - Ctrl+Alt+Delete\":\n[https://events.ccc.de/congress/2025/hub/en/event/detail/episode-ii-der-rat-schlagt-zuruck](https://events.ccc.de/congress/2025/hub/en/event/detail/episode-ii-der-rat-schlagt-zuruck)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "41807dab-4736-40eb-a498-d560fca94819",
+      "name": "khaleesi (she/her)",
+      "public_name": "khaleesi (she/her)",
+      "avatar": null,
+      "biography": "If you say \u201cChatcontrol\u201d 3  Times I will magically appear\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/khaleesi"
+    },
+    {
+      "guid": "a3d03128-2dec-402f-8703-8789f60a1825",
+      "name": "pneutig",
+      "public_name": "pneutig",
+      "avatar": null,
+      "biography": "digital rights advocate with a focus on (in-)security politics\n\nActive in the Fediverse as: [@pneutig@eupolicy.social](https://eupolicy.social/@pneutig/) (toots mostly in English and German)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/pneutig"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chatkontrolle-stoppen_0i0p",
+  "links": []
+}

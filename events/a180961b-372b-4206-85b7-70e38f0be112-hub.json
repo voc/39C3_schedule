@@ -1,0 +1,30 @@
+{
+  "guid": "a180961b-372b-4206-85b7-70e38f0be112",
+  "code": null,
+  "id": 180961,
+  "date": "2025-12-27T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:30",
+  "room": "House of Tea",
+  "slug": "39c3-how-can-we-talk-about-palestine",
+  "title": "(How) Can we talk about Palestine?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "How can we speak up against war, express solidarity towards victims of war crimes and displacement, and organize across borders towards peace, while avoiding instrumentalized guilt and distractions? \r\n\r\nBringing around the table (among others) perspectives from non-Germans on the specificities of the German context.",
+  "description": "How can we speak up against war, express solidarity towards victims of war crimes and displacement, and organize across borders towards peace, while avoiding instrumentalized guilt and distractions?\n\nBringing around the table (among others) perspectives from non-Germans on the specificities of the German context.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "934f8c48-f8af-4241-930e-251e0c07f511",
+      "name": "HouseOfTea",
+      "public_name": "HouseOfTea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/houseoftea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-can-we-talk-about-palestine",
+  "links": []
+}

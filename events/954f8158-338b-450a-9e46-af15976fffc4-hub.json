@@ -1,0 +1,30 @@
+{
+  "guid": "954f8158-338b-450a-9e46-af15976fffc4",
+  "code": null,
+  "id": 954815,
+  "date": "2025-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "CADUS WASH-Station",
+  "slug": "39c3-wash-sprechstunde_aflz",
+  "title": "WASH-Sprechstunde",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "CADUS WASH Station \u2013 Water, Sanitation, and Hygiene\n\nA compact insight into water treatment in action: with a water filter system, small water laboratory, and short WASH consultation hours.\n\nTo look at, touch, and ask questions.\n\nCome to our regular WASH consultation hours, ask your questions, and get a practical insight into simple water treatment and hygiene solutions in use.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4975f3c8-6a26-429c-a940-e300127983df",
+      "name": "Anna-Lea",
+      "public_name": "Anna-Lea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/anna-lea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wash-sprechstunde_aflz",
+  "links": []
+}

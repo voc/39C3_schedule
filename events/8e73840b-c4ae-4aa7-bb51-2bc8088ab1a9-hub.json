@@ -1,0 +1,30 @@
+{
+  "guid": "8e73840b-c4ae-4aa7-bb51-2bc8088ab1a9",
+  "code": null,
+  "id": 873840,
+  "date": "2025-12-27T18:15:00+01:00",
+  "start": "18:15",
+  "duration": "01:00",
+  "room": "SoS Lecture E",
+  "slug": "39c3-einfuhrung-lothelferinnen",
+  "title": "Einf\u00fchrung L\u00f6thelfer*innen",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Wir stellen die Baus\u00e4tze vor, die beim L\u00f6tworkshop auf dem Junghackerinnentag gel\u00f6tet werden. Au\u00dferdem geht es um die Sicherheit beim L\u00f6ten und den Umgang mit den Betreuten.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "26cf9ad2-6823-4bc3-b3ea-7baf5cf80fd5",
+      "name": "Henning Brinkmann",
+      "public_name": "Henning Brinkmann",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hbr"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-lothelferinnen",
+  "links": []
+}

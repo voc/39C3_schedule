@@ -1,0 +1,31 @@
+{
+  "guid": "493feaaa-d1fd-5b21-ba01-cfa706065436",
+  "code": null,
+  "id": 200511,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wie-man-mit-offenen-geodaten-und-wikidata-natur-un",
+  "title": "Wie man mit offenen Geodaten und Wikidata Natur- und Kulturerbe dokumentiert",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Wikidata enth\u00e4lt viele Daten zu geografischen Objekten. Die M\u00f6glichkeiten f\u00fcr die Darstellung von Geodaten innerhalb von MediaWiki sind jedoch beschr\u00e4nkt. Ich habe offene Geodaten aus dem Bereich Natur- und Denkmalschutz mit Wikidata verkn\u00fcpft und damit eine Kartenanwendung gebaut. Diese Karte dient dazu, noch nicht fotografierte Schutzgebiete und Denkm\u00e4ler zu finden und zu dokumentieren.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9",
+      "name": "GPSLeo",
+      "public_name": "GPSLeo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wie-man-mit-offenen-geodaten-und-wikidata-natur-un",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/DDKV8G/"
+}

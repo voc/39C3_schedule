@@ -1,0 +1,30 @@
+{
+  "guid": "18ba461a-3175-4ac3-897b-1c3270b42470",
+  "code": null,
+  "id": 184613,
+  "date": "2025-12-29T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-post-fur-das-nebelhornchen",
+  "title": "Post f\u00fcr das Nebelh\u00f6rnchen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Das Nebelh\u00f6rnchen kennt sich mit Umwelt, Klima und Technologie aus. Es m\u00f6chte sein Wissen mit euch teilen und beantwortet gerne Briefe.\nSchreibt ihm doch eine Postkarte mit einer Frage. Vielleicht habt ihr auch eine spannende Geschichte, wie ihr auf die Frage gekommen seid.\n\nDas Nebelh\u00f6rnchen ist ein neuer Kinder-Klima-Podcast der Scientists for Future. Ihr habt hier die einmalige Gelegenheit, den Podcast beim Start mitzugestalten. Mit etwas Gl\u00fcck bekommt ihr nach einer Weile euren Brief und die Antwort vom Nebelh\u00f6rnchen im Podcast vorgelesen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "93a3b9dc-bd27-4494-90e5-416bd9117343",
+      "name": "Pascal4F",
+      "public_name": "Pascal4F",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/pascal4f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/post-fur-das-nebelhornchen",
+  "links": []
+}

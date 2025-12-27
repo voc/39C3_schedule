@@ -1,0 +1,32 @@
+{
+  "guid": "51c5eac2-c9f1-55b8-b8ab-0c1cf9cbf4b0",
+  "code": "8TU7KS",
+  "id": 83766,
+  "date": "2025-12-28T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-they-talk-tech-live-mit-anne-roth",
+  "title": "\"They Talk Tech\" live mit Anne Roth",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "\u201eThey Talk Tech\u201c Live: Podcasts-Hosts Svea Eckert und Eva Wolfangel diskutieren mit Anne Roth, Referentin f\u00fcr Digitalpolitik der Linksfraktion, Netzaktivistin, scharfe Beobachterin und pr\u00e4zise Analytikerin digitaler Machtstrukturen, \u00fcber \u00dcberwachung, digitale Freiheitsrechte, feministische Netzpolitik und die politischen K\u00e4mpfe hinter der Technologie.",
+  "description": "Anne Roth besch\u00e4ftigt sich seit vielen Jahren mit staatlichen Sicherheitsarchitekturen, Geheimdienstkontrolle, digitaler Gewalt und Fragen politischer Teilhabe. Im Gespr\u00e4ch geht es um die Mechanismen digitaler Macht, um Freiheitsrechte im Zeitalter permanenter Datenerfassung und darum, wie politische Entscheidungen technologische Entwicklungen pr\u00e4gen und umgekehrt - und wo die netzpolitische Community auch in politisch schwierigen Zeiten ansetzen kann, um die Entwicklung positiv zu beeinflussen.\n\nEine offene, pr\u00e4zise und lebendige Diskussion, die sowohl technisch interessierte als auch politisch denkende Menschen abholt. Live und mit Raum f\u00fcr eure Fragen.\n\n\"They Talk Tech\" ist ein c't-Podcast von Svea Eckert und Eva Wolfangel\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/8TU7KS/Bild_They_Talk_Tech_LFsVlqQ.jpg",
+  "persons": [
+    {
+      "guid": "65ca594f-cd7a-51bb-8e00-35ceb33fc6e2",
+      "name": "Eva Wolfangel",
+      "public_name": "Eva Wolfangel",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/EBL_9573_aSCsqMU.jpg",
+      "biography": "Eva Wolfangel, die Neugier vom Dienst\nTech-Journalistin, Speakerin, Podcast-Host bei \"They Talk Tech\" und Traindestroyer\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_65ca594f-cd7a-51bb-8e00-35ceb33fc6e2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/they-talk-tech-live-mit-anne-roth",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8TU7KS/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8TU7KS/feedback/"
+}

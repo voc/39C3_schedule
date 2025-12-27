@@ -1,0 +1,31 @@
+{
+  "guid": "2b5a6a8e-327e-594d-8f92-b91201d18a02",
+  "code": "ZG8SZ9",
+  "id": 2403,
+  "date": "2025-12-29T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-schlechte-karten-it-sicherheit-im-jahr-null-der-epa-fur-alle",
+  "title": "Schlechte Karten - IT-Sicherheit im Jahr null der ePA f\u00fcr alle",
+  "subtitle": null,
+  "language": "de",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Seit Mitte 2025 steht die elektronische Patientenakte f\u00fcr alle zur Verf\u00fcgung \u2013 nach ein paar kleineren oder gr\u00f6\u00dferen Sicherheitsproblemen im Vorfeld, sei es vor einem Jahr auf dem 38C3 oder Ende April zum deutschlandweiten Start. \r\nZeit ein Fazit zu ziehen: Ist die ePA jetzt sicher? Wurden nachhaltige Ver\u00e4nderungen durchgef\u00fchrt, die zu mehr Sicherheit f\u00fchren? Kann der Umgang mit der IT-Sicherheit \u00abeines der gr\u00f6\u00dften IT-Projekte der Bundesrepublik\u00bb f\u00fcr zuk\u00fcnftige Digitalprojekte hilfreich sein?\r\n\r\nZeit, mit etwas Abstand auf das zu blicken, was war, was ist und was sich abzeichnet nicht nur bei der ePA, sondern auch beim Umgang mit IT-Sicherheit bei \u00e4hnlichen Vorhaben in Deutschland. Eine umfassende Analyse der Historie und der Ursachen einer der weitreichendsten Fehlentwicklungen im Bereich der IT-Sicherheit der letzten Jahre, die sich in weit mehr zeigt, als nur in schlechter Pr\u00fcfung der Anwesenheit von Gesundheitskarten im Gesundheitswesen.",
+  "description": "Zum letzten Chaos Communication Congress konnten Martin Tschirsich und Bianca Kastl eine Ansammlung gr\u00f6\u00dferer und kleiner Sicherheitsprobleme in der elektronischen Patientenakte f\u00fcr alle aufzuzeigen \u2013 sei es in der Ausgabe von Identifikationsmitteln, in Systemen in der Telematikinfrastruktur oder in angebundenen Systemen. All diese Probleme kumulierten in einem ver\u00e4nderten und reduzierten Rollout der ePA f\u00fcr alle in den Modellregionen Anfang 2025, bei dem bereits erste Ma\u00dfnahmen zur Schadensminimierung unternommen wurden. \nEnde April 2025 wurde die ePA f\u00fcr alle dann auch wirklich f\u00fcr alle deutschlandweit bereitgestellt \u2013 allerdings traten am gleichen Tag die scheinbar sicher gel\u00f6sten Sicherheitsl\u00fccken im Zugangsmanagement wieder zu Tage und wurden alsbald wieder nur provisorisch abgedichtet.\n\nDieser Talk will etwas zur\u00fcckblicken auf die Geschichte und die Ursachen dieser Sicherheitsprobleme der ePA f\u00fcr alle. Als \u00abeines der gr\u00f6\u00dften IT-Projekte der Bundesrepublik\u00bb steht die ePA sinnbildlich f\u00fcr den digitalpolitischen Umgang mit Sicherheitsversprechen und interessensgetriebenen Anforderungen \u00fcber die K\u00f6pfe von Patient*innen oder B\u00fcrger*innen hinweg.\n\nDabei geht es nicht nur um technische Probleme und deren Behebungsversuche, sondern auch um die strukturellen Ursachen, die gro\u00dfe digitale Vorhaben immer wieder in manchen Bereichen scheitern lassen. Diese tiefergehende Betrachtung kann uns dabei helfen, die Ursachen f\u00fcr schlechte IT-Sicherheit auch bei zuk\u00fcnftigen digitalpolitischen Vorhaben in Deutschland besser zu verstehen. Nicht f\u00fcr die ePA f\u00fcr alle und Anwendungen im Bereich der Telematikinfrastruktur, sondern auch weit dar\u00fcber hinaus.\n\nTiefergehende Analyse und Nachwirkungen zu 38C3 \u201eKonnte bisher noch nie gehackt werden\u201c: Die elektronische Patientenakte kommt - jetzt f\u00fcr alle!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d3f41abc-c067-5eac-a53c-208e01740a00",
+      "name": "Bianca Kastl",
+      "public_name": "Bianca Kastl",
+      "avatar": "https://cfp.cccv.de/media/avatars/MHLNJ7_njA787L.jpg",
+      "biography": "Bianca Kastl, Entwicklerin und digitale Erkl\u00e4rb\u00e4rin, besch\u00e4ftigt sich l\u00e4ngerem beruflich und zivilgesellschaftlich mit digitalen Infrastrukturen und ihren Technikfolgen im Bereich \u00f6ffentlicher Verwaltung und Gesundheitswesen. Nach diversen Erfahrungen mit digitalen Pandemieanwendungen ist ihr aktueller Fokus die Besch\u00e4ftigung mit gro\u00dfen Digitalisierungsvorhaben im Kontext der \u00f6ffentlichen Verwaltung wie dem Onlinezugangsgesetz, Registermodernisierung, Digitale Identit\u00e4ten sowie dem digitalen Gesundheitswesen wie der elektronischen Patientenakte \u2013 besonders intensiv im letzten Jahr \u2013 dem europ\u00e4ischen Gesundheitsdatenraum und dem Gesundheitsdatennutzungsgesetz.\n\nSie ist Vorsitzende des Innovationsverbunds \u00d6ffentliche Gesundheit (In\u00d6G) und setzt sich dort f\u00fcr bessere Digitalisierung von Verwaltung und Gesundheitswesen ein.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d3f41abc-c067-5eac-a53c-208e01740a00"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/schlechte-karten-it-sicherheit-im-jahr-null-der-epa-fur-alle",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ZG8SZ9/"
+}

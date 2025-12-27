@@ -1,0 +1,32 @@
+{
+  "guid": "acb9edb8-b9a1-5d9c-aa88-030f41d63aea",
+  "code": "N3AWXD",
+  "id": 1622,
+  "date": "2025-12-30T02:00:00+01:00",
+  "start": "02:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-jan-dalvik",
+  "title": "Jan Dalvik",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Techno. Live. Modular.",
+  "description": "For more than three decades, Arno has been a defining force in the electronic music scene \u2014 a producer, sound designer, and passionate explorer of analog sound.\nAfter numerous successful collaborations with a wide range of artists, Mueller emerged in 2017 under his pseudonym Jan Dalv\u00edk, stepping into the spotlight as a solo artist.\nRenowned for his distinctive analog sound design, Dalv\u00edk\u2019s music stands out through groovy, hypnotic, and impulsive beats that bridge the gap between emotion and energy. As a DJ, live act, and producer, he seamlessly moves across a broad spectrum of electronic styles \u2014 from ambient and downbeat to deep, driving techno.\nWhether performing solo or engaging in live modular techno jams with artists such as Daniel Miller (Mute Records) or Tino Machauer (Shockwerk, Klar Audio), Jan Dalv\u00edk continues to push the boundaries of electronic expression \u2014 always analog, always authentic.\n\nhttps://soundcloud.com/jandalvik/techno-set-dalvik-dez-24\nhttps://jandalvik.com/\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/N3AWXD/Dalvik_xJwmb9_iDeONvD.webp",
+  "persons": [
+    {
+      "guid": "ad0b2154-334b-5656-884f-16a39581eceb",
+      "name": "Jan Dalvik",
+      "public_name": "Jan Dalvik",
+      "avatar": "https://cfp.cccv.de/media/avatars/JJEPXF_sD7biBn.jpg",
+      "biography": "For more than three decades, Arno has been a defining force in the electronic music scene \u2014 a producer, sound designer, and passionate explorer of analog sound.\nAfter numerous successful collaborations with a wide range of artists, Mueller emerged in 2017 under his pseudonym Jan Dalv\u00edk, stepping into the spotlight as a solo artist.\n\nRenowned for his distinctive analog sound design, Dalv\u00edk\u2019s music stands out through groovy, hypnotic, and impulsive beats that bridge the gap between emotion and energy. As a DJ, live act, and producer, he seamlessly moves across a broad spectrum of electronic styles \u2014 from ambient and downbeat to deep, driving techno.\n\nCurrently, Jan Dalv\u00edk is focused on exploring the visualisation of modular live performances, working with video synthesisers that respond in real time to his music. To provide a creative platform for these audiovisual projects, he founded the techno collective Klar Audio \u2014 dedicated to forward-thinking releases, immersive live experiences, and artistic collaboration.\n\nWhether performing solo or engaging in live modular techno jams with artists such as Daniel Miller (Mute Records) or Tino Machauer (Stockwerk, Klar Audio), Jan Dalv\u00edk continues to push the boundaries of electronic expression \u2014 always analog, always authentic.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ad0b2154-334b-5656-884f-16a39581eceb"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/jan-dalvik",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/N3AWXD/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/N3AWXD/feedback/"
+}

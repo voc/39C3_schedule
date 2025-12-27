@@ -1,0 +1,87 @@
+{
+  "guid": "cc2dc346-c1fc-58ad-a723-8472c9a8e5d1",
+  "code": "TPSDAQ",
+  "id": 1682,
+  "date": "2025-12-29T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:30",
+  "room": "Zero",
+  "slug": "39c3-transkultureller-hack-auf-die-klassische-musikszene-vortrag-und-konzert",
+  "title": "Transkultureller Hack auf die klassische Musikszene \u2013 Vortrag und Konzert",
+  "subtitle": null,
+  "language": "de",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "Das Bridges Kammerorchester hackt die klassische Musikszene, indem es die Regeln des traditionellen Konzertbetriebs aufbricht: Musiker*innen mit und ohne Flucht- und Migrationsbiografie bringen Instrumente wie Oud, Tar, Kamanche oder Daf in die europ\u00e4ische Orchestertradition. Statt \u00fcberwiegend Werke verstorbener m\u00e4nnlicher, europ\u00e4ischer Komponisten zu spielen, komponieren die Mitglieder ihre Musik selbst \u2013 ein radikaler Perspektivwechsel hin zu Vielfalt und Selbstbestimmung. Im Vortrag zeigen sie anhand von H\u00f6rbeispielen und pers\u00f6nlichen Geschichten, wie diese Hacks entstehen und machen im Anschluss in einem Konzert die musikalische Vielfalt live erlebbar.",
+  "description": "Das transkulturelle Bridges Kammerorchester hackt die klassische Musikszene: es bringt Musizierende mit und ohne Flucht- und Migrationsbiografie zusammen und integriert Instrumente und Musikstile in die europ\u00e4ische Orchestertradition, die dort traditionell nicht vorgesehen sind. Neben klassischen Orchesterinstrumenten spielen Instrumente wie Oud, Tar, Tiple, Kaval, Kamanche, Shudraga, Daf und Riq zentrale Rollen.\n\nIhre Musik komponieren die Orchestermitglieder \u00fcberwiegend selbst. Auch das ist ein Hack auf die klassische Musikszene, die bisher \u00fcberwiegend Werke verstorbener m\u00e4nnlicher Komponisten interpretiert. So steht die Musik des Bridges Kammerorchester f\u00fcr Vielfalt und Selbstbestimmung und macht die Diversit\u00e4t der in Deutschland lebenden Gesellschaft h\u00f6rbar. \nIm Vortrag zeigen Mitglieder des Bridges Kammerorchesters anhand von Erfahrungen und H\u00f6rbeispielen \u2013 live und per Video \u2013 wie sie die klassische Musikszene hacken. Sie geben Einblicke in ihren kollektiven, heterogenen Kompositionsprozess, berichten von Freiheiten, Herausforderungen und Erfahrungen mit Publikum und Veranstaltern. Pers\u00f6nliche Migrationsgeschichten verdeutlichen, wie diese die musikalische Perspektive und Identit\u00e4t des Orchesters pr\u00e4gen. Anschlie\u00dfend folgt ein Konzert, das die Vielfalt ihrer Musik erlebbar macht.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TPSDAQ/Bridges_Kammerorchester__Salar_Baygan_Ko_B80CQb9.jpg",
+  "persons": [
+    {
+      "guid": "b99572da-92e9-543f-b6d2-fd30812104dd",
+      "name": "Johanna-Leonore Dahlhoff",
+      "public_name": "Johanna-Leonore Dahlhoff",
+      "avatar": "https://cfp.cccv.de/media/avatars/78FGTK_rPVe2Rq.jpg",
+      "biography": "Johanna-Leonore Dahlhoff ist Fl\u00f6tistin und Komponistin sowie Gr\u00fcnderin, K\u00fcnstlerische Leiterin und Gesch\u00e4ftsf\u00fchrerin des transkulturellen Bridges Kammerorchester in Frankfurt. Sie arrangiert und komponiert transkulturelle Werke f\u00fcr Orchester und konzertiert weltweit.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b99572da-92e9-543f-b6d2-fd30812104dd"
+    },
+    {
+      "guid": "db2c9866-8823-577d-8c7f-65a7cf63a4f8",
+      "name": "Neina Doroshenko",
+      "public_name": "Neina Doroshenko",
+      "avatar": null,
+      "biography": "Naina Doroshenko ist Bandura-Spielerin und S\u00e4ngerin. Nach ihrem Studium der ukrainischen Volksmusik in Kiev studiert sie aktuell Jazzgesang in Frankfurt und widmet sich der Entwicklung neuer Klangsprachen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_db2c9866-8823-577d-8c7f-65a7cf63a4f8"
+    },
+    {
+      "guid": "90e2ff6a-d1d3-54ae-b4ec-ec1d9ceab087",
+      "name": "Peter Klohmann",
+      "public_name": "Peter Klohmann",
+      "avatar": null,
+      "biography": "Peter Klohmann ist Saxofonist, Komponist und Multi-Instrumentalist, Gr\u00fcnder der Konzertreihe \u201eJunge Szene Frankfurt\" und weltweit gefragter Gastmusiker. F\u00fcr das Bridges Kammerorchester schreibt er zahlreiche Werke.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_90e2ff6a-d1d3-54ae-b4ec-ec1d9ceab087"
+    },
+    {
+      "guid": "a0b92c24-a4c3-514d-a31c-401ca59b09aa",
+      "name": "Alireza Meghrazi Solouklou",
+      "public_name": "Alireza Meghrazi Solouklou",
+      "avatar": null,
+      "biography": "Alireza Meghrazi Solouklou ist Kamanche-Spieler und Komponist. Er trat in renommierten iranischen Orchestern sowie in Rundfunk und Fernsehen auf und ver\u00f6ffentlichte mehrere Alben.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0b92c24-a4c3-514d-a31c-401ca59b09aa"
+    },
+    {
+      "guid": "71a2746d-5688-5e62-9ffb-c4adf74b870c",
+      "name": "Mirweis Neda",
+      "public_name": "Mirweis Neda",
+      "avatar": null,
+      "biography": "Mirweis Neda ist Tabla-Spieler. Er begleitet afghanische Meister wie Ustad Arman und Ustad Yaar Mohammad auf internationalen B\u00fchnen in Europa und den USA.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_71a2746d-5688-5e62-9ffb-c4adf74b870c"
+    },
+    {
+      "guid": "6429a00f-5617-550d-b597-fad01571aa47",
+      "name": "Maria Carolina Pardo Reyes",
+      "public_name": "Maria Carolina Pardo Reyes",
+      "avatar": null,
+      "biography": "Maria Carolina Pardo Reyes ist Cellistin mit Schwerpunkt historische Auff\u00fchrungspraxis. Sie arrangiert u.a. lateinamerikanische Werke f\u00fcr das Bridges Kammerorchester.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6429a00f-5617-550d-b597-fad01571aa47"
+    },
+    {
+      "guid": "d027cf10-7983-51e9-a4e4-4382ef315737",
+      "name": "Eduardo Sabella",
+      "public_name": "Eduardo Sabella",
+      "avatar": "https://cfp.cccv.de/media/avatars/QC338A_CkpzdOm.webp",
+      "biography": "Eduardo Sabella ist ein gefragter Elektro- und Kontrabassist, dessen Arbeit ihn bereits in Jazzclubs in Deutschland, im benachbarten europ\u00e4ischen Ausland, in China und zu Festivals f\u00fchrte. Er wirkte an Pop- und Jazzalben sowie Filmmusik mit und komponiert und arrangiert f\u00fcr das Bridges Kammerorchester.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d027cf10-7983-51e9-a4e4-4382ef315737"
+    },
+    {
+      "guid": "f4c62f6e-809b-519c-9bb5-2c44e54d01b2",
+      "name": "Sarah Luisa Wurmer",
+      "public_name": "Sarah Luisa Wurmer",
+      "avatar": "https://cfp.cccv.de/media/avatars/T3LQKH_c0JzDJP.webp",
+      "biography": "Sarah Luisa Wurmer pr\u00e4gt die zeitgen\u00f6ssische Zithermusik mit innovativen Konzertformaten und erforscht auf verschiedenen Zithern - von Diskant bis Yatga - die Verbindung von Alter und Neuer Musik. 2025 ver\u00f6ffentlichte sie ihr Deb\u00fctalbum *intimacy*.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f4c62f6e-809b-519c-9bb5-2c44e54d01b2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/transkultureller-hack-auf-die-klassische-musikszene-vortrag-und-konzert",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TPSDAQ/"
+}

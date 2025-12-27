@@ -1,0 +1,45 @@
+{
+  "guid": "5ab1daa4-44a6-5431-9421-14d72e6cdf5d",
+  "code": "FBGWG8",
+  "id": 2436,
+  "date": "2025-12-29T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-der-untergang",
+  "title": "Der Untergang*",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Sp\u00e4ti Punk Karaoke Special mit Der Untergang*\r\nWir sind der Untergang*.\r\nWir sind Julia Wilton (Das Bierbeben, Pop Tarts) und Thies Mynther (Das Bierbeben, Superpunk, Phantom Ghost, Chaos Communication Choir).\r\nWir werden ein kleines Konzert spielen, tragen aber auch gern etwas zum sehr guten Punk Karaoke bei. Zum Mitsingen und  Mikrophonhijacking wird unbedingt eingeladen. Eventuell schaut auch der Chaos Communication Choir dabei.",
+  "description": "Sp\u00e4ti Punk Karaoke Special mit Der Untergang*\n\nWir sind der Untergang*.\nWir setzen musikalisch um und teilen, wie wir uns angesichts der aktuellen weltpolitischen und gesellschaftlichen Geschehnisse f\u00fchlen.\nIn einer Zeit zunehmender gesellschaftlicher Polarisierung und weltpolitischen Wahnsinns versteht sich Der Untergang* als k\u00fcnstlerische Stimme des Widerstands gegen faschistische Tendenzen, patriarchalischen Backlash, akzelerationistischen Autoritarismus \nund die Ausw\u00fcchse eines entfesselten Kapitalismus, der die sozialen\nund \u00f6kologischen Grundlagen der Menschheit gef\u00e4hrdet.\nUnsere elektronischen Kompositionen wie \u201cAdenauer ist ein Bus\u201d und \u201cNichts als Krach\u201d bilden die Grundlage f\u00fcr deutschsprachige Texte, die sowohl poetisch als auch direkt politische Botschaften transportieren.\nWir sind Julia Wilton (Das Bierbeben, Pop Tarts) und Thies Mynther (Das Bierbeben, Superpunk, Phantom Ghost, Chaos Communication Choir).\nAngeschlossene Mitglieder unserer Initiative sind DJ und Producerlegende Tobi Neumann am Modularsvsten und der auch sehr gute Sonawriter und Multi-Instrumentalist Yunus als Bratschist.\nWir haben zwei Songs hier f\u00fcr Euch ins Wiki gestellt.\nNoten findet ihr hier, wenn ihr wollt:\nhttps://www.ccchoir.de\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/FBGWG8/Der_Untergang_logo_MaNwsW_KpyJwaT.webp",
+  "persons": [
+    {
+      "guid": "d1e3274b-e006-5cec-ad51-8d95d207dbe3",
+      "name": "Der Untergang*",
+      "public_name": "Der Untergang*",
+      "avatar": "https://cfp.cccv.de/media/avatars/F3RSPS_12VDZaB.webp",
+      "biography": "Der Untergang* - Konzert (Sp\u00e4ti Punk Karaoke Special)\nWir sind der Untergang*.\nWir sind Julia Wilton (Das Bierbeben, Pop Tarts) und Thies Mynther (Das Bierbeben, Superpunk, Phantom Ghost, Chaos Communication Choir).\nWir haben uns vor einem knappen Jahr gegr\u00fcndet, um musikalisch umzusetzen und zu teilen, wie wir uns angesichts der aktuellen weltpolitischen und gesellschaftlichen Geschehnisse f\u00fchlen.\nIn einer Zeit zunehmender gesellschaftlicher Polarisierung und weltpolitischen Wahnsinns versteht sich Der Untergang* als k\u00fcnstlerische Stimme des Widerstands gegen faschistische Tendenzen, patriarchalischen Backlash, akzelerationistischen Autoritarismus und die Ausw\u00fcchse eines entfesselten Kapitalismus, der die sozialen und \u00f6kologischen Grundlagen der Menschheit gef\u00e4hrdet.\nBevor wir im n\u00e4chsten Jahr unser erstes Album ver\u00f6ffentlichen, machen wir einen Zwischenstop beim 39c3 beim Sp\u00e4ti. Passt gut, finden wir und freuen uns!\n\nUnsere elektronischen Punksongs  bilden die Grundlage f\u00fcr deutschsprachige Texte, die sowohl poetisch als auch direkt politische Botschaften transportieren.\nF\u00fcr unser Konzert stellen wir zwei Songs mit Noten/Texten/Musik  ins Wiki - \"Adenauer Srp (Adenauer ist ein Bus)\" und \"Die Verh\u00e4ltnisse\".  Zum Mitsingen und  Mikrophonhijacking wird herzlich eingeladen. Eventuell schaut auch der Chaos Communication Choir vorbei <3\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d1e3274b-e006-5cec-ad51-8d95d207dbe3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/der-untergang",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/FBGWG8/",
+  "attachments": [
+    {
+      "url": "/media/39c3-call-for-punk/submissions/FBGWG8/resources/Adenauer_SRP_Pu_5mUNGBs.mp3",
+      "type": "related",
+      "title": "Adenauer Srp"
+    },
+    {
+      "url": "/media/39c3-call-for-punk/submissions/FBGWG8/resources/04_Die_Verhaltni_a3aHJlC.mp3",
+      "type": "related",
+      "title": "Die Verh\u00e4ltnisse"
+    }
+  ],
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/FBGWG8/feedback/",
+  "do_not_record": true
+}

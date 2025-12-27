@@ -1,0 +1,30 @@
+{
+  "guid": "90c2d334-d901-4475-b57c-bd1b5f12d402",
+  "code": null,
+  "id": 902334,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-nummix-dojo-8",
+  "title": "Bau dir einen Kritzelbecher",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Mit Filzstiften, Pappbecher, Elektromotor und Batterien bauen wir uns einen tanzenden Kritzel-\"Roboter\". Ab 8 Jahren.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d9c64fa0-e2e6-4004-a84b-34a92da22372",
+      "name": "arp (HE / HIM)",
+      "public_name": "arp (HE / HIM)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/arp"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nummix-dojo-8",
+  "links": []
+}

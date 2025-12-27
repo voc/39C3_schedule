@@ -1,0 +1,30 @@
+{
+  "guid": "3ba0cb08-6b35-4434-9c6b-7492505f397e",
+  "code": null,
+  "id": 300863,
+  "date": "2025-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-speedcoding-javascript",
+  "title": "Speedcoding (JavaScript) \ud83d\ude80",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "You will be given a series of algorithmic challenges that you have to solve in a certain amount of time. Whether you are an experienced developer or a beginner, this is a great opportunity to expand your knowledge \ud83d\udca1\n\nTo participate, you should bring a device with you, ideally a laptop, so that you can solve the challenges. There is a short tutorial to help you prepare: https://hackmd.io/2zLdA8eOT9-GifslGQZSvw?view\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ffc167ec-5ca8-4017-8153-cb6eb3f837bd",
+      "name": "Birdy1976",
+      "public_name": "Birdy1976",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/birdy1976"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/speedcoding-javascript",
+  "links": []
+}

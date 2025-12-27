@@ -1,0 +1,30 @@
+{
+  "guid": "3555a1ef-3804-48b3-b50d-91ad63df1eeb",
+  "code": null,
+  "id": 355513,
+  "date": "2025-12-28T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-what-the-guix",
+  "title": "What the Guix!?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Hey you! Psst, are you a developer or an IT person? Do you use multiple computers with many packages and move between them back and forth?\nI feel your pain and may have some remedy for it. You don't have to sell your soul to get out of dependency hell, BTW ;-) I will show you how to embrace the Functional Programming Model even at the operating system level! Eelco Dolstra explored these ideas in his PhD thesis in 2006, also introducing NixOS. Today we focus on GNU Guix, inspired by NixOS Ludovic Court\u00e8s started this lispy project in 2012.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f7b38e4d-336a-4a50-b232-91c1d0746964",
+      "name": "NaN (he/him)",
+      "public_name": "NaN (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/nan"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/what-the-guix",
+  "links": []
+}

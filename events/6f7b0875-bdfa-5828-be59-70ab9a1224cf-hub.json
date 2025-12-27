@@ -1,0 +1,31 @@
+{
+  "guid": "6f7b0875-bdfa-5828-be59-70ab9a1224cf",
+  "code": null,
+  "id": 100449,
+  "date": "2025-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-repair-for-future_odrf",
+  "title": "Repair for future",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Meetup f\u00fcr die Reparatur-Community mit Updates zum Recht auf Reparatur und anschlie\u00dfender Diskussion",
+  "description": "* Meetup f\u00fcr alle, die sich in einer Reparaturinitiative engagieren (m\u00f6chten)\n* Kurzer Lagebericht zu den neuesten Entwicklungen beim Recht auf Reparatur\n* Diskussion \u00fcber Synergien zwischen lokalen Repair-Caf\u00e9s und Make/Hack-Spaces\n* Fr\u00f6hliches Rumgenerde \u00fcber eure wildesten Reparaturerfahrungen\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/N9FSUW/Bildschirmfoto_20251223_134311_Ih842RS.png",
+  "persons": [
+    {
+      "guid": "057d3be0-abbe-5120-817c-45bebd5f452f",
+      "name": "Fraxinas",
+      "public_name": "Fraxinas",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/mpv-shot0001_ERNwjVL.jpg",
+      "biography": "Andreas, in der FOSS-Community als \u201eFraxinas\u201c bekannt, hat ein Diplom in Elektro- und Informationstechnik von der TH Aschaffenburg. Er ist spezialisiert auf Rust, GStreamer und Embedded Linux. Er h\u00e4lt regelm\u00e4\u00dfig Vortr\u00e4ge auf Konferenzen weltweit und hat als Gr\u00fcnder mehrerer Repair Caf\u00e9s zur F\u00f6rderung einer Kultur der Reparatur und Nachhaltigkeit beigetragen. Acht Jahre lang war er als \u201eRepairfox\u201c in der Sendung \u201eARD Buffet\u201c ein bekanntes Gesicht im deutschen Fernsehen.\nEr bastelt leidenschaftlich gerne im Hack-/Makerspace Schaffenburg, ist LGBT-Aktivist, Furry, Musiker, Mountainbiker und Japanischlerner.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_057d3be0-abbe-5120-817c-45bebd5f452f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/repair-for-future_odrf",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/N9FSUW/"
+}

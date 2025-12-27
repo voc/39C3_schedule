@@ -1,0 +1,21 @@
+{
+  "guid": "a57175cf-4198-423b-8001-6a951370f502",
+  "code": null,
+  "id": 571754,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:55",
+  "room": "SoS Saal 6",
+  "slug": "39c3-signal-intro",
+  "title": "Signal Angel Introduction",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Introduction for Signal Angels",
+  "description": "",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/signal-intro",
+  "links": []
+}

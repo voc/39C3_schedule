@@ -1,0 +1,31 @@
+{
+  "guid": "051501f6-d65d-5fe4-b318-9c25113ea739",
+  "code": null,
+  "id": 100443,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-whats-happening-with-xslt_o6lt",
+  "title": "What's happening with XSLT?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "You may have heard of XSLT or maybe worked with it in the Past. A more recent development is the effort to remove XSLT from the web platform altogether... and yes, it is in your browser, too!",
+  "description": "But did you know that this family of Languages - it not only includes XSLT but also XPath and XQuery - is still very important in the digital humanities and other niches near you? Would you be surprised to learn that there is an effort to specify the next version 4?\n\nLast year, I joined the QT4 Community Group that is working on that.\n\nCome by if you are interested in hearing where we are headed or just to indulge in the drama about OppenSource maintenance, W3C politics, and why XML is still around even though JSON and YAML are so much simpler!\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/DCS8LH/QT4_shaded-0-RMX_UmoToW3.svg",
+  "persons": [
+    {
+      "guid": "ad9cf2bc-2b9c-5595-8a8e-f7c9eaa28069",
+      "name": "Juri \u2014\u3007 Leino",
+      "public_name": "Juri \u2014\u3007 Leino",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/-o_2_jwNzkZd.png",
+      "biography": "Software gardener from Berlin writing markup, CSS, JavaScript, XQuery and Java for a living.\nI am interested in arts, society and politics. Member of the QT4 community working group.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ad9cf2bc-2b9c-5595-8a8e-f7c9eaa28069"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/whats-happening-with-xslt_o6lt",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/DCS8LH/"
+}

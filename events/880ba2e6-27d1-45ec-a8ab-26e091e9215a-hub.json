@@ -1,0 +1,30 @@
+{
+  "guid": "880ba2e6-27d1-45ec-a8ab-26e091e9215a",
+  "code": null,
+  "id": 880262,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-mechanical-keyboards-show-and-tell",
+  "title": "Mechanical keyboards show and tell",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Bring your niche keyboards and show them to everybody interested.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ba3a0541-d0f6-4d65-aaf5-46c4770fb001",
+      "name": "deBaer",
+      "public_name": "deBaer",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/debaer"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mechanical-keyboards-show-and-tell",
+  "links": []
+}

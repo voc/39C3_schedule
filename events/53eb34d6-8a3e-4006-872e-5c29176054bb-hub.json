@@ -1,0 +1,38 @@
+{
+  "guid": "53eb34d6-8a3e-4006-872e-5c29176054bb",
+  "code": null,
+  "id": 533468,
+  "date": "2025-12-28T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:30",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-linux-fur-einsteigerinnen-part-2",
+  "title": "Linux f\u00fcr Einsteiger:innen (Part 2)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Wir begeben uns auf eine Entdeckungsreise durch Linux - von der Vielfalt eines Betriebssystems. Was ist (F)OSS? Wie sieht so ein Linux aus? Was kann man damit machen? Und kann man damit auch spielen?",
+  "description": "Wir wollen Linux f\u00fcr Schule und Freizeit zeigen, die Vorteile von freier OpenSource Software erkl\u00e4ren, die Vielfalt der verf\u00fcgbaren Programme und Tools sowie mit dem Vorurteil aufr\u00e4umen, dass man zum Spielen dann ja doch immer Windows ben\u00f6tigt.\n\nDer Workshop soll an drei Tagen am Beispiel des Schulsticks durch die Vielfalt des Systems f\u00fchren.\n\nPart 2: Abenteuer Kommandozeile\n\nHeute geht es um die Kommandozeile -- das mysteri\u00f6se, h\u00e4ufig schwarze Fenster mit heller Schrift. Warum benutzen wir Text-Kommandos und was kann man damit Tolles machen? Und wie man mit etwas Kommandozeilen-Magie Andere beeindrucken kann. Von den absoluten Basics bis zu komplexen Einzeilern -- nat\u00fcrlich wieder zum selbst erleben und mitmachen!\n\nZielgruppe\n\nDieser komplette Workshop ist f\u00fcr absolute Neulinge (Computer \u00fcberhaupt und/oder Linux). Aber auch, wer schon Windows einsetzt und mal \u00fcber den Tellerrand schauen will, vielleicht sogar schon einmal \u00fcber einen Wechsel nachgedacht hat, sich aber (noch) nicht traut, ist herzlich willkommen!\n\nVoraussetzungen\n\nInteresse und Neugier.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3942dece-fe0e-4b07-b5d0-fee42c148960",
+      "name": "micu",
+      "public_name": "micu",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/micu"
+    },
+    {
+      "guid": "4d5a6bfd-15a7-4cfb-9ca4-1e96fd92aa90",
+      "name": "sylvia",
+      "public_name": "sylvia",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/sylvia"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/linux-fur-einsteigerinnen-part-2",
+  "links": []
+}

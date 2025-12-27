@@ -1,0 +1,32 @@
+{
+  "guid": "f3941908-cda6-5e60-96c0-712dc4e61800",
+  "code": "SAUGTF",
+  "id": 394190,
+  "date": "2025-12-28T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-gegenhalten-vor-ort-flintas-als-kommunalpolitikeri",
+  "title": "Gegenhalten vor Ort: FLINTAs als Kommunalpolitikerinnen im (ostdeutsch) l\u00e4ndlichen Patriarchat [FLINTA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Workshop zu rechter Bedrohung und sexistischer Kontrolle in l\u00e4ndlich-ostdeutschen Kommunen. Anhand eigener Erfahrungen werden Machtmechanismen offengelegt und Strategien erarbeitet, die politische Handlungsf\u00e4higkeit st\u00e4rken.",
+  "description": "Workshop zu politischem Druck von rechts und sexistischen Machtpraktiken in der Kommunalpolitik. Grundlage sind Situationen aus ostdeutsch-l\u00e4ndlichen Kommunen, in denen FLINTA*s bewusst isoliert, geschw\u00e4cht oder aus politischen Prozessen gedr\u00e4ngt werden. In einem eigens f\u00fcr den Workshop entwickelten Serious Game werden m\u00f6gliche Reaktionen durchgespielt und unter realistischen Bedingungen bewertet. Die Teilnehmenden m\u00fcssen entscheiden, welche Schritte tragf\u00e4hig sind und welche die eigene Position verschlechtern. Ziel ist es die Handlungssicherheit im Umgang mit  ausgrenzenden und abwertenden Situationen zu st\u00e4rken.\n\nDer Workshop ist FLINTA-only. Der gesch\u00fctzte Rahmen soll erm\u00f6glichen, dass Erfahrungen ausgesprochen, Konflikte klar analysiert und Strategien ohne Beobachtungsdruck entwickelt werden k\u00f6nnen. \u201eSafe Space\u201c meint hier die Abwesenheit jener Dynamiken, die in der Praxis Einsch\u00fcchterung und Selbstzensur erzwingen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d1eda913-2ac0-503c-92d9-f2e88611b423",
+      "name": "Cathleen Hoffmann",
+      "public_name": "Cathleen Hoffmann",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/CRASSV_cioNJdI.jpeg",
+      "biography": "Ich arbeite als Bildungsreferentin, f\u00fcr eine NGO in Sachsen-Anhalt (www.miteinander-ev.de), in der politischen Bildung mit dem Schwerpunkt Rechtsextremismuspr\u00e4vention und Holocaust Education. \nKommunalpolitisch bin ich in einer l\u00e4ndlich-ostdeutschen Region aktiv und besch\u00e4ftige mich mit der Frage, wie man rechte Strukturen zur\u00fcckdr\u00e4ngt, ohne die Leute vor Ort zu verlieren. Im Rahmen der letzten Kommunalwahl bin ich mit einer eigenen Liste angetreten - nur mit FLINTA-Personen \u270a.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d1eda913-2ac0-503c-92d9-f2e88611b423"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gegenhalten-vor-ort-flintas-als-kommunalpolitikeri",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/SAUGTF/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/SAUGTF/feedback/"
+}

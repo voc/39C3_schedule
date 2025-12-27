@@ -1,0 +1,30 @@
+{
+  "guid": "9483dae3-b049-4b51-80ba-bf368485b5d5",
+  "code": null,
+  "id": 948330,
+  "date": "2025-12-29T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-treffen-der-bahn-chaosbubble",
+  "title": "Treffen der Bahn-Chaosbubble",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "this shall be a meetup of train-interested people and nerds. unconference-style, whoever wants to participate and wants to talk about a topic, just come in and announce your topic.\n\nIf there isn't enough time, the conversations can always be continued elsewhere.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "93fb61d6-9c98-4867-9077-10eb4a746bc7",
+      "name": "darkfrone (he/him)",
+      "public_name": "darkfrone (he/him)",
+      "avatar": null,
+      "biography": "Bahner aus Leidenschaft\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/darkfrone"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/treffen-der-bahn-chaosbubble",
+  "links": []
+}

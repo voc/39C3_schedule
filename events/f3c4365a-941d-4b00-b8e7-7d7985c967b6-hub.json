@@ -1,0 +1,30 @@
+{
+  "guid": "f3c4365a-941d-4b00-b8e7-7d7985c967b6",
+  "code": null,
+  "id": 343659,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-ein-fast-werbefreites-internet-mit-einem-pihole-fi",
+  "title": "Ein (fast) werbefreites Internet mit einem PiHole - Filter - Session f\u00fcr Anf\u00e4nger",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In dieser Session zeigen wir, wie Ihr in weniger als 20 Minuten und Kosten f\u00fcr Hardware von weniger als 30 Euro einen Werbefilter bauen k\u00f6nnt. \nVorkenntnisse: keine au\u00dfer allgemeine Neugier\nHardwareanforderungen: keine (f\u00fcr die Pr\u00e4sentation), falls Ihr mitmachen m\u00f6chtet irgend ein Microcomputer mit RasPiOs oder Debian und SSH\n\nHintergrund: bei vielen Endger\u00e4ten bzw. Softwareprodukten ist es immer schwerer, Werbung und Tracking herauszufiltern (insbesondere bei Smartphones).  Dort sind die Plugins wie UBlock Origin entweder nicht verf\u00fcgbar oder sie gelten nur f\u00fcr den Browser und nicht f\u00fcr die Apps. Die L\u00f6sung ist, auf dem Weg in das Internet einfach eine Sperrliste zu haben, die alle Verbindungen zu Werbeanbietern blockt. Eine g\u00e4ngige OpenSource L\u00f6sung ist PiHole. Es braucht nur minimale Hardware. Ein Raspberry Pi f\u00fcr weniger als 30 Euro reicht daf\u00fcr aus oder ein alter Computer, der sonst keine Aufgabe mehr hat. In der Session zeigen wir wie einfach es ist, ein PiHole aufzusetzen und in das Heimnetzwerk einzubinden.  Seid gespannt auf das neue Nutzungserlebnis eines Internets (fast) ohne Werbung. Am Ende der Session stellen wir eine detaillierte Anleitung zur Verf\u00fcgung. Damit k\u00f6nnt Ihr das Gezeigte zu Hause \"nachbauen\" k\u00f6nnt.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "63b075ef-c405-4650-be10-9194868c7e12",
+      "name": "Fabiandreas",
+      "public_name": "Fabiandreas",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fabiandreas"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ein-fast-werbefreites-internet-mit-einem-pihole-fi",
+  "links": []
+}

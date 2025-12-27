@@ -1,0 +1,36 @@
+{
+  "guid": "90cb7149-ec4d-5499-9649-9091374100ad",
+  "code": "KL73KP",
+  "id": 2005,
+  "logo": null,
+  "date": "2025-12-27T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-2005-chaos-macht-kuche",
+  "url": "https://cfp.cccv.de/39c3/talk/KL73KP/",
+  "title": "Chaos macht K\u00fcche",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Ihr macht eine Veranstaltung f\u00fcr viele Menschen? Dann haben viele Menschen auch viel Hunger.\r\nJetzt wird euch gezeigt wie man f\u00fcr viele (mehr als 75) Menschen Essen zubereitet.\r\nEs braucht nur etwas Vorbereitung und Motivation!",
+  "description": "Bei vielen Zeltlagern, Sommerfesten, ICMP, Village beim Chaos-Camp und \u00e4hnlichem habe ich gelernt wie man f\u00fcr viele Menschen kochen kann und wie nicht. Damit Du nicht die gleiche Lernkurve machen musst, m\u00f6chte ich Dir zeigen mit welchen \u00dcberlegungen Du mit 2-3 Freunden Essen f\u00fcr viele Menschen zubereiten kannst. \r\n\r\nPlanen, einkaufen, Logistik, vorbereiten, kochen, Hygiene, servieren und aufr\u00e4umen, das kann jeder. \r\nDas so zu machen das es Spa\u00df macht, sich nicht nach Arbeit anf\u00fchlt und dann auch noch allen schmeckt, das m\u00f6chte ich Dir mit diesem Vortrag vermitteln.\r\n\r\nWenn dein Space in Zukunft ein gro\u00dfes Event plant und Du dar\u00fcber nachdenkst ob man vor Ort kochen kann und will, dann komme vorbei und lass Dir zeigen was man daf\u00fcr braucht und wie das geht.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "77SNST",
+      "name": "Ingwer Andersen",
+      "avatar": null,
+      "biography": "Moin moin,\r\nich bin der Ingwer, ich habe in Erlangen lange studiert (Medizintechnik) und da alles interessanter war als das eigentliche Studium, habe ich viel Zeit mit der Fachschaft, der KOMET, der ICMP, anderen Events oder dem Chaos Camp verbracht. Zur Zeiten des Studiums habe ich einfach mit angepackt und Sachen gemacht. Doch die Zeit ist leider vorbei.\r\n\r\nJetzt m\u00f6chte ich gerne mein Wissen und meine Begeisterung mit euch teilen.Comunity",
+      "public_name": "Ingwer Andersen",
+      "guid": "5b23bbf0-a27f-5857-ad5a-856f106dc761",
+      "url": "https://cfp.cccv.de/39c3/speaker/77SNST/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/KL73KP/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/KL73KP/",
+  "attachments": []
+}

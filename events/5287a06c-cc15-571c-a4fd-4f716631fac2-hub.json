@@ -1,0 +1,31 @@
+{
+  "guid": "5287a06c-cc15-571c-a4fd-4f716631fac2",
+  "code": null,
+  "id": 300072,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-diy-bioreactors-for-mycology-and-biohacking",
+  "title": "DIY Bioreactors for mycology and biohacking",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Augustin Bielefeld, principal engineer at Eilbek Research, has been growing mycelium and other micro-organisms since 2023, and will present his journey building a reproducible and affordable bioreactor, which is destined to be open-sourced.\r\n\r\nThis talk is aimed at people with an interest in mycology/microbiology but the principles demonstrated are accessible to everyone.",
+  "description": "Mycology is one of the fastest growing hobbies in the biohacking/microbiology scene, people cultivate and grow mushrooms for their taste, nootropic properties, and even as construction materials.\n\nBioreactors, while rarely found on a hobbyist's desk - are the proper way to carry out cultivation and innoculation of micro-organism. This talk will explain their principles in simple terms, as well as showing off the speaker's journey building a reproducible and affordable reactor.\n\nBioreactors are not usually found in hobbyists mushroom growers yet they enable:\n- Very fast culture times compared to usual jars\n- Efficient and sterile innoculation and expansion\n- Cultivation not just of mycelium, but of any microorganism such as algae, or even insulin producing bacteria\n\nThe demonstrator that will be presented enables not only cultivation of mycelium of all types, but also cultivation of complex micro-organisms such as insulin-producing bacteria, and other DIY-medicine goals.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e0c98dfb-10bf-53b2-a8f8-1aaa095d2f3d",
+      "name": "Augustin Bielefeld",
+      "public_name": "Augustin Bielefeld",
+      "avatar": "https://pretalx.riat.at/media/avatars/profile-2_sIEn4i1.png",
+      "biography": "Principal engineer @ Eilbek Research, find us at eilbek-research.de\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e0c98dfb-10bf-53b2-a8f8-1aaa095d2f3d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/diy-bioreactors-for-mycology-and-biohacking",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/TRJTLG/"
+}

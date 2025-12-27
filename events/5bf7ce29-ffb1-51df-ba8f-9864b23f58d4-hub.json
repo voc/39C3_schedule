@@ -1,0 +1,31 @@
+{
+  "guid": "5bf7ce29-ffb1-51df-ba8f-9864b23f58d4",
+  "code": null,
+  "id": 300064,
+  "date": "2025-12-28T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-radicle-p2p-censorship-resistant-code-collaboratio",
+  "title": "Radicle: P2P, Censorship-Resistant Code Collaboration Based on Git",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "[Radicle](https://radicle.xyz/) is an open source, peer-to-peer code collaboration stack built on Git. Unlike centralized code hosting platforms, such as GitHub or GitLab, there is no single entity controlling the network. Repositories are replicated across peers in a decentralized manner, and users retain sovereignty over their data and workflow.\r\n\r\n*Free your code!*",
+  "description": "Today, much of the open-source ecosystem depends on a few centralized code forges, even though modern version control systems are designed with fully distributed collaboration in mind.\nThis creates questionable dependencies with regards to governance and supply-chain security.\nIn this talk, we explore an alternative: [Radicle](https://radicle.xyz/), a decentralized, peer-to-peer code collaboration stack built on Git, that empowers developers to work together while staying sovereign.\n\nUnlike traditional, centralized code forges that can impose censorship, Radicle ensures that each user retains control over their data, interactions, and collaboration, free from corporate influence.\nThis aligns with broader movements toward decentralization, open-source software, and the democratization of internet services.\n\n - We describe the Radicle gossip protocol, peer discovery, and secure data replication through cryptographic verification.\n - We highlight Radicle\u2019s concept of *Collaborative Objects* (an implementation of conflict-free replicated data types, stored within the Git repository), which enables decentralized code reviews and issue management, and can be extended.\n - We demonstrate how Radicle integrates with familiar workflows while offering full control over code and issues, even when offline.\n - We share plans for future development of the network.\n\nAttendees gain a comprehensive understanding of Radicle\u2019s technical architecture, its practical benefits for decentralized code collaboration, and how it contributes to a more autonomous and resilient future for open-source development.\n\nFind out more:\n - [FAQ of the project (radicle.xyz)](https://radicle.xyz/faq)\n - [*How we built a gossip layer and CRDT on top of Git* by Alexis Sellier at GitMerge 2024 (youtube.com)](https://www.youtube.com/watch?v=tsVa53SPIHc)\n - [Release Notes for 1.0 (radicle.xyz)](https://radicle.xyz/2024/09/10/radicle-1.0.html)\n - [radicle.zulipchat.com](https://radicle.zulipchat.com)\n\n*Free your code!*\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/CDSLJX/radicle_mvRS2xu_4bRQVgq.svg",
+  "persons": [
+    {
+      "guid": "7e57dfc9-efea-5ad6-96c5-8f8425e1a616",
+      "name": "Lorenz Leutgeb",
+      "public_name": "Lorenz Leutgeb",
+      "avatar": "https://pretalx.riat.at/media/avatars/magritte-eye_-centered_GEn6PXF.jpg",
+      "biography": "Contributor to Radicle. See [lorenz.leutgeb.xyz](https://lorenz.leutgeb.xyz)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7e57dfc9-efea-5ad6-96c5-8f8425e1a616"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/radicle-p2p-censorship-resistant-code-collaboratio",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/CDSLJX/"
+}

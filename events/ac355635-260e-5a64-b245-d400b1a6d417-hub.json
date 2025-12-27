@@ -1,0 +1,32 @@
+{
+  "guid": "ac355635-260e-5a64-b245-d400b1a6d417",
+  "code": "TRUKZQ",
+  "id": 2503,
+  "date": "2025-12-29T04:00:00+01:00",
+  "start": "04:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-mascha",
+  "title": "MASCHA",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "DJ\r\nand music producer\r\n\r\n>>currently hosting MUSTER show every month at @thfradio",
+  "description": "Born in Berlin 1996, MASCHA is a DJ and music producer, shaped by the city\u2019s dancefloors and her deep roots in one of Berlin\u2019s most renowned House & Techno clubs. Coming from a multi-generational musician family and a background in dance, she approaches DJing as movement and storytelling, her sets unfold with precision, tension, and emotional depth, delivering a 2-hour journey into hypnotic, tribal, and distinctly 90s-rooted soundscapes. Following her live set debut with an orchestra this year, MASCHA continues to push boundaries while staying grounded in the raw essence of club culture.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/TRUKZQ/studio_s_w_20_dPBz7p9.webp",
+  "persons": [
+    {
+      "guid": "7cabb92f-b71f-5ba7-af63-cf5ba7ebea2b",
+      "name": "Mascha",
+      "public_name": "Mascha",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7cabb92f-b71f-5ba7-af63-cf5ba7ebea2b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mascha",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TRUKZQ/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TRUKZQ/feedback/"
+}

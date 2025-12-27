@@ -1,0 +1,31 @@
+{
+  "guid": "e12de982-7439-548a-aed4-5d5a3ffd4699",
+  "code": null,
+  "id": 300059,
+  "date": "2025-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-update-2025-digital-integrity-of-the-human-person-",
+  "title": "Update 2025. Digital integrity of the human person, A new fundamental right.",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "The right to respect for digital integrity is an emerging right to protect people's digital lives. \r\n\r\nThis talk will introduce this new legal concept, its possible implications for data protection and how this concept is being introduced in the current legal framework. The talk will also be an update of the implementation work with the adoption of the right in the Constitution of Geneva voted with 94% approval rate on the 18th of June 2023 and with 91% in Neuch\u00e2tel in November 2024. Zurich will be voting in November 2025.",
+  "description": "Every human evolves today in multi-dimensional physical and digital environment. If each individual is to keep its individuality and autonomy in its choices, it must be protected and given effective tools to defend its own autonomy.\n\nRecognizing that human life has been digitally extended must question ourselves on what makes us human today. Should personal data be considered as component of the person, rather than objects that can be owned by whoever collects that data? Should our digital integrity be protected?\n\nIf each human person already has a right to physical and mental integrity (Swiss Constitution article 10 al.2), shouldn\u2019t it have a right to digital integrity?\n\nAlexis Roussel has been co-authoring a book on the right to Digital Integrity. He is an advocate in digital public policies in Switzerland.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fcf97edc-b674-5209-b742-d0971d8da8d5",
+      "name": "Alexis Roussel",
+      "public_name": "Alexis Roussel",
+      "avatar": "https://pretalx.riat.at/media/avatars/Alexis_Roussel_-_COO_512x512_1JBnxIt.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fcf97edc-b674-5209-b742-d0971d8da8d5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/update-2025-digital-integrity-of-the-human-person-",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/ENXTHG/"
+}

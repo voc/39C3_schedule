@@ -1,0 +1,39 @@
+{
+  "guid": "e448ef16-47cf-57ad-9fbd-a5f91aa4aa3b",
+  "code": "EYDWBE",
+  "id": 1854,
+  "date": "2025-12-27T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i",
+  "title": "To sign or not to sign: Practical vulnerabilities in GPG & friends",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Might contain zerodays. https://gpg.fail/\r\n\r\nFrom secure communications to software updates: PGP implementations such as *GnuPG* ubiquitously relied on to provide cryptographic assurances. Many applications from secure communications to software updates fundamentally rely on these utilities.\r\nSince these have been developed for decades, one might expect mature codebases, a multitude of code audit reports, and extensive continuous testing.\r\nWhen looking into various PGP-related codebases for some personal use cases, we found these expectations not met, and discovered multiple vulnerabilities in cryptographic utilities, namely in *GnuPG*, *Sequoia PGP*, *age*, and *minisign*.\r\nThe vulnerabilities have implementation bugs at their core, for example in parsing code, rather than bugs in the mathematics of the cryptography itself. A vulnerability in a parser could for example lead to a confusion about what data was actually signed, allowing attackers without the private key of the signer to swap the plain text. As we initially did not start with the intent of conducting security research, but rather were looking into understanding some internals of key management and signatures for personal use, we also discuss the process of uncovering these bugs. Furthermore, we touch on the role of the OpenPGP specification, and the disclosure process.",
+  "description": "Beyond the underlying mathematics of cryptographic algorithms, there is a whole other layer of implementation code, assigning meaning to the processed data. For example, a signature verification operation both needs robust cryptography **and** assurance that the verified data is indeed the same as was passed into the signing operation. To facilitate the second part, software such as *GnuPG* implement parsing and processing code of a standardized format. Especially when implementing a feature rich and evolving standard, there is the risk of ambivalent specification, and classical implementation bugs.\n\nThe impact of the vulnerabilities we found reaches from various signature verification bypasses, breaking encryption in transit and encryption at rest, undermining key signatures, to exploitable memory corruption vulnerabilities.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "88636e11-8f9a-506b-8a32-e1ba6ef73968",
+      "name": "49016",
+      "public_name": "49016",
+      "avatar": "https://cfp.cccv.de/media/avatars/9MAV3X_mSOaGYh.webp",
+      "biography": "49016 does many computer adjacent things; it has a talent for breaking them, and occasionally does security research for good in its free time.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_88636e11-8f9a-506b-8a32-e1ba6ef73968"
+    },
+    {
+      "guid": "3dd3b19e-6c14-5d71-bb84-95f9f2c7fdd4",
+      "name": "Liam",
+      "public_name": "Liam",
+      "avatar": "https://cfp.cccv.de/media/avatars/SRBVM9_Ykjj03C.webp",
+      "biography": "Liam is motivated by understanding programs in depth: taking a program that runs and making it dance.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3dd3b19e-6c14-5d71-bb84-95f9f2c7fdd4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/to-sign-or-not-to-sign-practical-vulnerabilities-i",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/EYDWBE/"
+}

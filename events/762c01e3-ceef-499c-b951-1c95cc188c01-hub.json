@@ -1,0 +1,30 @@
+{
+  "guid": "762c01e3-ceef-499c-b951-1c95cc188c01",
+  "code": null,
+  "id": 762013,
+  "date": "2025-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:20",
+  "room": "SoS Stage H",
+  "slug": "39c3-bio-hacking-science",
+  "title": "Bio - Hacking - Science",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The \"Bio - Hacking - Science\" assembly is a space for people interested in the intersection of biological science, computation, art, and their profound ethical and political implications. We are a community of bio nerds, scientists, hackers and artists dedicated to bridging the worlds of biology, hardware, and hacker culture. Our group serves as a welcoming hub for newcomers, amateurs, and experts alike to hang out, exchange knowledge, and discuss current and future biotechnologies and their impact on society.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3a5e3d9a-9e71-4851-855a-2a7f38bb8712",
+      "name": "Fpiras",
+      "public_name": "Fpiras",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fpiras"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bio-hacking-science",
+  "links": []
+}

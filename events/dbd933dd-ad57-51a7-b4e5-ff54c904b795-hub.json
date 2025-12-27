@@ -1,0 +1,41 @@
+{
+  "guid": "dbd933dd-ad57-51a7-b4e5-ff54c904b795",
+  "code": "KJ38N3",
+  "id": 2425,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-punkrock-songtext-lesung",
+  "title": "Punkrock-Songtext-Lesung",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Kultivierte Personen rezitieren Punkrock-Songtexte mit der ganzen Ernsthaftigkeit und dem dramatischen Pathos, wie sonst nur von Goethe-Abenden im Literaturhaus bekannt. Anarchie meets Bildungsb\u00fcrgertum. Chaos meets Chaiselongue.",
+  "description": "Stell dir vor: ged\u00e4mpftes Licht, ehrf\u00fcrchtige Congress-Stille, vielleicht ein Glas Rotwein. Eine Mateflasche f\u00e4llt um und niemand applaudiert. Sei bereit f\u00fcr eine Stunde voller lyrischer Hochkultur. Doch statt Rilke und Schiller erklingen die unsterblichen Verse der Kassierer \u2013 vorgetragen mit jener getragenen Feierlichkeit, die man eigentlich f\u00fcr Sturm und Drang reserviert.\n\nWas passiert, wenn man \"Das schlimmste ist, wenn das Bier alle ist\" behandelt wie Heines \"Loreley\"? Wenn Strophen \u00fcber Zerst\u00f6rung und Rebellion pl\u00f6tzlich die gleiche ehrfurchtsvolle Interpretation erfahren wie Weimarer Klassik? Wir pr\u00e4sentieren: Die gro\u00dfe Vers\u00f6hnung zwischen Sicherheitsnadel und Smoking, zwischen Moshpit und Musensaal.\n\nEntdecke die verborgene Poesie im Pogo, die Metaphorik im Mittelfinger, und die \u00fcberraschende Erkenntnis, dass \"Keine Macht f\u00fcr Niemand\" eigentlich erstaunlich gut klingt, wenn man es ausspricht wie ein frisch ausgegrabenes Goethe-Fragment.\nHochkultur ist auch nur Punk mit besseren Manieren.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/KJ38N3/IMG_3542_P7tMbJO_nwFeLxK.webp",
+  "persons": [
+    {
+      "guid": "3ad34cd6-6b00-5de1-af12-d79bd3bd5145",
+      "name": "tomate",
+      "public_name": "tomate",
+      "avatar": "https://cfp.cccv.de/media/avatars/7f41e8f13ec3bf64a9429081f0a45b26_74hE5Mq.jpg",
+      "biography": "Autor, Selfpublisher, ehemaliger Verleger. Wenn they nicht gerade das B\u00fcro eines IT-Sercurity Unternehmens schmei\u00dft, schreibt they ins Internet und in Ebooks, manchmal auch auf Papier. tomate mag Stempel und kann stundenlang dar\u00fcber sprechen, was Stempel eigentlich genau machen. \nThey hat auch bei einem gro\u00dfen Publikumsverlag ver\u00f6ffentlich und war erschrocken mit was f\u00fcr Werkzeugen selbst gro\u00dfe Verlage so arbeiten m\u00fcssen. Darauf hin hat they das Epub selbst gebaut und an den Verlag gegeben, damit das wenigstens ordentlich ist. tomate hat immer ein paar ISBN parat, man wei\u00df ja nie, f\u00fcr was man die so gebrauchen kann.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3ad34cd6-6b00-5de1-af12-d79bd3bd5145"
+    },
+    {
+      "guid": "b6e2b9f5-8a33-58b0-936d-8259df5cd7e2",
+      "name": "anna",
+      "public_name": "anna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b6e2b9f5-8a33-58b0-936d-8259df5cd7e2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/punkrock-songtext-lesung",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/KJ38N3/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/KJ38N3/feedback/",
+  "do_not_record": true
+}

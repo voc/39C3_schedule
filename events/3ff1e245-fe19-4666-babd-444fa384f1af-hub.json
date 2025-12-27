@@ -1,0 +1,21 @@
+{
+  "guid": "3ff1e245-fe19-4666-babd-444fa384f1af",
+  "code": null,
+  "id": 312451,
+  "date": "2025-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "02:30",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-music-generation-for-newbies-learn-to-solder-_hipp",
+  "title": "Music Generation for Newbies / Learn to Solder workshop -- ArduTouch music synthesizer",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Anyone can learn to solder! And anyone can learn to make music, sound (and noise!) with computer chips! All participants will easily learn all of this by making an ArduTouch music synthesizer from a kit. For total beginners.",
+  "description": "**Learn to solder** by making a way-cool, powerful music synthesizer, and  \n**learn how to make cool music, sound, (and noise!) with computer chips**  \n(The fancy word for making sound with a computer chip is *Digital Signal Processing* or *DSP*).\n\n**[ArduTouch](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)** is an open hardware **Ardu**ino-compatible music synthesizer kit with a built-in **Touch** Keyboard, and with built-in speaker/amplifier. It is a really nice performing musical instrument.\n\nThis workshop is for **total newbies** to learn to solder.  \nThis workshop is for **total newbies** to make their own ArduTouch music synthesizer and learn to make music, sound (and noise!) with computer chips. Attendees take their completed synthesizer home at the end of the workshop.\n\nThe ArduTouch comes pre-programmed with a way cool synthesizer. And I will show you how to re-program it with other way cool (and totally different) synthesizers, and how to make your own synthesizers.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have ArduTouch kits for **\u20ac35**.  \n*Optional*: USB-Serial Cable for re-programming ArduTouch (and many other projects): **5 \u20ac**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop Itinerary**:\n* Intro to music synthesis\n* Basics of making sound with computer chips (Digital Signal Processing)\n* Basics of using an Arduino\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your ArduTouch music synthesizer to make lots of cool music, sounds, (and noise!)\n\n**Registration**:   \n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.**\n\n**Links**:  \n[ArduTouch music synthesizer kit webpage](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[ArduTouch Github page](https://github.com/maltman23/ArduTouch)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/c14f2071e5a2/music-generation-for-newbies-learn-to-solder-_hipp.banner.jpg",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/music-generation-for-newbies-learn-to-solder-_hipp",
+  "links": []
+}

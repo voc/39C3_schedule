@@ -1,0 +1,30 @@
+{
+  "guid": "475b1915-0a78-4e04-84d1-dca3ec173da1",
+  "code": null,
+  "id": 475191,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-lets-build-our-own-cursor-themes-for-linux",
+  "title": "Build your own cursor theme (for Linux)!",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Since a couple of years, I've been using a custom cursor theme \u2013 the cursor is a turtle emoji! Sometimes I forget that it exists, and people are amused that there's a turtle on my screen! :D\n\nIn this workshop, I'll explain how cursor themes work on Linux, and teach you how to generate your own one! It could be anything you want \u2013 some ideas:\n\n- Draw your own arrows (cool-looking? Weird ones?)\n- Repurpose your favorite icons/logos (so that everyone immediately knows that you're using Arch btw)\n- Bl\u00e5hajs?!\n- High-contrast cursors that are actually more accessible to you\n\nBring a Linux laptop! And it'd be ideal if you could already install the vector graphics program Inkscape and the command line tool `xcursorgen`! I'll show you a little script that will help you generate the theme.\n\nThe resulting themes work both on X.Org as well as Wayland.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "be66ecaf-43fe-4862-9906-8a7081bd1b59",
+      "name": "blinry",
+      "public_name": "blinry",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/blinry"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lets-build-our-own-cursor-themes-for-linux",
+  "links": []
+}

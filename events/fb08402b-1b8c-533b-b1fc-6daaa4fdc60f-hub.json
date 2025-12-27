@@ -1,0 +1,39 @@
+{
+  "guid": "fb08402b-1b8c-533b-b1fc-6daaa4fdc60f",
+  "code": "TRPMAN",
+  "id": 2173,
+  "date": "2025-12-29T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-netzpolitik-in-der-schweiz-zwischen-bodensee-und-matterhorn",
+  "title": "Netzpolitik in der Schweiz: Zwischen Bodensee und Matterhorn",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Auch in der Schweizer Netzpolitik ging es im auslaufenden Jahr drunter und dr\u00fcber. Wir blicken mit gewohntem Schalk auf das netzpolitische Jahr 2025 zwischen Bodensee und Matterhorn zur\u00fcck - und diskutieren jene Themen, die relevant waren und relevant bleiben.",
+  "description": "**Themen sind unter anderem:**\n\n\n**E-ID und E-Collecting:** Die netzpolitische Community hat nicht nur eine privatisierte E-ID verhindert sondern auch den Datenschutz als zentrales Prinzip verankert und einen beispielhaften Gesetzgebungsprozess begleitet. Das Gleiche haben wir bei E-Collecting vor, mit dem wir die direkte Demokratie der Schweiz auf ein neues Level heben wollen.\n\n\n**Elektronisches Gesundheitsdossier:** Was macht man, um eine Verschlechterung bei einem Produkt zu kaschieren? Richtig, man nimmt ein Rebranding vor. Und so heisst das E-PD nun E-GD.\n\n\n**Kabelaufkl\u00e4rung:** Im Dezember \u00fcberraschte uns das Bundesverwaltungsgericht mit einem wegweisenden Urteil: Es beurteilte die Kabelaufkl\u00e4rung als nicht vereinbar mit der Bundesverfassung und der Europ\u00e4ischen Menschenrechtskonvention. L\u00e4sst das ganze aber 5 Jahr laufen.\n\n\n**What the V\u00dcPF:** Wie die Schweiz zudem plant, das freie Internet weitgehend abzuschaffen. Wie der Stand der Versch\u00e4rfung ist. Was wir und du dagegen tun k\u00f6nnen?\n\n\n**Plattformregulierung:** Ein Vorschlag zur Plattformregulierung wurde vom Bund ausgearbeitet - und nach der Verh\u00e4ngung von 39% Strafzoll still und heimlich in der Schublade versenkt. Doch der Bund fasste Mut - und wagt einen zaghaften Aufbruch.\n\n\n**KI-Regulierung & Leistungsschutzrecht:** Und wieso getraut sich der Bund, ein Leistungsschuzrecht einzuf\u00fchren? Und mit der Motion \u00abG\u00f6ssi\u00bb KI-Sprachmodelle mit Schweizer Daten zu gef\u00e4hrden? (Spoiler: wegen der Verleger-Lobby)\n\n\n**Community in der Schweiz:** Winterkongress, Diversity und andere Aktivit\u00e4ten.\n\n\nNach dem Vortrag sind alle interessierten Personen eingeladen, die [Diskussion in einer self-organized Session](https://events.ccc.de/congress/2025/hub/en/event/detail/treffen-der-netzpolitischen-community-der-sch_uoca) fortzusetzen. Es werden Aktivist:innen von verschiedenen Organisationen der Netzpolitik in der Schweiz anwesend sein.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TRPMAN/swiss-flag_001_VqavHlJ_YP5E3GO_koLNUuT_rKRFoez.webp",
+  "persons": [
+    {
+      "guid": "16870bc8-38f8-5fe7-a094-cf04183fc0ce",
+      "name": "Kire",
+      "public_name": "Kire",
+      "avatar": "https://cfp.cccv.de/media/avatars/MVJECP_ltgF8aL.jpeg",
+      "biography": "Kire setzt sich seit vielen Jahren f\u00fcr Freiheitsrechte in einer vernetzten Welt ein. Er ist Informatiker, Co-Gesch\u00e4ftsleiter der Digitalen Gesellschaft Schweiz und ein fr\u00fches Mitglied im CCC. Sein Interesse gilt dem Spannungsfeld aus Technologie, Gesellschaft und Recht. Es ist Mitglied im Schweizer Presserat.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_16870bc8-38f8-5fe7-a094-cf04183fc0ce"
+    },
+    {
+      "guid": "cd5e661d-19f0-57de-8235-b1899a12b89b",
+      "name": "Rahel",
+      "public_name": "Rahel",
+      "avatar": "https://cfp.cccv.de/media/avatars/CXUFHQ_SyHfQrq.webp",
+      "biography": "Rahel ist Co-Gesch\u00e4ftsleiterin der Digitalen Gesellschaft Schweiz und promovierte Soziologin. Sie engagiert sich in Politik und Zivilgesellschaft, weil sie an eine andere, bessere Welt glaubt. Insbesondere im Digitalen. Ihre Leitschnur daf\u00fcr sind Grundrechte, die Menschenw\u00fcrde und der Respekt vor der Natur.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cd5e661d-19f0-57de-8235-b1899a12b89b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/netzpolitik-in-der-schweiz-zwischen-bodensee-und-matterhorn",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TRPMAN/"
+}

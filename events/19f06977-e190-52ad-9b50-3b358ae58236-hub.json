@@ -1,0 +1,33 @@
+{
+  "guid": "19f06977-e190-52ad-9b50-3b358ae58236",
+  "code": "BVBFSH",
+  "id": 2319,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-awful-interception-misadventures-of-the-russian-surveillance-machinery",
+  "title": "Awful interception: misadventures of the russian surveillance machinery",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "This talk is a multidisciplinary tale about Awful Interception. One foot in network measurements and network scanning, other in sociology of technologies, it draws a very detailed portrait of the russian surveillance industry. \r\n\r\nOur small team from the Citizen Lab (University of Toronto) and the Center for Internet and Society of the CNRS (France) have been looking at the so-called SORM systems since 2017. SORM is the abbreviation used to describe the set of hardware and software solutions designed to mirror, store and transmit user traffic from ISPs to the FSB. By the time of writing of this proposal, the usage of SORM has been also extended to the occupied territories of Ukraine.\r\n\r\nWe wanted to really understand what kinds of data SORM can see, how it stores and transmits data, but also how it is implemented at the ISP level and how it is used in courts (well, it was supposed to help \"prevent crime\" after all). To do so, we deployed a mixed methods approach, from network scanning and reverse engineering to sociology, conducting in-depth interviews with ISPs and former employees of SORM vendors. Of course there was a lot of OSINT and even court cases analysis.\r\n\r\nAnd of course, we found a bunch of those devices out there on the web, open and accessible, leaking large amounts of user data in real time. We could connect to them and observe them for several years. We could identify vendors behind those leaking boxes. Document the SORMification of the occupied territories of Ukraine and measure the effect of SORM on the Internet service providers community.",
+  "description": "This talk analyzes the Russian surveillance ecosystem known as \u201cSORM\u201d. The term SORM stands for \u201cSystem for Operative Investigative Activities\u201d and defines Russian lawful interception equipment for telecommunications and Internet. Our talk specifically focuses on the technical details of implementation and real-life usage of SORM. It spotlights major cases of SORM misconfigurations and user data leaks that we found and observed through network monitoring data collection.\n\nWe first identified misconfigurations of SORM in 2017, when we came across a web interface that appeared to be an administration dashboard for a SORM device. Afterwards, Russian researcher Leonid Evdokimov documented another case of SORM misconfigurations which had led to users'  data leaks . However, even after this disclosure, we continued to have access to dozens of live SORM web interfaces that were collecting user data. We could attribute some of them to specific vendors.\n\nThis talk is an effort to systematize the most up-to-date knowledge about the actual functioning of SORM, its technical capabilities, implementation schemes, legislation, market dynamics, as well as the analysis of misconfiguration cases we could find. It analyzes real legal practices of using SORM based on open data from courts that we analyzed in details. It also sheds light on the usage of SORM in occupied Ukrainian territories and the role SORM infrastructures play in the construction of Russia\u2019s \u201cdigital authoritarianism\u201d. While Kremlin declares that lawful interception equipment is a sovereign technology \"made in Russia'', some of its core parts are still provided by foreign companies (as other researchers and our team could independently prove).\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a6fe2792-83d5-548e-9241-8d1153424974",
+      "name": "Xeniax",
+      "public_name": "Xeniax",
+      "avatar": null,
+      "biography": "UX researcher at Delta Chat\nSenior researcher at the Citizen Lab (Canada) and CIS CNRS (France)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a6fe2792-83d5-548e-9241-8d1153424974"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/awful-interception-misadventures-of-the-russian-surveillance-machinery",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/BVBFSH/",
+  "feedback_url": null,
+  "do_not_record": true
+}

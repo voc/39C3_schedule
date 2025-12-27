@@ -1,0 +1,36 @@
+{
+  "guid": "72f2a9b5-f646-584a-a3f1-e700657736a5",
+  "code": "E8XTX7",
+  "id": 1917,
+  "logo": null,
+  "date": "2025-12-28T22:05:00+01:00",
+  "start": "22:05",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1917-textiles-101-fast-fiber-transform",
+  "url": "https://cfp.cccv.de/39c3/talk/E8XTX7/",
+  "title": "Textiles 101: Fast Fiber Transform",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Textiles are everywhere, yet few of us know how they\u2019re made. \r\n\r\nThis talk aims to give you an overview over the complete transformation from fiber to finished textile. We'll be exploring fiber properties, spinning, and techniques like weaving, knitting, crochet, braiding, and knotting, followed by finishing methods such as dyeing, printing, and embroidery.\r\n\r\nYou\u2019ll learn why not only fiber but also structure matters, and how to make or hack textiles on your own without relying on fast fashion or industrial tools.",
+  "description": "Textiles play an integral part in our daily lives. If you\u2019re reading this, chances are you\u2019re wearing clothes or have some form of fabric within arm\u2019s reach. Yet despite how common and essential textiles are, few of us know how they actually come to be. How do we go from a plant, animal, or synthetic polymer to a fully finished piece of clothing?\r\n\r\nThis talk unravels the full transformation pipeline of textiles: starting with fibers and their properties, then spinning them into yarn, turning that yarn into textiles through weaving, knitting, crochet, braiding, knotting, and other techniques, and finally finishing them through printing, embroidery, dyeing, or bleaching.\r\nAlong the way, you\u2019ll learn why your \u201c100% cotton\u201d garments can feel completely different despite being made of the same fiber, how structure matters just as much as material, and what environmental impact different choices have.\r\n\r\nWhether you want to make your own textiles, hack existing ones, or finally understand why that wool sweater you washed too hot is now tiny, this talk is a crash course in most things textile, and a reminder that you don\u2019t need industrial machinery or fast fashion to create something on your own.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "TVCPGV",
+      "name": "octoprog",
+      "avatar": null,
+      "biography": "Hi! I'm Linus :3\r\n\r\nI grew up in northern Italy and am now studying computer science at TU Graz.\r\n\r\nSome of the things I like are computers, free and open source anything, languages, yarn crafts, older gaming consoles, cooking, and music.\r\n\r\nIn my spare time I am an active member of my local students union.\r\n\r\nIf you have any questions, regarding my talk or otherwise, or just want to say hi, you're welcome to do so.\r\n\r\n\r\nI use male and neutral pronouns (for example he/they/er) in any language.",
+      "public_name": "octoprog",
+      "guid": "099aef8d-060d-577f-aea2-60862a69fcd7",
+      "url": "https://cfp.cccv.de/39c3/speaker/TVCPGV/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/E8XTX7/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/E8XTX7/",
+  "attachments": []
+}

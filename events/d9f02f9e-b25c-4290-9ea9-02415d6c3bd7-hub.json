@@ -1,0 +1,38 @@
+{
+  "guid": "d9f02f9e-b25c-4290-9ea9-02415d6c3bd7",
+  "code": null,
+  "id": 902925,
+  "date": "2025-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:00",
+  "room": "House of Tea",
+  "slug": "39c3-we-make-sign-language_qw7q",
+  "title": "\ud83d\ude4a Oral Languages Are Watched, Sign Languages Are Free \ud83d\ude49",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Oral languages are constantly monitored, but sign languages remain largely invisible to surveillance systems. This session explores hacker culture and Deaf culture, experimenting with sign language as a tool for privacy, creativity, and subversion. Join us to challenge dominant norms, explore multilingual communication, and rethink the politics of visibility and language power.",
+  "description": "In a world dominated by surveillance and digital control, oral languages are constantly monitored, but sign languages remain largely invisible to automated systems. This session explores the intersection of hacker culture, Deaf culture, and communication, questioning dominant linguistic norms and hearing privilege. Participants will experiment with sign language as a tool for privacy, creativity, and subversion, explore collaborative multilingual communication, and reflect on the politics of visibility and language power. Open to all signers, non-signers, and curious minds ready to hack communication.\n\nKey themes:\n\nSurveillance and privacy\n\nHacking communication\n\nSign language as a free / untraceable space\n\nPolitics of visibility and language power\n\nExperimentation, creativity, and reinvention of norms\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/5b8ed6046efe/Animated_glider_emblem.gif",
+  "persons": [
+    {
+      "guid": "73ea01ae-68a5-429d-bc94-c39cd4cd18c3",
+      "name": "seejayer (\ud83d\ude4a\ud83d\ude49 \ud83d\udcf5 7880)",
+      "public_name": "seejayer (\ud83d\ude4a\ud83d\ude49 \ud83d\udcf5 7880)",
+      "avatar": null,
+      "biography": "Born deaf, he studied in bilingual schools alongside both deaf and hearing students, first in Paris and later in Toulouse, capital of sign language. Every Wednesday, his parents enrolled him in activities that allowed him to play with other children, helping him explore the hearing world and build self-confidence. These experiences also taught him interdependence and personal freedom. Today, he is recognized as an active member of the free software community and works as a popular educator in sign language, fostering connections between deaf and hearing people. Since 2010, he has co-organized Hackerspace Festival in Toulouse and contributed to improving accessibility for deaf participants. While CCC has not yet reached the same level of accessibility development as Toulouse, capital of sign language, he has gained substantial experience in this field.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/seejayer"
+    },
+    {
+      "guid": "30539765-bd71-44f2-b388-d01442d43d19",
+      "name": "Snoopy3109",
+      "public_name": "Snoopy3109",
+      "avatar": null,
+      "biography": "I'm just a libre software enthusiate. I'm part of the french kittens collective and moderate several communities in the fediverse on the software Piefed.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/snoopy3109"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/we-make-sign-language_qw7q",
+  "links": []
+}

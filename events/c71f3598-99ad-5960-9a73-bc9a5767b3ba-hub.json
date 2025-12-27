@@ -1,0 +1,31 @@
+{
+  "guid": "c71f3598-99ad-5960-9a73-bc9a5767b3ba",
+  "code": null,
+  "id": 300116,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "CDC Circle",
+  "slug": "39c3-indoor-ballooning-with-antennas",
+  "title": "(Indoor-) Ballooning with antennas",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "As every Star Trek fan knows, humans are \"ugly bags of mostly water\" [S1E18] so RF communication in areas densely packed with humans - or their infrastructure made of metal and stone - is problematic.  \r\nWe'll explore ideas to overcome or mitigate this problem, ideas that are possible due to miniaturisation of RF devices and their constraints.",
+  "description": "We'll discuss\n- what we trying to achieve / the problem at hand\n- the physical, electrical and financial constraints of our solution compared to other approaches\n- what changed, why can we do this in 2025 but not in 2015?\n\nIn the end we'll raise a tethered balloon with Meshcore and a Reticulum nodes indoors or - depending on the situation - outdoors and playfully check the height and range we can achieve.\n\nThis is a fun workshop that wants to encourage people to play with compact yet easily deployable communication infrastructure, there will be some basic maths and diagrams, but nothing intimidating.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/3MUCCG/Screenshot_2025-12-22_at_14.20.04_tY4WY8C.png",
+  "persons": [
+    {
+      "guid": "edbfb7c6-fa95-54b7-9037-c781d455f0ed",
+      "name": "chris",
+      "public_name": "chris",
+      "avatar": null,
+      "biography": "Chris has had no Ham license for decades, yet, because there always was something else eating up his time. But next congress, definitely. Chris does not expect the fall of civilisation and would not consider himself a prepper, but being able to communicate if centralised infrastructure is not available for a while seems like a good idea and the real treasure are the friends we're making on the way.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_edbfb7c6-fa95-54b7-9037-c781d455f0ed"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/indoor-ballooning-with-antennas",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/3MUCCG/"
+}

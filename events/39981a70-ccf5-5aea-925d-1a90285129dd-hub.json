@@ -1,0 +1,31 @@
+{
+  "guid": "39981a70-ccf5-5aea-925d-1a90285129dd",
+  "code": null,
+  "id": 100433,
+  "date": "2025-12-27T17:40:00+01:00",
+  "start": "17:40",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-bits-baume-community-meetup",
+  "title": "Bits & B\u00e4ume Community Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "T\u00e4gliches Meetup zum Netzwerken, gegenseitiges Kennenlernen, Tipps geben.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "08eeb93b-4e8b-5e66-bd02-7524a93c92f9",
+      "name": "benks",
+      "public_name": "benks",
+      "avatar": null,
+      "biography": "FIfF Berlin\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_08eeb93b-4e8b-5e66-bd02-7524a93c92f9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bits-baume-community-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/XAVSPA/"
+}

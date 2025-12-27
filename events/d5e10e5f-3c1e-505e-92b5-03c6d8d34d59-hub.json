@@ -1,0 +1,39 @@
+{
+  "guid": "d5e10e5f-3c1e-505e-92b5-03c6d8d34d59",
+  "code": null,
+  "id": 200509,
+  "date": "2025-12-29T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wikidata-and-colonialism-in-data",
+  "title": "Wikidata and Colonialism in Data",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Data is not neutral! This workshop aims to raise awareness of colonial influences on knowledge in catalogs, databases, and open platforms, and to provide joint practice using data modeling in Wikidata.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9fdbf237-0c26-564d-a75a-26cd0997128e",
+      "name": "Cin Pietschmann",
+      "public_name": "Cin Pietschmann",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9fdbf237-0c26-564d-a75a-26cd0997128e"
+    },
+    {
+      "guid": "21488556-d5aa-5c56-bd0a-fcc55840066d",
+      "name": "Lukas Fuchsgruber",
+      "public_name": "Lukas Fuchsgruber",
+      "avatar": null,
+      "biography": "https://meta.wikimedia.org/wiki/User:Lukas_Fuchsgruber_(WMDE)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_21488556-d5aa-5c56-bd0a-fcc55840066d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wikidata-and-colonialism-in-data",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/SZMDAU/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "77e26042-8959-40c1-ba4a-b626fbebe43a",
+  "code": null,
+  "id": 772604,
+  "date": "2025-12-30T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-sozialrecht-hacken-hartzen-fur-fortgeschrittene",
+  "title": "Sozialrecht hacken - Hartzen f\u00fcr Fortgeschrittene",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "https://events.ccc.de/congress/2025/hub/de/event/detail/wer-liegt-hier-wem-auf-der-tasche-genug-mit-dem-burgergeld-fetisch-sturmt-die-palaste\n\nNachdem in diesem Talk wahrscheinlich viel \u00fcber B\u00fcrgergeld und \"neue Grundsicherung\" geredet wurde, gehen wir hier in einem praktischen Austausch zu einem selbstbewussten Umgang mit dem ganzen Schei\u00df. Es geht um Tipps, Tricks und Hacks im allt\u00e4glichen Umgang mit dem Jobcenter. Die Referentin bezieht bereits seit mehreren Jahren unsanktioniert B\u00fcrgergeld, ohne auch nur einen einzigen Termin wahrgenommen zu haben, aber das ganze soll mehr ein offener Austausch sein, bei dem alle etwas beitragen k\u00f6nnen, als ein linearer Vortrag.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c9ecb2d6-a76b-433d-b973-5f2c34b27c55",
+      "name": "Luna",
+      "public_name": "Luna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sozialrecht-hacken-hartzen-fur-fortgeschrittene",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "c0d94ff3-2b4f-5b04-9aa7-1f8be4d9f0d3",
+  "code": "AF3CE9",
+  "id": 94324,
+  "date": "2025-12-29T09:00:00+01:00",
+  "start": "09:00",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-inclusive-yoga-practice-body-diversity-by-default",
+  "title": "Inclusive Yoga Practice: (Body) Diversity by default [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Body diversity by default. This workshop is a shared exploration space aiming to perceive body, breath and emotion as a psychological safe space. We explore interoception, adaptive movement and sensing without judgement.",
+  "description": "Yoga becomes a tool for systemic change when it centers inclusion, questions appropriation and reshapes community. It is activism expressed through presence. We invite you to a slow, accessible practice designed to build mental strength and reclaim power through embodiment. We adjust poses to fit all needs and focus on a collective experience where everyone feels welcome by establishing inviting language and tools like consent cards, etc.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b149965b-ec36-5fc2-9939-035e91b7094d",
+      "name": "Jamie",
+      "public_name": "Jamie",
+      "avatar": null,
+      "biography": "I'm a BDY/EYU certified Yoga teacher and have been teaching yoga for 5+ years with a strong focus on keeping Yoga accessible to people for diverse backgrounds. I'm a member of Yoga Kritisch Denken. We want to decolonize yoga and create a space for the transformation of the yoga world towards inclusion, diversity, and an open culture of dialogue.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b149965b-ec36-5fc2-9939-035e91b7094d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/inclusive-yoga-practice-body-diversity-by-default",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/AF3CE9/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/AF3CE9/feedback/"
+}

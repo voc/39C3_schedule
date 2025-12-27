@@ -1,0 +1,48 @@
+{
+  "guid": "14cb6843-3e39-563c-9e49-6608e0803017",
+  "code": "8G7TUG",
+  "id": 83775,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-och-menno-x-disconnected-unexpected-elbonian-incident-response-wie-reagiere-ich-falsch",
+  "title": "Och Menno X Disconnected Unexpected : Elbonian Incident Response : Wie reagiere ich falsch",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Jeder redet dar\u00fcber wie man eine Krise optimal bearbeitet. Bei Disconnected Unexpected geht es ja darum das das Publikum ein Szenario in den Raum wirft und Teams versuchen eine optimale L\u00f6sung zu finden. Bei Och Menno geht es darum das Sachen schief gehen. In der gro\u00dfen Nation Elbonien geht es darum das immer die komplizierteste, gerechtfertigte L\u00f6sung findet die garantiert die schlechteste Auswirkungen hat.",
+  "description": "Es wird eine Impro Comedy Show, wo das Publikum ein Szenario in den Raum werfen darf, und das Panel versucht die Krise durch wohlgemeinte Ideen schlechter zu machen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc",
+      "name": "Sven Uckermann",
+      "public_name": "Sven Uckermann",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/sticker2a_sSfUyCi.png",
+      "biography": "Der Failpodcaster, der immer wieder merkw\u00fcrdige Talks zu merkw\u00fcrdigen Themen h\u00e4lt. MAcht im realen Leben was mit kaputten Computern.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc"
+    },
+    {
+      "guid": "04bb209a-bdff-5b6e-b34d-512039878519",
+      "name": "egouvernante",
+      "public_name": "egouvernante",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/IMG_3202_OGpyY0O.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_04bb209a-bdff-5b6e-b34d-512039878519"
+    },
+    {
+      "guid": "f08de40b-a1fc-58c7-818a-573bb1d4478e",
+      "name": "Runtanplan",
+      "public_name": "Runtanplan",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f08de40b-a1fc-58c7-818a-573bb1d4478e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/och-menno-x-disconnected-unexpected-elbonian-incident-response-wie-reagiere-ich-falsch",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8G7TUG/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8G7TUG/feedback/"
+}

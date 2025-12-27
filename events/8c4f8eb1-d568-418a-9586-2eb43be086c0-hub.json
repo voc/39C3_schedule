@@ -1,0 +1,38 @@
+{
+  "guid": "8c4f8eb1-d568-418a-9586-2eb43be086c0",
+  "code": null,
+  "id": 848156,
+  "date": "2025-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-solder-your-very-own-iot-pusheen-cat-lamp-with-wle",
+  "title": "Solder your very own IoT Pusheen Cat Lamp with WLED! (Day 3)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Solder your very own IoT Pusheen Cat Lamp with WLED",
+  "description": "**Solder your very own IoT Pusheen Cat Lamp with WLED!**\n\n**Materials costs**:  \n\u20ac70\n\n**Taught by** Retia / Michael.\n\n**Workshop Itinerary**: Build the cutest IoT device on the network, and defend your home Wi-Fi! You will solder a custom PCB designed to light up and connect a Pusheen cat lamp. Once assembled, we will flash it with WLED, the industry-standard open-source software for controlling addressable LEDs. You\u2019ll leave with a lamp you can control from your phone to display rainbows, fire effects, and notifications. It also doubles as a Wi-Fi defender, with firmware to detect and warn you of the presence of Wi-Fi jamming attacks!\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-catware-python-sensor-playground-28-dec-23-00-24-30-copy)\n\n**Workshop Includes**: Pusheen Kit (Custom PCB & 3d printed base)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "50846e30-a1fc-45dc-afb8-aa51f56ff1fb",
+      "name": "Hoid (he/him)",
+      "public_name": "Hoid (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hoid"
+    },
+    {
+      "guid": "f323709d-6349-43d3-9ff7-c4cd932d7568",
+      "name": "brandonpaiz",
+      "public_name": "brandonpaiz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/brandonpaiz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/solder-your-very-own-iot-pusheen-cat-lamp-with-wle",
+  "links": []
+}

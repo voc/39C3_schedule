@@ -1,0 +1,30 @@
+{
+  "guid": "124044e0-9628-4e37-94f8-1509545841ab",
+  "code": null,
+  "id": 124044,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:55",
+  "room": "SoS Saal 6",
+  "slug": "39c3-cpu-entwicklung-in-factorio-wie-benutze-ich-phds-f",
+  "title": "CPU-Entwicklung in Factorio: Wie benutze ich PhD's Factorio CPU und wie schreibe ich daf\u00fcr Programme?",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Dies ist die Hands-on-Session zum Talk \"CPU-Entwicklung in Factorio: Vom D-Flip-Flop bis zum eigenen Betriebssystem\"\r\nAm besten schaut ihr euch vorher den Talk an, dort wird das Projekt ausf\u00fchrlich vorgestellt.",
+  "description": "Dies ist die Hands-on-Session zum Talk \"CPU-Entwicklung in Factorio: Vom D-Flip-Flop bis zum eigenen Betriebssystem\"\n(https://events.ccc.de/congress/2025/hub/en/event/detail/cpu-entwicklung-in-factorio-vom-d-flip-flop-bis-zum-eigenen-betriebssystem).\n\nIn dieser Session zeige ich, wie man meine CPU in Factorio l\u00e4dt, wie man\nAssembly-Programme daf\u00fcr schreibt, sie assembliert und schlie\u00dflich in\nFactorio ausf\u00fchrt.\n\nZum Mitmachen solltet ihr **Factorio** bereits installiert haben\n(Grundspiel, nicht die Erweiterung *Space Age*).\nGetestet habe ich Factorio \u00fcber Steam auf Windows und Ubuntu (mit Proton\n10.0; Guide f\u00fcr Linux-Installation von Steam-Games:\nhttps://ubuntu.com/blog/linux-gaming-with-ubuntu-desktop-steam-and-proton).\nOhne Factorio k\u00f6nnt ihr eure Assembly-Programme nur auf einem\nPython-Simulator ausf\u00fchren.\n*(Factorio ist \u00fcbrigens generell ein sehr gutes Spiel, das ich\nuneingeschr\u00e4nkt empfehlen kann \u2026)*\n\nF\u00fcr den Assembler ben\u00f6tigt ihr eine Python-Umgebung und m\u00fcsst ein\nGitHub-Repository clonen.\nF\u00fcr die Bedienung in Factorio empfehle ich au\u00dferdem eine Maus, auch wenn\nsie nicht zwingend notwendig ist.\n\nIm Detail werden wir:\n\n- Den Factorio-Worldsave meiner CPU in Factorio \u00f6ffnen\n- Alle ben\u00f6tigten Quality-of-Life-Mods installieren\n- Die vorinstallierten Programme auf der CPU testen\n- Das Assembler-Repository clonen und den Python-Assembler einrichten\n- RISC-V-Assembly kennenlernen\n- Ein erstes kleines Programm schreiben\n- Das Programm assemblieren\n- Den Blueprint in Factorio laden\n- Das eigene Programm in Factorio ausf\u00fchren!\n\nIch freue mich sehr \u00fcber Anregungen und Fragen.\nWenn beispielsweise jemand Interesse h\u00e4tte, f\u00fcr diese CPU einen Compiler\nzu bauen, w\u00e4re ich ganz Ohr! :)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "51d23819-7fd9-4f9c-ab53-005bd9732541",
+      "name": "PhD (he/him)",
+      "public_name": "PhD (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/phd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cpu-entwicklung-in-factorio-wie-benutze-ich-phds-f",
+  "links": []
+}

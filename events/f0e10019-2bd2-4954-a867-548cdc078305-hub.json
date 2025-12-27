@@ -1,0 +1,30 @@
+{
+  "guid": "f0e10019-2bd2-4954-a867-548cdc078305",
+  "code": null,
+  "id": 10019,
+  "date": "2025-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:20",
+  "room": "Komonin",
+  "slug": "39c3-mushroomclub",
+  "title": "Mushroomclub",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Lets get together fellow fungi people. Lets talk about growing them at home, identification, using them in projects, nature and more\u2026 everyone is welcome - even if you havent started your new hobby yet.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c7e6b46b-344a-4984-9a95-20357436b2ec",
+      "name": "Thistle",
+      "public_name": "Thistle",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/thistle"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mushroomclub",
+  "links": []
+}

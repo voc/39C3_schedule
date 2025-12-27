@@ -1,0 +1,40 @@
+{
+  "guid": "a253e48b-7a74-5de5-809a-3c7e3e665566",
+  "code": null,
+  "id": 100439,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-promptbastelei-und-andere-uberlebensstrategien",
+  "title": "Promptbastelei und andere \u00dcberlebensstrategien",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Wie f\u00fchlt sich Coden an, wenn immer eine KI im Tab daneben sitzt? In dieser Session wollen wir mit euch eure Erfahrungen diskutieren. Wir bringen Fragen aus unseren Fallstudien mit, ihr eure Alltagspraxis als Entwickler:innen: Wo setzt ihr KI konkret ein, wo lasst ihr sie bewusst drau\u00dfen, wie ver\u00e4ndert sie euren Workflow, eure Zusammenarbeit im Team und euer Rollenverst\u00e4ndnis als Dev?",
+  "description": "Alle reden \u00fcber KI als Gamechanger, aber wie f\u00fchlt es sich an, wenn man als Dev mittendrin steckt? In unserer Session \u00f6ffnen wir einen Raum, in dem Forschung und Programmierpraxis zusammenkommen. Wir bringen erste Fragen und Muster aus unseren wissenschaftlichen Fallstudien in Softwareunternehmen mit, ihr eure t\u00e4glichen Erfahrungen aus Projektstress, Legacy Code und Promptbastelei.\n\nGemeinsam wollen wir rekonstruieren, wie KI konkret in eure Pipelines rutscht, wie ihr mit Black Box Momenten umgeht, warum ihr bestimmten Outputs vertraut und anderen nicht und welche neuen Routinen sich im Team herausbilden. Uns interessiert, was ihr gelernt habt, was ihr bewusst verweigert und wie sich euer Selbstbild als Entwickler:in vielleicht verschoben hat.\n\nStatt Hochglanzversprechen setzen wir auf eine ehrliche, kontroverse Gespr\u00e4chsrunde. Hier teilen wir Erfahrungen, beleuchten Spannungsfelder und sch\u00e4rfen unser Bild davon, welche konkrete Rolle KI derzeit in der Programmierpraxis spielt, inklusive Widerspr\u00fcchen. Bringt deshalb gerne die ungel\u00f6sten Fragen und offenen Baustellen ein, an denen ihr als Entwickler:innen und wir als Forscherinnen gemeinsam weiterdenken und -experimentieren k\u00f6nnen.\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/ZAE8ZW/dev_exp_EReeoCz.jpg",
+  "persons": [
+    {
+      "guid": "cb3fbacd-ac2c-5ab8-97b8-d7b3f5a79933",
+      "name": "Marlene Kulla",
+      "public_name": "Marlene Kulla",
+      "avatar": null,
+      "biography": "Technik- und Arbeitssoziologin am Weizenbauminstitut\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cb3fbacd-ac2c-5ab8-97b8-d7b3f5a79933"
+    },
+    {
+      "guid": "de903f63-6cf1-5b25-8063-679758c4e8ef",
+      "name": "Ann Katzinski",
+      "public_name": "Ann Katzinski",
+      "avatar": null,
+      "biography": "Ich bin wissenschaftliche Mitarbeiterin am WZB und erforsche im Projekt \u201eGenerative KI in der Arbeitswelt\u201c, wie Tools wie Cursor die Arbeit von Programmierer:innen transformieren \u2013 von neuen Chancen bis zu tiefgreifenden Umbr\u00fcchen. Als Sozialwissenschaftlerin m\u00f6chte ich in Forschung und Praxis Themen auf den Punkt bringen, die unsere Zukunft gestalten. Wissenschaft raus aus dem Elfenbeinturm, hinein in den gesellschaftlichen Dialog.\n\nLasst uns also gemeinsam dar\u00fcber sprechen, was generative KI f\u00fcr die Arbeitswelt, die Gesellschaft und nicht zuletzt f\u00fcr uns alle bedeutet \u2013 von Codezeilen bis zu gro\u00dfen Visionen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_de903f63-6cf1-5b25-8063-679758c4e8ef"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/promptbastelei-und-andere-uberlebensstrategien",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/ZAE8ZW/",
+  "do_not_record": true
+}

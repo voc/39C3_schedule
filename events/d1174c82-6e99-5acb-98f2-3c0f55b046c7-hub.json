@@ -1,0 +1,31 @@
+{
+  "guid": "d1174c82-6e99-5acb-98f2-3c0f55b046c7",
+  "code": "DRLEUN",
+  "id": 1364,
+  "date": "2025-12-30T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-battling-obsolescence-keeping-an-80s-laser-tag-sys",
+  "title": "Battling Obsolescence \u2013 Keeping an 80s laser tag system alive",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Keeping old projects working can be an uphill battle.  This talk explores how the laser tag system Q-Zar (Quasar in the UK) has been kept alive since the company behind it failed in the 90s.   The challenges encountered, the lessons learnt, and how those can be applied to our own future projects to maximise the project lifetime.",
+  "description": "Looking at the effects of obsolescence in the context of a laser tag system from the 1980s Q-Zar (Quasar in the UK), what needed to happen to keep it going to enable people to continue playing.  What lessons we can learn from that and some good examples from other projects, and how that can be applied to our own projects.\n\nThis talk covers the electronics involved in the laser tag system, why the continued availability of components has varied a lot.  The need to develop new computer software that continues to work years later.  The way the physical equipment can have its life extended.\n\nTopics covered range from electronics design through to software coding and onto physical unit repair. A look at the tooling created to help maintain, support and repair the laser tag packs.  The challenges Covid-19 created and how things were rapidly pivoted to enable continued playing in challenging times.\nThis is about how we all can make simple decisions that help build something that will last the maximum time possible with the least amount of effort.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/DRLEUN/348s_uJgdfJx.jpg",
+  "persons": [
+    {
+      "guid": "815f76ee-029a-559c-b70f-55e6ef07bd8c",
+      "name": "Trikkitt",
+      "public_name": "Trikkitt",
+      "avatar": "https://cfp.cccv.de/media/avatars/EHEEYJ_18JGsHt.jpg",
+      "biography": "Competitive laser tag player, designer of weird electronics, coding software and 3d models, ideally projects that involve all of them!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_815f76ee-029a-559c-b70f-55e6ef07bd8c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/battling-obsolescence-keeping-an-80s-laser-tag-sys",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DRLEUN/"
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "341961a3-599d-52b9-8262-34c1757c9698",
+  "code": "PSG7QA",
+  "id": 1431,
+  "date": "2025-12-28T00:20:00+01:00",
+  "start": "00:20",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-unnecessarily-complicated-kitchen-die-wissenschaft-des-guten-geschmacks",
+  "title": "Unnecessarily Complicated Kitchen \u2013 Die Wissenschaft des guten Geschmacks",
+  "subtitle": null,
+  "language": "de",
+  "track": "Entertainment",
+  "type": "Talk",
+  "abstract": "In unserer \u201eUnnecessarily Complicated Kitchen\u201c hacken wir die Gesetze der Kulinarik. Ich zeige live, wie Hitze, Chemie und Chaos zusammenwirken, wenn Molek\u00fcle tanzen, Dispersionen emulgieren und Geschmack zu Wissenschaft wird. Zwischen Pfanne und Physik entdecken wir, warum Kochen im Grunde angewandtes Debugging ist \u2013 und wie man Naturgesetze so w\u00fcrzt, dass sie schmecken.",
+  "description": "Willkommen in der \u201eUnnecessarily Complicated Kitchen\u201c \u2013 einer K\u00fcche, in der Naturwissenschaft, Technik und kulinarisches Chaos aufeinandertreffen.\nWir sezieren das Kochen aus der Perspektive von Hacker*innen: Warum Hitze\u00fcbertragung ein deinen Tschunk k\u00fchlt, warum Emulsionen wie BGP funktionieren und wie sich die Kunst des Abschmeckens in Datenpunkten erkl\u00e4ren l\u00e4sst.\n\nIn diesem Talk verbinden wir naturwissenschaftliche Experimente mit kulinarischer Praxis. Wir erhitzen, r\u00fchren, messen und analysieren \u2013 live auf der B\u00fchne. Dabei \u00fcbersetzen wir Physik und Chemie in Geschmack, Textur und Aha-Momente.\nKochen wird so zum Laborversuch, zum Hack, zum Reverse Engineering des guten Geschmacks.\n\nIch zeige, dass hinter jeder gelungenen Marinade ein Protokoll steckt, hinter jeder So\u00dfe ein Algorithmus \u2013 und dass man auch in der K\u00fcche mit Trial & Error, Open Source und einer Prise Chaos zu erstaunlichen Ergebnissen kommt.\n\nAm Ende steht nicht nur Erkenntnis, sondern auch Genuss: Denn wer versteht, warum etwas schmeckt, kann die Regeln brechen \u2013 und sie dabei besser w\u00fcrzen.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/PSG7QA/14875859_1132872053446506_383638730_o-B_O9KhuK3.webp",
+  "persons": [
+    {
+      "guid": "729a86f4-8e9e-5569-bf42-507fd2149072",
+      "name": "LukasQ",
+      "public_name": "LukasQ",
+      "avatar": "https://cfp.cccv.de/media/avatars/EBRMGZ_yqntgHZ.jpg",
+      "biography": "Ich bin Lukas, Berater, Infrastruktur-Stratege und leidenschaftlicher Bastler \u2013 im Rechenzentrum wie am Herd. Beruflich bewege ich mich zwischen Automatisierung, Architektur und strategischer IT, privat zwischen Sous-vide-Bad, Espressom\u00fchle und Edelstahlpfanne.\nAufgewachsen in einer Gastro-Technik-Familie habe ich fr\u00fch gelernt, dass gutes Kochen und gute Technik denselben Prinzipien folgen: Pr\u00e4zision, Verst\u00e4ndnis und Neugier. Kochen ist f\u00fcr mich angewandte Wissenschaft \u2013 ein Spiel mit Temperatur, Zeit und Chemie, bei dem man durch Experimentieren lernt, Systeme zu verstehen.\nWenn ich nicht gerade Cloud-Strategien entwerfe oder neue Pair-Programming-Kulturen etabliere, verbringe ich meine Zeit damit, Rezepte zu debuggen, Geschmack zu analysieren und \u00fcber die physikalische Eleganz eines perfekt gebratenen Steaks zu philosophieren.\nIch koche (semi-)professionell, gerne f\u00fcr Freundinnen, Familie und Kolleginnen \u2013 und genie\u00dfe dabei mindestens so sehr das Experiment wie das Ergebnis. F\u00fcr mich ist Kochen die sch\u00f6nste Form des Hackens: unmittelbar, multisensorisch und immer ein bisschen chaotisch.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_729a86f4-8e9e-5569-bf42-507fd2149072"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/unnecessarily-complicated-kitchen-die-wissenschaft-des-guten-geschmacks",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/PSG7QA/"
+}

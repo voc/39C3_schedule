@@ -1,0 +1,30 @@
+{
+  "guid": "c102d2a8-d3fd-42f2-bb82-48a09e3c85c7",
+  "code": null,
+  "id": 102283,
+  "date": "2025-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-yes-even-you-can-harden-your-systemd-services",
+  "title": "Yes, even you can harden your systemd services!",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "systemd offers lots of low-effort features for hardening services, but they're only slowly gaining adoption even though they are relatively simple to use. I'd like to introduce the essential options for hardening a systemd service, taking into account some interesting possibilities that arise when at least parts of the system are completely immutable, such as on NixOS.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c77abfc7-2031-4f69-8f35-40ef56b4a4f6",
+      "name": "whoami (she/they)",
+      "public_name": "whoami (she/they)",
+      "avatar": null,
+      "biography": "GSM NIXOS\nDECT WHOOO\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/whoami"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/yes-even-you-can-harden-your-systemd-services",
+  "links": []
+}

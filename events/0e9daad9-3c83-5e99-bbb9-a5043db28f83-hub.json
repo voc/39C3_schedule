@@ -1,0 +1,32 @@
+{
+  "guid": "0e9daad9-3c83-5e99-bbb9-a5043db28f83",
+  "code": "TMDAVN",
+  "id": 2508,
+  "date": "2025-12-28T04:30:00+01:00",
+  "start": "04:30",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-g00d-news",
+  "title": "g00d news",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "g00d news lebt und arbeitet seit 2009 in Hamburg und ist als Vinyl-DJ Teil der lokalen Underground-Szene. Er war langj\u00e4hriger Resident und Kurator im Golden Pudel Club und ist Mitbetreiber des Plattenladens Remoto-Rec. sowie des Vinyl- und Kassettenlabels V I S mit Fokus auf experimenteller Musik. Seine Sets reichen von Ambient, Experimental und outernationalen Sounds bis hin zu UK-Rave, Darkside Jungle, Hardcore, Breakbeats, Deep Techno und Freetekno. Zudem ist er kuratorisch und organisatorisch im BEEK e.V. aktiv.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/TMDAVN/G00dNews_pic_lxeTLuW.jpg",
+  "persons": [
+    {
+      "guid": "824e3e1b-bec8-5825-8ffe-a7863d3b76a3",
+      "name": "g00d news",
+      "public_name": "g00d news",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_824e3e1b-bec8-5825-8ffe-a7863d3b76a3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/g00d-news",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TMDAVN/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TMDAVN/feedback/"
+}

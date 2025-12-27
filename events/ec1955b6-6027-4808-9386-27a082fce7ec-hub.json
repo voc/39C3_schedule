@@ -1,0 +1,30 @@
+{
+  "guid": "ec1955b6-6027-4808-9386-27a082fce7ec",
+  "code": null,
+  "id": 195566,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-make-your-own-brain-machine",
+  "title": "Make Your Own Brain Machine",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Dive into the fascinating world of neurotechnology and construct your very own Brain Machine under expert guidance!",
+  "description": "What is a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)**? It's a fascinating device that generates light and sound pulses at brainwave frequencies. These can help achieve various states of consciousness, such as meditation or improved sleep.\n\nIn this workshop for **total beginners** we will all make a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)** that is preprogrammed with a really nice meditation sequence. As well as a device that can help you relax and meditate, a nice bonus is that everyone hallucinates beautiful colors and patterns along the way.\n\nThe Brain Machine is totally [open hardware](https://github.com/maltman23/Brain_Machine_kit), and created to be hackable, so you can re-program it with any computer, with software that is free to download and use.\n\nThis workshop is for **total beginners** to learn to solder.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have Brain Machine kits for **\u20ac25**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n_**IMPORTANT NOTE:** The Brain Machine uses blinking lights, and is not recommended for people who are photosensitive._\n\n**Workshop Itinerary**:\n* Intro to Sound & Light Machines\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your Brain Machine for creating other brainwave sequences\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Brain Machine kit webpage](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[Brain Machine Github page](https://github.com/maltman23/Brain_Machine_kit)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/2e65d39431e6/BrainMachineKids.jpg",
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/make-your-own-brain-machine",
+  "links": []
+}

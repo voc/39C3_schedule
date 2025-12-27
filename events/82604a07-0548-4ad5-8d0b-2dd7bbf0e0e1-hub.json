@@ -1,0 +1,30 @@
+{
+  "guid": "82604a07-0548-4ad5-8d0b-2dd7bbf0e0e1",
+  "code": null,
+  "id": 826040,
+  "date": "2025-12-28T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-a-primer-on-llm-security",
+  "title": "A Primer on LLM Security and Secure LLMOps",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Large Language Models (LLMs) have taken the world by storm. Alongside their vast potential, these models also present unique security challenges. This session will serve as a primer on LLM security and secure LLMOps, introducing key issues and concepts related to the security of LLMs and systems relying on them. For example, we will be looking at issues such as prompt injection, sensitive information disclosure, and issues related to the interaction of LLMs with the \u201coutside world\u201d (e.g., plugins or APIs, RAG, Agentic AI). Of course, we are also going to briefly look at how to red-team LLMs.\n\nThis session is based on previous iterations of \u201cA Primer on LLM Security\u201d at Congress and, based on audience feedback, has been extended and developed further.\n\n\nThis session is based on previous iterations of \u201cA Primer on LLM Security\u201d at Congress and, based on audience feedback, has been extended and developed further.\n\n## Target Audience and Required Previous Knowledge\n\nThis session targets beginners and does not assume (in-depth) knowledge about LLMs. If you have prior experience in LLM security and anticipate insights into the latest developments, this session most likely is not for you.\nPlease note that this session will not be about using LLMs in offensive or defensive cybersecurity.\n\n## Learning Objectives\n\nFrom a learning perspective, after the session, participants will be able to \u2026\n\n* describe what LLMs are and how they fundamentally function.\n* describe LLMOps and outline fundamental principles of secure LLMOps.\n* describe common security issues related to LLMs and systems relying on LLMs.\n* describe what LLM red teaming is.\n* perform some basic attacks against LLMs to test them for common issues.\n\n## About Me\n\nMy Name is Ingo, and I am currently responsible for Digital Education and Educational Technology at the University of Cologne. Relevant to this session, I have a background in computational linguistics and have been working with LLMs for quite some time \u2013 also prior to the ChatGPT moment. I am also involved in developing and providing AI infrastructure at scale. Of course, all of this is embedded within a deep interest in cyber- and information security.\n\n## Format\nThe session will be split into a 45-minute talk as well as 15 minutes of discussion. Participants will be provided with the slides as well as some resources for further study.\n\n## Technical Requirements\nAs this will not be a highly hands-on session, there are no technical requirements. If you want to experiment with some of the topics, a device capable of accessing and/or running LLMs is necessary. If you want to \u201cgo deeper,\u201d you will need a device \u2013 e.g., a laptop, capable of running LLMs locally.\n\n## Material\n\nAfter the session, I will provide all materials, including some selected additional resources. All materials will also be provided via this page.\n\nPs. This is a slightly updated version of the workshop(s) I gave at previous iterations of Congress.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8bb67d00-1b96-413f-bfe0-88c5666ab9c9",
+      "name": "IngoKleiber (er/sein)",
+      "public_name": "IngoKleiber (er/sein)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ingokleiber"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-primer-on-llm-security",
+  "links": []
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "4e7620b1-7459-5e07-a24f-40d1c07edbb7",
+  "code": null,
+  "id": 200521,
+  "date": "2025-12-29T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-search-engines-for-the-curious_bdbx",
+  "title": "Search Engines for the Curious",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "English version below, this Event will be in English.\r\n\r\nDu hast gerade erfahren, dass einige Chaoswesen in ihrer Freizeit an ihren eigenen Suchmaschinen basteln (lies: Websuche mit eigenem Index) und bist jetzt neugierig?\r\n\r\nDieses Treffen soll diejenigen, die bereits Erfahrung mit dem Bau von Suchmaschinen haben, mit denjenigen zusammenbringen, die mehr dar\u00fcber wissen wollen.\r\n\r\nGeplantes format ist eine kurze Vorstellung gefolgt von einem \"ask me anything\". Wesen, die auch Fragen zu dem Thema beantworten k\u00f6nnen sind willkommen (Bitt vorher Slatian bescheid geben).\r\n\r\nWenn Du bereits an einer Suchmaschine gebastelt hast, k\u00f6nnte dich das [Search Engine Creators Meetup](https://events.ccc.de/congress/2025/hub/en/event/detail/search-engine-creators-meetup) interessieren.\r\n\r\nDas Event im 39c3 Hub: https://events.ccc.de/congress/2025/hub/en/event/detail/search-engines-for-the-curious\r\n\r\nEnglish:\r\n\r\nYou've just learned that some chaos-creatures tinker with their own search engines in their free time (as in real web search with its own index) and want to know more?\r\n\r\nThis meetup aims to bring together those who already have experience building search engines with those who want to know more about that.\r\n\r\nPlanned format is an \"ask me anything\". Creatures who want to answer questions are welcome (please contact Slatian in advance). \r\n\r\nThe Event on the 39c3 Hub: https://events.ccc.de/congress/2025/hub/en/event/detail/search-engines-for-the-curious",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "480a4fc8-13eb-5a55-be00-c222f0db7a10",
+      "name": "Slatian",
+      "public_name": "Slatian",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/mollin_dragon_plural_median_pride_9BN96RS.png",
+      "biography": "I build software.\n\nMy website: https://slatecave.net\n39c3 hub: https://events.ccc.de/congress/2025/hub/en/user/slatian\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_480a4fc8-13eb-5a55-be00-c222f0db7a10"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/search-engines-for-the-curious_bdbx",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/H8VLAD/"
+}

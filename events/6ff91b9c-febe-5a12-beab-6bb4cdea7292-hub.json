@@ -1,0 +1,32 @@
+{
+  "guid": "6ff91b9c-febe-5a12-beab-6bb4cdea7292",
+  "code": "JZLMKS",
+  "id": 400015,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:15",
+  "room": "Saal 5",
+  "slug": "39c3-fur-ein-europaisches-grundrecht-auf-verschlusselun",
+  "title": "F\u00fcr ein europ\u00e4isches Grundrecht auf Verschl\u00fcsselung",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Short talk",
+  "abstract": "Auf dem Bundesparteitag der Gr\u00fcnen habe ich den Antrag gestellt, sich f\u00fcr ein europ\u00e4isches Grundrecht auf Verschl\u00fcsselung einzusetzen. Dieser Antrag wurde angenommen und ich will jetzt mal schauen, inwiefern dieses Thema au\u00dferhalb der Politik auf Unterst\u00fctzung trifft und wie man zum Beispiel in der Zivilgesellschaft daf\u00fcr Verb\u00fcndete finden kann.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "798bb8cc-5079-506a-b1c6-5175322e30f1",
+      "name": "Kai Bojens",
+      "public_name": "Kai Bojens",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_798bb8cc-5079-506a-b1c6-5175322e30f1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fur-ein-europaisches-grundrecht-auf-verschlusselun",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/JZLMKS/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/JZLMKS/feedback/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "5d6d33f8-8e26-49a3-8bd2-56b15899fce7",
+  "code": null,
+  "id": 563388,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:30",
+  "room": "House of Tea",
+  "slug": "39c3-tbd-opsec-for-journalists-accused-of-terrorism",
+  "title": "Cyber-hygiene for highly-exposed journalists and activists",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Discussion about real-world examples of journalists, academics, activists being targeted by powerful state actors. What are the best OPSEC, INFOSEC and cyber-hygiene practices for those faced with the crushing power of state lawfare and surveillance \u2014 and for their sources?",
+  "description": "Discussion about real-world examples of journalists, academics, activists being targeted by powerful state actors. What are the best OPSEC, INFOSEC and cyber-hygiene practices for those faced with the crushing power of state lawfare and surveillance \u2014 and for their sources?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b5e1bf66-eabf-4cc8-bb5a-b8c54499ba18",
+      "name": "jerezim",
+      "public_name": "jerezim",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/jerezim"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tbd-opsec-for-journalists-accused-of-terrorism",
+  "links": []
+}

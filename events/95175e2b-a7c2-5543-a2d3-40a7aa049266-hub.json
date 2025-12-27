@@ -1,0 +1,31 @@
+{
+  "guid": "95175e2b-a7c2-5543-a2d3-40a7aa049266",
+  "code": null,
+  "id": 200514,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-accessing-wikidata-data-with-python-en",
+  "title": "Accessing Wikidata Data with Python (EN)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "There are many ways that we can get data from Wikidata. In this workshop we'll explore using Python to leverage popular APIs provided by Wikimedia Foundation and Wikimedia Deutschland as well as community developed packages to easily get data for projects and research. We'll specifically look at the pros and cons of using certain methods for certain types of data so that we can make educated decisions on the best tools to use to get the data we need.",
+  "description": "The slides for this talk can be found here: https://docs.google.com/presentation/d/18lXrAI3UcPvkdsDMZXRp7kbawlbZxTyCLrhEafjk2dA/edit?usp=sharing\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5e4a742b-3e67-5905-8655-f871f1cde3e4",
+      "name": "Andrew McAllister",
+      "public_name": "Andrew McAllister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/icon_square_FhQtdbT.png",
+      "biography": "Andrew is a Data Analyst focusing on Wikidata and Linked Open Data at Wikimedia Deutschland.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5e4a742b-3e67-5905-8655-f871f1cde3e4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/accessing-wikidata-data-with-python-en",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/QHRFU9/"
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "3ef0b798-b7c4-5ff5-b8f4-4fb8c30e8be7",
+  "code": null,
+  "id": 200495,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-a-whirlwind-tour-through-the-land-of-wikidata-powe",
+  "title": "A whirlwind tour through the land of Wikidata-powered apps",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "In this presentation, we\u2019ll take a quick look at lots of different applications that use Wikidata data.",
+  "description": "Wikidata's data is used in thousands of projects and often we don't realize what our work makes possible. In this session we will take a tour through some of the great applications and services that have been built on top of Wikidata's data. Join us for a wild ride!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-whirlwind-tour-through-the-land-of-wikidata-powe",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/NXTPWQ/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "92472611-baf1-49a5-93ca-8769cf3d8e8f",
+  "code": null,
+  "id": 924726,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-geschichten-erzahlen-tag-4-im-orbit-science-fictio",
+  "title": "Geschichten Erz\u00e4hlen Tag 4 - Im Orbit (Science Fiction)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Im Orbit (Science Fiction)",
+  "description": "Unser Raumschiff ist kaputt und jetzt bauen wir uns ein Neues. (Rollenspiel ohne Regelsystem, 2 Stunden, bis zu 6 Leute, auf Deutsch)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/geschichten-erzahlen-tag-4-im-orbit-science-fictio",
+  "links": []
+}

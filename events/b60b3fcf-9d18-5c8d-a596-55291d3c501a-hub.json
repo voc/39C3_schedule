@@ -1,0 +1,32 @@
+{
+  "guid": "b60b3fcf-9d18-5c8d-a596-55291d3c501a",
+  "code": "UDWLEK",
+  "id": 1502,
+  "date": "2025-12-30T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-10-mark-dj-team",
+  "title": "10 Mark DJ Team",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "SLOWMOTIONDISCOEXPLOSION\r\n\r\nhttps://soundcloud.com/10-mark-dj-team",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/UDWLEK/Screenshot_202_daaXViB.png",
+  "persons": [
+    {
+      "guid": "ed72736e-e240-5801-a041-6164bbc775f9",
+      "name": "10 Mark DJ Team",
+      "public_name": "10 Mark DJ Team",
+      "avatar": "https://cfp.cccv.de/media/avatars/WCMUFP_Omc9Jce.png",
+      "biography": "As descendants of the Elysee treaty, the franco-allemando disco duetto, 10 Mark DJ Team finds its roots in the 80's new wave balearic soft power of disco music and transnational friendship.\n\nThey are usually on time. A time that fluctuates between the past and the future.\n\nSome people like to compare them to the metro in Japan. Not so much for the automatic pilot, but much more for the underground part of it.\n\nKeeping Disco Alive\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ed72736e-e240-5801-a041-6164bbc775f9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/10-mark-dj-team",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UDWLEK/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UDWLEK/feedback/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "56fff3dc-4532-47a5-b3b4-48ae3160ee35",
+  "code": null,
+  "id": 563453,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "03:00",
+  "room": "House of Tea",
+  "slug": "39c3-welcome-to-the-house-of-tea-3",
+  "title": "Welcome to the House of Tea! <3",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Join us to get things started and be part of our Pu'Er circles! <3",
+  "description": "Whether it's your first Congress or you're a \"regular\", the House of Tea welcomes you! Come to share the vibe, to browse the amazing tea, to drink a cup or two, to help your neighbors, and take part of something wonderful!\n\nThis first meeting is a good time to learn the basics of the functioning of the House of Tea and how to further participate in helping it run; or just to meet all the fantastic creatures who gravitate around it, and share some delicious tea!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "934f8c48-f8af-4241-930e-251e0c07f511",
+      "name": "HouseOfTea",
+      "public_name": "HouseOfTea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/houseoftea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/welcome-to-the-house-of-tea-3",
+  "links": []
+}

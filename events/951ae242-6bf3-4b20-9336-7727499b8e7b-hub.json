@@ -1,0 +1,30 @@
+{
+  "guid": "951ae242-6bf3-4b20-9336-7727499b8e7b",
+  "code": null,
+  "id": 951242,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-geschichten-erzahlen-tag-2-zauberschule-ethikexkur",
+  "title": "Geschichten Erz\u00e4hlen Tag 2 - Zauberschule: Ethikexkursion",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Zauberschule: Ethikexkursion",
+  "description": "Ihr braucht noch eine Pr\u00fcfung in Ethik, und deshalb m\u00fcsst ihr komplizierte Problemen mit gef\u00e4hrlichen Wesen l\u00f6sen, und dabei alles richtig machen. (Rollenspiel ohne Regelsystem, 2 Stunden, bis zu 6 Leute, auf Deutsch)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/geschichten-erzahlen-tag-2-zauberschule-ethikexkur",
+  "links": []
+}

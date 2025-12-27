@@ -1,0 +1,32 @@
+{
+  "guid": "978c6d99-11c1-5bc8-a360-3584b2fcd3a9",
+  "code": "RZAQED",
+  "id": 1621,
+  "date": "2025-12-28T02:00:00+01:00",
+  "start": "02:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-angie-taylor",
+  "title": "Angie Taylor",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Angie Taylor is specialized in Hybrid Techno LIVE-DJ SETS, often blending it with live bass guitar and vocals to create a unique, electrifying hybrid Techno experience.",
+  "description": "Angie Taylor, a fierce German import, brings her unique style, intense techno, and boundless energy to clubs and festivals worldwide! This is Fresh, Straightforward Techno delivered by a charismatic artist who\u2019s on fire with her passion for high-quality sound. Her hybrid DJ/LIVESHOW is pure energy: a powerful mix of driving beats, live bass guitar, and unique vocal performance.\nSTYLE Techno Straight Forward. \nCREDITS Street Parade Z\u00fcrich, ADE Amsterdam, Ultra Music Week., Miami, Modular festival Switzerland, Shows together with Jeff Mills, Fusion Festival L\u00e4rz, Pan-Pot Night at Loft Ludwigshafen, Sziget Festival,\nIpse and About Blank Berlin, Touring in Saudi Arabia for a cultural exchange in the underground scene\nbringing German techno to Jeddah and Riyadh while featuring female artists. Official artist for Xone DJ/Allen & Heath.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/RZAQED/Press_AngieTay_EMsJ4EU.jpg",
+  "persons": [
+    {
+      "guid": "bd2de86c-ff34-5adc-9657-60f5d565f443",
+      "name": "Angie Taylor",
+      "public_name": "Angie Taylor",
+      "avatar": "https://cfp.cccv.de/media/avatars/CMR9WY_Y9uNauV.jpg",
+      "biography": "I\u2019m Angie Taylor! I specialize in Techno, often blending it with live bass guitar and vocals to create a\nunique, electrifying hybrid Techno experience.\nIm from Mannheim and super excited to play for you in Hamburg!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_bd2de86c-ff34-5adc-9657-60f5d565f443"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/angie-taylor",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/RZAQED/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/RZAQED/feedback/"
+}

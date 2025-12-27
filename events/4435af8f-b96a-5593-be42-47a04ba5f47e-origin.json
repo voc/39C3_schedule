@@ -1,0 +1,36 @@
+{
+  "guid": "4435af8f-b96a-5593-be42-47a04ba5f47e",
+  "code": "BWHWPG",
+  "id": 2188,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/BWHWPG/you_wouldnt_hack_a_wheelchair_AEfcGlj.png",
+  "date": "2025-12-27T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-2188-pwn2roll-who-needs-a-599-remote-when-you-have-wheelchair-py",
+  "url": "https://cfp.cccv.de/39c3/talk/BWHWPG/",
+  "title": "Pwn2Roll: Who Needs a 599\u20ac Remote When You Have wheelchair.py?",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "A 599\u20ac wheelchair remote that sends a handful of Bluetooth commands. A 99\u20ac app feature that does exactly what the 599\u20ac hardware does. A speed upgrade from 6 to 8.5 km/h locked behind a 99\u20ac paywall - because apparently catching the bus is a premium feature.\r\n\r\nWelcome to the wonderful world of DRM in assistive devices, where basic mobility costs extra and comes with in-app purchases! And because hackers gonna hack, this just could not be left alone.",
+  "description": "This talk depicts the reverse engineering of a popular electric wheelchair drive system: a several thousand euro assistive device that treats mobility like a SaaS subscription. Through Android app reverse engineering, proprietary Bluetooth protocol analysis, hours of staring at hex dumps (instead of the void), and good old-fashioned packet sniffing, we'll expose how manufacturers artificially limit essential features and monetize basic human mobility.\r\n\r\nWhat you'll learn:\r\n\r\n- how a 22-character QR code sticker, labeled as \"Cyber Security Key\", becomes AES encryption\r\n- why your 6000\u20ac wheelchair drive includes an app with Google Play Billing integration for features the hardware already supports\r\n- the internals, possibilities and features of electronics worth 30\u20ac cosplaying as a 599\u20ac medical device\r\n- the technical implementation of the \"pay 99\u20ac or stay slow\" speed limiter (6 km/h vs 8.5 km/h)\r\n- how nearly 2000\u20ac in hardware and app features can be replaced by a few hundred lines of Python\r\n- why the 8000\u20ac even more premium (self-driving) variant is literally identical hardware with a different Boolean flag and firmware plus another (pricier) remote\r\n\r\nWe'll cover the complete methodology: from initial reconnaissance, sniffing and decrypting packets to reverse-engineer the proprietary communication protocol, to PoCs of Python replacements, tools, techniques, and ethical considerations of reverse engineering medical devices.\r\n\r\nThis is a story about artificial scarcity, exploitative DRM, ethics and industry power, and how hacker-minded creatures should react and act to this.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "HUYJDD",
+      "name": "corellia",
+      "avatar": "https://cfp.cccv.de/media/avatars/HUYJDD_O2h5gti.webp",
+      "biography": "corellia is an ambulatory wheelchair user who got unreasonably angry about a 599\u20ac remote control and discovered that spite is an excellent motivator for reverse engineering: because understanding the device you depend on isn't just interesting, it should always be possible. Firmly believes that if your medical device has Google Play Billing integrated, something has gone horribly wrong.\r\n\r\nHas now spent more time reverse engineering their wheelchair drive model than the manufacturer probably spent implementing the DRM.",
+      "public_name": "corellia",
+      "guid": "63629bd8-4a00-50e4-92d1-23ffd56afbb3",
+      "url": "https://cfp.cccv.de/39c3/speaker/HUYJDD/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/BWHWPG/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/BWHWPG/",
+  "attachments": []
+}

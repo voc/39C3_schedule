@@ -1,0 +1,30 @@
+{
+  "guid": "d71c48eb-704e-4dfa-a346-a48ca17834a3",
+  "code": null,
+  "id": 714870,
+  "date": "2025-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "01:00",
+  "room": "House of Tea",
+  "slug": "39c3-celestial-navigation",
+  "title": "Celestial Navigation hands-on",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Let's practice using the Sun to determine our place in the world, without GPS or calculators.",
+  "description": "If the talk introducing celestial navigation inspired you to try taking sights with a sextant and plotting the lines of position on nautical charts, then come to the House of Tea to give it a go.  Bring a pencil, compass and ruler if you have one (we'll have a few to share), but leave your electronic calculator, computer and GPS in the bag since we'll be doing it the traditional way with sliderules, lookup tables and geometry.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/6ced0c4261d6/chart.jpg",
+  "persons": [
+    {
+      "guid": "aea2a090-3272-46b6-a6be-7d27ca98429c",
+      "name": "hudson",
+      "public_name": "hudson",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hudson"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/celestial-navigation",
+  "links": []
+}

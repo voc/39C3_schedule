@@ -1,0 +1,30 @@
+{
+  "guid": "385e5527-9110-44db-8df1-d40bfeb989de",
+  "code": null,
+  "id": 385552,
+  "date": "2025-12-29T20:45:00+01:00",
+  "start": "20:45",
+  "duration": "01:30",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-camp27-family-village-kickoff",
+  "title": "Camp27 Family Village Kickoff",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Networking meeting to plan a Family Village at Chaos Communication Camp 2027. We don\u2019t want to plan anything concrete yet, but we do want to lay the groundwork. How do we envision a Family Village at the next camp? What went well at the last camp, and what could be changed? How would we deal with a changed infrastructure? Matrix, Mastodon, mailing list \u2013 how do we want to communicate?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1d96ff3b-407d-4c19-abed-b008168a42b9",
+      "name": "aram",
+      "public_name": "aram",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/aram"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/camp27-family-village-kickoff",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "2115a2be-c4b4-5e83-abfa-e9ad46b5e1fd",
+  "code": "8BNAFC",
+  "id": 1385,
+  "date": "2025-12-30T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-flux-variations",
+  "title": "Flux Variations",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "An invitation to discover classical music patterns and new music by listening carefully and letting go.",
+  "description": "A calm, open-ended programme for curious listening. A shared space where unfamiliar ideas can settle and reveal themselves over time, created by the unfolding of pieces by composers of different eras, schools and genres. Nothing is required beyond a willingness to listen and stay awhile. Well suited to joining the lounge, taking a seat, and discovering something quietly unexpected.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/8BNAFC/39C3-multilin_DDLXCxC.webp",
+  "persons": [
+    {
+      "guid": "b72b9640-e533-5842-b49f-60a449c9b322",
+      "name": "madonius",
+      "public_name": "madonius",
+      "avatar": null,
+      "biography": "Music nerd that wants to share his passion for various genres.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b72b9640-e533-5842-b49f-60a449c9b322"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/flux-variations",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8BNAFC/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8BNAFC/feedback/"
+}

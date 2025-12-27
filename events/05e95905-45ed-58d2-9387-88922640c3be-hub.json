@@ -1,0 +1,33 @@
+{
+  "guid": "05e95905-45ed-58d2-9387-88922640c3be",
+  "code": "UV9J9A",
+  "id": 2415,
+  "date": "2025-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-coffeebots-cornern-congress",
+  "title": "Coffeebots cornern @ Congress",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "live performance",
+  "abstract": "Die Coffeebots h\u00e4ngen am Sp\u00e4ti ab und spielen ihre Lieblingslieder\r\n\r\nThe Coffeebots hang out at the S\u00e4ti and play their favourite songs",
+  "description": "Die Coffeebots, eine Gruppe Marionetten aus Altmetall bringen ihre Instrumente mit nach Hamburg um stilvoll am Sp\u00e4ti ein paar Songs zum besten zu geben. Und das Publikum darf nat\u00fcrlich mitsingen!\n\nThe Coffeebots, a marionette theatre troupe made from scrapmetal come to Hamburg and bring their instruments to play a few songs at the Sp\u00e4ti. And the audience is welcome to sing along!\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/UV9J9A/Coffeebots-on-stage_nyD01e9.png",
+  "persons": [
+    {
+      "guid": "70273f5e-c29d-576a-99ce-00463ea43141",
+      "name": "e-punc",
+      "public_name": "e-punc",
+      "avatar": "https://cfp.cccv.de/media/avatars/YQVA3B_xHtrdMg.jpg",
+      "biography": "c-base Crewmitglied, hat die Coffeebots gebaut, arbeitet bei der Digitalen Gesellschaft\n\nc-base crewmember, creator of the Coffeebots, works at Digitale Gesellschaft\n\nmore bots & stuff: www.e-punk.de\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_70273f5e-c29d-576a-99ce-00463ea43141"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/coffeebots-cornern-congress",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/UV9J9A/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/UV9J9A/feedback/",
+  "do_not_record": true
+}

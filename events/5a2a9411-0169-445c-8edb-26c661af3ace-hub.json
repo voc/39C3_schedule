@@ -1,0 +1,30 @@
+{
+  "guid": "5a2a9411-0169-445c-8edb-26c661af3ace",
+  "code": null,
+  "id": 529411,
+  "date": "2025-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-max8min-kurzfilm-short-film",
+  "title": "Max8min (Kurzfilm / Short Film) \ud83c\udf7f",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We will be watching around 50 minutes of selected short films that are a maximum of 8 minutes long. Many films are either without dialogue or, if necessary, have German subtitles. Do you know a good short film? Then send me the link \u2013 maybe there will be a next edition of Max8min \ud83c\udfa6\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ffc167ec-5ca8-4017-8153-cb6eb3f837bd",
+      "name": "Birdy1976",
+      "public_name": "Birdy1976",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/birdy1976"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/max8min-kurzfilm-short-film",
+  "links": []
+}

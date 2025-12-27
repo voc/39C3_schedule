@@ -1,0 +1,47 @@
+{
+  "guid": "f7806034-b88e-559b-9c11-7ce6ffc72a82",
+  "code": "MESA3X",
+  "id": 2377,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-there-is-no-way-we-ended-up-getting-arrested-for-this-malta-edition",
+  "title": "There is NO WAY we ended up getting arrested for this (Malta edition)",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "3 years ago, 3 Maltese students were arrested and charged with computer misuse after disclosing a vulnerability to a local company that developed a mobile app for students. Through persistent media pressure, the students managed to obtain a presidential pardon to drop the case and funding for their lawyers. However, through this journey, there were mentions of punishment for retaliating through media disclosure. The story has not concluded, and there will be no amendments to the Maltese computer misuse law for the foreseeable future.",
+  "description": "The talk goes through the full journey,\n\n1. The talk describes in more detail how the arrests were carried out on November 12th, 2022 including the confiscation of all computer equipment, the time spent in a cell and the interrogation before being released.\n2. How the decision was made to go to the media 5 months later, the consequences of that and why it was beneficial.\n3. The later fallout including the university disassociating itself from the students + even disallowing one of the students to tutor at the university\n4. How this led to a pause in Malta's participation in the European Cyber Security Challenge with one specific meeting involving the national IT agency and the 3 students.\n5. mentions of a grant of a pardon after the prime minister visited the office of a student\n6. The start of the initial court sessions and the outcomes from that.\n7. A super interesting meeting where the justice minister told the students that even though they'll be given a pardon -- if this happens again they will be arrested again.\n8. What it meant to get a pardon and how that technically still hasn't ended our situation in court yet.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e738cde0-497b-54ef-8e26-532f171cf212",
+      "name": "mixy1",
+      "public_name": "mixy1",
+      "avatar": "https://cfp.cccv.de/media/avatars/U73MZT_KzyyhCy.jpg",
+      "biography": "Long-time ctf player with Friendly Maltese Citizens, enjoyer of machine learning and fuzzing.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e738cde0-497b-54ef-8e26-532f171cf212"
+    },
+    {
+      "guid": "17e8bfba-54c0-5481-a440-1d28d834a420",
+      "name": "Luke Bjorn Scerri",
+      "public_name": "Luke Bjorn Scerri",
+      "avatar": "https://cfp.cccv.de/media/avatars/GTUVCK_Li4XbYx.webp",
+      "biography": "Maltese citizen with interests in computer science, software and reverse engineering.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_17e8bfba-54c0-5481-a440-1d28d834a420"
+    },
+    {
+      "guid": "2ed5d09f-2b69-59e3-8be1-6d99c031bd6a",
+      "name": "girogio",
+      "public_name": "girogio",
+      "avatar": "https://cfp.cccv.de/media/avatars/FEL8UB_LwoXfgC.webp",
+      "biography": "Researcher at TU WIen working on quantum computer side channels.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2ed5d09f-2b69-59e3-8be1-6d99c031bd6a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/there-is-no-way-we-ended-up-getting-arrested-for-this-malta-edition",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/MESA3X/"
+}

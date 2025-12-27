@@ -1,0 +1,30 @@
+{
+  "guid": "e53c7ec3-6888-4090-b1ec-0d475a078d2b",
+  "code": null,
+  "id": 537368,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "02:00",
+  "room": "KinkyGeeks Assembly",
+  "slug": "39c3-raven",
+  "title": "DIY: Biothane-Handfesseln",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Wir basteln Biothane-Handfesseln",
+  "description": "We will be making a pair of handcuffs out of Biothane that can be connected with a carabiner (see picture). The handcuffs are two-colored with black as the base color. \nBiothane is a leather-like, vegan material made of PVC-coated webbing that is both waterproof and very sturdy. \nAdvance registration is required, so please stop by the KinkyGeeks-Assembly beforehand to pick up a ticket. [ALREADY SOLD OUT!]\nThere is a material fee of \u20ac20 for the workshop. Please bring the exact amount if possible.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/19d7c1b91562/image-2025-12-26-213208.jpg",
+  "persons": [
+    {
+      "guid": "8a1a9abb-6780-4f2a-9867-ada3ee58cc1d",
+      "name": "raven (she/her)",
+      "public_name": "raven (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/raven"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/raven",
+  "links": []
+}

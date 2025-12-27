@@ -1,0 +1,51 @@
+{
+  "guid": "370014cf-61b8-5e82-b4b4-a20eabfbdf3c",
+  "code": "SSVAZA",
+  "id": 2402,
+  "date": "2025-12-27T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "03:00",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-no-input",
+  "title": "No-Input",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Ein geschlossener Kreislauf aus Klang und St\u00f6rung. Kein Instrument, kein Ursprung, nur das Rauschen, das sich selbst gebiert. Frequenzen kratzen an der Grenze zum Bewusstsein, Feedback wird zum Atem einer Maschine ohne K\u00f6rper. Aus dem Dunkel des Signals erhebt sich ein sirrendes Mantra \u2014 chaotisch, unheilig, autark. Eine Beschw\u00f6rung der Leere durch elektrische Selbstzerst\u00f6rung.",
+  "description": "Die H\u00e4nde bewegen sich langsam, beinahe priesterlich,\nsie ber\u00fchren das Pult wie ein Altar aus Spannung und Staub.\nRauschen f\u00fcllt den Raum \u2014 nicht als Ger\u00e4usch, sondern als Gegenwart.\nEin Chor aus toten Signalen erhebt sich, summt, flackert, w\u00e4chst zu einer Welle,\ndie den Atem der Anwesenden verschluckt.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/SSVAZA/1BEBBB17-4978-4563-9079-4_4FniVdc.webp",
+  "persons": [
+    {
+      "guid": "c403b94a-862c-577d-9ccd-8c8fba1c4fe7",
+      "name": "CooperfrauMelissengeist",
+      "public_name": "CooperfrauMelissengeist",
+      "avatar": "https://cfp.cccv.de/media/avatars/JARTTF_xgeO5f6.jpeg",
+      "biography": "Cooperfrau Melissengeist bewegt sich mit ihren Performances oft auf d\u00fcnnem Eis und bekommt im Anschluss manchmal auch eins in die Fresse. Im Zentrum steht h\u00e4ufig die Kritik des Digitalen mit den Mitteln des Analogen; manchmal auch genau anders herum.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c403b94a-862c-577d-9ccd-8c8fba1c4fe7"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/no-input",
+  "links": [
+    {
+      "url": "https://cooperfraumelissengeist.bandcamp.com/",
+      "type": "related",
+      "title": "Bandcamp: Cooperfrau Melissengeist"
+    },
+    {
+      "url": "https://www.instagram.com/cooperfrau.melissengeist/",
+      "type": "related",
+      "title": "Instagram: Cooperfrau Melissengeist"
+    }
+  ],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/SSVAZA/",
+  "attachments": [
+    {
+      "url": "/media/39c3-call-for-punk/submissions/SSVAZA/resources/Cooperfraukloste_L2phZCH.png",
+      "type": "related",
+      "title": "Cooperfrau Melissengeist Logo"
+    }
+  ],
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/SSVAZA/feedback/",
+  "do_not_record": true
+}

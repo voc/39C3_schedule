@@ -1,0 +1,30 @@
+{
+  "guid": "5cadeecb-fd6b-4f68-9f78-d92e046432ae",
+  "code": null,
+  "id": 564689,
+  "date": "2025-12-27T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-noob-meetup",
+  "title": "Noob-Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Du bist auf dem Congress und hast pl\u00f6tzlich das Gef\u00fchl, eigentlich viel zu wenig Plan von all den Themen hier zu haben um hier zu sein? Du hast manchmal keinen Plan wovon die Leute eigentlich reden? Du bist nicht unbedingt wegen den IT-Themen hier, sondern vor allem wegen all dem anderen, was hier sonst noch so passiert?\n\nWenn du irgendeine der Fragen mit ja beantworten kannst, bist du bei dieser Session genau richtig. Nicht gro\u00dfartig moderiert, einfach eine nette Kennenlernveranstaltung.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c9ecb2d6-a76b-433d-b973-5f2c34b27c55",
+      "name": "Luna",
+      "public_name": "Luna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/noob-meetup",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "97a02c3f-4130-481e-a101-345adab3f701",
+  "code": null,
+  "id": 970234,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-freifunk-zum-anfassen-und-router-zum-mitnehmen",
+  "title": "Freifunk zum Anfassen und Router zum Mitnehmen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Freifunk, was soll das? Ich soll mein Internet mit anderen teilen, wozu das denn? Wie geht das \u00fcberhaupt? Wer braucht heutztage noch WLAN von anderen Leuten wenn doch eh alle Mobilfunkflatrates haben?\n\nAll diese Fragen und weitere beantworten wir dir und haben sogar direkt noch freifunkf\u00e4hige Router dabei, bei denen wir euch gern helfen diese f\u00fcr Freifunk einzurichten.  Damit k\u00f6nnt ihr daheim direkt mitmachen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b6e3f437-2eb7-4bda-836c-284f35decc83",
+      "name": "skorpy (she/her)",
+      "public_name": "skorpy (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skorpy"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/freifunk-zum-anfassen-und-router-zum-mitnehmen",
+  "links": []
+}

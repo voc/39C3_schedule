@@ -1,0 +1,30 @@
+{
+  "guid": "6b7789f4-e1e1-415e-901b-758b0b9a10df",
+  "code": null,
+  "id": 677894,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-rayhunter-orcas-hunt-stingrays-community-meetup",
+  "title": "RAYHUNTER: Let's hunt Stingrays - Community Meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Rayhunter is a new open source tool from the EFF to detect cellular spying.\n\nYou install Rayhunter on a LTE pocket router to detect suspicious activity from IMSI catchers (aka. Stingray) in your vicinity.\n\nIn this session we want to install Rayhunter, talk about what it does and why it is useful, what possible use cases are and how future development might look like.\n\nEveryone is welcome, no special knowledge or skills are needed.\n\nIf you can please bring along the following items\n\n* your laptop (Linux, MacOS, Windows)\n* a (fully charged) TP-Link M7350 portable LTE router (some other models are also supported by Rayhunter, but this is the one I tested)\n* a Micro-SD card (32 GB is ok)\n* a SIM card (e.g. a prepaid SIM from your local supermarket - you may want to activate it but it is not strictly needed, nano-SIM form factor needed)\n* a USB-C cable that can connect to your laptop\n* installer files for your OS version\n\nYou can find the TP-Link M7350 used on eBay or new on Amazon for ~45 EUR\nhttps://amzn.eu/d/6YUbV1b\nhttps://www.tp-link.com/de/home-networking/mifi/m7350/\n\nFor background information:\nhttps://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying\n\nGitHub repository and release files:\nhttps://github.com/EFForg/rayhunter\n\nPlease note that this is not an \"official\" EFF event.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e8f60f68-f24c-4a37-a5e7-c5ffb64c7bdf",
+      "name": "beeblebroxx",
+      "public_name": "beeblebroxx",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/beeblebroxx"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/rayhunter-orcas-hunt-stingrays-community-meetup",
+  "links": []
+}

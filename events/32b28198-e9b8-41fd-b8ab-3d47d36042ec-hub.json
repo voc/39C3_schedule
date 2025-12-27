@@ -1,0 +1,21 @@
+{
+  "guid": "32b28198-e9b8-41fd-b8ab-3d47d36042ec",
+  "code": null,
+  "id": 322819,
+  "date": "2025-12-28T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "03:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-trigg-build-an-openhardware-portable-handheld-game",
+  "title": "Trigg - Build an Open-Hardware Portable Handheld Games Console",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Trigg - Build an Open-Hardware Portable Handheld Games Console",
+  "description": "**Trigg - Build an Open-Hardware Portable Handheld Games Console**\n\n**Materials costs**:  \n\u20ac45\n\n**Taught by** fablab|nk.\n\n**Workshop Itinerary**:\nIn this 3-hour workshop you will build your own Trigg: an open-hardware portable handheld games console which runs tile-based games that can be coded and uploaded directly from the browser. Check out the PDF build guide here: https://github.com/fablabnk/TriggWorkshop/blob/main/TriggBuildGuide.pdf\n\nTrigg is our version of the Hack Club Sprig, which we adapted into a through-hole soldering kit in the FabLab of our coding school 42 Berlin, to teach soldering and basic electronics to coding students. Kits include a Raspberry Pi Pico (RP2040) and all components (batteries and USB cable not included).\n\nOur workshop and build guide will take you from the basics of soldering through to assembling, soldering, flashing and testing your Trigg, increasing your confidence as you go. After building, come by to our assembly to code and flash your first game. Parent-child building teams are also very welcome.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[https://github.com/fablabnk/TriggWorkshop](https://github.com/fablabnk/TriggWorkshop)  \n[https://github.com/fablabnk/TriggWorkshop/blob/main/TriggBuildGuide.pdf](https://github.com/fablabnk/TriggWorkshop/blob/main/TriggBuildGuide.pdf)  \n[https://sprig.hackclub.com/](https://sprig.hackclub.com/)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e27807fe88bd/image1.png",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trigg-build-an-openhardware-portable-handheld-game",
+  "links": []
+}

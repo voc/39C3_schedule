@@ -1,0 +1,30 @@
+{
+  "guid": "973409bf-4354-41a0-b41b-19a041bfc724",
+  "code": null,
+  "id": 973409,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:20",
+  "room": "SoS Stage H",
+  "slug": "39c3-emergente-systeme-nachhaltige-konflikte-warum-unse",
+  "title": "Emergente Systeme, nachhaltige Konflikte, Warum unsere IT nicht an Hacks scheitert \u2013 sondern an sich selbst",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Most IT systems fail not because someone makes a mistake.\nThey fail because no one understands the overall behavior.\n\nThis SOS deals with emergent system effects:\nsituations in which correctly built components together produce something\nthat no one planned, modeled, or controlled.\n\nUsing real-world examples from IT infrastructure, cloud dependencies, API designs, AI usage, update cascades, and financial and identity systems, we show\nhow technical decisions can create lasting stress and conflict \u2013 often without a classic attacker, without an exploit, without a clear trigger.\n\nIn line with the 39C3 motto \u201cPower Cycles \u2013 Rethink, Reboot, Restart,\u201d the session asks the question:\n\nWhat do we need to rethink before we restart?\nWhat can be rebooted \u2013 and what needs a fundamental rethink?\n\nThe term \u201csustainable war\u201d is understood not in a military sense, but in a systemic sense:\n- as a state of permanent repurposing,\n- overstretching, and creeping destabilization of IT systems,\n  which\n- drives innovation,\n- undermines resilience,\n- and generates social side effects.\n\nEspecially in times of global upheaval \u2013 geopolitical, technological, social \u2013\nautonomy, dependencies, and resilience must be reevaluated.\nNot as buzzwords, but as concrete system properties.\n\nThe session is aimed at:\n- Administrators, security engineers, CISOs\n- Architects, technical decision-makers\n- People from think tanks, regulation, and technology impact assessment\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "12f8c702-26e2-4dd3-b5fa-5457a242ebaa",
+      "name": "Spock0010",
+      "public_name": "Spock0010",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/spock0010"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/emergente-systeme-nachhaltige-konflikte-warum-unse",
+  "links": []
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "29678965-8b0b-5428-b63f-4de3a79b0a47",
+  "code": "J7MRSC",
+  "id": 1215,
+  "date": "2025-12-28T21:05:00+01:00",
+  "start": "21:05",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-css-clicker-training-making-games-in-a-styling-language",
+  "title": "CSS Clicker Training: Making games in a \"styling\" language",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "CSS is a programming language, and you can make games in it. Let's install NoScript and make some together!",
+  "description": "This talk is about how HTML and CSS can be used to make interactive art and games, without using any JS or server-side code.\n\nI'll explain some of the classic Cohost CSS Crimes, how I made [CSS Clicker](https://lyra.horse/css-clicker/), and what's next for the CSS scene.\n\nI hope this talk will teach and/or inspire you to make cool stuff of your own!\n\n---\n\n*Content notes:*\n- Slides feature animations and visual effects\n- Short video clip (with music) will be played\n- Clicker sound at the end of the talk\n\n---\n\nSlides will be available after the talk at:  [https://lyra.horse/slides/#2025-congress](https://lyra.horse/slides/#2025-congress)\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/J7MRSC/chrome_2025-12-22_22-08-20_MgSki62_1CNEwE0.webp",
+  "persons": [
+    {
+      "guid": "8b74ea64-1e0e-50a3-a555-576132b8ad9f",
+      "name": "Lyra Rebane",
+      "public_name": "Lyra Rebane",
+      "avatar": "https://cfp.cccv.de/media/avatars/DHNTDD_LXtx6Z6.png",
+      "biography": "An Estonian transfem and a former Cohoster with a bunch of browser CVEs and a love for the web.\n\nCheck out my cool website: [https://lyra.horse/](https://lyra.horse/)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8b74ea64-1e0e-50a3-a555-576132b8ad9f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/css-clicker-training-making-games-in-a-styling-language",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/J7MRSC/"
+}

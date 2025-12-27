@@ -1,0 +1,30 @@
+{
+  "guid": "0b2b475d-0d63-4523-abd7-68afd92b75e2",
+  "code": null,
+  "id": 24750,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-is-that-an-off-grid-server-in-your-pocket-or-are-y",
+  "title": "Is That an Off-Grid Server in Your Pocket, or Are You Just Happy to See Me?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Is That an Off-Grid Server in Your Pocket, or Are You Just Happy to See Me?",
+  "description": "**Is That an Off-Grid Server in Your Pocket, or Are You Just Happy to See Me?**\n\n**Materials costs**:  \n\u20ac70\n\n**Taught by** Retia / Brandon.\n\n**Workshop Itinerary**:  Learn how to host your own digital services on hardware small enough to fit in your pocket. Using the D1 Mini, we will deploy a portable, off-grid web server. You\u2019ll learn how to host files, chat applications, or a captive portal that works entirely independently of the internet. Great for digital dead drops or local emergency information sharing.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-is-that-an-off-grid-server-in-your-pocket-27-dec-19-30-21-00)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/3cb143a786b2/pusheen.PNG",
+  "persons": [
+    {
+      "guid": "f323709d-6349-43d3-9ff7-c4cd932d7568",
+      "name": "brandonpaiz",
+      "public_name": "brandonpaiz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/brandonpaiz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/is-that-an-off-grid-server-in-your-pocket-or-are-y",
+  "links": []
+}

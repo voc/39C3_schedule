@@ -1,0 +1,30 @@
+{
+  "guid": "dc849670-02ed-41fe-b3df-3437f75716c1",
+  "code": null,
+  "id": 849670,
+  "date": "2025-12-28T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-wondrous-mathematics-how-does-artificial-intellige",
+  "title": "Wondrous mathematics: How does artificial intelligence such as ChatGPT accomplish the feat of learning?",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Conventional computer algorithms are superior to the human intellect in many regards: for instance at multiplying large numbers or winning at chess by analyzing huge numbers of moves. But there are also many tasks which come naturally to us yet exceed the capabilities of algorithms by vast amounts: Rigid algorithms can't decipher human handwriting or drive cars.\n\nThe recent breakthroughs in artificial intelligence circumvent these barriers by employing quite a different approach: They use artificial neural networks, which are inspired by the partially-understood way the human brain works.\n\nThe unique feature of artificial neural nets is that they aren't rigid, but can learn. Human programmers specify their rough structure and supply training data, but don't write a single line of code governing their behavior.\n\n**In the spirit of a good Unix command-line tool, this talk aspires to explain one thing and explain it well: How do artificial neural nets accomplish the feat of learning?**\n\nWe'll learn that the answer is related to a mathematical breakthrough made at the end of the 17th century and discuss why deep learning only surged in the last few years, even though the basics of artificial neural nets were already understood in the 1980s. We'll also touch upon some of the greatest problems of neural nets, which emerge directly from the way neural nets learn.\n\nThe talk doesn't require any advanced knowledge of mathematics. If you're already familiar with Michael Nielsen's book, then don't expect to learn anything new and come to this talk only if you want to contribute interesting remarks. The talk has the goal of making the other neural network talks more accessible.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a986b9de-e627-4450-953a-aa4efe3160e3",
+      "name": "IngoBlechschmidt",
+      "public_name": "IngoBlechschmidt",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ingoblechschmidt"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wondrous-mathematics-how-does-artificial-intellige",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "48cc8b77-47ac-42f3-a851-0070c245e097",
+  "code": null,
+  "id": 488774,
+  "date": "2025-12-28T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-fusion-geht-besser-andere-hot-fusion-technologien-",
+  "title": "Hacking Fusion: better Hot-Fusion Technologies that you have not heard about",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Fusion is always 30 years in the future because government projects are too big, too expensive, and too slow. It doesn't have to be this way.\n\nThere are better approaches than the three known research directions. There are better fusion fuels that don't cause radioactive contamination. Fusion has even been achieved by school classes and private individuals. A proof that it is possible with much less effort.\n\nIf we invested as much money in proton-boron fusion as we do in deuterium-tritium, we would probably have power plants in 15 years. Dense Plasma Focus is suitable for decentralized 10-MW power plants. Inertial Electrostatic Confinement for neighborhood power plants with 100 MW. This is not about cold fusion. It's about fusing atomic nuclei with high energy (hot) to gain even more energy. But in different physical configurations. Unfortunately, the media ignores these other hot fusion approaches.\n\nThis is an info dump on the state of the art: what fusion fuels exist, how you build your own fusion reactor, why hot plasma is physically unfavorable, why some people want to strip-mine the moon, and why other fusion projects that must make do with 100 times less money still achieve similar performance. These projects don't appear in the mainstream press. But they will soon overtake ITER.\n\n\nIf we want to achieve the energy transition, then policymakers must stop investing in supposedly safe large-scale technology. It could be much faster and cheaper and the new energy grid could be decentralized.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33966605-2f0b-4c4d-b56e-d1956f5953af",
+      "name": "Wolfspelz",
+      "public_name": "Wolfspelz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/wolfspelz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fusion-geht-besser-andere-hot-fusion-technologien-",
+  "links": []
+}

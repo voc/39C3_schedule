@@ -1,0 +1,31 @@
+{
+  "guid": "1f4b0457-28f0-5ae2-bf17-866d1aeda0a9",
+  "code": null,
+  "id": 300128,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "CDC Circle",
+  "slug": "39c3-programming-the-tropic01-open-source-secure-elemen",
+  "title": "Programming with the TROPIC01 open architecture secure element",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Let's program it on the HATs and shields.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c137308a-d751-512b-9c32-2af04ca0e696",
+      "name": "Pavel Polach",
+      "public_name": "Pavel Polach",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c137308a-d751-512b-9c32-2af04ca0e696"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/programming-the-tropic01-open-source-secure-elemen",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/XF3RKT/"
+}

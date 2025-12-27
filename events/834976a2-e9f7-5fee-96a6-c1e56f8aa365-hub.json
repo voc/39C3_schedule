@@ -1,0 +1,32 @@
+{
+  "guid": "834976a2-e9f7-5fee-96a6-c1e56f8aa365",
+  "code": "89VNQT",
+  "id": 2447,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-kenji-tanaka-live-insights-into-my-workflow-struct",
+  "title": "Kenji Tanaka LIVE // Insights into my workflow, structure and philosophy",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Music Workshop",
+  "abstract": "How does live techno work?\r\nOn the dance floor, it's practically impossible to understand what's happening up front. It's also irrelevant there, because it's all about the music and many other things.\r\n\r\nLive sets have a thousand faces. Everyone has their own workflow, and there are countless approaches to performing electronic music. I don't know all of them, but I will give a deeper insight into the architecture of my setup in this short presentation. I explain my approach to improvising techno in clubs and at festivals. \r\n\r\nThere will be a few technical insights into my \u201eAbleton\u201c structure. A fixed structure with an unknown outcome. Because at certain points, I rely on random generators to create the desired element of surprise. This keeps me inspired for hours, again and again. I will show and explain why I make music this way.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9ac73996-67fb-506c-b29f-b1dc46e01162",
+      "name": "Kenji Tanaka",
+      "public_name": "Kenji Tanaka",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9ac73996-67fb-506c-b29f-b1dc46e01162"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/kenji-tanaka-live-insights-into-my-workflow-struct",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/89VNQT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/89VNQT/feedback/"
+}

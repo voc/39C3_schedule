@@ -1,0 +1,30 @@
+{
+  "guid": "4454740b-348f-460d-9e83-0a5e877b3303",
+  "code": null,
+  "id": 445474,
+  "date": "2025-12-29T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-disarray-desnarler-diy-macropad_uogd",
+  "title": "Disarray Desnarler -- Build and flash your DIY Macropad",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Disarray Desnarler -- DIY Macropad",
+  "description": "**Disarray Desnarler -- DIY Macropad**\n\n**Materials costs**:  \n\u20ac35\n\n**Taught by** fablab|nk.  \nThe Desktopordnungsamt brings you \"the world\u2019s [#1](https://events.ccc.de/congress/2025/hub/tag/1) DIY customizable digital desktop organizer with re-chaotization feature that looks cool on your desk.\"\nWe are Hillary, Julia, and Urs \u2014 the makers, programmers, designers, here to bring you this educational and fun kit. Contact us at ufogreeks@gmail.com with questions.\n\n**Workshop Itinerary**:\n\n\u200bIn this 2-hour workshop, you are going to solder and flash your own macropad (aka. mini keyboard) and configure it to your personal requirements. No prior knowledge required.\n\n\u200bWhile our initial goal was to help people discover workspace management on their OS, you can customize your macropad however you like: favorite keyboard shortcuts, launch your favorite apps with one button, software control, or even as a MIDI (over USB) controller for your music equipment. *\n\n\u200bHere is some details about the project: https://hackaday.io/project/204536-disarray-desnarler\nIf you want to look into the build- or codeside start here: https://github.com/ZenVega/disarray_desnarler_docs\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Hackaday article](https://hackaday.io/project/204536-disarray-desnarler)  \n[Github docs](https://github.com/ZenVega/disarray_desnarler_docs)  \n[QMK configs](https://github.com/ZenVega/qmk_disarray_desnarler/tree/main)  \n[Insta](https://www.instagram.com/the.not.so.distant.future/)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f100f842b4e9/blue_desnarler.jpg",
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/disarray-desnarler-diy-macropad_uogd",
+  "links": []
+}

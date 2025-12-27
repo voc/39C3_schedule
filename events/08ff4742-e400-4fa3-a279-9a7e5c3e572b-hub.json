@@ -1,0 +1,30 @@
+{
+  "guid": "08ff4742-e400-4fa3-a279-9a7e5c3e572b",
+  "code": null,
+  "id": 84742,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:20",
+  "room": "SoS Saal 6",
+  "slug": "39c3-einfuhrung-embedded-rust-fur-workshop-hakkaa-board",
+  "title": "Introduction to Embedded Rust for intermediate to advanced participants (for Hakkaa-Board workshop)",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "_Introduction to Embedded Rust on Microcontrollers and the [Hakkaa workshop task](https://events.ccc.de/congress/2025/hub/en/project/detail/assembly/hakkaa-board-smd-soldering-embedded-rust-for-begin/). This introduction is mostly aimed at participants with some experience in Rust._\n\nFor everyone who has already taken their first steps with Rust and can't wait to get knee-deep into using Rust on a Microcontroller. It aims to show you the little differences of this environment, presenting the workshop challenge and pointing you in the right direction for getting started.\n\nFor absolute beginners we recommend to attend [Rust programming language: An absolute beginner workshop with intro presentation](https://events.ccc.de/congress/2025/hub/de/event/detail/rust-programming-language-an-absolute-beginner-wor) first and then our [second round of this introduction on day three](https://events.ccc.de/congress/2025/hub/de/event/detail/einfuhrung-embedded-rust-fur-workshop-hakkaa-_mlyg).\n\nThis session starts with a presentation of about 30 minutes in English and a round of questions for all. After that, our team supports you with your first self-paced steps.\n\nThe initial part of the presentation covers using Rust on a microcontroller in general. The second part focuses on working with the Hakkaa board.\n\nIf you've got a question after this session, you can find us at the Hakkaatachi assembly or in [our Matrix chat](https://matrix.to/#/#hakkaatachi-39c3:matrix.org).\n\nWe recommend:\n\n* Having a soldered and tested [Hakkaa-Board](https://github.com/hakkaatachi/hakkaa-hardware) (whose kit you can get at the Hakkaatachi assembly)\n* Your laptop set up with the [development tooling](https://github.com/hakkaatachi/hakkaa-firmware?tab=readme-ov-file#setup) so that you can spend more time on programming than on installing\n* Your laptop fully charged\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7ef9cd31-1501-40e4-bc73-115cebe1b9a8",
+      "name": "sirhcel",
+      "public_name": "sirhcel",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/sirhcel"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-embedded-rust-fur-workshop-hakkaa-board",
+  "links": []
+}

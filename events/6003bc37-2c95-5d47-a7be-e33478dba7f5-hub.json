@@ -1,0 +1,32 @@
+{
+  "guid": "6003bc37-2c95-5d47-a7be-e33478dba7f5",
+  "code": "WAVVQB",
+  "id": 2522,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-sportbrigade-sparwasser",
+  "title": "Sportbrigade Sparwasser",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "We are well aware of the fact, that as DJs we play other peoples\u00b4(as well as our own) music. This means we want to ensure the musicians get the credit and respect they deserve for their work. Whenever reasonably possible (communication get quite intense for us at times) we\u00b4ll be happy to supply track IDs, although sometimes it may take a little while. Also we\u00b4re happy about reposts if you like what we\u00b4re doing.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8faa6ed7-4c3c-5863-acec-587acd7c40f5",
+      "name": "H\u00fcp Now",
+      "public_name": "H\u00fcp Now",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8faa6ed7-4c3c-5863-acec-587acd7c40f5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sportbrigade-sparwasser",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WAVVQB/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WAVVQB/feedback/"
+}

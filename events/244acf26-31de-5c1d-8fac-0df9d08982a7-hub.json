@@ -1,0 +1,32 @@
+{
+  "guid": "244acf26-31de-5c1d-8fac-0df9d08982a7",
+  "code": "PGHF7D",
+  "id": 400013,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-more-privacy-for-android-smartphones",
+  "title": "More privacy for android smartphones",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "No prior knowledge required!\r\nWant to make your Android smartphone more privacy-friendly? I'll show you what you can do with your existing device. In the second part, I'll discuss \u2018Google-free\u2019 Android variants (custom ROMs) and Linux smartphones.",
+  "description": "Tired of every app knowing exactly where you are? Tired of receiving personalised advertising that doesn't suit you anyway? I'll show you which settings you can adjust on your Android smartphone so that you can be a little less open with your data. No prior knowledge is required. We'll start with some very simple steps. I'll help you if you need it. \nThe second part will then cover so-called custom ROMs that are \u2018de-Googled\u2019, such as Iod\u00e9OS, GrapheneOS, etc., and a brief detour to Linux smartphones.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0393f5c1-0680-5062-b5d8-5bc994f335d6",
+      "name": "flysch",
+      "public_name": "flysch",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0393f5c1-0680-5062-b5d8-5bc994f335d6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/more-privacy-for-android-smartphones",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/PGHF7D/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/PGHF7D/feedback/"
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "d304dbd5-b055-5742-a134-417b0adbfa14",
+  "code": "7GDZTJ",
+  "id": 1601,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/7GDZTJ/PXL_20251018_191058916_WI8fN2P.jpg",
+  "date": "2025-12-29T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1601-when-8-bits-is-overkill-making-blinkenlights-with-a-1-bit-cpu",
+  "url": "https://cfp.cccv.de/39c3/talk/7GDZTJ/",
+  "title": "When 8 Bits is Overkill: Making Blinkenlights with a 1-bit CPU",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Over the last half year I have explored the Motorola mc14500 - a CPU with a true one-bit architecture - and made it simulate Conway's Game of Life. This talk gives a look into how implementing a design for such a simplistic CPU can work, and how it's possible to address 256 LEDs and half a kiloword of memory with just four bits of address space.",
+  "description": "In the late seventies, Motorola created a very cheap CPU, intended to replace logic circuits made from electromechanical relays. The resulting IC is so minimalistic that it can hardly be recognized as a CPU: Its data bus is just a single bit wide, it has no program counter, and the address bus isn't connected to the cpu at all. Yet, with just a few support components, and some clever programming, it can be made to do all sorts of things.\r\n\r\nWe'll explore hardware design and programming by taking a look at my implementation of Conway's Game of Life, and answer the question of how one can address 512 words of memory, as well as some other peripherals, using just four bits of address space.\r\n\r\nOutline:\r\n* History and theory of operation of the mc14500 \r\n* Writing programs that process one bit at a time\r\n* A closer look at the hardware I built, including its wacky peripherals\r\n* Demonstration\r\n* Q&A",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "MBUFYN",
+      "name": "girst (Tobi)",
+      "avatar": null,
+      "biography": "Hardware tinkerer from Innsbruck",
+      "public_name": "girst (Tobi)",
+      "guid": "50632f41-4839-580d-9baf-cea166e4a319",
+      "url": "https://cfp.cccv.de/39c3/speaker/MBUFYN/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/7GDZTJ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/7GDZTJ/",
+  "attachments": []
+}

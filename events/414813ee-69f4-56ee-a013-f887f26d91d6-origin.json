@@ -1,0 +1,36 @@
+{
+  "guid": "414813ee-69f4-56ee-a013-f887f26d91d6",
+  "code": "TWSULE",
+  "id": 1573,
+  "logo": null,
+  "date": "2025-12-29T22:05:00+01:00",
+  "start": "22:05",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-1573-light-in-the-dark-net",
+  "url": "https://cfp.cccv.de/39c3/talk/TWSULE/",
+  "title": "Light in the Dark(net)",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Science is hard and research into the usage of the Tor network is especially so. Since it was designed to counter suveillance, it gathering reliable information is difficult. As a consequence, the studies we do have, have yielded very different results.\r\n\r\nThis talk investigates the root causes of contradicting studies by highlighting how slight changes in methodology or data selection completely change the results and thereby our understanding of what the Darknet is. Whether you consider it the last bastion of freedom or a haven of crime, this talk will tell you where to look and what to ignore in order to confirm your current opinion. And in case you are open to changing it, we have some food for thought for you.",
+  "description": "Onion services can be considered one of the most controversial aspects of the Tor network, because they allow the anonymous hosting of services, which has enabled the creation of illegal services which are difficult for law enforcement to shut down. Defenders argue that this is a price worth paying to ensure free speech for people who could otherwise not speak up or run their own services. \r\n\r\nThis obviously raises the question what onion services are being actually used for in practice. Many researchers have tried to answer this question in the past. Based on their work we already know a few things: \r\n\r\n- 9% of all Websites on the Darknet are marketplaces [1]\r\n- 2.7% of all Websites on the Darknet are marketplaces [2]\r\n- 50% of all Websites on the Darknet are marketplaces [3]\r\n- 8.4% of all Websites on the Darknet are marketplaces [4]\r\n- 27% of all Websites on the Darknet are marketplaces [5]\r\n- 34.8% of all Websites on the Darknet are marketplaces [6]\r\n\r\nNo, this is not a copy and paste error, all of the above statements can be found in peer-reviewed scientific publications. All of these results are valid on their own and constitute valuable contributions to science, but it does not take an expert to notice the contradictions in their findings.  \r\nThe reasons for these inconsistencies are the main topic of this talk. We will discuss the information available to researchers and the limitations originating from it. Challenges and current disagreements when it comes to interpreting available data will be addressed along with common misrepresentations of research results. We will highlight how the choice of data sources can predetermine the final result before a study has even begun, how minor changes to definitions can lead to completely different results and how important context is when interpreting data. \r\n\r\nArmed with this knowledge, we can tackle the challenge to find out what we know about the Darknet, what we might figure out in the future, what we can reasonably assume but will never be able to prove, and what we will (hopefully) never know. \r\n\r\n-----------------------------------------\r\nSources\r\n[1] https://doi.org/10.1049/iet-ifs.2015.0121\r\n[2] https://doi.org/10.1016/j.future.2024.03.025\r\n[3] https://doi.org/10.1145/3600160.3600167\r\n[4] https://doi.org/10.1109/INFOCOM53939.2023.10229057\r\n[5] https://doi.org/10.1109/ICDCSW.2014.20\r\n[6] https://doi.org/10.1080/00396338.2016.1142085",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "PCUYZF",
+      "name": "Tobias H\u00f6ller",
+      "avatar": null,
+      "biography": "I am a security researcher and teacher at Johannes Kepler University in Linz, where I have been hacking everything from cash registers to malicous Tor relay operators. As a long time Tor relay operator myself, the Tor network has also been a major topic in my research work.",
+      "public_name": "Tobias H\u00f6ller",
+      "guid": "2d9465e8-eec4-54ec-8cec-8467f5da389f",
+      "url": "https://cfp.cccv.de/39c3/speaker/PCUYZF/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/TWSULE/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TWSULE/",
+  "attachments": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "8622b255-f195-4eb0-b3ab-a1d19c5fe817",
+  "code": null,
+  "id": 862225,
+  "date": "2025-12-28T00:00:00+01:00",
+  "start": "00:00",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-transdermal-hrt-brewing-for-beginners-placeholder",
+  "title": "Transdermal HRT Brewing for Beginners placeholder",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In diesem Workshop lernen wir, wie wir transdermale HET (Hormon Ersatz Therapie) Produkte f\u00fcr trans Personen einfach selber machen k\u00f6nnen.\n\nDie beiden M\u00f6glichkeiten sind dabei Sprays und Gels, f\u00fcr beides sind genug Zutaten da.\n\nEs gibt nur einen (rudiment\u00e4ren, scuffed) Setup daf\u00fcr und es eignet sich nicht um in gr\u00f6\u00dferer Runde zu arbeiten. Wenn viele kommen gerne unabh\u00e4ngigen Austausch von Rezepten, Methoden, Vernetzen von trans Menschis oder Aktivistis. In den Folgetagen kann an der Asembly (Projekt31) auch noch gut gebraut werden\n.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ffe1a0be-dc7f-4247-b6e7-8bb184711517",
+      "name": "Lizzz (they / she)",
+      "public_name": "Lizzz (they / she)",
+      "avatar": null,
+      "biography": "Just some floating transi gurl that dreams of anarchy but doesnt believe in it so they try to make things happen on a smol scale uwu :3 If you wanna know about the HRT homebrew workshop just call my DECT or join us at our Projekt31 assembly\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/lizzz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/transdermal-hrt-brewing-for-beginners-placeholder",
+  "links": []
+}

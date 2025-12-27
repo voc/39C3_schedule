@@ -1,0 +1,31 @@
+{
+  "guid": "3e09209f-7ab3-5709-b752-c59737e593cf",
+  "code": null,
+  "id": 200488,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-powering-transparency-open-data-across-parliaments",
+  "title": "Powering Transparency: Open Data across Parliaments",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Join us for a workshop featuring three cool projects about open parliamentary data! [HowTheyVote.eu](https://howtheyvote.eu/) makes it easy to see how European Parliament members vote. [Open Parliament TV](https://de.openparliament.tv/) lets you search and interact with over 79,000 speeches from the German Bundestag. [Open Data Ranking](https://opendataranking.de/) shows how parliamentary data is (un)available in Germany. We'll talk about the fun of linked open data (oh hai [Wikidata](https://www.wikidata.org/wiki/Wikidata:Identifiers)), currently challenging conditions and how to make more people aware of it inside and outside of parliaments. We welcome everyone interested in open parliamentary data or working in/around parliaments!",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "de1f05b7-24f6-5768-a41b-63ac06d62f4f",
+      "name": "How They Vote, Open Parliament TV and Open Data Ranking",
+      "public_name": "How They Vote, Open Parliament TV and Open Data Ranking",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_de1f05b7-24f6-5768-a41b-63ac06d62f4f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/powering-transparency-open-data-across-parliaments",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/N98UMH/"
+}

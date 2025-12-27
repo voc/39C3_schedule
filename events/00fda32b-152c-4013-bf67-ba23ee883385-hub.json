@@ -1,0 +1,30 @@
+{
+  "guid": "00fda32b-152c-4013-bf67-ba23ee883385",
+  "code": null,
+  "id": 3215,
+  "date": "2025-12-29T11:45:00+01:00",
+  "start": "11:45",
+  "duration": "01:00",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-bau-dir-einen-kritzelbecher",
+  "title": "Bau dir einen Kritzelbecher",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Mit Filzstiften, Pappbecher, Elektromotor und Batterien bauen wir uns einen tanzenden Kritzel-\"Roboter\". Ab 8 Jahren.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d9c64fa0-e2e6-4004-a84b-34a92da22372",
+      "name": "arp (HE / HIM)",
+      "public_name": "arp (HE / HIM)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/arp"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bau-dir-einen-kritzelbecher",
+  "links": []
+}

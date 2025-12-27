@@ -1,0 +1,47 @@
+{
+  "guid": "f8587f46-8a0e-58d7-8d1d-82928b8220e2",
+  "code": "3G3L3C",
+  "id": 2119,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-not-to-be-trusted-a-fiasco-in-android-tees",
+  "title": "Not To Be Trusted - A Fiasco in Android TEEs",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Trusted Execution Environments (TEEs) based on ARM TrustZone form the backbone \r\nof modern Android devices' security architecture. The word \"Trusted\" in \r\nthis context means that **you**, as in \"the owner of the device\", don't \r\nget to execute code in this execution environment. Even when you unlock \r\nthe bootloader and Magisk-root your device, only vendor-signed code will\r\n be accepted by the TEE. This unfortunate setup limits third-party \r\nsecurity research to the observation of input/output behavior and static\r\n manual reverse engineering of TEE components.\r\n\r\nIn this talk, we take you with us on our journey to regain power over \r\nthe highest privilege level on Xiaomi devices. Specifically, we are \r\ntargeting the Xiaomi Redmi 11s and will walk through the steps necessary\r\n to escalate our privileges from a rooted user space (N-EL0) to the \r\nhighest privilege level in the Secure World (S-EL3). We will revisit old\r\n friends like Trusted Application rollback attacks and GlobalPlatform's \r\ndesign flaw, and introduce novel findings like the literal fiasco you \r\ncan achieve when you're introducing micro kernels without knowing what \r\nyou're doing. In detail, we will elaborate on the precise exploitation \r\nsteps taken and mitigations overcome at each stage of our exploit chain,\r\n and finally demo our exploits on stage.\r\n\r\nRegaining full control over our devices is the first step to deeply \r\nunderstand popular TEE-protected use cases including, but not limited \r\nto, mobile payment, mobile DRM solutions, and the mechanisms protecting your biometric \r\nauthentication data.",
+  "description": "We present novel insights into the current state of TEE security on \nAndroid focusing on two widespread issues: missing TA rollback \nprotection and a type confusion bug arising from the GlobalPlatform TEE \nInternal Core API specification.\nOur results demonstrate that these issues are so widespread that on most\ndevices, attackers with code execution at N-EL1 (kernel) have a buffet \nof n-days to choose from to achieve code execution at S-EL0 (TA).\n\nFurther, we demonstrate how these issues can be weaponized to fully \ncompromise an Android device. We discuss how we exploit CVE-2023-32835, a\ntype confusion bug in the keyinstall TA, on a fully updated Xiaomi \nRedmi Note 11.\nWhile the keyinstall TA shipped in the newest firmware version is not \nvulnerable anymore, the vulnerability remains triggerable due to missing\nrollback protections.\n\nTo further demonstrate how powerful code execution as a TA is, we'll \nexploit a vulnerability in the BeanPod TEE (used on Xiaomi Mediatek \nSoCs), to achieve code execution at S-EL3. Full privilege escalations in\nthe TEE are rarely seen on stage, and we are targeting the BeanPod TEE \nwhich is based on the Fiasco micro kernel. This target has never been \npublicly exploited, to the best of our knowledge.\n\nOur work empowers security researchers by demonstrating how to regain control over \nvendor-locked TEEs, enabling deeper analysis of critical security \nmechanisms like mobile payments, DRM, and biometric authentication.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "05b6c8e1-616b-5771-8967-5511e115991e",
+      "name": "0ddc0de",
+      "public_name": "0ddc0de",
+      "avatar": "https://cfp.cccv.de/media/avatars/Q3EEJ3_qkjGoC9.jpg",
+      "biography": "Marcel's current research focus is mobile security with a special interest in Android TEEs and fuzzing. He regularly presents his academic work at industry-facing conferences like [blackalps](https://youtu.be/PkPlUEb2z8g?si=98VKU8KQNvSIUWcq) and [hardwear.io](https://youtu.be/x-VRC0WX5Bo?si=NEVIB5m59xGkzv9A), and gives [trainings on mobile TEEs](https://hardwear.io/netherlands-2025/training/hands-on-trustzone-tee-security.php). Outside of work, Marcel enjoys solving CTF challenges and captured flags with FAUST, Shellphish, p0lygl0ts, and the 0rganizers.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_05b6c8e1-616b-5771-8967-5511e115991e"
+    },
+    {
+      "guid": "c1b012b8-3157-56bc-aa01-d8acf2f10cfb",
+      "name": "gannimo",
+      "public_name": "gannimo",
+      "avatar": "https://cfp.cccv.de/media/avatars/M9JYL8_gcPDCCO.jpg",
+      "biography": "gannimo has been around for a while, focusing on exploring the limits of mitigations and fuzzing diverse software stacks from embedded systems to browsers. Check out his homepage for more: https://nebelwelt.net\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c1b012b8-3157-56bc-aa01-d8acf2f10cfb"
+    },
+    {
+      "guid": "18359486-3bdb-53e2-872c-b070eadd530c",
+      "name": "Philipp",
+      "public_name": "Philipp",
+      "avatar": null,
+      "biography": "Doktorand an der EPFL, interessiert an Software Security. Mittelm\u00e4ssiger CTF Spieler.\n(https://philippmao.github.io/)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_18359486-3bdb-53e2-872c-b070eadd530c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/not-to-be-trusted-a-fiasco-in-android-tees",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/3G3L3C/"
+}

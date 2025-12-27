@@ -1,0 +1,40 @@
+{
+  "guid": "41107c14-da92-5ef6-9adc-f00f6630cfb3",
+  "code": "7CKLXH",
+  "id": 411071,
+  "date": "2025-12-30T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:30",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-cccrip-auskotzrunde",
+  "title": "CCCrip Auskotzrunde [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Zielgruppe f\u00fcr diesen Workshop sind be_hinderte Congress-Besucher:innen (CCCrips). Eine Hackspace- oder C3-Mitgliedschaft ist komplett optional. Wir wollen uns untereinander kennenlernen, Erfahrungen austauschen, und Pl\u00e4ne schmieden! Weltherrschaft, anyone?",
+  "description": "Inhalte bzw. Ziel: Vernetzung! Endlich mal \"diese Leute aus dem Internet\" kennenlernen. Erfahrungen austauschen. Ideen sammeln, wie Dinge vor Ort und f\u00fcr zuk\u00fcnftige Events zug\u00e4nglich(er) gemacht werden. \nSeit der ersten Auskotzrunde am 37C3 sind einige neue Kontakte und digitale R\u00e4ume zum Austausch \u00fcber die Veranstaltung hinweg entstanden.\n\nKl\u00e4rung: Be_hinderung kann viele verschiedene Formen haben. Wir wollen hier einen Raum schaffen, in dem viele verschiedene Menschen sich miteinander austauschen k\u00f6nnen. \nEine \"offizielle\" Diagnose ist daf\u00fcr absolut nicht notwendig! Wenn du dich selbst als be_hindert beschreibst, bist du hier richtig.\n\nInhaltswarnung: Wir sprechen \u00fcber unsere Be_hinderungen. Voraussichtlich werden dabei auch negative Erfahrungen geteilt.\n\nUnd es gilt, hier erst recht: nehmt R\u00fccksicht auf euch selbst, und auch auf andere!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8089ae5b-2808-5e66-93e6-2bf4b20c070b",
+      "name": "pascoda",
+      "public_name": "pascoda",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/headshot_gpn_lxwkMDh.jpg",
+      "biography": "The queer feminist killjoy your techbros keep warning you about.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8089ae5b-2808-5e66-93e6-2bf4b20c070b"
+    },
+    {
+      "guid": "2ac9acaf-6e36-5865-9e17-6d789a57fc0f",
+      "name": "lavalaempchen",
+      "public_name": "lavalaempchen",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/7BSJJZ_G5wk4eg.jpg",
+      "biography": "Impostersyndrom auf zwei Beinen\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2ac9acaf-6e36-5865-9e17-6d789a57fc0f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cccrip-auskotzrunde",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/7CKLXH/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/7CKLXH/feedback/"
+}

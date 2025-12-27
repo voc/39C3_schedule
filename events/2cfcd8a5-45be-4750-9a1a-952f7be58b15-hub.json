@@ -1,0 +1,30 @@
+{
+  "guid": "2cfcd8a5-45be-4750-9a1a-952f7be58b15",
+  "code": null,
+  "id": 285454,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-finanzmanagement-fur-alle-uber-den-nachhaltigen-um",
+  "title": "Effizientes Finanzmanagement f\u00fcr alle - \u00dcber den nachhaltigen Umgang mit Geld",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Event NOT in english language - sorry.\n\nThis is no \"how to get rich fast\" talk.\n\nThis Talk is about the HOW of efficiently handling money.\nI want to give you the means to decide yourself, what risks to take and what investments to make.\n\nMost of my Information is from my Economic Computer Sciences Bachelors degree (mainly the economics part)\nTopics will be: How to calculate investments, how to calculate (expected) interest and compound interest, how to \"sort\" your debt to efficiently pay it off.\n\nAfter my nerdy maths lecture, there will be time for questions and topics you are interested in. (Still under SoS Rule: No commercial advertising or crypto shilling)\n\nI did a similar SoS last year, this year will even be with slides.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "de8d23b4-4d8e-4436-aa9b-a8e08afccc95",
+      "name": "sebz",
+      "public_name": "sebz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/sebz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/finanzmanagement-fur-alle-uber-den-nachhaltigen-um",
+  "links": []
+}

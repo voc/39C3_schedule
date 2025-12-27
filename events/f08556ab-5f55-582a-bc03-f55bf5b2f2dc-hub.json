@@ -1,0 +1,32 @@
+{
+  "guid": "f08556ab-5f55-582a-bc03-f55bf5b2f2dc",
+  "code": null,
+  "id": 100441,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-political-organizing-tools-we-need",
+  "title": "Political Organizing - Tools we need",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "In our struggles for a better world, we need the right tools to organize collectively. Common solutions seldom align with our ideals of self-organization and freedom from hierarchy. But what tools work in contexts with activists who have little technical experience? And what is our role as hackers in these groups? We see the same challenges in other organizations building up counterpower through structure based organizing as well. So let's connect!",
+  "description": "We are tenants organizing ourselves in the Berlin Tenants Union to fight for better housing conditions. In our organization, we have some active members that need to plan, coordinate and document actions. At the same time, we are constantly growing with new members who have little experience in collective struggles. Onboarding them shouldn\u2019t bring a steep learning curve, but rather empower people to participate right-away. So we need tools that require only a low level of technical expertise to get started.\n\nYet we\u2019re facing a gap between our values (data sovereignty, open source, collective ownership) and our reality (onboarding friction, technical barriers, competing with Big Tech UX). But we are the advanced users in the technical sphere. So where do less technical users face difficulties so that they choose tools that don't align with our values? And are we mere facilitators or also educators in these spaces? That\u2019s why we would like to exchange with like-minded people.\n\nSo let's connect and talk about the toolbox we want!\n\n\n\nSome questions we would like to discuss:\n- How can information and shared knowledge made accessible for new members?\n- How can events be communicated and how can we mobilize for specific actions?\n- Where should we store contact information from the people we organize?\n- How can we keep track of active members?\n- And what is our position as hackers in all of that?\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/ZS9FDW/1024-550_s7MkgmV.png",
+  "persons": [
+    {
+      "guid": "73b9a748-73c9-575e-9f24-6f2b935488c2",
+      "name": "Berliner Mieter*innengewerkschaft",
+      "public_name": "Berliner Mieter*innengewerkschaft",
+      "avatar": null,
+      "biography": "We are tenants organizing ourselves in the Berlin Tenants Union to fight for better housing conditions. The Berlin Tenants Union has an IT working group to support the struggle with tools.\n\nYou can contact us here: kontakt@mg-berlin.org\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_73b9a748-73c9-575e-9f24-6f2b935488c2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/political-organizing-tools-we-need",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/ZS9FDW/",
+  "do_not_record": true
+}

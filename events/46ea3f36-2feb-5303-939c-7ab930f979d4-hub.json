@@ -1,0 +1,40 @@
+{
+  "guid": "46ea3f36-2feb-5303-939c-7ab930f979d4",
+  "code": "BDZU8H",
+  "id": 463362,
+  "date": "2025-12-29T21:15:00+01:00",
+  "start": "21:15",
+  "duration": "02:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-pub-quiz-fur-nicht-nerds",
+  "title": "Pub-Quiz f\u00fcr \"Nicht-Nerds\" [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Ein nerdiges Pub-Quiz -- mit Fragen nach Wissen aus den Bereichen \"Allgemein-Wissen\", \"Pop-Kultur\" und \"Diversit\u00e4t und Inklusion\".",
+  "description": "Das Quiz ist offen f\u00fcr alle.\nWir stellen haupts\u00e4chlich lustig-interessante Fragen.\n\nEs gibt keine Fragen nach \"Nerd-Credibility\".\nDu kennst keine DIN-Normen? Sammelst und behebst keine Software-Bugs? Um Viren k\u00fcmmerst du dich mit Desinfektionsmittel? \nDann bist du bei uns richtig. Wir quizzen uns durch Geographie, Geschichte, Filme und Serien -- immer mit einem Blick auf Diversit\u00e4t und Inklusion.\n\nWir versuchen, schwierige Themen (z.B. Gewalt, Diskriminierung, etc.) zu vermeiden bzw. sensibel zu behandeln.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8089ae5b-2808-5e66-93e6-2bf4b20c070b",
+      "name": "pascoda",
+      "public_name": "pascoda",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/headshot_gpn_lxwkMDh.jpg",
+      "biography": "The queer feminist killjoy your techbros keep warning you about.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8089ae5b-2808-5e66-93e6-2bf4b20c070b"
+    },
+    {
+      "guid": "2ac9acaf-6e36-5865-9e17-6d789a57fc0f",
+      "name": "lavalaempchen",
+      "public_name": "lavalaempchen",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/7BSJJZ_G5wk4eg.jpg",
+      "biography": "Impostersyndrom auf zwei Beinen\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2ac9acaf-6e36-5865-9e17-6d789a57fc0f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/pub-quiz-fur-nicht-nerds",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/BDZU8H/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/BDZU8H/feedback/"
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "9c12f687-46d2-5a9f-8bbd-6d91c74deb94",
+  "code": null,
+  "id": 100461,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:30",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-einfuhrung-in-streetcomplete-fur-openstreetmap",
+  "title": "Einf\u00fchrung in StreetComplete f\u00fcr OpenStreetMap",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "StreetComplete [1] stellt kleine, vor Ort schnell l\u00f6sbare Aufgaben, und hilft, fehlende Informationen zu OpenStreetMap beizutragen und die Karte aktuell zu halten. Im Workshop werde ich zeigen, wie man mit StreetComplete zu OpenStreetMap beitragen kann, und Erfahrungen aus der Nutzung teilen. \r\n\r\nF\u00fcr den Workshop sind keine Vorkenntnisse zu OpenStreetMap erforderlich. Zum Bearbeiten der Datenbank/Karte ist ein OpenStreetMap-Account erforderlich, in der App ist ein Account allerdings erst zum Upload von \u00c4nderungen erforderlich.\r\n\r\n[1] https://streetcomplete.app/",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9dcd5496-0afe-5e40-aef0-6b44e3f270a9",
+      "name": "jkoe",
+      "public_name": "jkoe",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9dcd5496-0afe-5e40-aef0-6b44e3f270a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-in-streetcomplete-fur-openstreetmap",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/C3UJYN/"
+}

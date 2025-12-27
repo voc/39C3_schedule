@@ -1,0 +1,32 @@
+{
+  "guid": "d2b9960e-8a47-5470-8bb7-af7f124c8053",
+  "code": "DDGDUZ",
+  "id": 2486,
+  "date": "2025-12-29T04:00:00+01:00",
+  "start": "04:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-vvvvvai-steffen-bennemann",
+  "title": "VVVVVAI & Steffen Bennemann",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "VVVVVAI works with themes of duality, reflection, and temporal transitions. Geminiaquarius is an ongoing investigation into how states change, overlap, and coexist. The practice centers on reduction, attention, and slow unfolding.\r\n\r\nSteffen Bennemann has been active in the world of music for more than two decades. After many years as curator and promoter (Nachtdigital Festival), label owner (Holger Records) and DJ, he now focusses on his own sounds. Playing solo as well as in various collaborations, these sounds can be anything from Deep Sea Ambient to celestial Techno.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/DDGDUZ/Bildschirmfot_cfG3VBI.webp",
+  "persons": [
+    {
+      "guid": "08002edd-5783-5279-9650-513a06c83e9d",
+      "name": "VVVVVAI & Steffen Bennemann",
+      "public_name": "VVVVVAI & Steffen Bennemann",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_08002edd-5783-5279-9650-513a06c83e9d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/vvvvvai-steffen-bennemann",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/DDGDUZ/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/DDGDUZ/feedback/"
+}

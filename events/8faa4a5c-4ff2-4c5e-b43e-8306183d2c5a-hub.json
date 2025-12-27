@@ -1,0 +1,30 @@
+{
+  "guid": "8faa4a5c-4ff2-4c5e-b43e-8306183d2c5a",
+  "code": null,
+  "id": 845424,
+  "date": "2025-12-29T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-ddnet-meetup",
+  "title": "DDNet Meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "DDNet community and developer meetup. We'll showcase a new project and have time for any any DDNet related topic. All creatures welcome!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "662cf63d-8de5-4ac7-a1bb-0a6982cdd4d9",
+      "name": "Zwelf",
+      "public_name": "Zwelf",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/zwelf"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ddnet-meetup",
+  "links": []
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "9bdb9e0b-10c1-5543-81f5-d51da1c86367",
+  "code": "DBWBG8",
+  "id": 2538,
+  "date": "2025-12-30T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-who-runs-the-www-wsis20-and-the-future-of-internet",
+  "title": "Who runs the www? WSIS+20 and the future of Internet governance",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Abbreviations such as WSIS+20, IGF, IETF, DIEM, ICANN, PDP, ITU or W3C regularly appear in discussions about the Internet, yet often remain vague. This talk provides an update on the current state of Internet governance and explains why decisions made in United Nations processes have direct implications for technical standards, digital infrastructure, and power asymmetries.",
+  "description": "The starting point is the UN\u2019s WSIS+20 review process, which negotiated the future of the Internet Governance Forum and the roles of stakeholders within it. Against this backdrop, the talk traces the origins of the so-called multistakeholder approach and examines how it works in practice and where its limits lie.\n\nWhat role do technical standardization organizations such as the IETF, ICANN, ITU or the W3C play in an increasingly geopolitical environment? Who sets the rules, who defines the standards, and who is left out of these processes?\n\nThe aim of the talk is to make the connections between technology and international politics visible and to explain why Internet governance matters to everyone interested in an open, global, and interoperable Internet.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "812788a1-9def-5616-96f1-9bdba46f8fff",
+      "name": "Sophia Longwe",
+      "public_name": "Sophia Longwe",
+      "avatar": "https://cfp.cccv.de/media/avatars/SR7JLF_0uURAbU.webp",
+      "biography": "Sophia Longwe is project manager policy at Wikimedia Deutschland e. V. and works on international digital policy, digital infrastructure, and public interest data policy. She studied Global Studies and Public Policy in Maastricht, Berlin, and Austin.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_812788a1-9def-5616-96f1-9bdba46f8fff"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/who-runs-the-www-wsis20-and-the-future-of-internet",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DBWBG8/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "9aa9a5bb-58f3-4dc1-b7e6-65f8b64f59b7",
+  "code": null,
+  "id": 995583,
+  "date": "2025-12-27T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "00:45",
+  "room": "Fediverse shared table",
+  "slug": "39c3-advocacy-for-the-social-web",
+  "title": "Advocacy for the Social Web",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "There are currently numerous initiatives promoting open social networks and digital infrastructures that serve the common good. We would like to introduce some of them and discuss with you the political demands that were published this year.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/c0538a09dfb8/fedi39c3.png",
+  "persons": [
+    {
+      "guid": "f56466f5-4af2-4310-825b-7b5bac0d4a03",
+      "name": "samvie",
+      "public_name": "samvie",
+      "avatar": null,
+      "biography": "Mastodon: @samvie@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/samvie"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/advocacy-for-the-social-web",
+  "links": []
+}

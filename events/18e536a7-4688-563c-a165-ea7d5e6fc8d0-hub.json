@@ -1,0 +1,31 @@
+{
+  "guid": "18e536a7-4688-563c-a165-ea7d5e6fc8d0",
+  "code": null,
+  "id": 300070,
+  "date": "2025-12-28T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "01:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-zero-knowledge-proofs-workshop",
+  "title": "Zero-Knowledge Proofs Workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Zero-knowledge proofs (ZKPs) are reshaping the landscape of privacy, scalability, and trust in decentralized systems. In this workshop, we\u2019ll explore how ZKPs let one party convince another that a statement is true, without revealing anything else about it. We aim to demystify the core ideas behind interactive protocols, walk through modern ZKP constructions, and examine how they\u2019re deployed in cryptocurrencies and modern privacy-preserving designs. Participants will leave with a clear understanding of how the \"prove without revealing\" paradigm is shaping blockchain technology, verifiable computation, and the next generation of cryptographic standards.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "72b19689-5ffe-504f-aa0e-debfbb32590a",
+      "name": "Freeman Slaughter",
+      "public_name": "Freeman Slaughter",
+      "avatar": "https://pretalx.riat.at/media/avatars/Headshot_eBiAj7K.jpg",
+      "biography": "Freeman Slaughter is a postdoc at the University of South Florida, having obtained his Ph.D. from Clemson University, with a focus on zero-knowledge proofs. He has been spearheading the push to migrate cryptocurrencies to post-quantum standards, having published a few of them himself.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_72b19689-5ffe-504f-aa0e-debfbb32590a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/zero-knowledge-proofs-workshop",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/SANGLF/"
+}

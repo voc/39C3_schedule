@@ -1,0 +1,32 @@
+{
+  "guid": "55b1c6a3-ede2-577d-bdd2-d75466fac6df",
+  "code": "QEGXLD",
+  "id": 83818,
+  "date": "2025-12-29T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-schiffsromantik",
+  "title": "Schiffsromantik",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Phako und Bert lesen Dinge vor (divers)\r\nFreut euch auf Dialekte, Intonationen deluxe, erk\u00e4ltete Stimmen, erotische Betonungen und i.d.R. vollkommen unvorbereitete, spontane Aufnahmen ohne besonderen Anlass <3",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "dd68c12b-5981-53c9-a869-fd71a45982d8",
+      "name": "phakbert",
+      "public_name": "phakbert",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_dd68c12b-5981-53c9-a869-fd71a45982d8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/schiffsromantik",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/QEGXLD/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/QEGXLD/feedback/"
+}

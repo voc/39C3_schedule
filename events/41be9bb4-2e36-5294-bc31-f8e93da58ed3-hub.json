@@ -1,0 +1,31 @@
+{
+  "guid": "41be9bb4-2e36-5294-bc31-f8e93da58ed3",
+  "code": null,
+  "id": 200505,
+  "date": "2025-12-28T13:45:00+01:00",
+  "start": "13:45",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-hakuna-data-eine-sehr-kurze-einfuhrung-in-kiswahil",
+  "title": "Hakuna Data: Eine (sehr kurze) Einf\u00fchrung in Kiswahili, lexikographische Daten auf Wikidata und Wikifunctions",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Swahili, lexikographische Daten in Wikidata und Wikifunctions. Ein Team so stark wie Timon und Pumbaa.",
+  "description": "Angenommen du reist nach Nairobi zu einer Wikimedia-Konferenz, lernst gerade so Touri-Phrasen wie \"Hujambo\" und \"Asante\", und pl\u00f6tzlich beginnst du dich f\u00fcr die Datenstruktur der Sprache zu interessieren. Das ist mir dieses Jahr passiert. Swahili ist eine faszinierende Sprache, zu der ich ein bisschen was erz\u00e4hlen werde. Es geht u.a. um Nominalklassen und Verbtabellen und wie sie in einen Pandas DataFrame passen.\n\nLeider gibt es ein Problem: Wikidata enth\u00e4lt kaum Swahili-Lexeme. W\u00f6rterbucheintr\u00e4ge sind rar und Definitionen noch rarer, sagt SPARQL, Das ist ein echtes Problem. Denn schlie\u00dflich bedeuten mehr Swahili-Daten in Wikidata auch mehr Swahili im Semantic Web.\n\nMit Wikifunctions k\u00f6nnten wir Funktionen bauen, die automatisch S\u00e4tze wie einen Wikpedia-Artikela    nfang erzeugen (\"Nairobi ist eine Stadt\u201d), zum Beispiel in Swahili, auf Knopfdruck! Stell dir vor, ein Wikifunction-Generator erzeugt Swahili-S\u00e4tze, w\u00e4hrend Wikidata die n\u00f6tigen Lexeme stellt. Das klingt wie ein M\u00e4rchen? Wenn wir kollaborativ zusammenarbeiten, kann es Wirklichket werden.\n",
+  "logo": "https://pretalx.wikimedia.de/media/39c3-2025/submissions/X8XT9Y/Lion-king-disneyscreencaps.com-5591_UJlQRvz.jpg",
+  "persons": [
+    {
+      "guid": "1d0a1381-8be2-5e17-a689-227d16454556",
+      "name": "Jens Ohlig",
+      "public_name": "Jens Ohlig",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/Jens-Ohlig_WiX136R.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1d0a1381-8be2-5e17-a689-227d16454556"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hakuna-data-eine-sehr-kurze-einfuhrung-in-kiswahil",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/X8XT9Y/"
+}

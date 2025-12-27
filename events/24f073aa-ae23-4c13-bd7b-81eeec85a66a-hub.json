@@ -1,0 +1,30 @@
+{
+  "guid": "24f073aa-ae23-4c13-bd7b-81eeec85a66a",
+  "code": null,
+  "id": 240732,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "DigiGes shared table",
+  "slug": "39c3-digital-o-mat-kick-off",
+  "title": "Wir bauen einen Digital-O-Mat f\u00fcr die Berliner Wahl 2026",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Im Jahr 2026 findet in Berlin die n\u00e4chste Wahl zum Abgeordnetenhaus statt.\r\n\r\nWie stehen die dort antretenden Parteien zu Digital-Themen? Und wie l\u00e4sst sich die \u00dcbereinstimmung mit eigenen \u00dcberzeugungen \"berechnen\"? Wie geht eins mit faschistischen Parteien um und welche anderen Details gilt es zu beachten?\r\n\r\nDer kleindatenverein.org hat bereits mehrere Digital-O-maten gebaut und wird auch zur Berliner Wahl 2026 einen anbieten. Nach einer Vorstellung m\u00f6glicher Arten von Wahl-O-Maten, wollen wir uns f\u00fcr ein Modell entscheiden, die n\u00e4chsten Schritte festlegen und idealerweise den ersten Code einschecken.\r\n\r\nWer mitmachen oder auch einfach nur mal reinschnuppern will, ist herzlich willkommen. Keine Vorkenntnisse n\u00f6tig.\r\n\r\nLeute aus anderen Bundesl\u00e4ndern, in denen 2026 gew\u00e4hlt wird und die Interesse am Bau eines Digital-O-Maten haben, sind besonders willkommen.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "31eb74c3-d86c-46b9-a90c-110b57714e09",
+      "name": "e-punc (der / he)",
+      "public_name": "e-punc (der / he)",
+      "avatar": null,
+      "biography": "crewmember of c-base.org\nworking at Digitale Gesellschaft\nmaker and  player of the Coffeebots\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/e-punc"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/digital-o-mat-kick-off",
+  "links": []
+}

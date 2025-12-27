@@ -1,0 +1,30 @@
+{
+  "guid": "2b22a8e3-32f0-4be1-9062-a0b18f20c1d0",
+  "code": null,
+  "id": 222833,
+  "date": "2025-12-29T00:30:00+01:00",
+  "start": "00:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-stickmaschinen-inkstitch-meetup",
+  "title": "Stickmaschinen & Ink/Stitch Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We want to get together, talk about our experiences with Ink/Stitch and machine embroidery, show off projects and network.\n\nThere is no agenda, we'll just sit down together and see what we feel like talking about.\n\nInk/Stitch is a plugin for Inkscape that can be used to design embroidery patterns for machine embroidery.\n\nTime and place might change, please come back at 16:00 on Day 1 to confirm!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4a15805b-7501-4b5f-9b5d-70a6dc8aa24d",
+      "name": "becca",
+      "public_name": "becca",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/becca"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/stickmaschinen-inkstitch-meetup",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "2ca08785-40e4-4645-a3c1-0ee74eea9bc7",
+  "code": null,
+  "id": 208785,
+  "date": "2025-12-28T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-how-research-tools-actually-break-user-stories-fro",
+  "title": "Working With (and Around) Research Infrastructure - Understand Users Stories and Needs",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We constantly build, use, maintain, adapt, physical and digital tools and infrastructures \u2014 both inside and outside formal institutions and far beyond classical environmental citizen science.\nThis session invites participants with community project(s) to share concrete user stories about how they actually work: what they try to do, what doesn't work, what they avoid using, what they need, and why.\nRather than presenting solutions or pitching an infrastructure, the session focuses on:\n\nlived practices and workflows\nShared experiences, bottlenecks while maintaining infrastructure\nShared experiences of research activities within the community and success stories\ntrust issues and refusal with infrastructure services\nboundaries around data, governance, and centralisation and project examples\nParticipants will fill in short user stories based on real situations. These stories will be anonymised and used to identify patterns that can inform the early design of a future research infrastructure (RIECS), before assumptions harden into technical or governance choices.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5a80181f-4196-486a-8019-292a551c2b92",
+      "name": "katy13",
+      "public_name": "katy13",
+      "avatar": null,
+      "biography": "Connect with me: https://mastodon.social/@kaitiwu\nGet to know more about the European Citizen Science Association (ECSA):\n- https://www.ecsa.ngo/\n- https://mastodon.social/@ECSA\n  Learn how to initiate your own Citizen Science Project: https://moodle.citizenscience.eu/\n  Learn more about the RIECS-Concept Project: https://cordis.europa.eu/project/id/101188210/de\n  Connect with the RIECS-Concept Project: https://mastodon.social/@riecs_concept\n  Sign up to be interviewed and shape the concept of Research Infrastructure for Excellent Citizen Science for Europe\n- https://forms.gle/uVpB2uL6j8eufdZVA\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/katy13"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-research-tools-actually-break-user-stories-fro",
+  "links": []
+}

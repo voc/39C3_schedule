@@ -1,0 +1,36 @@
+{
+  "guid": "5cf7d973-5a94-5e8f-9f8d-8b5f4ec5bb6d",
+  "code": "SMWCFE",
+  "id": 2293,
+  "logo": null,
+  "date": "2025-12-27T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-2293-developing-new-medicines-in-the-age-of-ai-and-personalized-medicine",
+  "url": "https://cfp.cccv.de/39c3/talk/SMWCFE/",
+  "title": "Developing New Medicines in the Age of AI and Personalized Medicine",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Did you ever wonder where all the drugs, which you can get at a pharmacy, come from? Who makes them, and how? Well, there is no easy answer, because the process of drug discovery and development is a very complex, expensive, and challenging journey, riddled with many risks and failures. This holds true for all types of drugs, from a simple pill to an mRNA vaccine or a gene therapy. Today, scientists support this process with a variety of AI applications, cutting-edge technologies, automation, and a huge amount of data. But can the race for new medicines and cures succeed only through more technology, or do we need to rethink the entire process? Let\u2019s take a look at how the drug discovery and development process has worked so far, and how this entire process is changing \u2013 for better or worse.",
+  "description": "At first, this talk will present a high-level overview of the path from an idea to a pill in the pharmacy. After presenting the basics of the discovery and development process, the talk will focus on three key aspects and critically assess the current developments:\r\n\r\n(1) Like in many industries today, AI applications are introduced at multiple levels and for various purposes within the drug discovery and development continuum. Often, a lot of hope is placed in AI-based technologies to accelerate the R&D process, increase efficiency and productivity, and identify new therapeutic approaches. And indeed, there are many highly useful examples, such as the automation of image analysis in research, which replaces repetitive tasks and hence frees up a lot of time for researchers to do actual research. However, there are also many applications that are likely misguided, because they aim to increase overall productivity but still face fundamental problems of evaluating scientific knowledge. For instance, the use of LLMs to summarize huge amounts of very complex and heterogeneous scientific data relies on accuracy, completeness and reproducibility of the available scientific data, which is often not the case. In addition, AI poses the risk of diffusing responsibility and perpetuating existing biases. Moreover, AI is often employed in an IT environment with questionable data security and ownership practices, such as the storage of sensitive research data on third-party cloud platforms.\r\n(2) At one point, the development of any drug faces a critical moment in the development process: the translation of findings from a test tube (or Petri dish) to the human body. This so-called \u201ctranslational gap\u201d is usually addressed through animal models and experimentation on lab animals. However, findings in mice do not necessarily reflect the effects in human patients. In addition, there are numerous ethical concerns regarding the use of other species for the benefit of the human race. Technological advancements are now leading to novel, cutting-edge model systems such as organs-on-chips. The replication of entire artificial organ systems on chips renders (some) animal experiments obsolete. With further technological progress, this approach could potentially replace animal experimentation altogether in the future. However, technology alone will likely not solve the fundamental issues surrounding translational research, such as standardization of model systems and underlying biases.\r\n(3) The entire biotech and pharmaceutical industry is facing the challenge that the era of blockbuster drugs might be over. Until now, the overwhelming majority of drugs have been developed to treat large patient populations, which represent a considerable market and ultimately ensure a return of investment. But today, most common and homogeneous diseases can already be treated, often with drugs that are not protected by patents anymore. Consequently, the focus of drug discovery and development is shifting toward more heterogeneous and rare diseases. This transformation is known as precision or personalized medicine. However, this paradigm shift means that patient populations and thus markets are becoming much smaller, posing a threat to the current business model in the pharma industry. Moreover, many intellectual property rights for blockbuster drugs expire soon, ending the market dominance of a number of pharma companies. These developments challenge the current modus operandi of the entire drug discovery and development process.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "E93XWS",
+      "name": "Aphorism",
+      "avatar": null,
+      "biography": "After more than ten years of academic research across various fields in the life sciences, I transitioned to the private sector. For the past five years, I have been working in R&D, gaining insights into the drug discovery and development process as a project leader. In this role, I have also been responsible for implementing AI applications - with varying degrees of success.",
+      "public_name": "Aphorism",
+      "guid": "0e228722-2bac-5742-b9d6-efc1f0ecc848",
+      "url": "https://cfp.cccv.de/39c3/speaker/E93XWS/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/SMWCFE/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/SMWCFE/",
+  "attachments": []
+}

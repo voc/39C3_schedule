@@ -1,0 +1,32 @@
+{
+  "guid": "80247006-2731-5ef6-89bb-a111bfe01b06",
+  "code": "W7XYFT",
+  "id": 2530,
+  "date": "2025-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-on-out",
+  "title": "On Out",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "DJ Set",
+  "abstract": "Dj-Set On Out",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0efd2fa1-f214-5e69-97f5-51e89b6370cd",
+      "name": "Unnamed user",
+      "public_name": "Unnamed user",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0efd2fa1-f214-5e69-97f5-51e89b6370cd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/on-out",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/W7XYFT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/W7XYFT/feedback/"
+}

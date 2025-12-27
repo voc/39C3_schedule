@@ -1,0 +1,39 @@
+{
+  "guid": "5aaab022-3cb6-5d1a-9326-eec204bbb8f1",
+  "code": "NB9YD3",
+  "id": 1931,
+  "date": "2025-12-27T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-1965-60-years-of-algorithmic-art-with-computers",
+  "title": "1965 + 60 Years of Algorithmic Art with Computers",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "What power structures are inherent to the field of computer-generated art? In the year 1965, so 60 years ago, the first three exhibitions of art created with the help of computers took place - in part independently of each other. We want to present the interesting aspects of developments since then and discuss them with Frieder Nake, one of the people who exhibited in those very beginnings and followed those developments with a critical attitude.",
+  "description": "We want to look at the complex topic of art created with computers, beginning with some careful and barely noticed first experiments and emerging into an ever more diverse and creative field, from different angles. In particular, we want to focus on the dynamics of power and how these developments were influenced by their context - from social movements to political pressure.\n\nWe want to start with explaining how the initial developments, both from an artistic - concrete art - and technological - the evolution of computers and the creation of the drawing machine Zuse Z64 in Germany and film techniques in the US, respectively - took place. We will do so in the context of the first three exhibitions that all took place in the year 1965. Their artworks were created by Georg Nees in Stuttgart, A. Michael Noll with B\u00e9la Julesz in New York and Frieder Nake with Georg Nees, again in Stuttgart.\n\nIn the following, we will try to give an outline of further developments. We provide examples how hierachies in art and science have developed and played a role in different events. In the domain of computer-generated art, similar to other art, there are two large influences hidden for the typical recipent of this art - galleries and critics. We will discuss this exemplary with early exhibitions of Frieder Nake being described by the FAZ and later on, how the east-west conflict has influenced the art and its exhibitions. Among other issues, we discuss patriarchal structures, the commercial side of art, how old tech is sold as revolutionary and how progress is still as connected with threatening feelings as in the early years.\n\nLooking back at the beginnings, it is interesting to observe how artists - also with an artistic, rather than technical background - worked with the limitations and overcame them. Fortunately, the technological entry barrier to create algorithmic art yourself has drastically decreased over time and we want to encourage you to experiment yourself!\n\nFrieder Nake is creating algorithmic drawings and doing visual research since 1964. In 1971, he published the influential essay \"there should be no computer art\" and he has been teaching computer graphics at the University of Bremen for decades. Enna Gerhard is pursuing a PhD in theory of computer science and creates algorithmic drawings in the meantime.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/NB9YD3/picture_YnXOMrJ_C8ulon9_pG6R2Zo.webp",
+  "persons": [
+    {
+      "guid": "bab60e24-4562-579c-b8a6-b0faf070ef44",
+      "name": "Enna Gerhard",
+      "public_name": "Enna Gerhard",
+      "avatar": "https://cfp.cccv.de/media/avatars/CMY3DD_j9rEoLL.png",
+      "biography": "Enna Gerhard is pursuing a PhD in theory of computer science and creates algorithmic drawings in the meantime.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_bab60e24-4562-579c-b8a6-b0faf070ef44"
+    },
+    {
+      "guid": "aad99465-2810-5cfe-9846-c014b678bdb2",
+      "name": "Frieder Nake",
+      "public_name": "Frieder Nake",
+      "avatar": null,
+      "biography": "Mathematician, computer scientist, artist. Professor at the University of Bremen, Germany. One of the \"Big N\" \u2013 the first three who exhibited computer-generated images (in 1965). Lectured and exhibited on all continents except Africa. ACM SIGGRAPH Distinguished Artists Award for Lifetime Achievement in Digital Art.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_aad99465-2810-5cfe-9846-c014b678bdb2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/1965-60-years-of-algorithmic-art-with-computers",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/NB9YD3/"
+}

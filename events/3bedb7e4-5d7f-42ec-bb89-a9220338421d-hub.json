@@ -1,0 +1,30 @@
+{
+  "guid": "3bedb7e4-5d7f-42ec-bb89-a9220338421d",
+  "code": null,
+  "id": 374574,
+  "date": "2025-12-28T15:45:00+01:00",
+  "start": "15:45",
+  "duration": "01:00",
+  "room": "House of Tea",
+  "slug": "39c3-secure-offline-communications-whats-next",
+  "title": "Secure Offline Communications: What's Next?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "It's the end of 2025 and digital authoritarianism becomes only ever more sophisticated. We want to use this opportunity to pause and reflect: how is the situation for citizens in different contexts around the world? What are people's actual needs? Which projects exist in this space? What is today's consumer hardware and software capable of to help making connections despite all attempts to the contrary?",
+  "description": "While this session is hosted by The Briar Project, we explicitly welcome all other collectives and individuals interested and working in this area of Internet shutdowns and digital censorship. Let's see where we can join forces to best serve users' needs.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/39a096980f62/graph-p2p-sharing.png",
+  "persons": [
+    {
+      "guid": "53301857-c2b1-4d3c-8c5a-0c04133535b5",
+      "name": "Nico@Briar",
+      "public_name": "Nico@Briar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/nicobriar"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/secure-offline-communications-whats-next",
+  "links": []
+}

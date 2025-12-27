@@ -1,0 +1,30 @@
+{
+  "guid": "ec8bcbfd-2b93-4566-b7e6-62ed25442465",
+  "code": null,
+  "id": 829345,
+  "date": "2025-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:30",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-surface-mount-electronics-assembly-for-terrif_qfvy",
+  "title": "Surface Mount Electronics Assembly for Terrified Beginners (Day 3)",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
+  "description": "**Surface Mount Electronics Assembly for Terrified Beginners**\n\nIn this workshop, we will learn to handle the tiniest electronic components, which are used to make modern electronic devices. We will cheat the same way the electronics industry does, and learn the techniques of stencil paste printing and reflow soldering. You will learn a technique that stops your hands from shaking, so you can very very precisely place microscopic parts. We will make an electronic cat that purrs if you handle it correctly. No prior experience or knowledge of anything electronic needed. Caffeine use is not recommended immediately before. All tools are provided.  Takes around 2 hours.\n\n**Materials costs**:  \n20\u20ac if you want to make a board, free to observe.\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nSign up on the paper sheet at the Hardware Hacking Area.\n\n**Links**:\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrif_qfvy",
+  "links": []
+}

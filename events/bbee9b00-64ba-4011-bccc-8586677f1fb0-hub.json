@@ -1,0 +1,30 @@
+{
+  "guid": "bbee9b00-64ba-4011-bccc-8586677f1fb0",
+  "code": null,
+  "id": 900644,
+  "date": "2025-12-30T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-operating-system-developers-osdev-meetup",
+  "title": "Operating System Developers (OSdev) Meetup (time/location may change!)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Meetup for anyone interested in os development!\n\nTime/location may change!!\n\nTelegram group for live updates: \n[https://t.me/+lEXAtJmZm202Mjgy](https://t.me/+lEXAtJmZm202Mjgy)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6ab5f9e9-90c3-4750-b6f8-daf4120705c2",
+      "name": "offlinemark",
+      "public_name": "offlinemark",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/offlinemark"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/operating-system-developers-osdev-meetup",
+  "links": []
+}

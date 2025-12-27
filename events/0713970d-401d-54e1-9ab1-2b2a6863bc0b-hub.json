@@ -1,0 +1,33 @@
+{
+  "guid": "0713970d-401d-54e1-9ab1-2b2a6863bc0b",
+  "code": "TMLRVT",
+  "id": 1252,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-mittagspausenpunk-live",
+  "title": "Mittagspausenpunk live",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Einschiss ist DER Ausnahmek\u00fcnstler zwischen den Stationen Paracelsus Bad und Rathaus Reinickendorf der U8. Gefangen im K\u00f6rper eines Mannes mit Charaktermodell German_default_3_bearded.obj macht Einschiss Musik gegen die Dinge die nerven: Nazis, Arbeit und Consent Forms (und Arbeit). Dabei setzt er modernste Technologien ein, um einen Typen so klingen zu lassen, als w\u00e4re es ein Typ mit Backing Track. F\u00fcr mehr Musiker:innen hat das Bier nicht gereicht. Sorry.",
+  "description": "Was kann man noch \u00fcber Einschiss sagen, was nicht schon alle gesagt haben? Diese Einmannpunkband hat mehrere H\u00f6rer:innen erreicht, indem er ihnen Fu\u00dfbilder versprochen hat. Dieser kluge PR-Schachzug hat eine bis heute treue Fanbase gezwungen, jede der beiden EPs zu klauen. Einschiss macht Musik f\u00fcr die einfach gestrickten Leute, die am Montagmorgen denken: Scheisse, gar keinen Bock auf Nazis.\n\nDas Live Set ist eine Tour de Force durch die seltener gespielten C- und D-Seiten auf einer vielsaitigen Gitarre mit teils unterschiedlichen aber immer h\u00e4ufiger auch eing\u00e4ngigen Texten zum Mitgr\u00f6len und Heiratsantr\u00e4ge machen. Das gute ist: selbst wenn es schlecht wird, dauert es nur 30 minuten. Eine Bahnfahrt macht da l\u00e4nger schlechte Laune.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/TMLRVT/Bocklose_Kunst_Cover_8o38_mIeQC4h.webp",
+  "persons": [
+    {
+      "guid": "2bb03c44-f1af-5b3c-b323-9912c7bf8a8f",
+      "name": "Einschiss",
+      "public_name": "Einschiss",
+      "avatar": "https://cfp.cccv.de/media/avatars/SJJKZF_G1956ei.webp",
+      "biography": "Dieser Typ ist der geborene Punk: Familienvater, B\u00fcrojob, sitzt gerne mehrere Tage am St\u00fcck vor dem Computer. Trotz bester Voraussetzungen hat es \u00fcber 30 Jahre gedauert, bis sein kreatives Schaffen die Verkaufszahlen von Aspirin durch die Decke gingen lie\u00df. Heute begeistert er seinen Fan im Westen Deutschlands durch unregelm\u00e4\u00dfige Ver\u00f6ffentlichung und Oversharing in sozialen Netzen. Einschiss - muss man nicht kennen, aber lieben.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2bb03c44-f1af-5b3c-b323-9912c7bf8a8f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mittagspausenpunk-live",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/TMLRVT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/TMLRVT/feedback/",
+  "do_not_record": true
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "2a25bea3-6cc3-4d41-be5b-1619ec25e819",
+  "code": null,
+  "id": 225363,
+  "date": "2025-12-30T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:20",
+  "room": "SoS Saal 6",
+  "slug": "39c3-ccc-ch-gettogether",
+  "title": "CCC-CH Gettogether",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The usual CCC Switzerland Gettogether, but at congress.\n\nSome organisational stuff, some meet&greet.\n\nPrimarily in German, but we can switch to English if needed.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5df1ed31-b41f-4fd8-b646-17a70dd85529",
+      "name": "fence",
+      "public_name": "fence",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fence"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ccc-ch-gettogether",
+  "links": []
+}

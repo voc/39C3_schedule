@@ -1,0 +1,21 @@
+{
+  "guid": "810e6683-87bb-4f68-a857-f8a601b432dd",
+  "code": null,
+  "id": 810668,
+  "date": "2025-12-28T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "03:30",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-arduino-for-total-newbies-workshop",
+  "title": "Arduino For Total Newbies workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Learn Arduino using TV-B-Gone as an example project. You've probably heard lots about Arduino. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a TV-B-Gone remote control out of an Arduino you can take home with you.",
+  "description": "**[Arduino](http://arduino.cc/)** is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that experienced expert geeks can use it for their projects as well.\n\nThis workshop is easy enough for _**total newbies**_ to **learn all you need to know to get going on an Arduino.**\n\nParticipants will make their own Arduino clone, and set it up on solderless breadboards to make their own [TV-B-Gone](http://www.tvbgone.com) remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac40** (useful for making many different cool projects).\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop page:**  \n[Arduino For Total Newbies workshop page](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)\n\n**Workshop Itinerary**:\n* Intro to Arduino\n* Very short lesson to learn everything you need to know about electronics!\n* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* Then we will each make our own Arduino clone from a kit.\n* Now that we each have our own Arduino board, we will set up the free and open-source *Arduino software* on our laptops (if you bring one) -- Windows, Linux, and MacOS are all fine!\n* And then its time to make something and learn how easy it is to use Arduino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your Arduino clone board. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.\n* Target practice is available all over the world after the workshop.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Arduino For Total Newbies workshop webpage](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/b59a25ed000c/arduino-for-total-newbies-workshop.banner.jpg",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/arduino-for-total-newbies-workshop",
+  "links": []
+}

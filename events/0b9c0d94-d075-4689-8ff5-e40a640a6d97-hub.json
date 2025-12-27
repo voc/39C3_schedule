@@ -1,0 +1,30 @@
+{
+  "guid": "0b9c0d94-d075-4689-8ff5-e40a640a6d97",
+  "code": null,
+  "id": 90940,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-hack-your-brain-part-1",
+  "title": "Hack Your Brain Part 1",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wie funktioniert dein Gehirn wirklich \u2013 und wie kannst du es gezielt steuern?\n\nIn diesem Talk erf\u00e4hrst du, wie dein Nervensystem und dein Gehirn aufgebaut sind, wie du Stress wirksam regulierst und wie Schlaf deine mentale Leistungsf\u00e4higkeit, Emotionen und Gesundheit bestimmt.\n\nZus\u00e4tzlich erh\u00e4ltst du konkrete neurobiologisch fundierte Tools zur direkten Anwendung im Alltag.\n\nF\u00fcr alle, die ihr Gehirn nicht dem Zufall \u00fcberlassen wollen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3f386845-997e-422f-be9a-29e02984ee02",
+      "name": "Johannes_Max",
+      "public_name": "Johannes_Max",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/johannes_max"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hack-your-brain-part-1",
+  "links": []
+}

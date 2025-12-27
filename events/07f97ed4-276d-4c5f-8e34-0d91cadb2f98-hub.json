@@ -1,0 +1,30 @@
+{
+  "guid": "07f97ed4-276d-4c5f-8e34-0d91cadb2f98",
+  "code": null,
+  "id": 79742,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "02:00",
+  "room": "SoS Workshop D",
+  "slug": "39c3-3-congress-skatturnier-auf-dem-39c3_9q70",
+  "title": "3. Congress Skatturnier auf dem 39c3 - 2. Serie",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Zweite Serie des 3. Congress Skatturnier auf dem 39C3.\r\n\r\nSecond series of the 3rd Congress Skat Tournament at the 39C3.",
+  "description": "This is the 2nd series of the [3rd Congress Skat Tournament at 39C3](https://0x1b.de/39c3Skat/Skatturnier.html). A non-binding registration for both series can be done at [Nuudel](https://nuudel.digitalcourage.de/xe7sI6LzCfXXXEUm). The first 48 registrants are guaranteed a spot, after which a waiting list will be created. The second series can only be played if the first series has also been played.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a07f9fd5-5f94-4943-a697-cd87d487859c",
+      "name": "segal",
+      "public_name": "segal",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/segal"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/3-congress-skatturnier-auf-dem-39c3_9q70",
+  "links": []
+}

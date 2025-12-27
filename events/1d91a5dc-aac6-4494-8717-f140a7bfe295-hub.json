@@ -1,0 +1,30 @@
+{
+  "guid": "1d91a5dc-aac6-4494-8717-f140a7bfe295",
+  "code": null,
+  "id": 191564,
+  "date": "2025-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:30",
+  "room": "House of Tea",
+  "slug": "39c3-unveiling-spyware-0-days-linked-to-italy",
+  "title": "Unveiling Spyware & 0-Days Linked to Italy",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Across Europe and beyond, governments \u2014 backed by private companies \u2014 are quietly deploying intrusive spyware and exploiting 0-days to monitor journalists, activists, and entire communities. Most of this happens in the dark, without transparency, oversight, or democratic debate. This session is an open call to everyone who refuses this model of surveillance: hackers, activists, journalists, researchers, and anyone working to expose abuse and protect the vulnerable. Together, we\u2019ll share findings, map the ecosystem, connect struggles, and imagine practical tools for collective defense \u2014 including an open-access ebook and a webinar series for journalists and sources on how to stay safe. If you\u2019ve encountered evidence, leaks, pressure, or outreach from companies producing trojans or 0-days \u2014 or if you\u2019re working on related research \u2014 please reach out.\r\n Anonymous conversations are always welcome. Solidarity first. \u270a",
+  "description": "An open discussion on surveillance, tech accountability & resistance:\n\nAcross Europe and beyond, governments \u2014 backed by private companies \u2014 are quietly deploying intrusive spyware and exploiting 0-days to monitor journalists, activists, and entire communities. Most of this happens in the dark, without transparency, oversight, or democratic debate.\n\nThis session is an open call to everyone who refuses this model of surveillance: hackers, activists, journalists, researchers, and anyone working to expose abuse and protect the vulnerable. Together, we\u2019ll share findings, map the ecosystem, connect struggles, and imagine practical tools for collective defense \u2014 including an open-access ebook and a webinar series for journalists and sources on how to stay safe.\n\nWhat we want to explore together:\n\n - Spyware and 0-days currently used in Italy (Paragon)  \u2014 and the routes through which they spread\n - Italian-made surveillance tech exported across Europe and the Global South\n - The surveillance industry\u2019s opacity: vendors, brokers, middlemen, secret deals\n - Digital threats faced by journalists, activists, and communities \u2014 and how to fight back\n - Opportunities for shared investigations, transnational resistance, and long-term alliances\n\nA new year-long investigation will examine how spyware is deployed against journalists and activists in Italy, how it is used in everyday policing, and how tools like Paragon \u2014 as well as Italian-made spyware and 0-days \u2014 may be circulating across borders.\n\nLink to the project:\nhttps://events.ccc.de/congress/2025/hub/en/project/detail/so/unveiling-spyware-0day-used-or-made-in-italy-e0\n\nIf you\u2019ve encountered evidence, leaks, pressure, or outreach from companies producing trojans or 0-days \u2014 or if you\u2019re working on related research \u2014 please reach out. Anonymous conversations are always welcome. Solidarity first. \u270a\n\nContact:\nMatrix: @rositarijtano:matrix.org\nSignal: rositarijtano.87\nEmail: rositarijtano@gmail.com\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f35729b8432a/Screenshot_2025-12-11_at_11.32.38.png",
+  "persons": [
+    {
+      "guid": "0f8f9adc-1bed-4397-afa2-4a6abcdee8be",
+      "name": "rositarijtano",
+      "public_name": "rositarijtano",
+      "avatar": null,
+      "biography": "I'm an investigative journalist and digital rights activist who has been covering digital surveillance for several years, starting a 2026 year-long investigation into Italy\u2019s invasive surveillance practices and their impact on civil liberties.\n\nAfter a short break to focus on tech and organized crime, I\u2019ve just been awarded the Bertha Fellowship \u2014 an international program for investigative journalists and activists \u2014 which will allow me to return to the spyware beat throughout 2026, with reporting for Wired in both Italian and English.\n\nThe fellowship includes a major investigation, of course, but what matters most to me is the development of open-access resources (including an ebook and a webinar series) to help journalists protect themselves and their sources from digital threats.\n\nFor this reason, I would greatly appreciate the opportunity to speak with you, whenever you might have time, to explore a possible collaboration. I\u2019m particularly interested in how spyware has evolved into a digital weapon of mass surveillance \u2014 often in silence, or even with the tacit approval of European institutions.\n\nMatrix: @rositarijtano:matrix.org Signal: rositarijtano.87 Email: rositarijtano@gmail.com\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/rositarijtano"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/unveiling-spyware-0-days-linked-to-italy",
+  "links": []
+}

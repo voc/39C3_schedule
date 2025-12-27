@@ -1,0 +1,32 @@
+{
+  "guid": "c288e40a-14e8-50aa-8d96-74fa3cdae312",
+  "code": "PSUWCW",
+  "id": 2532,
+  "date": "2025-12-30T05:30:00+01:00",
+  "start": "05:30",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-wando-waiato-the-morellion",
+  "title": "Wando Waiato & The Morellion",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "DJ Set",
+  "abstract": "For more than 35 years now, we are constantly digging crates for the most fulfilling music and sounds we barley can imagine. We spent thousands of nights with presenting the new findings to each other. Inexhaustible obsessed.",
+  "description": "For more than 35 years now, we are constantly digging crates for the most fulfilling music and sounds we barley can imagine. We spent thousands of nights with presenting the new findings to each other. Inexhaustible obsessed.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/PSUWCW/IMG_0132_7t1v_UezQeAi.webp",
+  "persons": [
+    {
+      "guid": "24ce0586-41e5-5dcf-b0d8-784c7a0a72c6",
+      "name": "Wandowaiato",
+      "public_name": "Wandowaiato",
+      "avatar": "https://cfp.cccv.de/media/avatars/wANDO_aVATAR_YCWUN6I.jpg",
+      "biography": "I love to hear music. And I love to hear what it sounds like when two tracks start singing together, when they like each other. It's their way of making babies. Immediately after a first kiss between their parents, these children come to life on a cosy dance floor, surrounded by a warm and friendly twilight.\n\nhttps://www.mixcloud.com/wando-waiato/\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_24ce0586-41e5-5dcf-b0d8-784c7a0a72c6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wando-waiato-the-morellion",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/PSUWCW/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/PSUWCW/feedback/"
+}

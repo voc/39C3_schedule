@@ -1,0 +1,31 @@
+{
+  "guid": "28fc102e-a38e-51b2-a48b-530b0d0e49a9",
+  "code": "ZUJZDY",
+  "id": 2286,
+  "date": "2025-12-29T21:05:00+01:00",
+  "start": "21:05",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-race-conditions-transactions-and-free-parking",
+  "title": "Race conditions, transactions and free parking",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "ORM's and/or developers don't understand databases, transactions, or concurrency.",
+  "description": "After the [Air France-KLM dataleak](https://media.ccc.de/v/37c3-lightningtalks-58027-air-france-klm-6-char-short-code) I kept repeating this was not a real hack, and confessed I always wanted to hack a system based on triggering race conditions because the lack of proper transactions.\nThis was way easier than expected. In this talk I will show how just adding `$ seq 0 9 | xargs -I@ -P10 ..` can break some systems, and how to write safe database transactions that prevent abuse.\n\nIn this talk I will explain what race conditions are. Many examples of how and why code will fail. How to properly create a database transaction. The result of abusing this in real life (e.g. free parking).\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "09215f89-d3ba-54b8-96bf-b55cb437e241",
+      "name": "Benjamin W. Broersma",
+      "public_name": "Benjamin W. Broersma",
+      "avatar": "https://cfp.cccv.de/media/avatars/e578e9b6a68ecc195bcfd5762d9f2c36_Xru8hjF.jpg",
+      "biography": "### Hi there \ud83d\udc4b\n\nI'm a hacker, full stack developer, and advisor about [internet standards](https://internet.nl/). I like [code](https://x.com/bwbroersma/status/1092051846678659073) [golf](https://x.com/bwbroersma/status/1660354845235113989).\n\n- \ud83d\udd2d I\u2019m currently working for the [Netherlands Standardisation Forum](https://www.forumstandaardisatie.nl/en/netherlands-standardisation-forum),  which facilitates digital cooperation (interoperability) between government organizations and between government, businesses and citizens\n- \ud83c\udf31 I\u2019m currently learning ZIP, ZLIB (RFC 1950, RFC 1951), ASN.1, ODF and OPC file formats\n- \ud83d\udcac Ask me anything about [EML_NL](https://www.kiesraad.nl/verkiezingen/osv-en-eml/eml-standaard)\u00b9, JQ, bash, xmlstarlet and PL/pgSQL\n- \ud83d\udceb How to reach me, see [my email](https://github.com/bwbroersma/) or \ud83d\udc26 ([**@bwbroersma**](https://twitter.com/bwbroersma))\n- \u26a1 Fun fact: I mail and [tweet](https://twitter.com/BWBroersma/status/1375181703183007746) too many oneliners to colleagues\n\n\u00b9 I used to work for the Electoral Council of the Netherlands ([**@kiesraad**](https://english.kiesraad.nl/about-us)), an electoral management body\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_09215f89-d3ba-54b8-96bf-b55cb437e241"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/race-conditions-transactions-and-free-parking",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ZUJZDY/"
+}

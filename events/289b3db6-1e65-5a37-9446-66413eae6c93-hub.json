@@ -1,0 +1,32 @@
+{
+  "guid": "289b3db6-1e65-5a37-9446-66413eae6c93",
+  "code": "JVKZWC",
+  "id": 2373,
+  "date": "2025-12-30T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-arkifel-nanoloop",
+  "title": "ARKIFEL + nanoloop",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Dance to an internet tanuki playing live upbeat techno on a Gameboy Advance using nanoloop two, a software sequencer cartridge. Everything you hear is coming from one GBA!",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/JVKZWC/2023-06-10_GPN_Kut9s28.jpg",
+  "persons": [
+    {
+      "guid": "e8c305fd-18d9-5425-a8bf-eb9307d75b06",
+      "name": "ARKIFEL",
+      "public_name": "ARKIFEL",
+      "avatar": "https://cfp.cccv.de/media/avatars/88RU9V_cKwnsko.png",
+      "biography": "music tanuki from Amsterdam (they/them)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e8c305fd-18d9-5425-a8bf-eb9307d75b06"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/arkifel-nanoloop",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JVKZWC/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JVKZWC/feedback/"
+}

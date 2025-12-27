@@ -1,0 +1,30 @@
+{
+  "guid": "1e02fcf7-7bbd-4851-a28c-4d29ad67ee31",
+  "code": null,
+  "id": 102774,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "CADUS Skill-Station",
+  "slug": "39c3-nasenmusik-fur-fortgeschrittene-schnufflerinn_jdpe",
+  "title": "Nasenmusik f\u00fcr fortgeschrittene Schn\u00fcffler*innen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Entdecke das wahrscheinlich lustigste Instrument der Welt, die Nasenfl\u00f6te! Nach einer kurzen Einf\u00fchrung \u00fcbt jede*r in eigenem Tempo die ersten T\u00f6ne. Klappt das Tr\u00f6ten, geht\u2019s weiter mit einfachen Melodien \u2013 und schlie\u00dflich spielen wir gemeinsam als Nasenfl\u00f6ten-Orchester beliebte Songs und Wunschmelodien.  Lustig, \u00fcberraschend, musikalisch \u2013 und garantiert einmalig!",
+  "description": "Welcome to what is probably the world's only orchestra where the most important sound-producing instrument is... your nose! Each participant receives a fresh nose flute and easy-to-understand instructions on how to correctly position, breathe, and blow this wondrous instrument.  Then it's time to learn by sniffing! Everyone practices at their own pace how to conjure up individual notes cleanly from their nose\u2014from a delicate peep to a confident TOOT.  Once everyone has got the hang of it (and the first tears of laughter have dried), we venture into simple sequences of notes that already sound suspiciously like music. And if that works well, it gets really epic: We transform ourselves into a nose flute a cappella orchestra, where everyone can suggest melodies \u2013 from children's songs to epic film themes. Together, we make the air vibrate!  In short: A workshop full of fun, tooting noises, unexpected talents \u2013 and real music from the nose.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4975f3c8-6a26-429c-a940-e300127983df",
+      "name": "Anna-Lea",
+      "public_name": "Anna-Lea",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/anna-lea"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nasenmusik-fur-fortgeschrittene-schnufflerinn_jdpe",
+  "links": []
+}

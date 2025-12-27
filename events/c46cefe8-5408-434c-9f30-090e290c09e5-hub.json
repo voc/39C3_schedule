@@ -1,0 +1,38 @@
+{
+  "guid": "c46cefe8-5408-434c-9f30-090e290c09e5",
+  "code": null,
+  "id": 468540,
+  "date": "2025-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "SoS Saal 6",
+  "slug": "39c3-numerical-weather-prediction",
+  "title": "Numerical Weather Prediction",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We show how Numerical Weather Prediction works, and which software and data is needed to run your own NWP system.\nIMPORTANT\n-> to prepare, please clone the repo https://git.hacknology.de/tecer/wrf-docker and follow the instructions to build the docker images wrf and wrfpp and the docker volume. The images are also available on the docker hub registry: \"tcriess/wrf\" and \"tcriess/wrfpp\".\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "45c8adf4-e838-4541-b3dc-50357b579fa9",
+      "name": "Raziel",
+      "public_name": "Raziel",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/raziel"
+    },
+    {
+      "guid": "cdecbad0-fcd8-4849-b666-c979616e20d2",
+      "name": "tecer",
+      "public_name": "tecer",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/tecer"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/numerical-weather-prediction",
+  "links": []
+}

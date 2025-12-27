@@ -1,0 +1,31 @@
+{
+  "guid": "472259a3-7191-54d4-8ed8-3e2365fed7f0",
+  "code": null,
+  "id": 300105,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-whats-next-with-open-hardware-at-fossasia-and-beyo",
+  "title": "What\u2019s Next with Open Hardware at FOSSASIA and Beyond",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "This session looks at where open hardware is heading, starting from recent ground up developments at FOSSASIA and extending to global trends across the open hardware community. With perspectives from FOSSASIA developers and open hardware experts, it explores decentralised collaboration, open silicon and firmware stacks, manufacturing realities, and how openness can be sustained at scale.",
+  "description": "In 2025, teams at FOSSASIA initiated several open hardware projects developed entirely from the ground up, including a new ARM based Pocket Science Lab, an updated LED Badge platform, and an NFC powered ePaper badge enabling energy independent content transfer. However, this session goes beyond a project update. It situates these developments within a wider global movement of open hardware initiatives across Asia, Europe, and other regions. Drawing on experiences from FOSSASIA as well as broader perspectives from the international open hardware community, the talk examines where open hardware is heading as a decentralised, collaborative practice. With input from international experts and community contributors, the session will explore trends emerging, including evolving manufacturing models, open silicon and firmware stacks, supply chain resilience, and the realities of sustaining openness at scale.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ae9e197d-8d4e-5e10-8b53-ff8f0779d47d",
+      "name": "Mario Behling",
+      "public_name": "Mario Behling",
+      "avatar": "https://pretalx.riat.at/media/avatars/mariobehling_zmPo0ko.jpeg",
+      "biography": "Mario Behling is a technologist and entrepreneur with over two decades of experience in open source development and digital innovation. He is the co-founder of FOSSASIA, the open source community in Asia, which plays a key role in advancing the FOSS movement across the region. Mario has launched numerous open source initiatives and companies spanning software and hardware, and continues to promote open technologies through education, community building, and enterprise solutions. He is the CEO of OpnTec, a German open source company focused on sustainable tech, and advises international organizations including the UNESCO on digital transformation strategies. He also served as a board member of the Open Source Business Alliance Germany, supporting open source adoption across public and private sectors.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ae9e197d-8d4e-5e10-8b53-ff8f0779d47d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/whats-next-with-open-hardware-at-fossasia-and-beyo",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/ZPV3UT/"
+}

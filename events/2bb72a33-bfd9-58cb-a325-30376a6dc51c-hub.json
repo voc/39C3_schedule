@@ -1,0 +1,40 @@
+{
+  "guid": "2bb72a33-bfd9-58cb-a325-30376a6dc51c",
+  "code": "DE89ZU",
+  "id": 83813,
+  "date": "2025-12-29T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-omnibus-halbgarer-machenschaften-ohm-23",
+  "title": "Omnibus Halbgarer Machenschaften (OHM #23)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "erdgeist & monoxyd denken laut. Aufgrund des gro\u00dfen Erfolgs soll das jetzt auch beim Congress versucht werden. Themen? Ja! Wahrscheinlich irgendwas mit so... Dingen, die gerade passiert sind und zu denen mal was gesagt werden muss. Besser wir als Lanz & Precht!\r\n\r\nEs gibt au\u00dferdem einen besonderen Anlass: 23! (Wo kommt das eigentlich her?)",
+  "description": "",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/DE89ZU/ohm_NYXeNWS.png",
+  "persons": [
+    {
+      "guid": "c63cad0c-ae75-5e7b-a5ef-b3726ab36e0e",
+      "name": "monoxyd",
+      "public_name": "monoxyd",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/lampe_RasXLdE.jpg",
+      "biography": "monoxyd spricht in Mikrofone. Zum Beispiel bei chaosradio.de, rechtsbelehrung.com, derweisheit.de oder indiefresse.org.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c63cad0c-ae75-5e7b-a5ef-b3726ab36e0e"
+    },
+    {
+      "guid": "3a11dd87-144c-5f59-9f48-692118b38e77",
+      "name": "erdgeist",
+      "public_name": "erdgeist",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/0A4F5408-3A30-4BA7-A934-96BC73089F90_1_201_a_aDA1nAF.jpeg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3a11dd87-144c-5f59-9f48-692118b38e77"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/omnibus-halbgarer-machenschaften-ohm-23",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/DE89ZU/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/DE89ZU/feedback/"
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "9f08f3cb-7b16-54ee-bba1-a4c967c8e799",
+  "code": null,
+  "id": 100457,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-self-restricting-software-workshop_7l3e",
+  "title": "Self-Restricting Software Workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Computer programs run with all privileges of the running user. If your user can read your emails, then so can any other program you run. However, many programs do not need most permissions and perhaps should not have them at all.\r\n\r\nThis workshop demonstrates quite simple ways in which software can self-restrict itself. The focus will not be on foreign, potentially malicious software, but on hardening programs against misconduct and future security vulnerabilities.\r\n\r\nSeveral operating systems have developed different interfaces that restrict software beyond its normal scope. This workshop will focus on POSIX and especially OpenBSD because of its user-friendly APIs. Although other operating systems, such as Linux, will be discussed, they will not be covered in depth due to their more complicated APIs.\r\n\r\nWithin the workshop part, software with known security vulnerabilities is then patched together - usually with almost a single line. Ideally, an exploit has hardly any effect afterwards, although the vulnerability is still present. This is not intended to encourage carelessness, but rather to demonstrate the development of a further safety net for software.\r\n\r\nA basic understanding of programming is required and, more importantly, an interest in the topic. You will need to bring an SSH client, for example a laptop with (almost) any operating system.\r\n\r\nThe language will be either English or German, depending on who shows up.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "587d941b-4661-52d8-94a3-5568dd7244a4",
+      "name": "oxzi",
+      "public_name": "oxzi",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/oxzi_SoT4aBd.jpg",
+      "biography": "I am part of the FSFE's system hackers team in my free time, next to toying with software in general. At $dayjob, I am developing free software.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_587d941b-4661-52d8-94a3-5568dd7244a4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/self-restricting-software-workshop_7l3e",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/FEJDL3/"
+}

@@ -1,0 +1,40 @@
+{
+  "guid": "9cecf9cb-503c-52f8-b184-83cc051eda7d",
+  "code": "GQS8WK",
+  "id": 995035,
+  "date": "2025-12-27T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-wahlt-diesen-workshop-ein-interaktiver-streifzug-d",
+  "title": "W\u00e4hlt diesen Workshop! Ein interaktiver Streifzug durch verschiedene Wahlverfahren [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Wie w\u00e4hlt man zwischen mehreren Optionen? Und zwar so, dass danach m\u00f6glichst viele Leute zufrieden mit dem Ergebnis sind?\r\nEs gibt mehr M\u00f6glichkeiten als nur \"die Option mit den meisten Stimmen gewinnt\". Wir m\u00f6chten m\u00f6glichst viele davon mit euch ausprobieren!",
+  "description": "Welche Wahlsysteme gibt es \u00fcberhaupt so, und wo werden sie \u00fcblicherweise eingesetzt? Welche Vor- und Nachteile haben sie, und gibt es \"ein bestes\"?\n\nWir werden verschiedene Wahlsysteme ausprobieren und diskutieren, wie sehr sie uns zufrieden stellen und f\u00fcr welche Einsatzgebiete sie geeignet sind. Dazu gibt es Fun Facts und mathematische Hintergr\u00fcnde.\n\nUnd was bedeutet das alles f\u00fcr euch in der Praxis, wenn ihr zum Beispiel in eurem Hackspace einen Vorstand w\u00e4hlen wollt?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "644a1532-e1c2-5dce-86d6-0dfe661ca0d2",
+      "name": "blinry",
+      "public_name": "blinry",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/ffa33c1937681fb19c1a8dbd35ff0302_3H24K8X.jpg",
+      "biography": "blinry grew up in libraries, which convinced them that it\u2019s possible to learn and understand basically everything! Their other childhood influences include a scientific German TV show with an orange cartoon mouse. Nowadays, they spend most of their time creating collaborative and educational open-source tools, or taking trains to random places. They are part of the Chaos Community, the Recurse Center, and Jugend Hackt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_644a1532-e1c2-5dce-86d6-0dfe661ca0d2"
+    },
+    {
+      "guid": "56e87892-777a-5d8a-a60b-23273b7c054d",
+      "name": "Piko",
+      "public_name": "Piko",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/UZD9M3_2E36jTe.jpg",
+      "biography": "Piko macht Musik, Code und Quatsch. Es bringt machmal Leuten Singen und Programmieren bei, sofern die das wollen. In seiner Promotion besch\u00e4ftigt es sich mit selbstgekl\u00f6ppelter KI als performendes Gegen\u00fcber, m\u00f6chte aber ansonsten auch alles andere lernen. Piko macht leidenschaftlich gern Dinge auf interessante Art und Weise kaputt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_56e87892-777a-5d8a-a60b-23273b7c054d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wahlt-diesen-workshop-ein-interaktiver-streifzug-d",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GQS8WK/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GQS8WK/feedback/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "d4707753-08fb-47ba-9477-04711d154e7b",
+  "code": null,
+  "id": 470775,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-teamtype-multiplayer-mode-for-your-text-editor",
+  "title": "Teamtype \u2013 multiplayer mode for your text editor!",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We've been working on Teamtype (previously known as Ethersync) for two years now: It connects directories on different computers together, and keeps them in sync. And if you open a file in your text editor, you can edit it together, and see each other's cursors.\n\nThis enables a new form of smooth real-time collaboration. You can use it for pair programming or note-taking, for example, all from the comfort of your own editor! It feels a bit like the missing real-time complement to Git.\n\nTeamtype follows local-first principles, and uses encrypted peer-to-peer connections (you don't need a server or an account). You can also work on entire projects, not just single files.\n\nAt 39C3, it's time for a live demo! Let me show you how Teamtype works and what you can do with it! We're maintaining plugins for Neovim and VS Code/Codium; others are working on plugins for Jetbrains IDEs, have integrated it into TeXstudio, or are building a web editor for it! I can also show you some more experimental features like a Hedgedoc bridge, or writing commit messages together.\n\nWe'd be excited for more collaboration on collaboration, so let me show you how to get involved!\n\nIn the final part of this session, you can install & try Teamtype for yourself in a frantic massively-multiplayer editing experiment! :D\n\n- Source code: <https://github.com/teamtype/teamtype>\n- Documentation: <https://teamtype.github.io/teamtype/>\n- Mastodon: <https://fosstodon.org/@teamtype>\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "be66ecaf-43fe-4862-9906-8a7081bd1b59",
+      "name": "blinry",
+      "public_name": "blinry",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/blinry"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/teamtype-multiplayer-mode-for-your-text-editor",
+  "links": []
+}

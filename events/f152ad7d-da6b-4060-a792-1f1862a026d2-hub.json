@@ -1,0 +1,30 @@
+{
+  "guid": "f152ad7d-da6b-4060-a792-1f1862a026d2",
+  "code": null,
+  "id": 152764,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-lote-deinen-eigenen-euclidean-sequencer_lzen",
+  "title": "L\u00f6te deinen eigenen Euclidean Sequencer",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The Euclidean Sequencer is a hardware gadget developed by students from Cologne. It uses the Euclidean algorithm to find the greatest common divisor of two numbers, thereby creating a sequence. The sequence can be modified using two potentiometers and can be connected to another sequencer or external devices, such as speakers.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "47e2ca9e-9fa0-4bc7-90e7-156a3c7339a2",
+      "name": "carinalntz",
+      "public_name": "carinalntz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/carinalntz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lote-deinen-eigenen-euclidean-sequencer_lzen",
+  "links": []
+}

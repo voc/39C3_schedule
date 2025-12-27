@@ -1,0 +1,32 @@
+{
+  "guid": "ad5df397-cd49-50cb-a8d6-18862f01c507",
+  "code": "QH8BTD",
+  "id": 500086,
+  "date": "2025-12-28T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:00",
+  "room": "Wohnzimmerb\u00fchne",
+  "slug": "39c3-unplugtrump-deine-daten-deine-entscheidung",
+  "title": "#unplugTrump \u2013 Deine Daten, deine Entscheidung",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Was haben WhatsApp, TikTok, YouTube und Instagram gemeinsam? Sie geh\u00f6ren zu riesigen Tech-Konzernen, die damit Geld verdienen, m\u00f6glichst viel \u00fcber dich zu wissen \u2013 was du magst, mit wem du chattest, wann du online bist und sogar, wo du dich aufh\u00e4ltst. Gerade jetzt, wo Plattformen sich immer st\u00e4rker politischer Macht und wirtschaftlichen Interessen beugen \u2013 zum Beispiel in den USA \u2013 wird klar: Die Kontrolle \u00fcber deine Daten liegt nicht bei dir, sondern bei ihnen.\r\n\r\nZeit, das zu \u00e4ndern!\r\n\r\nF\u00fcr Jugendliche zwischen 12 und 18 Jahren",
+  "description": "In unserem Workshop [#unplugTrump](https://events.ccc.de/congress/2025/hub/tag/unplugTrump) schauen wir uns genau an, wie diese Plattformen funktionieren  Was ist ihr Gesch\u00e4ftsmodell? Warum sind sie \u201ekostenlos\u201c? Und was passiert mit den Daten, die du teilst?\n\nStatt nur zu kritisieren, zeigen wir dir Alternativen: freie Messenger, unabh\u00e4ngige Suchmaschinen, dezentrale soziale Netzwerke und andere Tools, mit denen du selbst entscheidest, was du teilst \u2013 und mit wem. \ud83d\udd0e\ud83c\udf0d\n\nDu recherchierst selbst in kleinen Gruppen, testest Alternativen und findest heraus, was f\u00fcr dich funktioniert. Begleitet wirst du dabei von engagierten Mentor:innen, die dir Impulse geben, Fragen beantworten und dich beim Ausprobieren unterst\u00fctzen. Am Ende pr\u00e4sentierst du deine Ergebnisse: Welche Tools kanntest du noch nicht? Welche k\u00f6nntest du dir vorstellen zu nutzen? Welche Plattformen verdienen dein Vertrauen?\n\nOb du bereits erste Erfahrungen mit diesen Themen hast oder dich zum ersten Mal damit besch\u00e4ftigst: Du bist herzlich willkommen! Und gemeinsam machen wir den ersten Schritt in Richtung digitale Selbstbestimmung.\n",
+  "logo": "https://pretalx.chaos.jetzt/media/jugend/submissions/QH8BTD/digitale_Selbstbestimmung_workshop-560x_2CX0aut.png",
+  "persons": [
+    {
+      "guid": "3c99d053-d7cf-57e2-9c11-244372e4f1c4",
+      "name": "Gerd Kant",
+      "public_name": "Gerd Kant",
+      "avatar": null,
+      "biography": "Softwareentwickler mit Leidenschaft f\u00fcr Netzpolitik, Informationsfreiheit und Jugendarbeit. Als Lab Lead im Jugend hackt Lab Schwerin und Vorstandsmitglied des Hacklabors engagiere ich mich f\u00fcr Open Source, Open Data, Jugendbildung sowie die Vermittlung von Medienkompetenz und lebe dabei die Werte der Hacker*innenethik sowie Diversit\u00e4t, Offenheit, Teilhabe und kreative Zusammenarbeit. Es ist mir wichtig, Menschen einen Zugang zu dieser spannenden Welt zu erm\u00f6glichen, die ihn sonst vielleicht nicht h\u00e4tten.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3c99d053-d7cf-57e2-9c11-244372e4f1c4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/unplugtrump-deine-daten-deine-entscheidung",
+  "links": [],
+  "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/QH8BTD/",
+  "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/QH8BTD/feedback/"
+}

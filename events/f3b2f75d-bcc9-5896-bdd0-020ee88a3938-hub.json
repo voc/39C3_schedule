@@ -1,0 +1,31 @@
+{
+  "guid": "f3b2f75d-bcc9-5896-bdd0-020ee88a3938",
+  "code": null,
+  "id": 300131,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "02:00",
+  "room": "CDC Circle",
+  "slug": "39c3-making-own-z-wave-or-zigbee-device-from-scratch-an",
+  "title": "Making own Z-Wave (or Zigbee) device from scratch and assemble a Z-Wave (or Zigbee/Matter) controller",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "We will program a Z-Wave or a Zigbee device and add it into a Z-Way smart home controller installed on Linux or flashed into an ESP32.",
+  "description": "We will be making own Z-Wave and Z-Wave Long Range devices Z-Wave Open Source SDK an Trident IoT SDK. It will also be possible to do Zigbee devices.\n\nWe will program a sensor and a switch using Z-Wave protocol and include it in a Z-Wave network. Or Zigbee.\n\nWe will also browse the Z-Wave Open Source project, and how existing Trident IoT and SiLabs code differ from them.\n\nWe will also install Linux version of Z-Way - Z-Wave/Zigbee/Matter Smart Home Controller. You will learn basics of Z-Wave and Z-Wave Long Range, how to include devices and set up security schemes.\n\nWe will also master using Z-Way smart home controller, investigate it's API and create own Linux or ESP32-based Z-Wave or Zigbee controller. We will also discuss Z-Wave/Zigbee-to-Matter bridging.\n\nYou will need a laptop (Linux, Mac or Windows) with SSH client, USB A, Google Chrome and internet access. Optionally you can use VS Code (install Trident IoT extension).\n\nBring your Z-Wave devices with you! If you have Home Assistant Connect ZWA-2, take it too!\n\nBring your Z-Wave devices with you! If you have Home Assistant Connect ZWA-2, take it too!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6d1aec0d-88ff-562e-8c62-d001b58f9e40",
+      "name": "PoltoS",
+      "public_name": "PoltoS",
+      "avatar": null,
+      "biography": "Developing Z-Wave and other IoT controllers and devices for 17 years, I'm an active member of the Z-Wave Alliance open standard organization and chief of controller solutions at Trident IoT.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6d1aec0d-88ff-562e-8c62-d001b58f9e40"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/making-own-z-wave-or-zigbee-device-from-scratch-an",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/8VNVWK/"
+}

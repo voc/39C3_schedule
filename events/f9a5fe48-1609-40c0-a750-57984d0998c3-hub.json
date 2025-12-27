@@ -1,0 +1,30 @@
+{
+  "guid": "f9a5fe48-1609-40c0-a750-57984d0998c3",
+  "code": null,
+  "id": 954816,
+  "date": "2025-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-shitty-robot-battle",
+  "title": "Shitty Robot Battle",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Shitty Robot Battle!\n\nPlease register at 39c3@shitty-robots.com!\n\nThere ist also a Workshop ( https://events.ccc.de/congress/2025/hub/en/event/detail/shitty-robot-workshop ) but robots that were not build in the workshop are also welcome!\n\nWe also needs volunteers as judges for the battle!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d5128de4-1832-49a7-a0f1-975d90981f7c",
+      "name": "Neo",
+      "public_name": "Neo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/neo"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/shitty-robot-battle",
+  "links": []
+}

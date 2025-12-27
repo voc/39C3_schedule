@@ -1,0 +1,52 @@
+{
+  "guid": "077fbf39-e49b-5f13-8a6f-c5c71bcb309c",
+  "code": "YCMWLV",
+  "id": 1508,
+  "date": "2025-12-27T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-demystifying-fuzzer-behaviour",
+  "title": "Demystifying Fuzzer Behaviour",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "Despite how it's often portrayed in blogs, scientific articles, or corporate test planning, fuzz testing isn't a magic bug printer; just saying \"we fuzz our code\" says nothing about how _effectively_ it was tested. Yet, how fuzzers and programs interact is deeply mythologised and poorly misunderstood, even by seasoned professionals. This talk analyses a number of recent works and case studies that reveal the relationship between fuzzers, their inputs, and programs to explain _how_ fuzzers work.",
+  "description": "Fuzz testing (or, \"fuzzing\") is a testing technique that passes randomly-generated inputs to a subject under test (SUT). This term was first coined in 1988 by Miller to describe sending random byte sequences to Unix utilities (1), but was arguably preceded in 1971 by Breuer for fault detection in sequential circuits (2) and in 1972 by Purdom for parser testing by generating sentences from grammars (3). Curiously, they all exhibit different approaches for generating inputs based on knowledge about the SUT, though none of them use feedback from the SUT to make decisions about new inputs.\n\nFuzzing wasn't yet popular, but industry was catching on. Between the late 90s and 2013, we see a number of strategies appear in industry (4). Some had success with constraint solvers, where they would observe runtime behavior or have knowledge about a target's structure to produce higher quality inputs. Others operated in a different way, by taking an existing input and tweaking it slightly (\"mutating\") to address the low-likelihood of random generation to produce structured inputs. None was as successful, or as popular, as American Fuzzy Lop, or \"AFL\", released in 2013. This combined coverage observations for inputs (Ormandy, 2007) with concepts from evolutionary novelty search (5) into a tool which could, from very few initial inputs, _evolve_ over multiple mutations to find new, untested code.\n\nDespite its power, this advancement made it far more difficult to understand how fuzzers even worked. Now all you had to do was point this tool at a program and it would start testing, and the coverage would go up; users were now only responsible for writing \"harnesses\", code which processed fuzzer-produced inputs and sent them to the SUT. Though there have been a few real advances to fuzzing since (or, at least, strategies which combined previous methods more effectively), fuzzing research has mostly deadended, with new methods squeezing only minor improvements out of older ones. This, and inadequate harness writing, comes from this opaqueness in how fuzzers internally operate: without understanding what these tools do from first principles, there's no clear \"right\" and \"wrong\" way to do things because there is no mental model to test them against.\n\nThis talk doesn't talk about new bugs, new fuzzers, or new harness generation tools. The purpose of this talk is to uncover mechanisms of fuzzer input production in the context of different classes of SUT and harnesses thereon, highlighting recent papers which have clarified our understanding of how fuzzers and SUTs interact. By the end, you will have a better understanding of _why_ modern fuzzers work, _what_ their limitations are, and _how_ you can write better fuzzers and harnesses yourself.\n\n(1): https://pages.cs.wisc.edu/~bart/fuzz/CS736-Projects-f1988.pdf\n(2): https://ieeexplore.ieee.org/document/1671733\n(3): https://link.springer.com/article/10.1007/BF01932308\n(4): https://afl-1.readthedocs.io/en/latest/about_afl.html\n(5): https://www.academia.edu/download/25396037/0262287196chap43.pdf\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c31dbc3a-ac58-5b60-bc1a-8384d7cdbb31",
+      "name": "Addison",
+      "public_name": "Addison",
+      "avatar": "https://cfp.cccv.de/media/avatars/QKRJXA_BbB5tCV.png",
+      "biography": "Hi! I do systems security research at CISPA under Thorsten Holz, where my main focus is... well, I'm not really sure, but it's something to do with making testing better by using the tools we have available better. I care deeply about repeatability, reliability, and usability of scientific findings, especially in software testing where we have effectively no excuse to not distribute and share the tools we make for research.\n\nBeyond my academic works, I operate [a blog](https://addisoncrump.info) where I post short explorations of testing topics (especially fuzzing), I am a maintainer of [LibAFL](https://github.com/AFLplusplus/LibAFL) (and the author of [libafl_libfuzzer](https://github.com/AFLplusplus/LibAFL/tree/main/crates/libafl_libfuzzer)), and I sometimes write blogs on [secret.club](https://secret.club). I'm also a bit of a foodie, so if you see me at the conference and know of any great places to eat during the winter break: let me know!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c31dbc3a-ac58-5b60-bc1a-8384d7cdbb31"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/demystifying-fuzzer-behaviour",
+  "links": [
+    {
+      "url": "https://codeberg.org/addisoncrump/39c3-clients",
+      "type": "related",
+      "title": "Source Code (wasm)"
+    },
+    {
+      "url": "https://codeberg.org/addisoncrump/pages-source",
+      "type": "related",
+      "title": "Source Code (web)"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/15lsrpwDTH2kdZFNVKPrACytP96uz3qK6lES8F3EU5Ro/edit?usp=sharing",
+      "type": "related",
+      "title": "Slides"
+    },
+    {
+      "url": "https://github.com/addisoncrump/sokoban-fuzz",
+      "type": "related",
+      "title": "Sokoban Fuzzer"
+    }
+  ],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YCMWLV/"
+}

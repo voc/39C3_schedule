@@ -1,0 +1,32 @@
+{
+  "guid": "541adc49-b284-5b53-be9a-e639e9d4fac0",
+  "code": "YEUACK",
+  "id": 1984,
+  "date": "2025-12-28T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-gaylienz",
+  "title": "GAYLIENZ",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Gaylienz is the new project of 3 gayliens coming from various universes. They got united to bring us an audio-visual glitch rave experience where we surf with an alien cats thru chaos and love cosmos. The audience is invited to participate too and of course to dance. Expect acid basslines, circuit bent, gayboy noise, beat constructions and analog glitch and videogame visuals - by Yelo555, Oliotronix and Maria Mam. \r\nhttps://www.instagram.com/gali3nz/\r\nhttps://www.instagram.com/yelough.strobez/",
+  "description": "3 pilots controlling the spaceship of various audio-visual machines.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/YEUACK/gaYlienz010100_SWPgAZi.png",
+  "persons": [
+    {
+      "guid": "d8d4ed86-fe82-5121-8713-53d9839e1942",
+      "name": "Oliotronix",
+      "public_name": "Oliotronix",
+      "avatar": "https://cfp.cccv.de/media/avatars/J77VQP_vvlNFEA.jpg",
+      "biography": "Joyful noiz and 8bit moshpit since 200? Launched in E-stonia\u2026BASSed in Lpzg <3\n\ud83c\udfb6\u3030\ufe0f\ud83d\udc9e\u262f\ufe0f\ud83c\udfde\ud83c\udf0c\nWhen life gives you junk, make music with it\nhttps://gleeetch.hotglue.me/\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d8d4ed86-fe82-5121-8713-53d9839e1942"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gaylienz",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/YEUACK/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/YEUACK/feedback/"
+}

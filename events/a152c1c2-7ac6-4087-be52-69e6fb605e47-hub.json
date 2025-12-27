@@ -1,0 +1,30 @@
+{
+  "guid": "a152c1c2-7ac6-4087-be52-69e6fb605e47",
+  "code": null,
+  "id": 152127,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:00",
+  "room": "House of Tea",
+  "slug": "39c3-trickmisch",
+  "title": "Trickmisch",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Drawing, Storyboard for animation \r\nhttps://trixmix.tv",
+  "description": "we will draw grafics an animate them with our \nweb plattform https://trixmix.tv\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "567954a5-023d-4777-9eaf-dc7d26f3afee",
+      "name": "Julis",
+      "public_name": "Julis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/julis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trickmisch",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "2c85274f-f5f4-4353-aa66-b2cbf99071a3",
+  "code": null,
+  "id": 285274,
+  "date": "2025-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-how",
+  "title": "How to thrive in chaos, Part II",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Based on last year's session \"How to thrive in Chaos\", Part II will be about the topics, data and open questions we did not discuss last time. (https://events.ccc.de/congress/2024/hub/de/event/how-to-thrive-in-chaos-discussion-round-about-chal/)\n\n\n**Last year's announcement text:**\n\nADHD is becoming increasingly visible in society and research, with many individuals receiving late diagnoses, especially women with ADHD. While there has been progress at universities, including the formation of student groups for neurodiverse individuals, there remains a lack of visibility for neurodiverse researchers. This discussion round aims to provide a safe space for everyone - whether they have an ADHD diagnosis or not - to discuss the challenges and benefits of working as a neurodiverse researcher. You are welcome to share your experiences and strategies to manage the chaos, but no one will be forced to.\n\nModeration: Sarah, who received her ADHD diagnosis in 2023, works as a data scientist since May 2024. She will share her experiences and strategies as a woman in science with ADHD, in order to increase the awareness and provide (hopefully) helpful insights.\n\nTarget audience:\n- Neurodiverse individuals (with or without a diagnosis)\n- Researchers collaborating with neurodiverse colleagues\n- Anyone interested in learning about the needs and challenges of individuals diagnosed with ADHD\n\nOther neurodiverse individuals are also warmly invited to join the discussion and share their knowledge. However, due to Sarah's own diagnosis, she will primarily address ADHD related topics, as she can only talk about her own experiences\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0b7e9a23-380a-41c9-a2b8-d07f7681fa51",
+      "name": "sarah31415",
+      "public_name": "sarah31415",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/sarah31415"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how",
+  "links": []
+}

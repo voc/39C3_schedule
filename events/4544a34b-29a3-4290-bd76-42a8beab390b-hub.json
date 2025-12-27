@@ -1,0 +1,30 @@
+{
+  "guid": "4544a34b-29a3-4290-bd76-42a8beab390b",
+  "code": null,
+  "id": 454434,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-social-work-get-together",
+  "title": "social work get together",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "where are the social workers within the chaos? get together :)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1549e96a-4bfe-4dea-be11-953dda0216c3",
+      "name": "spark (keine)",
+      "public_name": "spark (keine)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/spark"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/social-work-get-together",
+  "links": []
+}

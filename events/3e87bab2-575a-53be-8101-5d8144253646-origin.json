@@ -1,0 +1,45 @@
+{
+  "guid": "3e87bab2-575a-53be-8101-5d8144253646",
+  "code": "X3KPZN",
+  "id": 2230,
+  "logo": null,
+  "date": "2025-12-29T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-2230-ai-agent-ai-spy",
+  "url": "https://cfp.cccv.de/39c3/talk/X3KPZN/",
+  "title": "AI Agent, AI Spy",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Agentic AI is the catch-all term for AI-enabled systems that propose to complete more or less complex tasks on their own, without stopping to ask permission or consent. What could go wrong? These systems are being integrated directly into operating systems and applications, like web browsers. This move represents a fundamental paradigm shift, transforming them from relatively neutral resource managers into an active, goal-oriented infrastructure ultimately controlled by the companies that develop these systems, not by users or application developers. Systems like Microsoft's \"Recall,\" which create a comprehensive \"photographic memory\" of all user activity, are marketed as productivity enhancers, but they function as OS-level surveillance and create significant privacy vulnerabilities. In the case of Recall, we\u2019re talking about a centralized, high-value target for attackers that poses an existential threat to the privacy guarantees of meticulously engineered applications like Signal. This shift also fundamentally undermines personal agency, replacing individual choice and discovery with automated, opaque recommendations that can obscure commercial interests and erode individual autonomy.\r\n\r\nThis talk will review the immediate and serious danger that the rush to shove agents into our devices and digital lives poses to our fundamental right to privacy and our capacity for genuine personal agency. Drawing from Signal's analysis, it moves beyond outlining the problem to also present a \"tourniquet\" solution: looking at what we need to do *now* to ensure that privacy at the application layer isn\u2019t eliminated, and what the hacker community can do to help. We will outline a path for ensuring developer agency, granular user control, radical transparency, and the role of adversarial research.",
+  "description": "The talk will provide a critical technical and political economy analysis of the new privacy crisis emerging from OS and application level AI agents, aimed at the 39C3 \"Ethics, Society & Politics\" audience.\r\n\r\n1. Defining the Threat: The OS as a Proactive Participant (5 mins)\r\nWe will begin by defining \"Agentic AI\" in two contexts - imbibed into the operating system and deployed via critical gateway applications such as web browsers. Traditionally, the operating systems and browsers are largely neutral enforcers of user agency, managing resources and providing APIs for applications to run reliably. We will argue that this neutrality is close to being eliminated. The new paradigm shifts these applications into a proactive agent that actively observes, records, and anticipates user actions across all applications.The prime example for this analysis will be Microsoft\u2019s \"Recall\" feature, Google\u2019s Magic Cue, and OpenAI\u2019s Atlas. Politically, we will frame this not as a \"feature\" but as the implementation of pervasive, non-consensual surveillance and remote-control infrastructure. This \"photographic memory\" of and demand for non-differentiated access to everything from private Signal messages to financial data to health data creates a catastrophic single point of failure, making a single security breach an existential threat to a user's entire digital life. Ultimately, we hope to illustrate how putting our brains in a jar (with agentic systems) is effectively a prompt injection attack against our own humanity.\r\n\r\n2. The Existential Threat to Application-Level Privacy (10 mins)\r\nThe core of the talk will focus on what this means for privacy-first applications like Signal. We will explain the \"blood-brain barrier\" analogy: secure apps are meticulously engineered to minimize data and protect communications, relying on the OS to be a stable, neutral foundation on which to build. This new OS trend breaks that barrier. We will demonstrate how OS-level surveillance renders application-level privacy features, including end-to-end encryption, effectively useless. If the OS can screenshot a message before it's encrypted or after it's decrypted, the promise of privacy is broken, regardless of the app's design. We will also discuss the unsustainable \"clever hacks\" (like Signal using a DRM feature) that developers are forced to implement, underscoring the need for a structural solution.\r\n\r\n3. An Actionable Framework for Remediation (20 mins)\r\nThe final, and most important, part of the talk will move from critique to action. We will present an actionable four-point framework as a \"tourniquet\" to address these immediate dangers:\r\n\r\na. Empower Developers: Demand clear, officially supported APIs for developers to designate individual applications as \"sensitive\" with the default posture being for such applications being opted-out of access by agentic systems (either OS or application based) (default opt-out)\r\n\r\nb. Granular User Control: Move beyond all-or-nothing permissions. Users must have explicit, fine-grained control to grant or deny AI access on an app-by-app basis.\r\n\r\nc. Mandate Radical Transparency: OS vendors and application developers must clearly disclose what data is accessed, how it's used, and how it's protected\u2014in human-readable terms, not buried in legalese. Laws and regulations must play an essential role but we cannot just wait for them to be enforced, or it will be too late. \r\n\r\nd. Encourage and Protect Adversarial Research: We will conclude by reinforcing the need for a pro-privacy, pro-security architecture by default, looking at the legal frameworks that govern these processes and why they need to be enforced, and finally asking the attendees to continue exposing vulnerabilities in such systems. It was only due to technically-grounded collective outrage that Recall was re-architected by Microsoft and we will need that energy if we are to win this war.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "T9V3LV",
+      "name": "Udbhav Tiwari",
+      "avatar": "https://cfp.cccv.de/media/avatars/T9V3LV_5r6Hbfr.jpeg",
+      "biography": "Meredith Whittaker \r\n\r\nUdbhav Tiwari is the VP for Strategy and Global Affairs at Signal. Udbhav\u2019s experience in the technology sector spans both global and regional contexts, where he was formerly the Director for Global Product Policy at Mozilla, with prior roles at Google and the Centre for Internet and Society in India. He has testified before the U.S Senate Committee on Commerce, Science and Transportation and been quoted as an expert by CNN, The Guardian, Wired, Financial Times, BBC, and Reuters. Udbhav was previously affiliated with the Carnegie Endowment for Peace and was named to India Today\u2019s \u201cIndia Tomorrow\u201d list in 2020.",
+      "public_name": "Udbhav Tiwari",
+      "guid": "2b457928-ce5f-5d27-9d06-cdb03ba90c6f",
+      "url": "https://cfp.cccv.de/39c3/speaker/T9V3LV/"
+    },
+    {
+      "code": "FVHASV",
+      "name": "Meredith Whittaker",
+      "avatar": "https://cfp.cccv.de/media/avatars/Florian_Hetz_DSC4833_copy_zMVmILN.jpg",
+      "biography": null,
+      "public_name": "Meredith Whittaker",
+      "guid": "6f1d21a5-0c9e-5200-bb73-a3b8039fa98a",
+      "url": "https://cfp.cccv.de/39c3/speaker/FVHASV/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/X3KPZN/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/X3KPZN/",
+  "attachments": []
+}

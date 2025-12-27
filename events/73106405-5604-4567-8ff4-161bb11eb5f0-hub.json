@@ -1,0 +1,30 @@
+{
+  "guid": "73106405-5604-4567-8ff4-161bb11eb5f0",
+  "code": null,
+  "id": 731064,
+  "date": "2025-12-30T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:55",
+  "room": "SoS Saal 6",
+  "slug": "39c3-how-to-keep-open-source-open-without-leaving-our-c",
+  "title": "Securing Open Source Communities WG (How to keep Open Source open)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "This workshop is to establish a longer term working group that will threat model and abusability test (different from abuse test) common open source governance and community frameworks. The primary focus of this session is for Phase 1 preparation: communications norms around this project.",
+  "description": "Recent years have seen an increase in stress and pressure resulting from both actor and non-actor harms due to the pivot in how we manage our OSS communities in digital spaces. To better equip the broader OSS community with how to document, detect, and handle these issues we need to threat model and abusability test common governance and community frameworks and publish relevant guidance.\n\nIn this session, we are starting with Phase 1: building communication norms. This is because the work that follows carries inherent risk as we identify, research, and model these frameworks. We'll also publish our recommended communications practices regarding sensitive information in open source.\n\nGithub: [https://github.com/nivenly/securing-open-source-communities-wg/](https://github.com/nivenly/securing-open-source-communities-wg/)\n\nPresentation @ 11:00 Day 4: [https://events.ccc.de/congress/2025/hub/event/detail/how-to-keep-open-source-open-without-leaving-our-communities-open-to-threats](https://events.ccc.de/congress/2025/hub/event/detail/how-to-keep-open-source-open-without-leaving-our-communities-open-to-threats)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "516266e7-2f53-4ea6-a63d-b26f780294a8",
+      "name": "quintessence (she/her)",
+      "public_name": "quintessence (she/her)",
+      "avatar": null,
+      "biography": "Quintessence is the Executive Director of the Nivenly Foundation as well as the Head Moderator of the Hachyderm Mastodon instance.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/quintessence"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-keep-open-source-open-without-leaving-our-c",
+  "links": []
+}

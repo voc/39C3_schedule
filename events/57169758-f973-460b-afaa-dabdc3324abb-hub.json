@@ -1,0 +1,30 @@
+{
+  "guid": "57169758-f973-460b-afaa-dabdc3324abb",
+  "code": null,
+  "id": 571697,
+  "date": "2025-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "Fediverse shared table",
+  "slug": "39c3-meet-up-bundnis-offene-netzwerke-meet-up-alliance-",
+  "title": "Meet-up B\u00fcndnis Offene Netzwerke/ Meet-up Alliance for Open network",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The alliance \u2018Open Networks and Democratic Public Spheres\u2019 was founded at the European Summit on Digital Sovereignty this November and is now supported by 30 organisations. We are campaigning for the promotion and use of decentralised, public-interest-oriented infrastructures with four demands. Come along, get to know us and our demands.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/03bb6a51439d/ONW-Ringlogo-300-trans.png",
+  "persons": [
+    {
+      "guid": "f56466f5-4af2-4310-825b-7b5bac0d4a03",
+      "name": "samvie",
+      "public_name": "samvie",
+      "avatar": null,
+      "biography": "Mastodon: @samvie@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/samvie"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meet-up-bundnis-offene-netzwerke-meet-up-alliance-",
+  "links": []
+}

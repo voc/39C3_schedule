@@ -1,0 +1,30 @@
+{
+  "guid": "0c0f289c-fe72-4c4f-a4d2-0791965703c1",
+  "code": null,
+  "id": 2897,
+  "date": "2025-12-29T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-meet-the-funders-sovereign-tech-agency-nlnet-proto",
+  "title": "Meet the Funders: Sovereign Tech Agency, NLnet, Prototype Fund",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Are you looking for funding for your project? Unsure if your new idea would be likely to get support? Interested in applying for a grant, in getting to know who ensures funds run smoothly or simply curious? Come say hi! We're here to answer all your questions about our funds.\n\nAt this meetup you will have the opportunity to meet team members from the following funds:\n\nThe Prototype Fund supports software developers, designers and other creatives in transforming their ideas from a concept into a software prototype. Together we explore and test new ways for technical and social innovations as open source software from society and for society.\n\nNLnet foundation (after its historical contribution to the early internet in Europe) has been financially supporting organizations and people that contribute to an open information society since 1997. It funds those with ideas to fix the internet. The procedure is fast, competitive and open to anyone.\n\nThe Sovereign Tech Agency supports the development, improvement and maintenance of open digital infrastructure. Our goal is to sustainably strengthen the open source ecosystem. We focus on security, resilience, technological diversity, and the people behind the code.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f663bc7d-0e80-48b7-9937-d132976f42b1",
+      "name": "shiro",
+      "public_name": "shiro",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/shiro"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meet-the-funders-sovereign-tech-agency-nlnet-proto",
+  "links": []
+}

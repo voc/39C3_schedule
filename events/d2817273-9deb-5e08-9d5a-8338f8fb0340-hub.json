@@ -1,0 +1,32 @@
+{
+  "guid": "d2817273-9deb-5e08-9d5a-8338f8fb0340",
+  "code": "GHYAGT",
+  "id": 2051,
+  "date": "2025-12-31T00:00:00+01:00",
+  "start": "00:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-yazz-ewok-dj-set",
+  "title": "Yazz Ewok DJ Set",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Yazz Ewoks Mischung aus Melodic Techno, Indie Dance und kraftvollem Techno erschafft eine mitrei\u00dfend wummernde Klanglandschaft. Mit ihrem Sound hat sie bereits auf der Fusion, dem Dockville, dem Habitat und dem 3000 Grad gespielt. Auch in Clubs wie dem S\u00fcdpol nimmt sie ihr Publikum mit auf eine musikalische Bass-Reise.",
+  "description": "Als BIPoC und FLINTA* DJ ist sie schon seit mehr als zehn Jahren Teil der Hamburger Technoszene.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/GHYAGT/1000014082_Tll7KR2.jpg",
+  "persons": [
+    {
+      "guid": "c2ef404a-f968-5f47-9ef1-ec03e8225f88",
+      "name": "Yazz Ewok",
+      "public_name": "Yazz Ewok",
+      "avatar": null,
+      "biography": "Ich bin DJ aus Hamburg und m\u00f6chte. Der CCC ist nicht nur thematisch ein wichtiger Bestandteil der Netzkultur. F\u00fcr mich hat er immer eine besondere N\u00e4he zum einen, weil wir fast Nachbarn sind und zum anderen findet er immer an meinem Geburtstag statt. \u263a\ufe0f\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c2ef404a-f968-5f47-9ef1-ec03e8225f88"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/yazz-ewok-dj-set",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GHYAGT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GHYAGT/feedback/"
+}

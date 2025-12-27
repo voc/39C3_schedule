@@ -1,0 +1,47 @@
+{
+  "guid": "860a362f-4666-5fe0-9f0a-8d26485f730e",
+  "code": "YB8VWS",
+  "id": 2398,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "Zero",
+  "slug": "39c3-lightning-talks-tag-2",
+  "title": "Lightning Talks - Tag 2",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Lightning Talks - Tag 2",
+  "description": "- **Lightning Talks Introduction**\n- **Chaos auf der Schiene: Die Wahrheit hinter den Versp\u00e4tungen** \u2014 *poschi*\n- **EventFahrplan - The 39C3 Fahrplan App for Android** \u2014 *tbsprs*\n- **Quantum computing myths and reality** \u2014 *Moonlit*\n- **Return to attacker.com** \u2014 *Safi*\n- **Teilchendetektor im Keller? Ich habs gemacht. Die Theorie und der Bau einer Funkenkammer** \u2014 *Rosa*\n- **What's the most secure phone?** \u2014 *jiska*\n- **reverse engineering a cinema camera\u2019s peripheral port** \u2014 *3nt3*\n- **Youth Hacking 4 Freedom: the European Free Software competition for teenagers** \u2014 *Ana Galan*\n- **From word clouds to Word Rain: A new text visualisation technique** \u2014 *Maria Skeppstedt*\n- **Spa\u00df mit Brettspielen** \u2014 *Marco Bakera*\n- **Creative Commons Radio - I really didn't want to become a copyright activist!** \u2014 *Martin*\n- **lernOS f\u00fcr Dich - Selbstmanagement & pers\u00f6nliches Wissensmanagement leicht gemacht** \u2014 *Simon D\u00fcckert*\n- **Was man in Bluetooth Advertisements so alles findet** \u2014 *Paul*\n- **The Sorbus Computer** \u2014 *SvOlli*\n- **AI doesn\u2019t have to slop - Introducing an open source alternative to big-tech AI agents** \u2014 *Kitty*\n- **Interoperability and the Digital Markets Act: collecting experiences from the community** \u2014 *Dario Presutti*\n- **Leveraging Security Twin for on-demand resilience assessment against high-impact attacks** \u2014 *Manuel Poisson*\n- **A seatbelt for innerHTML** \u2014 *Frederik Braun*\n- **Toxicframe - Ghost in the Switch: Vier Jahre Schweigen in der Netgate SG-2100** \u2014 *Wim Bonis*\n- **KI\u00b3Rat = Mensch x Daten x Dialog** \u2014 *ceryo / Jo Tiffe*\n- **iPod Nano Reverse Engineering** \u2014 *hug0*\n- **Interfaces For Society - Wenn Demokratie Auf Protokollen L\u00e4uft** \u2014 *Pauline Dimmek*\n- **Security problems with electronic invoices** \u2014 *Hanno B\u00f6ck*\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5f7ecbd8-6f6f-573b-8519-242ab484d22e",
+      "name": "Bonnie",
+      "public_name": "Bonnie",
+      "avatar": "https://cfp.cccv.de/media/avatars/NAYM8A_XqdDXgI.png",
+      "biography": "Bonnie Mehring has been politically active since 20 years now and has always believed in the chance to better the future for everybody. Technology and especially Free Software  has brought her into the Chaos. Since the past 12 years she has brought her political and technological interest's together.\nThrough Free Software, she has not only acquired extensive knowledge about computers and technology but has also forged connections with others. She thoroughly enjoys participating in various Free Software conferences and events, where she relishes the opportunity to connect with individuals from the Free Software community. It is of utmost importance for Bonnie that inclusive and welcoming Free Software communities are established, allowing everyone to engage and learn.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5f7ecbd8-6f6f-573b-8519-242ab484d22e"
+    },
+    {
+      "guid": "aacad21d-44ff-5b15-9c3a-6678c39e3c0f",
+      "name": "keldo",
+      "public_name": "keldo",
+      "avatar": null,
+      "biography": "Keldo besch\u00e4ftigt sich mit Nachhaltigkeit, mit speziellem Fokus auf IT. Er ist deshalb seit einigen Jahren bei Bits und B\u00e4ume und im Forum InformatikerInnen f\u00fcr Frieden und Gesellschaftliche Verantwortung aktiv.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_aacad21d-44ff-5b15-9c3a-6678c39e3c0f"
+    },
+    {
+      "guid": "f98532ec-f471-56df-848c-3cfd8c158f3c",
+      "name": "Andi Br\u00e4u",
+      "public_name": "Andi Br\u00e4u",
+      "avatar": null,
+      "biography": "Andi ist Softwareentwickler und DevOps-Spezialist aus Berlin mit einem besonderen Interesse an Datenschutz, Datensouver\u00e4nit\u00e4t und Self-Hosting. Er engagiert sich seit vielen Jahren im Freifunk-Umfeld und ist als Vorstand des F\u00f6rdervereins Freie Netzwerke aktiv. Au\u00dferdem organisiert er regelm\u00e4\u00dfig Veranstaltungen wie das Wireless Community Weekend oder das Battlemesh.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f98532ec-f471-56df-848c-3cfd8c158f3c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lightning-talks-tag-2",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YB8VWS/"
+}

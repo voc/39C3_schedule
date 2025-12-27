@@ -1,0 +1,36 @@
+{
+  "guid": "382a6def-2dbb-5ba8-bde5-0bf509c5eb02",
+  "code": "LHG99W",
+  "id": 1487,
+  "logo": null,
+  "date": "2025-12-27T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-1487-isdn-pots-telephony-at-congress-and-camp",
+  "url": "https://cfp.cccv.de/39c3/talk/LHG99W/",
+  "title": "ISDN + POTS Telephony at Congress and Camp",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Like 39C3, the last CCC camp (2023) and congress (38C3) have seen volunteer-driven deployments of legacy ISDN and POTS networks using a mixture of actual legacy telephon tech and custom open source software. This talk explains how this is achieved, and why this work plays an important role in preserving parts of our digital communications heritage.",
+  "description": "Just like at this very event (39C3), the last few years a small group of volunteers has delpoyed and operated legacy telephony networks for ISDN (digital) and POTS (analog) services at CCC-camp2023 and 38C3. Anyone on-site can obtain subscriber lines (POTS, ISDN BRI or PRI service) and use them for a variety of services, including telephony, fax machines, modem dial-up into BBSs as well as dial-up internet access and video telephony.\r\n\r\nThese temporary event networks are not using soft-PBX or VoIP, but are built using actual de-commissioned hardware from telecom operators, including a Siemens EWSD digital telephone exchange, Nokia EKSOS V5 access multiplexers, a SDH ring for transporting E1 carriers and much more.\r\n\r\nWhile some may enjoy this for the mere hack value, others enjoy it to re-live the digital communication sear of their childhood or youth.  Howevre, there is a more serious aspect to this: The preservation and restoration of early digital communications infrastructure from the 1970s to 1990s, as well as how to operate such equipment.  As part of this effort, we have already been able to help communications museums to fill gaps in their collections.\r\n\r\nThe talk will cover\r\n* the equipment used,\r\n* the network hierarchy we build,\r\n* the services operated\r\n* the lessons learnt\r\n* newly-written open source software for interfacing retro telcommunications gear",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "LBUJDK",
+      "name": "Harald Welte",
+      "avatar": null,
+      "biography": "Harald Welte is a recovering Linux Kernel hacker with a history of hacking and developing (mostly open source) hardware, firmware and system-level software. Working in network protocols ever since the 1990s, he has dedicated the last 18 years of his life to spearheading Free and Open Source software in the domain of cellular networks.\r\n\r\nHe has worked extensively on implementations of cellular protocol stacks on virtually any interface at any protocol level from 2G to 4G - most of that in the context of the Osmocom project, which he co-started.\r\n\r\nYou can find more information on the (sadly rather infrequently updated) blog, and the usually more up-to-date fediverse presence at https://chaos.social/@LaF0rge",
+      "public_name": "Harald Welte",
+      "guid": "24b6dac1-bc97-5e63-b836-2be8e3bc1179",
+      "url": "https://cfp.cccv.de/39c3/speaker/LBUJDK/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/LHG99W/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/LHG99W/",
+  "attachments": []
+}

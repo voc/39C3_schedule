@@ -1,0 +1,38 @@
+{
+  "guid": "dac63c75-58d4-5d97-9910-c9ec9c9c63b7",
+  "code": "TXYU83",
+  "id": 1690,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-atoms-in-space",
+  "title": "Atoms in Space",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "*What are atoms doing in space anyways?* This talk will provide a brief overview of applications of quantum technologies in space ranging from precise timing and inertial measurements to fundamental physics.",
+  "description": "Quantum technologies have seen a wide field of applications in medicine, geosciences, computing and communications, in many cases bridging the gap from laboratory experiments to commercial products in the last decade. For terrestrial applications that is. But what about going to space?\n\nQuantum physics based sensors and experiments promise higher accuracy, sensitivity or better long term stability as they rely on immutable properties of atoms. When properly manipulated, these (ultra-)cold atoms are likely to outperform state of the art instruments. Experiments conducted on sounding rockets demonstrated important steps like Bose-Einstein Condensate creation during a few minutes in microgravity, enabling more advanced quantum experiments in the future.  The International Space Station and the Tiangong Space Station host dedicated experiments like ultrastable clocks as well as flexible research infrastructure for fundamental research benefitting from long free-fall times. However, the deployment of such technologies on satellites is not as advanced. Satellite missions utilizing quantum sensors or performing long term experiments are subject to studies and proposals backed by a broad scientific community aiming at better understanding of climate change, interplanetary navigation or tests of general relativity. First steps towards realization of such missions are taken by ESA, NASA and various national space agencies as well as universities funded by national agencies or the EU.\n\nThis talk will detect the current state of atoms in space and give an overview of active programs to deploy quantum sensors on operational satellite missions. The focus is on future applications in geosciences and related fields employing the same technology.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TXYU83/atoms_in_space_kef3bHt_vy26VzX_gNDdgFl_NWTvbLp.webp",
+  "persons": [
+    {
+      "guid": "5da52dd2-a916-5129-85b4-e4307b3d7400",
+      "name": "manuel",
+      "public_name": "manuel",
+      "avatar": null,
+      "biography": "My work deals with methods for gravity field determination from satellite missions, an area of satellite geodesy. The design of future missions using novel sensors, e.g. quantum sensors, and concepts to improve the resulting gravity field products is a major focus of the work.\n\nI am currently working as a researcher at the German Aerospace Center (DLR) on methods to improve the determination of the Earth's gravity field. In this area, quantum technologies promise advances in instrumentation for terrestrial and satellite applications. This will allow, for example, a better description of the consequences of climate change or the prediction of events such as floods and droughts. I look at these technologies from the point of view of the user for tasks in geodesy. Also, I drop things to see if gravity is still working.\n\nYou can find me at the Science Communication Center Assembly.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5da52dd2-a916-5129-85b4-e4307b3d7400"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/atoms-in-space",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TXYU83/",
+  "attachments": [
+    {
+      "url": "/media/39c3/submissions/TXYU83/resources/References_v10_3sRbLO2.pdf",
+      "type": "related",
+      "title": "List of references from the talk and further reading."
+    }
+  ]
+}

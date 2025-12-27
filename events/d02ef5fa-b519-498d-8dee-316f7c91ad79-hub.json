@@ -1,0 +1,30 @@
+{
+  "guid": "d02ef5fa-b519-498d-8dee-316f7c91ad79",
+  "code": null,
+  "id": 25519,
+  "date": "2025-12-28T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-get-to-know-the-furry-fandom-qa_ytje",
+  "title": "Get to know the furry fandom (Q&A)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Ask your questions and learn about the furry fandom! Maybe you are curious and are interested in becoming a furry yourself? Or you just wonder why there are fluffy creatures at the congress? Then get to know us!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a0a6b5aa-0646-4ce4-956b-30c4c94a3aac",
+      "name": "autinerd (he/they)",
+      "public_name": "autinerd (he/they)",
+      "avatar": null,
+      "biography": "Mastodon: @autinerd@chaos.social\n\nMatrix: @autinerd:matrix.org\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/autinerd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/get-to-know-the-furry-fandom-qa_ytje",
+  "links": []
+}

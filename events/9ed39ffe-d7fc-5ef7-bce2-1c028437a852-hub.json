@@ -1,0 +1,32 @@
+{
+  "guid": "9ed39ffe-d7fc-5ef7-bce2-1c028437a852",
+  "code": "XKSVRX",
+  "id": 939757,
+  "date": "2025-12-28T09:30:00+01:00",
+  "start": "09:30",
+  "duration": "01:15",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-bastle-ein-haecksen-licht",
+  "title": "Bastle ein Haecksen-Licht [kids friendly] [junghackerinnentag] [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Holzspatel, leitf\u00e4higes Klebeband, LED, Batterie und Mauly-Klemme - daraus entsteht ein Haecksen-Licht",
+  "description": "In diesem Workshop k\u00f6nnen Menschen ein Haecksen-Licht basteln. Der Workshop ist f\u00fcr Kinder ab ca. 4 Jahren geeignet. Es wird geklebt und gemalt und nicht gel\u00f6tet.\nDas Haecksen-Licht kann mit verschiedenen Motiven verziert werden.\nFreies Basteln mit individueller Anleitung, kein Vortrag.\nFreies Kommen und Gehen im Rahmen der Workshopzeit und nach Platzverf\u00fcgbarkeit.\nDer Bau eines Haecksen-Lichts dauert etwas 15-20 Minuten. (Letzter Bastelbeginn also um 10:30)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "47c7e5dc-74f4-58c7-a1ed-e5d53a6ca747",
+      "name": "quima",
+      "public_name": "quima",
+      "avatar": null,
+      "biography": "Macht ab und zu Workshops f\u00fcr Kinder. Bastelt gern mit farbigen LEDs und leitf\u00e4higem Klebeband.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_47c7e5dc-74f4-58c7-a1ed-e5d53a6ca747"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bastle-ein-haecksen-licht",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/XKSVRX/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/XKSVRX/feedback/"
+}

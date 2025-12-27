@@ -1,0 +1,30 @@
+{
+  "guid": "a5847ebe-abc0-4962-8730-0a79cb60d754",
+  "code": null,
+  "id": 584704,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-vortrag-und-erfahrungsaustausch-zu-kommunalem-klim",
+  "title": "Erfahrungsaustausch zu kommunalem Klimagerechtigkeitsaktivismus",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wichtige Themen f\u00fcr kommunalen Klimagerechtigkeitsaktivismus sind unter anderem W\u00e4rmewende, Klimabildung und -kommunikation, Mobilit\u00e4tswende und Energiewende. Doch wie bekommen wir diese Themen adressiert? In dieser Session sollen verschiedene Aktionsformen, Lehren und Werkzeuge vorgestellt und diskutiert werden. Das beinhaltet:\n\n- Bewertung der eigenen Kommune bei [Stadt.Land.Klima!](https://www.stadt-land-klima.de/)\n- Demonstrationen\n- Dialoge mit der Stadtverwaltung\n- Informationsfreiheitsanfragen\n- Offene Briefe an den Stadtrat\n- Kreative Kommunikationsformen\n- Mitarbeit in st\u00e4dtischen Beir\u00e4ten\n- Pressemitteilungen\n- Selbstorganisierte Klimakonferenzen\n- Ver\u00f6ffentlichung von komplexen Dokumenten/Pl\u00e4nen/Stellungnahmen\n- Verwaltungsklagen\n- ...\n\nSiehe auch:\n[Vernetzung kommunaler Klimagerechtigkeitsgruppen](https://events.ccc.de/congress/2025/hub/en/project/detail/so/vernetzung-kommunaler-klimagerechtigkeitsgruppen)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "711363d9-2ece-476d-b6cf-494c786c3da0",
+      "name": "moritzl",
+      "public_name": "moritzl",
+      "avatar": null,
+      "biography": "computer scientists and local climate activist\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/moritzl"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/vortrag-und-erfahrungsaustausch-zu-kommunalem-klim",
+  "links": []
+}

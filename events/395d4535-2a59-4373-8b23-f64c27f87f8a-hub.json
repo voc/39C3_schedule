@@ -1,0 +1,21 @@
+{
+  "guid": "395d4535-2a59-4373-8b23-f64c27f87f8a",
+  "code": null,
+  "id": 395453,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-collaboration-with-red-teams-in-military-operation",
+  "title": "Red teams in military operations",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Gathering, orchestrating and dissipating data during specific operations.\n\nSpeaker: Anton Tseholnyk, AFU OSINT team\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/collaboration-with-red-teams-in-military-operation",
+  "links": []
+}

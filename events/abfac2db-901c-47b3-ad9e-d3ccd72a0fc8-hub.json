@@ -1,0 +1,21 @@
+{
+  "guid": "abfac2db-901c-47b3-ad9e-d3ccd72a0fc8",
+  "code": null,
+  "id": 290147,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-electronic-instruments-jam-read-description-if-int",
+  "title": "Electronic Instruments Jam Session (read description!)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Like last year we jam (playing spontaneous/improvised music for ourselves) together in small groups. In order to avoid a high noise level in the room we are going to use Headphones. We welcome every kind of Instrument from your laptop with a midi-controller, your E-Guitar, a Microphone to your modular synthesizer. If you want to participate please read the following carefully.\n\nPlease bring the following with you if you plan to participate: (if you don't bring the stuff you may be able to borrow it)\n- Headphones\n- Extension Chord/Power Strip if your stuff needs power\n- Cable to send your tones to the other people. Small audio jack is the prefered method. Adapters are nice.\n\nIf you can, it is nice to bring Instruments for other people so people can participate without knowing about the jam before congress. It is probably a good Idea to write your name/a unique identifier on your stuff to avoid confusion.\n\nI have designed a PCB that lets 5 People plug in their instruments and headphones via small audio jack. Only the Headphone volume can be adjusted on the board. Unfortunately the board is still in the mail and I don't know if it works at all. For this reason it would be nice if you could bring Equipment to route peoples audio signals to Headphones. Especially Mixers Multi-Headphone-Amplifiers and Cables to connect everything together would be appreciated.\n\nMatrix Room for Coordination:\nhttps://app.element.io/#/room/#electronic-instruments-jam-session:kif.rocks\n\nI'm excited to see all of you :)\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/electronic-instruments-jam-read-description-if-int",
+  "links": []
+}

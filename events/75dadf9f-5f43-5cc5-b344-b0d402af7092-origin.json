@@ -1,0 +1,36 @@
+{
+  "guid": "75dadf9f-5f43-5cc5-b344-b0d402af7092",
+  "code": "KXGMHG",
+  "id": 1902,
+  "logo": null,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-1902-von-wegen-eisblumen-wie-man-mit-code-satelliten-und-schiffsexpeditionen-die-bunte-welt-des-arktischen-phytoplanktons-sichtbar-macht",
+  "url": "https://cfp.cccv.de/39c3/talk/KXGMHG/",
+  "title": "Von wegen Eisblumen! Wie man mit Code, Satelliten und Schiffsexpeditionen die bunte Welt des arktischen Phytoplanktons sichtbar macht",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Die Arktis ist eine Region, in der die Sonne monatelang weg ist, dickes Meereis den Weg versperrt und deshalb Forschungsdaten ziemlich rar sind. Kompliziert also, herauszufinden was im Wasser bl\u00fcht! Mit einer Kombination aus Satellitenbildern, Expeditionen und Modellsimulationen auf Hochleistungsrechnern versuche ich, das Verborgene sichtbar zu machen: die faszinierende, farbenfrohe Welt des arktischen Phytoplanktons.",
+  "description": "Im Arktischen Ozean wird immer deutlicher, wie stark die globale Erw\u00e4rmung den R\u00fcckgang des Meereises und das marine \u00d6kosystem beeinflussen. Winzige Organismen, das Phytoplankton, bilden die Grundlage des Nahrungsnetzes durch den Aufbau von Biomasse und spielen so eine zentrale Rolle im globalen Kohlenstoffkreislauf. Dabei werden sie in der Arktis stark von den jahreszeitlichen Schwankungen der Polarnacht/-tag, der Meereisausdehnung und der sich ver\u00e4ndernden Umwelt beeinflusst. Doch das Phytoplankton ist nicht nur \u00f6kologisch bedeutsam, sondern auch erstaunlich vielf\u00e4ltig und farbenfroh \u2013 wie eine bunte Blumenwiese im Ozean! \r\nSpannend bleiben dabei auch die Fragen, was die Vielfalt des Phytoplanktons ausmacht, wie diese eine Anpassung an die Umweltver\u00e4nderungen erm\u00f6glicht und wie sich das arktische \u00d6kosystem unter verschiedenen Klimawandelszenarien entwickeln k\u00f6nnte.\r\nDieser Vortrag l\u00e4dt euch ein, in die eisigen Welten des arktischen Ozeans einzutauchen, um dem grundlegenden Baustein des arktischen \u00d6kosystems, dem Phytoplankton, auf den Grund zu gehen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "N3XWJA",
+      "name": "Moritz Zeising (er/he)",
+      "avatar": "https://cfp.cccv.de/media/avatars/N3XWJA_H4ISqwF.webp",
+      "biography": "Mich interessieren die Kreisl\u00e4ufe auf der Erde, gerade vor allem in den Ozeanen. Nach meinem Studium der Geo\u00f6kologie und Marinen Umweltwissenschaften habe ich in Physikalischer Ozeanographie am Alfred-Wegener-Institut promoviert und forsche da gerade auch noch weiter am Kohlenstoff-Kreislauf und Phytoplankton in der Arktis. Spannend finde ich Forschung vor allem dann, wenn sich Ankn\u00fcpfungspunkte an gesellschaftliche Debatten ergeben.",
+      "public_name": "Moritz Zeising (er/he)",
+      "guid": "d98526ea-34e0-556b-abcc-3a661095d9e9",
+      "url": "https://cfp.cccv.de/39c3/speaker/N3XWJA/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/KXGMHG/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/KXGMHG/",
+  "attachments": []
+}

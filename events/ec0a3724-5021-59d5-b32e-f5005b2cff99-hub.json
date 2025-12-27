@@ -1,0 +1,40 @@
+{
+  "guid": "ec0a3724-5021-59d5-b32e-f5005b2cff99",
+  "code": "ZFSGTG",
+  "id": 83754,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-passwort-der-heise-security-podcast-live-vom-39c3",
+  "title": "\"Passwort\" - der heise security Podcast live vom 39C3",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Der heise security Podcast macht wieder einen Betriebsausflug nach Hamburg. Diesmal bringt Christopher seinen Co-Host Sylvester mit und spricht 90 Minuten lang \u00fcber aktuelle Security-Themen vom Congress. Wir haben uns erneut einige spannende Fundst\u00fccke herausgesucht und sprechen dar\u00fcber miteinander, aber auch mit unseren G\u00e4sten.\r\nWelche Themen wir besprechen ist - wie immer bei unserem Podcast - eine \u00dcberraschung.",
+  "description": "",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/ZFSGTG/8b05430c-d1e2-449f-a96d-fa1_w1Fw5PY.png",
+  "persons": [
+    {
+      "guid": "94f47ca3-3388-5957-b42b-90ca449d8550",
+      "name": "Christopher Kunz",
+      "public_name": "Christopher Kunz",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/8LNBTG_LYFVoaO.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_94f47ca3-3388-5957-b42b-90ca449d8550"
+    },
+    {
+      "guid": "1b7bbb43-32d9-56cc-8c6e-1f191fa43148",
+      "name": "Sylvester",
+      "public_name": "Sylvester",
+      "avatar": "https://cfp.cccv.de/media/avatars/DUCHCH_s598AhL.png",
+      "biography": "Sylvester is an editor and author for the German computer magazine c\u2019t and its sister publication heise online. He writes mostly about Linux and open source, IT security, and topics adjacent to programming and software engineering. He also co-hosts a podcast on IT security.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1b7bbb43-32d9-56cc-8c6e-1f191fa43148"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/passwort-der-heise-security-podcast-live-vom-39c3",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/ZFSGTG/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/ZFSGTG/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "1052b53b-607c-5126-837a-ea526d4abb11",
+  "code": "SHEUGT",
+  "id": 105253,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:45",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-wie-funktioniert-das-it-netzwerk-zuhause-netzwerk-",
+  "title": "Wie funktioniert das IT-Netzwerk Zuhause? Netzwerk Basics [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Ich m\u00f6chte mit euch das Netzwerk erkunden, vom Endger\u00e4t bis zum Router, der das Internet \"anruft\". Wir werden uns auf das lokale Netzwerk beschr\u00e4nken und zum Schluss einmal durch spielen was im Netzwerk auf der Leitung eigentlich passiert.",
+  "description": "Du hast keine oder kaum Ahnung von IT-Netzwerktechnik und wolltest immer schon mal wissen, was da eigentlich passiert? Was l\u00e4uft zwischen Router/Fritzbox und unserem Endger\u00e4t ab, damit wir im Internet surfen k\u00f6nnen? Wenn dich das interessiert, dann ist dieser Workshop vielleicht was f\u00fcr dich. Denn es soll darum gehen, wie die Basics der Netzwerk-Technik funktionieren. Dabei werden wir in Gruppen die Regeln in einem Netzwerk erkunden und zwar Schicht f\u00fcr Schicht. Als Leitfaden orientieren wir uns am OSI-Model, das Modell der Netzwerktechnik, an das sich keiner h\u00e4lt. Es wird um MAC-Adressen, IP-Adressen, Ports, UDP und TCP gehen. Weil alle Theorie irgendwie staubig ist, geht es in diesem Workshop einen Schritt weiter. Die erkundeten Regeln werden in einem Netzwerkspiel ganz praktisch umgesetzt, in dem wir Netzwerkwitze durch ein Netzwerk  schicken. Daf\u00fcr brauchen wir imagin\u00e4re Brieftauben nach RFC 1149 und 6214 (bitte keine realen Flugtiere und Flugger\u00e4te mitbringen - Danke) und einige imagin\u00e4re Hardware.\n\nBitte Humor, Fantasie und Laptop mit RJ45-Anschluss(LAN/Ethernet-Kabel) zur Recherche mitbringen (Teilnahme ohne Hardware ist auch m\u00f6glich). Die Ergebnisse sollen am Ende allen Workshop-Teilnehmenden zur Verf\u00fcgung gestellt werden, zum mitnehmen.\n\nContentNote: Das Netzwerkspiel kann bewegungsintensiv sein.\n\nFolien: https://codeberg.org/ratten/39c3_Haecksen_Workshop_Netzwerk_basics\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "08849923-9dc7-58e4-95bb-1e13ae7de784",
+      "name": "B\u00fccherratten",
+      "public_name": "B\u00fccherratten",
+      "avatar": null,
+      "biography": "Ich bin Fachinformatikerin mit Einschr\u00e4nkung und mag spielen genau so gerne wie lernen und Wissen vermitteln. Ich versuche immer spielerische oder lustige Zug\u00e4nge zu Wissen zu finden, da Lachen und Spielen f\u00fcr mich die Wichtigsten Zutaten sind um lernen und verstehen zu erm\u00f6glichen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_08849923-9dc7-58e4-95bb-1e13ae7de784"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wie-funktioniert-das-it-netzwerk-zuhause-netzwerk-",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/SHEUGT/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/SHEUGT/feedback/"
+}

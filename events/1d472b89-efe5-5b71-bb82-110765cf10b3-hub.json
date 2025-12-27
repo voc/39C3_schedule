@@ -1,0 +1,40 @@
+{
+  "guid": "1d472b89-efe5-5b71-bb82-110765cf10b3",
+  "code": "BVL9NP",
+  "id": 83790,
+  "date": "2025-12-27T18:15:00+01:00",
+  "start": "18:15",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-eine-typisch-sterreichische-lsung-die-dirndlkoalition",
+  "title": "Eine typisch \u00f6sterreichische L\u00f6sung - die Dirndlkoalition",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Nach den l\u00e4ngsten Koalitionsverhandlungen in der zweiten Republik k\u00e4mpft die Dirndlkoalition gegen Inflation, Budgetdefizit und rechte Volkskanzlerfantasien. Wir geben einen \u00dcberblick zum politischen Jahr in \u00d6sterreich.",
+  "description": "Am Beginn des Jahres wollte Herbert Kickl noch Volkskanzler werden, am Ende des Jahres regiert eine Dreierkoalition in \u00d6sterreich. Wie gewohnt wollen wir auch heuer wieder erz\u00e4hlen, was in der \u00f6sterreichischen Innenpolitik passiert, der Humor soll dabei nicht zu kurz kommen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d293e34f-2cbc-53fe-98dc-afee40e11023",
+      "name": "uns\u00f6sterreichts.jetzt",
+      "public_name": "uns\u00f6sterreichts.jetzt",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/waydown_vjOrnoV.png",
+      "biography": "Wir sind zwei Podcaster aus \u00d6sterreich und sorgen f\u00fcr mehr Politik im Humor.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d293e34f-2cbc-53fe-98dc-afee40e11023"
+    },
+    {
+      "guid": "e227d009-6afd-55cd-afef-2fea3b630066",
+      "name": "Alexander Muigg",
+      "public_name": "Alexander Muigg",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e227d009-6afd-55cd-afef-2fea3b630066"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/eine-typisch-sterreichische-lsung-die-dirndlkoalition",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/BVL9NP/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/BVL9NP/feedback/"
+}

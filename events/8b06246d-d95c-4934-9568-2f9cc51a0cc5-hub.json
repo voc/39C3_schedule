@@ -1,0 +1,30 @@
+{
+  "guid": "8b06246d-d95c-4934-9568-2f9cc51a0cc5",
+  "code": null,
+  "id": 806246,
+  "date": "2025-12-29T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-treffen-der-netzpolitischen-community-der-schweiz",
+  "title": "Treffen der netzpolitischen Community der Schweiz",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Nach dem Vortrag zur Netzpolitik in der Schweiz (Tag 3, Saal Fuse, 19:15) sind alle interessierten Personen eingeladen, die Diskussion in einer self-organized Session fortzusetzen. Es werden Aktivist:innen von verschiedenen Organisationen der Netzpolitik in der Schweiz anwesend sein.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2f1dbf9c-caf7-489a-9526-45bf66db221e",
+      "name": "Kire",
+      "public_name": "Kire",
+      "avatar": "https://cfp.cccv.de/media/avatars/MVJECP_ltgF8aL.jpeg",
+      "biography": "Kire setzt sich seit vielen Jahren f\u00fcr Freiheitsrechte in einer vernetzten Welt ein. Er ist Informatiker, Co-Gesch\u00e4ftsleiter der Digitalen Gesellschaft Schweiz und ein fr\u00fches Mitglied im CCC. Sein Interesse gilt dem Spannungsfeld aus Technologie, Gesellschaft und Recht. Es ist Mitglied im Schweizer Presserat.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/kire"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/treffen-der-netzpolitischen-community-der-schweiz",
+  "links": []
+}

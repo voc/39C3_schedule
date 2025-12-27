@@ -1,0 +1,36 @@
+{
+  "guid": "eeb77e44-8a29-5235-960b-e50575570c5c",
+  "code": "TKSNNS",
+  "id": 1440,
+  "logo": null,
+  "date": "2025-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-1440-kim-1-5-noch-mehr-kaos-in-der-medizinischen-telematikinfrastruktur-ti",
+  "url": "https://cfp.cccv.de/39c3/talk/TKSNNS/",
+  "title": "KIM 1.5: Noch mehr Kaos In der Medizinischen Telematikinfrastruktur (TI)",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Zwei Jahre nach dem ersten KIM-Vortrag auf dem 37C3: Die gezeigten Schwachstellen wurden inzwischen geschlossen. Weiterhin k\u00f6nnen mit dem aktuellen KIM 1.5+ nun gro\u00dfe Dateien bis 500 MB \u00fcbertragen werden, das Signaturhandling wurde f\u00fcr die Nutzenden vereinfacht, indem die Detailinformationen der Signatur nicht mehr einsehbar sind. Aber ist das System jetzt sicher oder gibt es neue Probleme?",
+  "description": "KIM hat sich als Dienst f\u00fcr medizinische E-Mails etabliert: Elektronische Arbeitsunf\u00e4higkeitsbescheinigungen (eAU), zahn\u00e4rztliche Heil- und Kostenpl\u00e4ne, Laborinformationen, und Medikamentendosierungen sollen sicher per KIM \u00fcbermittelt werden. Die Sicherheit soll unauff\u00e4llig und automatisiert im Hintergrund, ohne Interaktion mit den Benutzenden gew\u00e4hrleistet werden. Dazu werden die Ver- und Entschl\u00fcsselung sowie die Signierungsfunktionalit\u00e4ten in einer extra Software, dem sogenannten Clientmodul, abstrahiert.\r\n\r\nIn diesem Vortrag wird das Design dieser Sicherheits-Abstraktion und dadurch bedingte Schwachstellen, wie das F\u00e4lschen oder Entschl\u00fcsseln von KIMs, beleuchtet.\r\n\r\nFortsetzung von 37C3: KIM: Kaos In der Medizinischen Telematikinfrastruktur (TI) [https://media.ccc.de/v/37c3-12030-kim_kaos_in_der_medizinischen_telematikinfrastruktur_ti]",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "AFGBPY",
+      "name": "Christoph Saatjohann",
+      "avatar": "https://cfp.cccv.de/media/avatars/AFGBPY_xlbo05m.webp",
+      "biography": "Christoph Saatjohann ist Professor f\u00fcr eingebettete und medizinische IT-Sicherheit an der FH M\u00fcnster. Seit 2019 beobachtet er kritisch die Einf\u00fchrung der Telematikinfrastruktur (TI).",
+      "public_name": "Christoph Saatjohann",
+      "guid": "cba9521d-ebd0-5587-81af-d349726dffe5",
+      "url": "https://cfp.cccv.de/39c3/speaker/AFGBPY/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/TKSNNS/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TKSNNS/",
+  "attachments": []
+}

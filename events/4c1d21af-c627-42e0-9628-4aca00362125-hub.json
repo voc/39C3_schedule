@@ -1,0 +1,30 @@
+{
+  "guid": "4c1d21af-c627-42e0-9628-4aca00362125",
+  "code": null,
+  "id": 412162,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-meshcore-meshtastic-for-beginners",
+  "title": "Meshcore & Meshtastic for Beginners",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Meshcore & Meshtastic for Beginners",
+  "description": "**Meshcore & Meshtastic for Beginners**\n\n**Materials costs**:  \n\u20ac140\n\n**Taught by** Retia / Kody & Brandon.\n\n**Workshop Itinerary**:  Dive into the world of off-grid communications! In this introductory workshop, you will receive a LoRa node and learn how to set up the Meshtastic firmware and connect to your regional mesh network. We will cover the basics of LoRa technology, how to pair your node with your phone, sending encrypted messages without cell service, and understanding the mesh network topology. Perfect for anyone looking to build a resilient, grid-down comms device.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/sec-t-2025-workshop-meshtastic-for-hackers-set-up-configure-deploy-nodes-for-advanced-use-fri-12th-14-45-16-30-copy)\n\n**Workshop Includes**: New Nibble Zero\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/11f86980af3e/1000016093222.jpg",
+  "persons": [
+    {
+      "guid": "8e9fde75-8969-4fbd-ab16-5bd330b8addb",
+      "name": "skickar",
+      "public_name": "skickar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skickar"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meshcore-meshtastic-for-beginners",
+  "links": []
+}

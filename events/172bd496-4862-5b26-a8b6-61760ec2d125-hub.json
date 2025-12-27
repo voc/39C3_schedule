@@ -1,0 +1,40 @@
+{
+  "guid": "172bd496-4862-5b26-a8b6-61760ec2d125",
+  "code": null,
+  "id": 100442,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-digital-humanities-meetup",
+  "title": "Digital Humanities Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Digital Humanities: Forschung in den Geisteswissenschaften in digitaler Form, kurz: DH. Wir treffen uns zu einem lockeren Kennenlernen und Gedankenaustausch. Was ist Euer Interesse an den DH, wo verortet Ihr Euch in der Chaosfamilie? Welche Themen des 39C3 k\u00f6nnten f\u00fcr die DH relevant sein - und umgekehrt?",
+  "description": "Digital Humanities: Forschung zu Literatur, Geschichte, Sprache, Kunst, Musik in digitaler Form - von Rechercheprozessen \u00fcber Analysemethoden bis hin zu Publikationsformen. Als Br\u00fcckendisziplin zwischen IT und geisteswissenschaftlichen F\u00e4chern operieren die \"DH\" aber nicht nur anwendungsbezogen, sondern auch transformativ: Sie evaluieren kritisch im Diskurs, welche Aspekte der fortlaufenden Digitalisierung f\u00fcr die wissenschaftliche Praxis f\u00f6rderlich genutzt werden k\u00f6nnen.\n\nDamit sorgen sie aber auch stets f\u00fcr Aufregung, wenn es darum geht, etablierte wissenschaftliche Prozesse zu st\u00f6ren: Etwa, wenn es um Open Source, Open Science, Open Data geht sowie um FAIR- und CARE-Prinzipien oder um nichtpropriet\u00e4re Standards. Wir begleiten als Digital Humanists somit nicht nur die Digitalisierung von Kulturdokumenten und Wissenschaft(sb\u00fcrokratie), sondern auch von Arbeitsprozessen mit dem Ziel, in diesem Zuge auch eine freiere, fairere, nachhaltigere, zug\u00e4nglichere, offenere und digitalsouver\u00e4nere Wissenschaftspraxis zu etablieren.\n\nWir schlie\u00dfen an die Meetups der letzten beiden Jahre an und treffen uns wieder zu einem lockeren Kennenlernen und Gedankenaustausch (siehe unser Pad dazu: https://etherpad.wikimedia.org/p/DHMeetup). Willkommen sind alle, die an den DH interessiert sind - und vermutlich sind viele bereits in der Chaos-Familie, ohne dass wir voneinander wissen. Wo in der Chaos-Familie verortet Ihr Euch? Welche Themen des 39C3 k\u00f6nnten f\u00fcr die DH relevant sein und umgekehrt? Kommt zahlreich! Nach Bedarf k\u00f6nnen wir weitere Meetups oder SoS zu spezifischen Themen organisieren.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b17ad620-8949-58a2-a9dd-74bc9433a4a8",
+      "name": "Ulrike Wuttke",
+      "public_name": "Ulrike Wuttke",
+      "avatar": null,
+      "biography": "Ulrike Wuttke Digital Humanities - WissKomm - InfoWiss - jenseits des Funklochs zwischen Potsdam und Berlin!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b17ad620-8949-58a2-a9dd-74bc9433a4a8"
+    },
+    {
+      "guid": "c37650f7-c396-552b-83b3-cd16f450c160",
+      "name": "Torsten Roeder",
+      "public_name": "Torsten Roeder",
+      "avatar": "https://cfp.cccv.de/media/avatars/dino_RaA5dRd.png",
+      "biography": "Torsten Roeder works at the University of Wurzburg and is specialized on digital heritage research. His work in digital editing and textual history made him a member of the TEI Technical Council. Recently, he started a Retro Computing Lab at his department which is used for studying the digital culture of the 1980s and 1990s. He also holds a PhD in musicology and plays some guitar, and enjoys gardening. Jack of all trades, master of none.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c37650f7-c396-552b-83b3-cd16f450c160"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/digital-humanities-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/CAN9JP/",
+  "do_not_record": true
+}

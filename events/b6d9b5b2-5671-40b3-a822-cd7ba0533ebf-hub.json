@@ -1,0 +1,30 @@
+{
+  "guid": "b6d9b5b2-5671-40b3-a822-cd7ba0533ebf",
+  "code": null,
+  "id": 695256,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "02:30",
+  "room": "Hardware Hacking Area -- Front-middle",
+  "slug": "39c3-blocktris-game-soldering-workshop-not-for-beg_y9j7",
+  "title": "Blocktris game soldering workshop (not for beginners) (Day 4)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Blocktris game soldering workshop (not for beginners)",
+  "description": "**Blocktris game soldering workshop (not for beginners)**\n\n**Materials costs**:  \n\u20ac8\n\n**Taught by** Theo.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/blocktris-game-soldering-workshop-not-for-beg_y9j7",
+  "links": []
+}

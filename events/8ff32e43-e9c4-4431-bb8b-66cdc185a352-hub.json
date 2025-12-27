@@ -1,0 +1,30 @@
+{
+  "guid": "8ff32e43-e9c4-4431-bb8b-66cdc185a352",
+  "code": null,
+  "id": 832439,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-speedrun-hacking-medical-research-in-under-45-minu",
+  "title": "speedrun: hacking medical research in under 4.5 minutes",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "I made a bargain, now I have to keep up my end of the deal.\n\nThis is the 10x sped-up version of my other talk on day 1 -- for the ADHD crowd, for anyone who missed the first talk, or for those that just wanna enjoy the show and have a laugh.\n\n[https://events.ccc.de/congress/2025/hub/en/event/detail/hacking-medical-research-for-a-better-transition](https://events.ccc.de/congress/2025/hub/en/event/detail/hacking-medical-research-for-a-better-transition)\n\nThis is a speedrun. I cannot select less than 25 minutes, but I do not intend to go over 5 minutes unless I have to reset. I would prefer to do this as lightning talk, but I'm not sure they support LiveSplit.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "47cdb37f-30fc-428c-8f5f-a0de9cb4eb18",
+      "name": "ShadowCone (she/her)",
+      "public_name": "ShadowCone (she/her)",
+      "avatar": null,
+      "biography": "Signal: ShadowCone.99\nDECT 5733\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/shadowcone"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/speedrun-hacking-medical-research-in-under-45-minu",
+  "links": []
+}

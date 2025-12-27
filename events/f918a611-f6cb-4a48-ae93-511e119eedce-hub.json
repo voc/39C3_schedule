@@ -1,0 +1,30 @@
+{
+  "guid": "f918a611-f6cb-4a48-ae93-511e119eedce",
+  "code": null,
+  "id": 918611,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:45",
+  "room": "Fediverse shared table",
+  "slug": "39c3-fediverse-als-business-grundungsideen-und-geschaft",
+  "title": "Fediverse als Business: Gr\u00fcndungsideen und Gesch\u00e4ftsmodelle / Fediverse as a business: start-up ideas and business models",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "At Chaos Communication Camp 2023, padeluun called for the establishment of small, exciting companies. Digitalcourage operates a Fediverse instance that is financed by membership fees. In addition, there are commercial hosting services such as masto.host and Ossrox. What else is there, and what else is conceivable in the future? We discuss Fediverse business ideas, start-up assistance for company foundations (business plans, KfW start-up loans) and everything that can make the Fediverse an economic basis for founders. A workshop for gathering ideas, exchanging experiences and developing joint approaches. Recording of the presentation by padeluun 2023: https://media.ccc.de/v/camp2023-57118-fediverse\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/85cc2c296501/fedihive.png",
+  "persons": [
+    {
+      "guid": "702d4e67-386c-47f9-a411-96f2a203d234",
+      "name": "sozialwelten (er/ihn)",
+      "public_name": "sozialwelten (er/ihn)",
+      "avatar": null,
+      "biography": "Fediverse: @sozialwelten@ifwo.eu \nMatrix: @sozialwelten:c-base.org\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/sozialwelten"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fediverse-als-business-grundungsideen-und-geschaft",
+  "links": []
+}

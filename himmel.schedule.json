@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/39C3",
-      "version": "b7fa4"
+      "version": "6a9d9"
     },
-    "version": "1.1 2025-12-27 20:00",
+    "version": "1.1 2025-12-27 20:12",
     "base_url": "https://events.ccc.de/congress/2025/hub/",
     "conference": {
       "acronym": "39c3",
@@ -2831,7 +2831,7 @@
                 "type": "Talk",
                 "abstract": "**Over the past few decades, nucleic acids have increasingly been investigated as alternative data storage media and platforms for molecular computing. This talk builds on past research and introduces another branch to the field: DNA cryptography based on random chemistry. This technology provides a platform for conceiving new security architectures that bridge the physical with the digital world.**",
                 "description": "Nucleic acids have been theorized as potential data storage and computation platforms since the mid-20th century. In the meantime, notable advances have been made in implementing such systems, combining academic research with industry efforts. \nAfter providing a general introduction to the interdisciplinary field of DNA information technology, in the second half of the talk focuses on DNA-based cryptography and security systems, in particular zooming in on the example of chemical unclonable functions (CUFs) based on randomly generated, synthetic DNA sequences. Similar to Physical Unclonable Functions (PUFs), these DNA-based systems contain vast random elements that cannot be reconstructed \u2013 neither algorithmically nor synthetically. Using biochemical processing, we can operate these systems in a fashion comparable to cryptographic hash functions, enabling new authentication protocols. Aside from covering the basics, we delve into the advantages, as well as the drawbacks, of DNA as a medium. Finally, we explore how CUFs could in the future be implemented as physical security architectures: For example, in anti-counterfeiting of medicines or as personal signatures for artworks. \nIn a broader sense, this talk aims to inspire a reconsideration of entropy, randomness and information in the experimental sciences through a digital lens. In doing so, it provides examples of how looking at physical systems through an information perspective can unravel new synergies, applications and even security architectures.\n",
-                "logo": "https://cfp.cccv.de/media/39c3/submissions/YVTT8U/Screenshot_2025-10-24_095330_rhJQm3k_iu_hwBwKXb.webp",
+                "logo": "https://cfp.cccv.de/media/39c3/submissions/YVTT8U/Screenshot_2025-10-24_095330_rhJQm3k_iu_Abx6NlD.webp",
                 "persons": [
                   {
                     "guid": "220f1d7e-7407-514c-aa30-45cd496126e0",

@@ -1,0 +1,30 @@
+{
+  "guid": "c1cd1cad-a3bc-4c43-8077-fa5b92238869",
+  "code": null,
+  "id": 113443,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-neinzurbezahlkarte-summit_bo8n",
+  "title": "NeinZurBezahlkarte Summit",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We invite the initiatives organised in the network \u2018Equal Social Rights for All\u2019 that have found their way to 39c3 to a networking meeting. \nIf you are active in an initiative against the racist AsylbLG, are committed to fighting against the discriminatory payment card, or have already carried out or are planning to carry out exchange campaigns in your local area, you are very welcome to join us \u2013 even if you are not yet familiar with the network!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e6bd7fb9-1bc6-4c72-8041-f9da0bc9049d",
+      "name": "neinzurbezahlkarte",
+      "public_name": "neinzurbezahlkarte",
+      "avatar": null,
+      "biography": "As local initiatives against the payment card, we organize solidarity voucher exchanges and resistance against racist policies. As the nationwide network \u201cEqual Social Rights for All,\u201d we take a united political stand against socio-political injustices and racism.\n\nEnd the exclusion of marginalized groups! Cash for all!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/neinzurbezahlkarte"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/neinzurbezahlkarte-summit_bo8n",
+  "links": []
+}

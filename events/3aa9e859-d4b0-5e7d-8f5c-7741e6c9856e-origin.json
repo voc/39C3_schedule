@@ -1,0 +1,36 @@
+{
+  "guid": "3aa9e859-d4b0-5e7d-8f5c-7741e6c9856e",
+  "code": "AYYYH9",
+  "id": 1423,
+  "logo": null,
+  "date": "2025-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1423-opening-pamdora-s-box-and-unleashing-a-thousand-paths-on-the-journey-to-play-beatsaber-custom-songs",
+  "url": "https://cfp.cccv.de/39c3/talk/AYYYH9/",
+  "title": "Opening pAMDora's box and unleashing a thousand paths on the journey to play Beatsaber custom songs",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "While trying to apply fault injection to the AMD Platform Security Processor with unusual (self-imposed) requirements/restrictions, it were software bugs which stopped initial glitching attempts. Once discovered, the software bug was used as an entry to explore the target, which in turn lead to uncovering (and exploiting) more and more bugs, ending up in EL3 of the most secure core on the chip.\r\nThis talk is about the story of trying to glitch the AMD Platform Security Processor, then accidentally discovering several bugs and getting a good look inside the target, before returning to trying to hammer it with novel physical strategies.",
+  "description": "# BACKSTORY\r\n---------------\r\nSo here is the backstory of how it all started:\r\n- I bought a commercial gaming console\r\n- Then bought a VR headset (for this console) because of exclusive game\r\n- But also wanted to play beatsaber\r\n- I could, but builtin song selection was very limited\r\n- Custom songs exist (for example on steam), but not for this console\r\n- I didn't want to buy a second headset for steam\r\nThat's when i decided i want to hack this console so that i can port community created customs songs to the console and play them there with the VR headset i already have.\r\n\r\nInitially starting with an approach similar to the usual \"entrypoint through browser\", then go for kernel and call it a day, but quickly annoying hurdles blocked my way. For one, the Hypervisor makes your live just miserable with it's execute only kernel text blind exploitation. Other issues were that one needs to be on latest version to download the game, which exists only as digital purchase title, preventing me to share my efforts with others even if i can get it working on my console.\r\nThough, what finally put the nail in the coffin was when porting a kernel zeroday to the console failed because of heavy sandboxing, unreachable syscalls or even entirely stripped kernel functions. \r\nSome may call it \"skill issue\". Anyways, that's when i was full of it and decided to bring this thing down for good.  \r\nEverybody does glitching nowadays and according to rumors people did have success on this thing with glitching before, so how hard can it really be, right? \r\n\r\nSo the question became: Is it possible to build a modchip, which glitches the board and lets me play beatsaber custom songs?  \r\nStuff like that has been done on other consoles before (minus the beatsaber part :P) \r\n\r\nTurns out that when manufacturing produces chips with broken GPUs, they are sold as spinoff desktop mainboards (with disabled GPU) rather than thrown away. Which is great, because those mainboards are much cheaper, especially if you buy broken spinoff mainboards on ebay.   \r\n\r\nSo on the journey to beatsaber custom songs, breaking this desktop mainboard became a huge chunk of the road. Because if i can glitch this and build a modchip for it, surely i can also do it for the console, right? I mean it's the exact same SoC afterall! \r\nBack when i started i didn't know i would be about to open pAMDoras box and discover so many bugs and hacks.  \r\n\r\n# Actual talk description\r\n---------------\r\n**Disclaimer: This is not a console hacking talk!**  \r\nThis talk is gonna be about breaking nearly every aspect of the AMD Platform Security Processor of the desktop mainboard with the same SoC as the console. While certainly usefuly for _several_  other AMD targets, unfortunately not every finding can directly be ported to the console. Still, it remains very useful nonetheless!\r\n\r\nNote: The final goal of custom songs on beatsaber has not been reached yet, this talk is presenting the current state of things.\r\n\r\nIn this talk you'll be taken on a ride on how everything started and how almost every aspect of the chip was broken. How bugs were discovered, what strategies were used to move along.  \r\nNot only will several novel techniques be presented for applying existing physical attacks to targets where those couldn't really be applied before, but also completely new approaches are shared which bring a whole different perspective on glitching despite having lots of capacitors (which we don't really want to remove) and extremely powerfull mosfets (which smooth out crowbar attempts in a blink of an eye).  \r\n\r\nBut that's not all!  \r\nWhile trying to perform physical attacks on the hardware, the software would just start falling apart by itself. Which means, at least **6 unpatchable\\* bugs** were discovered, which are gonna be presented in the talk alongside with **5 zero-day exploits**. Getting EL3 code execution on the most secure core inside AMDs SoC? No Problem! \r\nApart from just bugs and exploits, many useful techniques and discovery strategies are shared which will provide an excellent knowedgle base and attack inspiration for following along or going for other targets.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "U3ZG33",
+      "name": "tihmstar",
+      "avatar": "https://cfp.cccv.de/media/avatars/U3ZG33_uLN9eJO.webp",
+      "biography": "Finding offsets since 2017",
+      "public_name": "tihmstar",
+      "guid": "468f9f63-fce4-5681-a397-1626c64d3177",
+      "url": "https://cfp.cccv.de/39c3/speaker/U3ZG33/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/AYYYH9/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/AYYYH9/",
+  "attachments": []
+}

@@ -1,0 +1,39 @@
+{
+  "guid": "2c6aa023-a1e0-59f8-919d-353bf9cc3248",
+  "code": null,
+  "id": 300112,
+  "date": "2025-12-28T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "04:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-gnu-boot-install-party",
+  "title": "GNU Boot install party",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Boot software like BIOS or UEFI are usually nonfree. They still run after the operating system is booted and often contain restrictions (like refusing to boot when the WiFi card is replaced) and are usually related to technologies of control like the Management engine or similar.\r\n\r\nOn computers with a Management engine, replacing the nonfree BIOS with GNU Boot also removes the Management Engine operating system.\r\n\r\nThe install party will take place in a room at the GNU Boot assembly location and the maintainers will be available to help you install GNU Boot on a supported computer (see https://www.gnu.org/software/gnuboot/status.html for a list).",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fcc74479-5d27-588e-b965-ea252e7689b6",
+      "name": "neox",
+      "public_name": "neox",
+      "avatar": "https://pretalx.riat.at/media/avatars/IMG_20210426_110026_nivel%C3%A9e_2mawEBP.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fcc74479-5d27-588e-b965-ea252e7689b6"
+    },
+    {
+      "guid": "b1e41d40-a62c-50d9-89d6-cf4ed02f28a3",
+      "name": "GNUtoo",
+      "public_name": "GNUtoo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b1e41d40-a62c-50d9-89d6-cf4ed02f28a3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gnu-boot-install-party",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/PLYJF8/"
+}

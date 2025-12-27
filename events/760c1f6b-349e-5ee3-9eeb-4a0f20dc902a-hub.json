@@ -1,0 +1,38 @@
+{
+  "guid": "760c1f6b-349e-5ee3-9eeb-4a0f20dc902a",
+  "code": "ZADHHE",
+  "id": 1541,
+  "date": "2025-12-27T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-liberating-bluetooth-on-the-esp32",
+  "title": "Liberating Bluetooth on the ESP32",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Despite how widely used the ESP32 is, its Bluetooth stack remains closed source. Let\u2019s dive into the low-level workings of a proprietary Bluetooth peripheral. Whether you are interested in reverse engineering, Bluetooth security, or just enjoy poking at undocumented hardware, this talk may inspire you to dig deeper.",
+  "description": "The ESP32 has become an ubiquitous platform in the hacker and maker communities, powering everything from badges and sensors to mesh networks and custom routers. While its Wi-Fi stack has been the subject of previous reverse engineering efforts, its Bluetooth subsystem remains largely undocumented and closed source despite being present in millions of devices.\n\nThis talk presents a reverse engineering effort to document Espressif\u2019s proprietary Bluetooth stack, with a focus on enabling low-level access for researchers, security analysts, and developers to improve existing affordable and open Bluetooth tooling.\n\nThe presentation covers the reverse engineering process itself, techniques and the publication of tooling to simplify the process of peripheral mapping, navigating broken memory references and symbol name recovery.\n\nThe core of the talk focuses on the internal workings of the Bluetooth peripheral. The reverse engineering effort led to the discovery of the peripheral architecture, it\u2019s memory regions, interrupts and a little bit of information about other related peripherals.\n\nBy publishing open tooling, SVD files and other documentation, this work aims to empower researchers, hackers, and developers to build custom Bluetooth stacks, audit existing ones, and repurpose the ESP32 for novel applications. This may interest you if you care about transparency, low-level access, and collaborative tooling.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fc5d7968-0865-571e-bdf6-f82582dd7b6d",
+      "name": "Antonio V\u00e1zquez Blanco (Ant\u00f3n)",
+      "public_name": "Antonio V\u00e1zquez Blanco (Ant\u00f3n)",
+      "avatar": "https://cfp.cccv.de/media/avatars/WQMNZS_LeaZ7Jb.jpg",
+      "biography": "Industrial Engineer turned Security Researcher, now part of the Innovation Department at Tarlogic. Passionate about electronics, reverse engineering (especially bare-metal), radio frequency, and everything low-level. Author and contributor to projects like BlueTrust, BSAM, UsbBluetooth and Ghidra Findcrypt, Ghidra SVD, Ghidra DTB...\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fc5d7968-0865-571e-bdf6-f82582dd7b6d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/liberating-bluetooth-on-the-esp32",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ZADHHE/",
+  "attachments": [
+    {
+      "url": "/media/39c3/submissions/ZADHHE/resources/2025_39C3_LiberatingBluetooth_MFFpRgs.pdf",
+      "type": "related",
+      "title": "Slides"
+    }
+  ]
+}

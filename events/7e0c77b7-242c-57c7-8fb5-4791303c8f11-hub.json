@@ -1,0 +1,31 @@
+{
+  "guid": "7e0c77b7-242c-57c7-8fb5-4791303c8f11",
+  "code": null,
+  "id": 100428,
+  "date": "2025-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-qa-device-neutrality-free-software-and-fsfes-litig",
+  "title": "Q&A - Device Neutrality, Free Software and FSFE's litigation against Apple",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Do you want to learn more about Device Neutrality and its implications for user freedom and Free Software? Would you like to learn more about the Digital Markets Act and its implications for Free Software within the EU? Did you know that the Free Software Foundation Europe is litigating against Apple? This session aims to answer all your questions around this topic in a friendly and chill environment, together with FSFE team members, volunteers and curious creatures.",
+  "description": "Join us for an accessible and relaxed session exploring Device Neutrality, user freedom, and the role of Free Software in today\u2019s digital landscape. Learn how the EU\u2019s Digital Markets Act affects Free Software and discover why the Free Software Foundation Europe is taking legal action against Apple. FSFE team members and volunteers will be on hand to answer questions, share insights, and discuss these issues with curious creatures of all backgrounds. No technical knowledge is required.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c8cd49ce-d5e9-570e-9add-17a2c901e876",
+      "name": "Dario Presutti",
+      "public_name": "Dario Presutti",
+      "avatar": null,
+      "biography": "Dario Presutti is a Project Manager at the Free Software Foundation Europe. His work focuses on fostering the use of Free Software in public administration and promoting transparent, accountable digital infrastructures in Europe. With a background in Political Science and a Master\u2019s degree in International Cooperation, Dario has experience engaging with policymakers, monitoring legislative processes, and contributing to initiatives such as Public Money? Public Code! and Device Neutrality.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c8cd49ce-d5e9-570e-9add-17a2c901e876"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/qa-device-neutrality-free-software-and-fsfes-litig",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/QWVWCN/"
+}

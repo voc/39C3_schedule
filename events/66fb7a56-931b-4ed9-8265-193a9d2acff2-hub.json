@@ -1,0 +1,46 @@
+{
+  "guid": "66fb7a56-931b-4ed9-8265-193a9d2acff2",
+  "code": null,
+  "id": 667569,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-gi-meet-up",
+  "title": "GI Meet-up",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Hey, you're here too?\n\nWe are organising an informal meet-up for GI members, friends and anyone interested in the field of chaos.\n\nThe German Informatics Society (GI) is a network of computer scientists committed to digitalisation that works for everyone. With more than 17,000 individual and 250 corporate members (from academia, business, administration and civil society), it is the largest professional association for computer science in the German-speaking world and has been representing the interests of computer scientists since 1969. With 14 specialist areas, over 30 active regional groups and countless specialist groups, the GI is a platform and mouthpiece for all disciplines in computer science. GI members drive the discipline forward, ask crucial questions and constantly provide new impetus. For computer science that is oriented towards the common good, inclusive and forward-looking.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "26ed477a-6e8c-463a-baaa-7809dcdab33c",
+      "name": "_Elena_Berlin_",
+      "public_name": "_Elena_Berlin_",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/elena_berlin"
+    },
+    {
+      "guid": "64ec8d96-7213-46ef-85c1-ec1cc7901813",
+      "name": "Resa",
+      "public_name": "Resa",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/resa"
+    },
+    {
+      "guid": "fb266d43-55ae-49b7-966a-58ca92acbaff",
+      "name": "scherrie",
+      "public_name": "scherrie",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/scherrie"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gi-meet-up",
+  "links": []
+}

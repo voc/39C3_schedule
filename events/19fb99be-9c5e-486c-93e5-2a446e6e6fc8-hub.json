@@ -1,0 +1,30 @@
+{
+  "guid": "19fb99be-9c5e-486c-93e5-2a446e6e6fc8",
+  "code": null,
+  "id": 199995,
+  "date": "2025-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-megastrukturen-und-galaktische-imperien-oder-wie-m",
+  "title": "Megastrukturen und Galaktische Imperien (oder: Wie man eine Dyson-Sph\u00e4re baut)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Es geht um gro\u00dfe Dinge: Dyson-Sph\u00e4ren und Imperien mit unz\u00e4hligen Planeten. Wer ist m\u00e4chtiger? die F\u00f6deration der Planeten, das Galaktische Imperium oder ein einzelnes voll ausgebautes Sonnensystem? Anfangs gibt es Raumstationen wie die ISS, dann rotierende Raumkolonien, irgendwann einen Ring um die Erde. Und eine Ringwelt um die Sonne ist erst der Anfang, wenn man eine Dyson-Sph\u00e4re bauen will.\n\nDer m\u00f6gliche Weg von rotierenden Zylindern zur Kardashev II Zivilisation mit einer ganzen Sonne als Fusionsreaktor. Wie man das baut, was das dann bedeutet und ob man sowas \u00fcberhaupt braucht. Spoiler: Dyson-Sph\u00e4ren werden untersch\u00e4tzt. Sie sind gr\u00f6\u00dfer als man denkt und vieles ist ganz anders, als man aus Science Fiction kennt. Eigentlich k\u00f6nnen wir mit heutiger Technologie schon einen Dyson-Schwarm bauen. Wir haben sogar schon angefangen. Es ist nur verdammt viel Arbeit f\u00fcr die Bots. Aber dann gibt es fast unendlich viel Lebensraum und noch mehr Compute-Leistung.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33966605-2f0b-4c4d-b56e-d1956f5953af",
+      "name": "Wolfspelz",
+      "public_name": "Wolfspelz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/wolfspelz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/megastrukturen-und-galaktische-imperien-oder-wie-m",
+  "links": []
+}

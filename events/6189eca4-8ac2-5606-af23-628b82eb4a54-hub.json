@@ -1,0 +1,38 @@
+{
+  "guid": "6189eca4-8ac2-5606-af23-628b82eb4a54",
+  "code": "U9UGN3",
+  "id": 1562,
+  "date": "2025-12-28T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-cpu-entwicklung-in-factorio-vom-d-flip-flop-bis-zum-eigenen-betriebssystem",
+  "title": "CPU Entwicklung in Factorio: Vom D-Flip-Flop bis zum eigenen Betriebssystem",
+  "subtitle": null,
+  "language": "de",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Factorio ist ein Fabriksimulationsspiel mit integriertem Logiksystem. Dies erm\u00f6glichte mir den Bau einer CPU, die unter anderem aus einer 5-stufiger Pipeline, einer Forwarding Logikeinheit, Interrupt Handling sowie einem I/O Interface besteht. \u00dcber einen selbst geschriebenen Assembler konnte ich ein eigenes Betriebssystem und Programme wie Minesweeper oder Snake integrieren. \r\nDer Talk soll euch zeigen, wie sich klassische Computerarchitektur in einem v\u00f6llig anderen technischen Kontext umsetzen l\u00e4sst und wo dabei \u00fcberraschend echte Probleme der CPU-Entwicklung auftreten.\r\nKommt mit auf die Reise: Vom Blick auf den gesamten Computer bis hinunter zu den einzelnen Logikgattern ist es nur eine Mausradbewegung entfernt!",
+  "description": "Factorio ist ein Spiel \u00fcber Fabrikautomation - F\u00f6rderb\u00e4nder, Dampfmaschinen und Produktionsketten stehen im Vordergrund. Eigentlich ist das interne Logiksystem (\u201eCombinators\u201c) gedacht f\u00fcr die Steuerung der Fabrik, jedoch erlaubt es auch die Entwicklung komplexer Hardware.\n\nIn diesem Vortrag erz\u00e4hle ich meine Geschichte, wie ich eine vollst\u00e4ndige RISC-V-Architektur in Factorio  rein aus Vanilla-Combinators erschaffen habe:\nDie CPU arbeitet mit 32 Bit-W\u00f6rtern, verf\u00fcgt \u00fcber 32 General Purpose Register, 128 KB RAM/Persistent Storage, eine 5-stufige Pipeline mit Forwarding und Hazard-Handling sowie eine Logikeinheit f\u00fcr Branches und Interrupts. Ein Display-Controller steuert eine Konsolen-Ausgabe sowie ein Farbdisplay, w\u00e4hrend ein Keyboard-Controller Eingaben \u00fcber physische In-Game-Tasten erm\u00f6glicht.\n\nErg\u00e4nzt wird die Hardware auf der Softwareseite durch das Betriebssystem *FactOS*, das ein einfaches Filesystem sowie Systemcalls (zum Beispiel zum Drucken eines Strings im Terminal) zur Verf\u00fcgung stellt.  Au\u00dferdem schr\u00e4nkt das Betriebssystem das ausf\u00fchrende User-Programm auf einen festen Bereich des RAMs ein und verhindert so direkten Zugriff auf die Hardware.\n\nIm Talk m\u00f6chte ich euch durch alle Schichten dieser Konstruktion f\u00fchren:\nVon den Grundlagen der Factorio-Signalphysik \u00fcber CPU-Design und Pipeline-Hazards bis zur Toolchain und dem Betriebssystem. Au\u00dferdem gebe ich einen Einblick, wie die Limitierungen aber auch die Vorteile von Factorio im Vergleich zu herk\u00f6mmlichen Logik Simulatoren das Design einer CPU beeinflussen k\u00f6nnen. Ich runde meinen Talk mit einer Live-Demonstration des Systems ab.\n\nDie vollst\u00e4ndige CPU, inklusive Quellcode des Assemblers, Blueprints und Beispielprogramme, stelle ich \u00f6ffentlich zur Verf\u00fcgung. Dadurch kann jede interessierte Person die Architektur in Factorio laden, erweitern und eigene Software daf\u00fcr entwickeln.\n\nEs wird im Anschluss eine [Self-organized Session](https://events.ccc.de/congress/2025/hub/en/event/detail/cpu-entwicklung-in-factorio-wie-benutze-ich-phds-f) geben, in der ich eine hands-on Einleitung geben werde, wie man die CPU in Factorio l\u00e4dt, wie man Programme schreibt, diese assembliert und in Factorio einf\u00fcgt. Auch kann man dort gerne mit mir \u00fcber das Projekt quatschen, ich freue mich auf alle Beitr\u00e4ge und Kommentare :)\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/U9UGN3/intro_39c3_qwnzvh5_TkZaK4T_s5UzAmG.webp",
+  "persons": [
+    {
+      "guid": "36884e4a-5b3a-5419-8031-c5db7e18a4f3",
+      "name": "PhD (Philipp)",
+      "public_name": "PhD (Philipp)",
+      "avatar": "https://cfp.cccv.de/media/avatars/BXGCNF_Br1b5ev.JPG",
+      "biography": "Ich promoviere in Machine Learning in Karlsruhe. Wenn ich das mal nicht tue, besch\u00e4ftige ich mich mit esoterischen Logik-Simulatoren, 3d Druckern, Jonglage, oder mache Musik.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_36884e4a-5b3a-5419-8031-c5db7e18a4f3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cpu-entwicklung-in-factorio-vom-d-flip-flop-bis-zum-eigenen-betriebssystem",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/U9UGN3/",
+  "attachments": [
+    {
+      "url": "/media/39c3/submissions/U9UGN3/resources/39c3_014_PWAzC00.pdf",
+      "type": "related",
+      "title": "Folien (PDF export)"
+    }
+  ]
+}

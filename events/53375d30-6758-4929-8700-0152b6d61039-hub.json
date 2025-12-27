@@ -1,0 +1,30 @@
+{
+  "guid": "53375d30-6758-4929-8700-0152b6d61039",
+  "code": null,
+  "id": 533753,
+  "date": "2025-12-28T00:30:00+01:00",
+  "start": "00:30",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-shitty-robot-workshop",
+  "title": "Shitty Robot Workshop (until 8 a.m.)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We build Robots from garbage and need more garbage!\n\nBring your elektronic waste und soldering iron, multimeter and hammer!\n\nMicrocontrollers and other \"reasonable\" elektronic components alre also welcome!\n\nNo limits on age, no limits on weight and no limits on technology!\n\nOn Day 3 we let the robots battle each other : https://events.ccc.de/congress/2025/hub/en/event/detail/shitty-robot-battle\n\nThe system says that the workshop ends at 1:50, but we do not stop then ;-)\nWe plan to tinker until 8 a.m.\n\n\nThere ist a box in Saal D where you can drop hardware.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d5128de4-1832-49a7-a0f1-975d90981f7c",
+      "name": "Neo",
+      "public_name": "Neo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/neo"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/shitty-robot-workshop",
+  "links": []
+}

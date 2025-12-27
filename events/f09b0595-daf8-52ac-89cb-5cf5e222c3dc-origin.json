@@ -1,0 +1,36 @@
+{
+  "guid": "f09b0595-daf8-52ac-89cb-5cf5e222c3dc",
+  "code": "HGXNMU",
+  "id": 1880,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/HGXNMU/Picture1_lYvtBj8.jpg",
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-1880-bitunlocker-leveraging-windows-recovery-to-extract-bitlocker-secrets",
+  "url": "https://cfp.cccv.de/39c3/talk/HGXNMU/",
+  "title": "BitUnlocker: Leveraging Windows Recovery to Extract BitLocker Secrets",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "This talk reveals our in-depth vulnerability research on the Windows Recovery Environment (WinRE) and its implications for BitLocker, Windows\u2019 cornerstone for data protection. We will walk through the research methodology, uncover new 0-day vulnerabilities, and showcase full-chain exploitations that enabled us to bypass BitLocker and extract all the protected data in several different ways. This talk goes beyond theory - as each vulnerability will be accompanied by a demo video showcasing the complete exploitation chain. To conclude the talk, we will share Microsoft\u2019s key takeaways from this research and outline our approach to hardening WinRE and BitLocker.",
+  "description": "In Windows, the cornerstone of data protection is BitLocker, a Full Volume Encryption technology designed to secure sensitive data on disk. This ensures that even if an adversary gains physical access to the device, the data remains secure and inaccessible.\r\n\r\nOne of the most critical aspects of any data protection feature is its ability to support recovery operations in case of failure. To enable BitLocker recovery, significant design changes were implemented in the Windows Recovery Environment (WinRE). This led us to a pivotal question: did these changes introduce any new attack surfaces impacting BitLocker?\r\n\r\nIn this talk, we will share our journey of researching a fascinating and mysterious component: WinRE. Our exploration begins with an overview of the WinRE architecture, followed by a retrospective analysis of the attack surfaces exposed with the introduction of BitLocker. We will then discuss our methodology for effectively researching and exploiting these exposed attack surfaces. Our presentation will reveal how we identified multiple 0-day vulnerabilities and developed fully functional exploits, enabling us to bypass BitLocker and extract all protected data in several different ways.\r\n\r\nNotably, the findings described reside entirely in the software stack, not requiring intrusive hardware attacks to be exploited.\r\n\r\nFinally, we will share the insights Microsoft gained from this research and explain our approach to hardening and further securing WinRE, which in turn strengthens BitLocker.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "EUEMCQ",
+      "name": "Alon Leviev",
+      "avatar": "https://cfp.cccv.de/media/avatars/EUEMCQ_Adsc9GX.jpg",
+      "biography": "Alon Leviev (@alon_leviev) is a self-taught security researcher working with the Microsoft Offensive Research & Security Engineering (MORSE) team. Alon specializes in low-level vulnerability research targeting hardware, firmware, and Windows boot components. He has presented his findings at internationally recognized security conferences such as DEF CON 33 (2025), DEF CON 32 (2024), Black Hat USA 2025, Black Hat USA 2024, Black Hat EU 2023, CanSecWest 2024, and others. Prior to his career in cybersecurity, Alon was a professional Brazilian jiu-jitsu athlete, winning several world and European titles.",
+      "public_name": "Alon Leviev",
+      "guid": "acbdaf7b-e52a-51c0-8976-0a5507dd39da",
+      "url": "https://cfp.cccv.de/39c3/speaker/EUEMCQ/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/HGXNMU/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/HGXNMU/",
+  "attachments": []
+}

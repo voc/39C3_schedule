@@ -1,0 +1,32 @@
+{
+  "guid": "f4ec63d8-c7da-5169-82d1-4a2abadfa4d5",
+  "code": "PEV3PU",
+  "id": 463875,
+  "date": "2025-12-29T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-packet-analysis-for-beginners-flinta-only",
+  "title": "Packet Analysis for Beginners for FLINTA - an IoT toy, some packets, and Wireshark",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "What can we learn from ordinary packets on the wire, using a disconcerting IoT toy ordered online as a demo device? How can you tell when something is phoning home? In this workshop, we\u2019ll use Wireshark to observe what devices send and receive during regular operation",
+  "description": "Please download and install wireshark and the course material before you arrive!\nhttps://www.wireshark.org/download.html\nhttps://codeberg.org/katalyst/39c3-packet-analysis-workshop-material\n\nI will be around for an hour beforehand in the Haecksen Assembly if you need help with installing, but pls have the files downloaded.\n\nThis workshop is for the curious!  You don't need to know anything in advance.\n\nAs stated in the title, the workshop is FLINTA only,\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5395844e-0836-5890-8ed2-3a69fd251b0d",
+      "name": "katalyst",
+      "public_name": "katalyst",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/AUFEDD_lhvtCYu.webp",
+      "biography": "katalyst is involved in the security haecksen\nshe/her\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5395844e-0836-5890-8ed2-3a69fd251b0d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/packet-analysis-for-beginners-flinta-only",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/PEV3PU/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/PEV3PU/feedback/"
+}

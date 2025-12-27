@@ -1,0 +1,30 @@
+{
+  "guid": "f58a9113-3cd2-46ae-b85e-6962fce66547",
+  "code": null,
+  "id": 589113,
+  "date": "2025-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:30",
+  "room": "Kidspace - Affenfelsen",
+  "slug": "39c3-hakeln-fur-anfanger",
+  "title": "H\u00e4keln f\u00fcr Anf\u00e4nger",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "H\u00e4keln f\u00fcr Anf\u00e4nger",
+  "description": "Stricken ... zwei Nadeln ... das klingt kompliziert. Reduzieren wir ...\n\nH\u00e4keln ... nur eine Nadel ... schon besser ... oder? Wie war das gleich noch mal? Luftmaschen, Kettmaschen, feste Maschen ... doch zu kompliziert?\n\nIch, elzbeth, bringe Wolle und ein paar H\u00e4kelnadeln mit und dann k\u00f6nnen wir versuchen das R\u00e4tsel der Maschen zu l\u00f6sen und zumindest f\u00fcr den Anfang eine Kette zu produzieren.\n\nOb ihr bereits Erfahrung habt oder noch nicht, kommt gerne vorbei.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
+      "name": "elzbeth",
+      "public_name": "elzbeth",
+      "avatar": null,
+      "biography": "You can find me in Kidspace.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hakeln-fur-anfanger",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "d9459a91-792a-5e64-aea1-b20f7bd33535",
+  "code": "HLCWZS",
+  "id": 83762,
+  "date": "2025-12-28T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-the-freak-show-clubhouse",
+  "title": "The Freak Show Clubhouse",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Die Freak Show und alle H\u00f6rerinnen und H\u00f6rer machen eine Sendung als Gespr\u00e4ch",
+  "description": "Im Clubhouse-Style trifft das Freak Show Team auf seine H\u00f6rer. Jeder kann mitmachen. Werde zum Freak Show Host f\u00fcr 5 Minuten. Wir diskutieren mit Euch jedes fr\u00fchere oder k\u00fcnftige Thema und sind uns auch f\u00fcr Hot Takes nicht zu schade.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/HLCWZS/freak-show-logo-1400x1400_3AOAynB.jpg",
+  "persons": [
+    {
+      "guid": "f1d36b8e-7ca5-544d-a725-ecdf50c7957c",
+      "name": "Tim Pritlove",
+      "public_name": "Tim Pritlove",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/97391367796db965d19e63b690e72b3d_dxPeImC.jpg",
+      "biography": "Diskordischer Evangelist, Professioneller Amateur, Dedizierter Podcaster\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f1d36b8e-7ca5-544d-a725-ecdf50c7957c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-freak-show-clubhouse",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HLCWZS/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HLCWZS/feedback/"
+}

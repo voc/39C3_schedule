@@ -1,0 +1,31 @@
+{
+  "guid": "85f3cd1a-fe3a-56f8-8b41-aa7a75ce8f28",
+  "code": null,
+  "id": 300110,
+  "date": "2025-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-the-mask-off-moment-for-digital-identity",
+  "title": "The Mask-Off Moment for Digital Identity",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Digital identity is sold as a path to trust, inclusion, and \"digital empowerment.\" In practice, it is a brittle control surface: a set of design choices that decide who is seen, who is excluded, and who can be targeted at scale.\r\n\r\nBorn from a landmark research project, _The Digital Identity Event Horizon_, this talk describes the 2025 \"mask-off moment\" for digital identity: the point where multiple comforting narratives collapse and the core use of identity systems as population-management infrastructure becomes hard to deny. Using short vignettes from New Design Congress case-study work (Estonia, the US, Australia, Gaza, and others), it shows how ambiguity, vendor incentives, and governance theatre turn identity into fraud-permissive, coercion-ready infrastructure\r\n\r\nIn response to this decline, this talk concludes proposes a working model of the digital self as a socio-technical system with six properties: serialisation, custodianship, presentation, authentication, authorisation, and assetisation, and offers new framing and threat models to help understand how digital identity creates brittle societies.",
+  "description": "Despite decades of cryptography, security practice, and best practice deployment, digital identity remains the weakest link in systems design because its core terms stay vague while its consequences are concrete. What does it actually take to assemble a digital identity? What do different implementations share, even when they claim to be radically different? And what happens when those definitions are left elastic enough to serve whoever holds power?\n\n\"The mask-off moment\" tracks the convergence of capability (biometrics, sensors, AI triage, mass digitisation), institutional incentives (risk scoring, eligibility gates, compliance automation), and political will. The result is an emerging form of bureaucratic violence we are not prepared to name, much less govern.\n\nThis talk traces how digital identity became weapon-ready through optimistic framing and opportunistic ambiguity, then offers a concrete frame to interrogate any proposal: what it will do on its best day, what it will do on its worst day, and which parts of the system will be impossible to \u201cadd accountability to later.\u201d The intended audience is policymakers, technologists, designers, and civil-society people who are tired of vague promises and want a usable model that survives contact with reality.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/ZPSSNE/ndc_digital_identity-lq_G7MC1GU.png",
+  "persons": [
+    {
+      "guid": "ef0fcb8c-1910-5022-9fb1-76d88a4461db",
+      "name": "Cade Diehm",
+      "public_name": "Cade Diehm",
+      "avatar": "https://pretalx.riat.at/media/avatars/cade-diehm-b_w_hu10645561143209146470_PkCaRZW.png",
+      "biography": "Cade is the Head of Research at the World Ethical Data Foundation, and founder of New Design Congress and Para-Real Limited, an R&D research lab.\n\nWith a multi-disciplinary background in information security, interface politics and digital anthropology, Cade and his team study technology's macro-influence on subcultures, economic livelihoods, identity, conflict and ecological relationships. As New Design Congress' founder, Cade leads an ambitious research programme that anticipates how digital dependence creates brittle societies by accelerating risks across economics, infrastructure, identity, and ecology.\n\nPrior to founding New Design Congress, Cade was a security researcher at Tactical Tech, a Berlin-based NGO focused on digital rights. He contributed to Signal\u2019s initial launch in the early 2010s, and headed a design-led security practice at SpiderOak, a pioneering zero-knowledge cloud storage company. Cade\u2019s work has informed a wide range of projects and organisations, from the European Parliament and the Pontifical Academy of Sciences, to PEN America and VRChat. He serves on the executive board of the Australian and New Zealand Society for Ecological Economics and the observer board of the Digital Credentials for Europe (DC4EU), a European Union Digital Europe Programme pilot. From 1999 to 2006, Cade represented Australia in international disability swimming, and holds Australian and world records.\n\nCade resides in Berlin with his partner and two Shiba Inus, Ripley and Kodak.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ef0fcb8c-1910-5022-9fb1-76d88a4461db"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-mask-off-moment-for-digital-identity",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/ZPSSNE/"
+}

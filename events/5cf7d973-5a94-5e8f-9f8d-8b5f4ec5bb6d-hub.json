@@ -1,0 +1,31 @@
+{
+  "guid": "5cf7d973-5a94-5e8f-9f8d-8b5f4ec5bb6d",
+  "code": "SMWCFE",
+  "id": 2293,
+  "date": "2025-12-27T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-developing-new-medicines-in-the-age-of-ai-and-personalized-medicine",
+  "title": "Developing New Medicines in the Age of AI and Personalized Medicine",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "Did you ever wonder where all the drugs, which you can get at a pharmacy, come from? Who makes them, and how? Well, there is no easy answer, because the process of drug discovery and development is a very complex, expensive, and challenging journey, riddled with many risks and failures. This holds true for all types of drugs, from a simple pill to an mRNA vaccine or a gene therapy. Today, scientists support this process with a variety of AI applications, cutting-edge technologies, automation, and a huge amount of data. But can the race for new medicines and cures succeed only through more technology, or do we need to rethink the entire process? Let\u2019s take a look at how the drug discovery and development process has worked so far, and how this entire process is changing \u2013 for better or worse.",
+  "description": "After presenting a high-level overview of the path from an idea to the medicine that you can buy at a pharmacy, this talk will present and discuss the following aspects of the drug discovery and development process:\n(1) The translation of an idea into a drug for a human patient faces many critical moments along the development process. This so-called \u201ctranslational gap\u201d is addressed through experiments in a test tube (or Petri dish), experimentation in lab animals, and eventually testing in humans. However, findings in a standard cell line or in a mouse do not necessarily reflect the complexity of biological processes in a human patient. Currently, there are many technological advancements under way to improve the current drug discovery and development process, and possibly even replace animal studies in the future (e.g., organs-on-chip). Nevertheless, the fundamental issues surrounding translational research remain, such as the lack of standardization, the limitations of model systems, and various underlying clinical biases.\n(2) Like in many industries today, AI applications are introduced at multiple levels and for various purposes within the drug discovery and development continuum. Often, a lot of hope is placed in AI-based technologies to accelerate the R&D process, increase efficiency and productivity, and identify new therapeutic approaches. Indeed, there are many highly useful examples, such as the automation of image analysis in research, which replaces repetitive tasks and hence frees up a lot of time for researchers to do meaningful research. However, there are also many applications that are likely misguided, because they still face fundamental problems in evaluating scientific knowledge. For instance, the use of LLMs to summarize huge amounts of very complex and heterogeneous scientific data relies on the accuracy, completeness, and reproducibility of the available scientific data, which is often not the case. In addition, AI is often employed in an IT environment with questionable data security and ownership practices, such as the storage of sensitive research data on third-party cloud platforms.\n(3) Until now, the overwhelming majority of drugs have been developed to treat large patient populations, which represent a considerable market and ultimately ensure a return on investment. Today, however, most common and homogeneous diseases can already be managed, often with several (generic) drugs. Slight improvements to current drugs do not justify a large profit margin anymore, so the focus of drug discovery and development is shifting toward more heterogeneous and rare diseases, for which no or only poor treatments are available. Novel medicines in those disease areas hold the promise of substantial improvement for patients; however, these new patient (sub)populations, and thus markets, are much smaller, leading to premium prices for individualized therapies in order to ensure a return on investment. This paradigm shift toward individualized therapy - referred to as precision and personalized medicine - is supported by the advent of novel technologies and the accumulation of large bodies of data.\n(4) The rise of precision and personalized medicine is challenging the current business model of today\u2019s pharmaceutical industry, suggesting that the era of blockbuster drugs might be over. Moreover, many intellectual property rights for blockbuster drugs are going to expire in the next few years, ending the market dominance of a number of pharma companies and sending the current industry landscape into turmoil. These developments will likely alter the current modus operandi of the entire biopharmaceutical development process, and it is not clear how the next few years will look like.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0e228722-2bac-5742-b9d6-efc1f0ecc848",
+      "name": "Dennis \u00d6zcelik",
+      "public_name": "Dennis \u00d6zcelik",
+      "avatar": null,
+      "biography": "Dennis \u00d6zcelik is a trained biochemist who has spent many years in academic and applied research in the areas of (bio)pharmaceutical and biomedical sciences. Over the past five years, he has been working in the industry as a project and team lead in drug discovery and development. In this role, he has also explored and evaluated AI applications, albeit with varying degrees of success. Early next year, he will transition back to academia, taking up a professorship in Freising (Munich area).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0e228722-2bac-5742-b9d6-efc1f0ecc848"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/developing-new-medicines-in-the-age-of-ai-and-personalized-medicine",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/SMWCFE/"
+}

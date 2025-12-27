@@ -1,0 +1,31 @@
+{
+  "guid": "00bf0232-c80e-596e-a4c7-2a69ee9af06c",
+  "code": null,
+  "id": 100430,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-einfuhrung-in-den-online-editor-id_aq8m",
+  "title": "Einf\u00fchrung in den Online-Editor iD",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "In dieser Session wird euch der Online-Editor iD vorgestellt werden, mit dem ihr zu OpenStreetMap beitragen k\u00f6nnt. W\u00e4hrend der Session k\u00f6nnt ihr Fragen zum Beitragen zu OpenStreetMap, dem Mappen, stellen.\r\n\r\nUm zu OpenStreetMap beizutragen, ist ein Benutzerkonto erforderlich. Gerne d\u00fcrft ihr euch vor der Session ein OpenStreetMap-Konto anlegen, dazu ben\u00f6tigt ihr nur einen Benutzernamen und eine g\u00fcltige E-Mail-Adresse.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c765c9b7-5796-5a74-b77c-2ee51c7ce423",
+      "name": "Nakaner",
+      "public_name": "Nakaner",
+      "avatar": null,
+      "biography": "OpenStreetMap contributor and software developer since 2011\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c765c9b7-5796-5a74-b77c-2ee51c7ce423"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-in-den-online-editor-id_aq8m",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/MRPVWV/"
+}

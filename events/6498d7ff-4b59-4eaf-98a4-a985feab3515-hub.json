@@ -1,0 +1,30 @@
+{
+  "guid": "6498d7ff-4b59-4eaf-98a4-a985feab3515",
+  "code": null,
+  "id": 649874,
+  "date": "2025-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-hackspace-entwicklung-einer-app-fur-die-dezentrali",
+  "title": "Hackspace Entwicklung einer App f\u00fcr die Dezentralisierung von Gutscheintauschangeboten",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In Leipzig, the initiative Nein zur Bezahlkarte (\u201cNo to the Payment Card\u201d) has been organizing a solidarity-based voucher exchange for over a year to circumvent the harassment and discrimination of asylum seekers caused by the payment card system. The voucher exchange has now reached a scale that presents us with organizational challenges:\n1.  To organize the exchange as coordinately as possible\u2014and thus as fairly and stress-free as possible for everyone interested in exchanging\u2014we work with a registration system. This requires a great deal of communication, which currently takes place via WhatsApp. As demand and thus the number of requests continue to grow, the communication effort can hardly be managed in this way any longer.\n2.  We constantly need more money to meet the growing demand. This leads to an ever-increasing cash reserve that must be managed by the initiative. We therefore want to decentralize our offering\u2014and with it the cash reserve\u2014and empower more small groups and initiatives to create decentralized exchange offers that are nevertheless coordinated with each other.\n    To this end, we have developed an app idea intended to serve as a platform where exchange offers created in a decentralized manner can be posted, and which people with payment cards who want to exchange vouchers for cash can access in a low-hierarchy way to search for an exchange offer. The app is intended to be available nationwide for the dozens of exchange initiatives. In this way, it aims to help ensure that the voucher exchange\u2014emerging in many places from spontaneous solidarity-based practice\u2014can remain possible in the long term, as long as the discriminatory practice of payment cards is not abolished by federal legislation.\n    We have developed a basic structure for the app, which is to be implemented by two developers next year. At the SoS, we would like to invite people to a hackspace in order to present the development of the app and reach out to more people with coding skills, and to motivate them to support the work.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e6bd7fb9-1bc6-4c72-8041-f9da0bc9049d",
+      "name": "neinzurbezahlkarte",
+      "public_name": "neinzurbezahlkarte",
+      "avatar": null,
+      "biography": "As local initiatives against the payment card, we organize solidarity voucher exchanges and resistance against racist policies. As the nationwide network \u201cEqual Social Rights for All,\u201d we take a united political stand against socio-political injustices and racism.\n\nEnd the exclusion of marginalized groups! Cash for all!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/neinzurbezahlkarte"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hackspace-entwicklung-einer-app-fur-die-dezentrali",
+  "links": []
+}

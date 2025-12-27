@@ -1,0 +1,32 @@
+{
+  "guid": "db1accde-4cc8-5a89-b3b3-6b03fc996856",
+  "code": "SJZYNC",
+  "id": 500082,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Wohnzimmerb\u00fchne",
+  "slug": "39c3-jugend-hackt-meetup",
+  "title": "Jugend hackt-Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Triff das Reisealpaka und tausch dich aus.",
+  "description": "Die Gelegenheit auf dem Congress f\u00fcr alle aus dem Jugend hackt-Kosmos zusammen zu kommen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e5199813-1b72-57ee-a929-f086298855a0",
+      "name": "Jugend hackt-Team",
+      "public_name": "Jugend hackt-Team",
+      "avatar": null,
+      "biography": "Wir freuen uns auf euch!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e5199813-1b72-57ee-a929-f086298855a0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/jugend-hackt-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/SJZYNC/",
+  "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/SJZYNC/feedback/"
+}

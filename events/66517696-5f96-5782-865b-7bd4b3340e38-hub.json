@@ -1,0 +1,40 @@
+{
+  "guid": "66517696-5f96-5782-865b-7bd4b3340e38",
+  "code": "E3ZEZS",
+  "id": 83753,
+  "date": "2025-12-29T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-reden-ber-radfahren-deutschsprachige-fahrradpodcasts",
+  "title": "Reden \u00fcber Radfahren - deutschsprachige Fahrradpodcasts",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Aktuell sind mir 99 deutschsprachige Fahrradpodcasts bekannt - vermutlich seit 2009. Eine eigene kleine Nische, die ich euch vorstellen m\u00f6chte.",
+  "description": "In Zusammenarbeit mit dem grandiosen Magazin fahrstil habe ich 2024 alle deutschsprachigen Fahrradpodcasts herausgesucht - es waren ca. 70. Mittlerweile sind es 99 und ich bin mir sicher, immer noch nicht Alle gelistet zu haben: https://podcasts.regines-radsalon.de\n\nWas hat es mit dieser Podcaster*innen-Community auf sich und was l\u00e4sst sich mit so einer Sammlung anstellen? Erstaunlich ist, da\u00df fast alle gefundenen Podcasts noch vollst\u00e4ndig im Netz auffindbar sind.\n\nEs bleibt vermutlich work in progress in vielerlei Hinsicht. Manches geht und ist sogar unterhaltsam wie etwa die FahrradPodcastAdventsrallye, die im Dezember 2025 zum dritten Mal im Fediverse stattfinden wird. Anderes wird vermutlich nie richtig funktionieren wie etwa konsistente Daten aller deutschsprachigen Fahrradpodcasts zu etwa dem Genderverh\u00e4ltnis der G\u00e4stys zu bekommen.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/E3ZEZS/Bildschirmfoto_2025-11-10_u_jbdywHD.png",
+  "persons": [
+    {
+      "guid": "cb066809-1b39-5fa1-a876-e1ae73c4206d",
+      "name": "Regines Radsalon",
+      "public_name": "Regines Radsalon",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/FACFAP_g7CbX4Q.jpg",
+      "biography": "Reden \u00fcber Radfahren seit 2015\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cb066809-1b39-5fa1-a876-e1ae73c4206d"
+    },
+    {
+      "guid": "6706272c-ac87-5791-b00a-7e0a31c661b4",
+      "name": "Diana",
+      "public_name": "Diana",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6706272c-ac87-5791-b00a-7e0a31c661b4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/reden-ber-radfahren-deutschsprachige-fahrradpodcasts",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/E3ZEZS/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/E3ZEZS/feedback/"
+}

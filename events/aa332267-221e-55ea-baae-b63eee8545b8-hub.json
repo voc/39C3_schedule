@@ -1,0 +1,39 @@
+{
+  "guid": "aa332267-221e-55ea-baae-b63eee8545b8",
+  "code": null,
+  "id": 300120,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-what-can-a-mixnet-do-strategies-for-network-level-",
+  "title": "\"What can a mixnet do? Strategies for network-level anonymity\"",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "This workshop will introduce mixnet technology as a tool to achieve network-level anonymity for internet traffic. We will see hands on how a mixnet works, where the idea came from, and discuss other strategies for protecting privacy online against state and corporate surveillance.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fcf97edc-b674-5209-b742-d0971d8da8d5",
+      "name": "Alexis Roussel",
+      "public_name": "Alexis Roussel",
+      "avatar": "https://pretalx.riat.at/media/avatars/Alexis_Roussel_-_COO_512x512_1JBnxIt.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fcf97edc-b674-5209-b742-d0971d8da8d5"
+    },
+    {
+      "guid": "0e5d1f73-558f-5f57-a5c2-7d6ea134148c",
+      "name": "Casey Ford",
+      "public_name": "Casey Ford",
+      "avatar": null,
+      "biography": "Casey has a PhD in Philosophy from the University of Guelph. He is currently researching anti-surveillance and anarchist technologies. He is the Comms Lead and lead writer for Nym.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0e5d1f73-558f-5f57-a5c2-7d6ea134148c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/what-can-a-mixnet-do-strategies-for-network-level-",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/TGC97J/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "b68bc41b-0f54-418d-88e9-4088067c3731",
+  "code": null,
+  "id": 684105,
+  "date": "2025-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-look-what-i-found-osint-resources-in-conflicts",
+  "title": "Look what I found! OSINT resources in conflicts",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In the context of russia's war of aggression against Ukraine, open-source intelligence (OSINT) plays a significant role in public perception. We will briefly examine some interesting sources and tools and consider what information they make publicly available.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b0350d3a-e356-4def-b67a-d20a809e21e4",
+      "name": "mfi",
+      "public_name": "mfi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/mfi"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/look-what-i-found-osint-resources-in-conflicts",
+  "links": []
+}

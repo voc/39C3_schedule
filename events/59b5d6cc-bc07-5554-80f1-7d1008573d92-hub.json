@@ -1,0 +1,31 @@
+{
+  "guid": "59b5d6cc-bc07-5554-80f1-7d1008573d92",
+  "code": "RGKKJ9",
+  "id": 2040,
+  "date": "2025-12-27T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-brennende-walder-und-kommentarspalten-klimaupdate-mit-bits-baume-und-dem-fragdenstaat-climate-helpdesk",
+  "title": "Brennende W\u00e4lder und Kommentarspalten - Klimaupdate mit dem FragDenStaat Climate Helpdesk",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Das Klima-Update vom FragDenStaat Climate Helpdesk.",
+  "description": "Chatgpt hat (bald) mehr Nutzer*innen als Wikipedia, OpenAI will in Zukunft den Energieverbrauch von Indien haben und das notfalls auch mit fossilen Energien. Der Energiehunger der k\u00fcnstlichen Intelligenz und der globale Ressourcenhunger f\u00fcr Chips und Elektroautos scheint den Rest Hoffnung einer klimagerechten Welt aufzufressen.\n\nAuch in Deutschland finden wir uns in den Wasserk\u00e4mpfen wieder, w\u00e4hrend global l\u00e4ngst Bewegungen gegen wasserhungrige Konzerne und Rechenzentren zusammenflie\u00dfen. Auf der ganzen Welt, von Lateinamerika bis Portugal und Serbien wehren sich Menschen gegen den Abbau des wei\u00dfen Goldes Lithium, das f\u00fcr Elektroautos und Chips ben\u00f6tigt wird. Zusammen mit W\u00e4ldern brennen auch die Kommentarspalten und die staatlichen Repressionen gegen Klimaaktivismus nehmen zu. Ich m\u00f6chte einen \u00dcberblick geben zum Zustand unserer Erde und der Klimabewegung und was Hacker*innen f\u00fcr die Rettung des Planeten k\u00f6nnen und welche Tech-Milliard\u00e4re wir daf\u00fcr bek\u00e4mpfen m\u00fcssen.\n\nIch bin Joschi (they/them) vom FragDenStaat Climate Helpdesk. Ich bringe 10 Jahre Erfahrung in der Klimabewegung und Expertise f\u00fcr verschiedene Themen rund um Nachhaltigkeit und Digitalisierung mit.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/RGKKJ9/Blaumeise_mitSchluessel_3ilt6je_mnmsVSy_TJkZuFo.webp",
+  "persons": [
+    {
+      "guid": "fa057a08-f4bb-54bd-a3e7-aaca487a05cd",
+      "name": "Joschi Wolf",
+      "public_name": "Joschi Wolf",
+      "avatar": null,
+      "biography": "Joschi ist Klimareferent*in bei FragDenStaat. They ist Journalist*in, Bildungsreferent*in und Umweltingenieur*in und ist seit \u00fcber zehn Jahren in der Umwelt- und Klimagerechtigkeitsbewegung aktiv.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fa057a08-f4bb-54bd-a3e7-aaca487a05cd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/brennende-walder-und-kommentarspalten-klimaupdate-mit-bits-baume-und-dem-fragdenstaat-climate-helpdesk",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/RGKKJ9/"
+}

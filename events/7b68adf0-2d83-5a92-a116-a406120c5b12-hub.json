@@ -1,0 +1,32 @@
+{
+  "guid": "7b68adf0-2d83-5a92-a116-a406120c5b12",
+  "code": "JTW7KR",
+  "id": 1408,
+  "date": "2025-12-30T03:00:00+01:00",
+  "start": "03:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-project-poltergeist",
+  "title": "Project Poltergeist",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Project Poltergeist Live [Hard Techno, Psytrance, Hard Dance]",
+  "description": "A formidable force in electronic music, Project Poltergeist has carved out a distinctive space in the hard electronic music scene. Specializing in a razor-sharp blend of harder electronic dance genres, this solo artist has become a pivotal act on the Chaos circuit. Known for delivering high-energy sets that push the boundaries of electronic sound, Project Poltergeist has earned a reputation as a must-see performer. His ability to seamlessly navigate between aggressive techno, driving Hardtrance and Psytrance rhythms has made him a standout act, consistently drawing massive crowds and becoming a highlight of major Chaos events.\n\n\n\nhttps://linktr.ee/projectpoltergeist\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/JTW7KR/Poltergeist_Lo_fhSsCvg.jpg",
+  "persons": [
+    {
+      "guid": "be0b731a-0276-5ce1-8a23-06f38856b46b",
+      "name": "Alexeyan",
+      "public_name": "Alexeyan",
+      "avatar": "https://cfp.cccv.de/media/avatars/GJR8RJ_NJKsea5.jpg",
+      "biography": "Security Research & Chaos @ CCC Darmstadt\nDJ @ Project Poltergeist\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_be0b731a-0276-5ce1-8a23-06f38856b46b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/project-poltergeist",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JTW7KR/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JTW7KR/feedback/"
+}

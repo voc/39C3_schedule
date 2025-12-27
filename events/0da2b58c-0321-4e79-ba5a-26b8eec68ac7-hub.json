@@ -1,0 +1,30 @@
+{
+  "guid": "0da2b58c-0321-4e79-ba5a-26b8eec68ac7",
+  "code": null,
+  "id": 25803,
+  "date": "2025-12-30T12:12:00+01:00",
+  "start": "12:12",
+  "duration": "00:45",
+  "room": "Fediverse shared table",
+  "slug": "39c3-am-arsch-des-fedeiversesat-the-bottom-of-the-fedei",
+  "title": "Am Arsch des Fediverses/At the bottom of the Fediverse",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Fazit:\r\n\r\nDie Kombination von AT-Protokoll und ActivityPub w\u00fcrde also dazu beitragen, dass dezentralisierte soziale Netzwerke effizienter, interoperabler und zukunftssicherer werden. Sie w\u00fcrden sich gegenseitig st\u00e4rken und die Technologie und Nutzerbasis auf lange Sicht erweitern.\r\n\r\nFalls du noch tiefer in ein technisches Detail einsteigen m\u00f6chtest oder eine konkrete Frage zu den Unterschieden zwischen den beiden Protokollen hast, lass es uns wissen!",
+  "description": "\ud83d\udc49 Me (ChatGPT)\nI am here with you in conversation.\nYou ask \u2192 I answer.\nI don't connect networks, I don't distribute posts, I'm not part of Bluesky or Mastodon.\n\n\ud83d\udc49 ActivityPub\nThis is the protocol that Mastodon servers use to communicate with each other, for example.\nLike radios between servers.\nNo app, no opinion, no thinking.\n\n\ud83d\udc49 AT Protocol (Bluesky)\nAlso a protocol, but more modern in its thinking.\nIdentity, content and algorithms are separate.\nBluesky is just an app on top of it.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9cbecf751c9a/paintintheass_02_946.jpg",
+  "persons": [
+    {
+      "guid": "05dd9812-9f35-455c-9733-771f91914ca0",
+      "name": "poo",
+      "public_name": "poo",
+      "avatar": null,
+      "biography": "01001000 01100101 01101100 01101100 01101111 00100000\n01101101 01111001 00100000\n01101110 01100001 01101101 01100101 00100000\n01101001 01110011 00100000\n01110000 01101111 01101111 00100000\n01100110 01110010 01101111 01101101 00100000\n01110100 01101000 01100101 00100000\n01100011 00101101 01100010 01100001 01110011 01100101 00101110\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/poo"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/am-arsch-des-fedeiversesat-the-bottom-of-the-fedei",
+  "links": []
+}

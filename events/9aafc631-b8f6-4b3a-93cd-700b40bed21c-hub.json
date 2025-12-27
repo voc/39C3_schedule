@@ -1,0 +1,30 @@
+{
+  "guid": "9aafc631-b8f6-4b3a-93cd-700b40bed21c",
+  "code": null,
+  "id": 963186,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-astrology-as-a-reflection-tool-for-daily-routines-",
+  "title": "Astrology as System of thought for Daily Routines (No Fate, No Woo)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Astrology is usually associated with horoscopes, prediction, or belief systems. In this self-organised session, we\u2019ll test a different idea: using astrology as a symbolic language to reflect on daily routines, decision-making, and energy management \u2014 without fate, mysticism, or \u201cthe stars made me do it\u201d.\n\nThe session is interactive and experimental. We\u2019ll look at how astrological concepts can function similarly to tools people already use: retrospectives, calendars, personality models, or context-setting frameworks.\n\nThis is not about accuracy, belief, or convincing anyone. It is about usability:\n\nDoes this framing help reflection?\n\nWhere does it break down?\n\nWhen does it become annoying or meaningless?\n\nNo astrology background required. Critical perspectives are explicitly invited.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5a80181f-4196-486a-8019-292a551c2b92",
+      "name": "katy13",
+      "public_name": "katy13",
+      "avatar": null,
+      "biography": "Connect with me: https://mastodon.social/@kaitiwu\nGet to know more about the European Citizen Science Association (ECSA):\n- https://www.ecsa.ngo/\n- https://mastodon.social/@ECSA\n  Learn how to initiate your own Citizen Science Project: https://moodle.citizenscience.eu/\n  Learn more about the RIECS-Concept Project: https://cordis.europa.eu/project/id/101188210/de\n  Connect with the RIECS-Concept Project: https://mastodon.social/@riecs_concept\n  Sign up to be interviewed and shape the concept of Research Infrastructure for Excellent Citizen Science for Europe\n- https://forms.gle/uVpB2uL6j8eufdZVA\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/katy13"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/astrology-as-a-reflection-tool-for-daily-routines-",
+  "links": []
+}

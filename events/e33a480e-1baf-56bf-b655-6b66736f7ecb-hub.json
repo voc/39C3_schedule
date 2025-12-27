@@ -1,0 +1,32 @@
+{
+  "guid": "e33a480e-1baf-56bf-b655-6b66736f7ecb",
+  "code": "LTEEXQ",
+  "id": 83771,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-aaa-ask-advi-anything",
+  "title": "AAA - Ask Advi Anything",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop B\u00fchne",
+  "abstract": "Es gab den Wunsch nach Creator AmA Sessions. Ich w\u00fcrde hiermit eine anbieten. Ich bin aber definitiv remote. ^^",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7625022d-f3bb-58d4-bae1-aab0a6144a3f",
+      "name": "Thomas Brandt",
+      "public_name": "Thomas Brandt",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/Thomas_btW7hKl.png",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7625022d-f3bb-58d4-bae1-aab0a6144a3f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/aaa-ask-advi-anything",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LTEEXQ/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LTEEXQ/feedback/"
+}

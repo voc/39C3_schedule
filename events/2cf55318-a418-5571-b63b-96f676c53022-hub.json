@@ -1,0 +1,31 @@
+{
+  "guid": "2cf55318-a418-5571-b63b-96f676c53022",
+  "code": null,
+  "id": 100440,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-kann-ki-uns-den-klima-aktivismus-abnehmen-aus-sich",
+  "title": "\"Kann KI uns den Klima Aktivismus abnehmen?\" - aus Sicht eines Jugend-Umwelt-Verbandes",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "\"Kann KI uns den Klima Aktivismus Abnehmen?\" - mit dieser Frage haben wir, der AK Digitalisierung der BUNDjugend unsere Aktiven, Vorstand und unsere Gesch\u00e4ftsstelle sowie junge Klimaaktivist*innen konfrontiert. \r\nWir wollen euch vorstellen zu welchem Schluss wir gekommen sind, was wir bereits umsetzen und was unsere Pl\u00e4ne um Umgang mit KI sind.",
+  "description": "",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/AXQ93Y/84eec1a4c77ecf5d_hGHRiw6.png",
+  "persons": [
+    {
+      "guid": "bca8b74e-a861-5699-a502-68bee7a63e66",
+      "name": "Enrico",
+      "public_name": "Enrico",
+      "avatar": null,
+      "biography": "Ich bin ehrenamtlich aktiv bei der BUNDjugend im Arbeitskreis Digitalisierung und vertrete die BUNDjugend im B\u00fcndnis Bits und B\u00e4ume. \nAu\u00dferdem k\u00fcmmere ich mich um die Vernetzung unserer Landesverb\u00e4nde.\n@BUNDjugend_ak_digi@climatejustice.global\n@enrixxel@social.tchncs.de\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_bca8b74e-a861-5699-a502-68bee7a63e66"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/kann-ki-uns-den-klima-aktivismus-abnehmen-aus-sich",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/AXQ93Y/"
+}

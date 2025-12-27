@@ -1,0 +1,32 @@
+{
+  "guid": "f92115f9-9e11-5076-a4d1-2517b15aa91c",
+  "code": "WQNMBQ",
+  "id": 400026,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-bundnis-hansaplatz-coalition-against-ai-cctv-and-d",
+  "title": "B\u00fcndnis Hansaplatz - Coalition Against AI CCTV and Displacement",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Brief presentation of the Hansaplatz Coalition Against AI Camera Surveillance.",
+  "description": "Brief presentation of the Hansaplatz Coalition Against AI Camera Surveillance and overview and history of the technical and legal means used the local city government to gentrify neighborhoods and repress and expel undesired populations.\n\nbuendnis-hansaplatz@posteo.de\n[@buendnis_hansaplatz](https://events.ccc.de/congress/2025/hub/user/buendnis_hansaplatz)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "fb3d58d6-d867-5a8b-aa91-4cc272e62a64",
+      "name": "Gnitze",
+      "public_name": "Gnitze",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_fb3d58d6-d867-5a8b-aa91-4cc272e62a64"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bundnis-hansaplatz-coalition-against-ai-cctv-and-d",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/WQNMBQ/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/WQNMBQ/feedback/"
+}

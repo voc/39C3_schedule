@@ -1,0 +1,31 @@
+{
+  "guid": "17f71125-5e40-599d-802f-3b884d91ffdf",
+  "code": null,
+  "id": 300091,
+  "date": "2025-12-29T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-getting-started-with-the-pocket-science-lab",
+  "title": "Getting started with the Pocket Science Lab",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "In this self-paced workshop we will learn how to use the instruments of the Pocket Science Lab (PSLab) board, with the Python API and the Android app.",
+  "description": "Learn how to use the PSLab's range of onboard instruments to make measurements and output control signals.\n\nThis workshop will walk you through how to:\n- Measure voltage and resistance using the multimeter\n- Measure time-series voltage with the oscilloscope\n- Measure time-series digital signals with the logic analyzer\n- Output variable voltage with the signal generator\n- Output digital signals with the PWM generator\n\nChoose between using the Python API or the Android application, or both!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "414b8ba9-a0ee-54ab-85b6-5431bdcfe95b",
+      "name": "Alexander Bessman",
+      "public_name": "Alexander Bessman",
+      "avatar": null,
+      "biography": "PSLab developer\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_414b8ba9-a0ee-54ab-85b6-5431bdcfe95b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/getting-started-with-the-pocket-science-lab",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/RPPFJF/"
+}

@@ -1,0 +1,40 @@
+{
+  "guid": "8cdf5018-ad7f-5c64-8d81-91bf2741a2a1",
+  "code": "LUUTY3",
+  "id": 500088,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "Wohnzimmerb\u00fchne",
+  "slug": "39c3-powerpoint-karaoke_0uxh",
+  "title": "Powerpoint Karaoke",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Halte spontan eine zuf\u00e4llige, lustige Pr\u00e4sentation - du musst nichts halten und kannst auch einfach nur zuschauen :)",
+  "description": "Bei Powerpoint Karaoke h\u00e4lt man eine von uns gegebene absolute random Pr\u00e4sentation, die man vorher nie sah, was immer sehr sehr lustig ist. Wenn Du Dir noch unsicher bist oder sicher keine halten willst ist das \u00fcberhaupt kein Problem, Du kannst gerne trotzdem vorbei kommen und einfach zu schauen \uff08\u2579\u25e1\u2579\uff09\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a1255a04-cbe8-53a7-ab72-3c8103f0bed4",
+      "name": "Dimi",
+      "public_name": "Dimi",
+      "avatar": null,
+      "biography": "<3\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a1255a04-cbe8-53a7-ab72-3c8103f0bed4"
+    },
+    {
+      "guid": "c6ae1c73-574a-534e-9b32-7c10cf5bea52",
+      "name": "David",
+      "public_name": "David",
+      "avatar": "https://pretalx.chaos.jetzt/media/avatars/JUPBDY_gAZBSxN.jpg",
+      "biography": "`42 <3`\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c6ae1c73-574a-534e-9b32-7c10cf5bea52"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/powerpoint-karaoke_0uxh",
+  "links": [],
+  "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/LUUTY3/",
+  "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/LUUTY3/feedback/"
+}

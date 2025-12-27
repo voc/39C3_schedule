@@ -1,0 +1,30 @@
+{
+  "guid": "dba58ec9-87c6-4449-be5b-79f47802f0ad",
+  "code": null,
+  "id": 589876,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:30",
+  "room": "c4E-Roundtable",
+  "slug": "39c3-disclosure-at-dpa",
+  "title": "Disclosure at DPA",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Come and disclose your privacy related holes to your nearest DPA. I will take your inquiry so you don't have to provide the information over the website or per mail. I can also show you where is the best place to disclose. Either I can take it or forward it to the next best DPA.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5585a5ad-8432-4a13-8fe7-73f93b1449d1",
+      "name": "w1ntermute",
+      "public_name": "w1ntermute",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/w1ntermute"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/disclosure-at-dpa",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "32bcc301-5fc3-56cb-8f46-34f44b2b377a",
+  "code": "GXW7N7",
+  "id": 2489,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-cloud-management",
+  "title": "Cloud Management",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Operating in a mode of Kluster via Pole, Dub Syndicate at Conny Plank's, or even fang-baring flashes of The Bug and Bryn Jones or Peak Oil modernism, the trio approach the project from the more oblique angles of respective projects Datashock, Phantom Horse and Love-Songs, to probe a more soft-centred, dematerialised and heady sound, but also reserve the right to go tuffer, more venomous, when they feel it.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/GXW7N7/CM_Foto_fPwJk_8MzThk0.webp",
+  "persons": [
+    {
+      "guid": "53fdc7d0-73a3-5146-8a5c-70d23e6b3544",
+      "name": "Cloud Management",
+      "public_name": "Cloud Management",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_53fdc7d0-73a3-5146-8a5c-70d23e6b3544"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cloud-management",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GXW7N7/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GXW7N7/feedback/"
+}

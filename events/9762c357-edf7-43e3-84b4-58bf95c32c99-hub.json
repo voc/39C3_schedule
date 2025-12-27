@@ -1,0 +1,30 @@
+{
+  "guid": "9762c357-edf7-43e3-84b4-58bf95c32c99",
+  "code": null,
+  "id": 976235,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Food Hacking Base",
+  "slug": "39c3-probiotic-drinks-making-fhb",
+  "title": "Probiotic drinks making @ FHB",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "This workshop is about making probiotic drink from a to z. You will get practical experience making your own, tasting samples and getting info from an experienced person.",
+  "description": "[To secure spot on this workshop please sign in here.](https://dud-poll.inf.tu-dresden.de/pdm_39c3/)\n\nThis an introductory workshop into probiotic brewing, everybody is welcome no one turned away for lack of funds.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "50bb350a-b277-436d-aa51-1fb6d4ea611e",
+      "name": "algoldor",
+      "public_name": "algoldor",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/algoldor"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/probiotic-drinks-making-fhb",
+  "links": []
+}

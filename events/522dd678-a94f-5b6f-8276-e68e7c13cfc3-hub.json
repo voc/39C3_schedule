@@ -1,0 +1,47 @@
+{
+  "guid": "522dd678-a94f-5b6f-8276-e68e7c13cfc3",
+  "code": null,
+  "id": 100451,
+  "date": "2025-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-visualize-your-texts-with-wordrain",
+  "title": "Visualize Your Texts With Wordrain",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "The Word Rain visualization technique is a development of the classic word cloud that aims to retain the simplicity of the word cloud, while at the same time making it possible to use the text visualization for exploring and comparing corpora.",
+  "description": "https://wordrain.org\nhttps://github.com/CDHUppsala/word-rain\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/XU7JMG/unified-english-images-climate_small_5GfCMlm.png",
+  "persons": [
+    {
+      "guid": "c37650f7-c396-552b-83b3-cd16f450c160",
+      "name": "Torsten Roeder",
+      "public_name": "Torsten Roeder",
+      "avatar": "https://cfp.cccv.de/media/avatars/dino_RaA5dRd.png",
+      "biography": "Torsten Roeder works at the University of Wurzburg and is specialized on digital heritage research. His work in digital editing and textual history made him a member of the TEI Technical Council. Recently, he started a Retro Computing Lab at his department which is used for studying the digital culture of the 1980s and 1990s. He also holds a PhD in musicology and plays some guitar, and enjoys gardening. Jack of all trades, master of none.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c37650f7-c396-552b-83b3-cd16f450c160"
+    },
+    {
+      "guid": "a0908f49-3ab7-5857-a70d-5140508851dc",
+      "name": "Magnus Ahltorp",
+      "public_name": "Magnus Ahltorp",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/map-profile_BJXaRh8.jpg",
+      "biography": "Magnus started in the demo scene in the early '90s. In the later '90s, Magnus went on to free software and cryptography activism, participating in HIP '97, CCCamp 1999, HAL 2001 and WTH2005. Currently Magnus works mainly in language technology and text visualisation. Magnus also produces music and videos highlighting the climate crisis.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0908f49-3ab7-5857-a70d-5140508851dc"
+    },
+    {
+      "guid": "797a37ef-acb3-51ce-a1e5-9dadd1b52311",
+      "name": "Maria Skeppstedt",
+      "public_name": "Maria Skeppstedt",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/Skeppstedt-cropped_9Zyv5V5.jpg",
+      "biography": "Maria Skeppstedt received her PhD in Computer and Systems Sciences in 2015. After a few years of postdoctoral research in applied natural language processing, she has spent the past six years working within research infrastructures for digital humanities, developing tools for searching, processing, annotating, and visualizing terms and text. As a senior lecturer at Stockholm University, she specializes in creating new text visualization techniques tailored to the needs of researchers within the humanities.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_797a37ef-acb3-51ce-a1e5-9dadd1b52311"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/visualize-your-texts-with-wordrain",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/XU7JMG/"
+}

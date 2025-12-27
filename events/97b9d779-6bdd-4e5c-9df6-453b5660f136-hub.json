@@ -1,0 +1,30 @@
+{
+  "guid": "97b9d779-6bdd-4e5c-9df6-453b5660f136",
+  "code": null,
+  "id": 979779,
+  "date": "2025-12-30T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-congress-metatalk",
+  "title": "Congress-Metatalk",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wir quatschen ein bisschen \u00fcber die Entwicklung von Zug\u00e4nglichkeit und verwandten Themen auf dem Congress. Intersektional und so.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c9ecb2d6-a76b-433d-b973-5f2c34b27c55",
+      "name": "Luna",
+      "public_name": "Luna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/congress-metatalk",
+  "links": []
+}

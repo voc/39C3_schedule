@@ -1,0 +1,32 @@
+{
+  "guid": "47bddc76-0ce0-54b6-830f-5a226b23bc47",
+  "code": "ADMKYW",
+  "id": 2488,
+  "date": "2025-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-der-feine-schliv",
+  "title": "Der feine Schliv",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Zwischen Rap, Tanz und Poesie, erschlie\u00dft Der feine Schliv neue R\u00e4ume. In ihren Performances changiert sie zwischen provokanten Auf-die-Fresse-Ansagen an das Patriarchat und empathischen Erz\u00e4hlungen vom Versuchen und Scheitern. Sie tritt unter anderem mit dem serbischen Nachwuchs Duo \u201cSlezga\u201d sowie mit den Hamburger Gruppen \u201cFallbeil\u201d und \u201cYummy Air\u201dauf. An der Diverstit\u00e4t ihrer Begleitungen zeichnet sich ihr musikalisches Universum ab, von balladigen Conscious Raps, Chansons und Witchy Toasting.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/ADMKYW/photo_2025-12_LKsQWpE.jpeg",
+  "persons": [
+    {
+      "guid": "9119d296-9171-5b88-8c31-28a6ab51c8cd",
+      "name": "Der feine Schliv",
+      "public_name": "Der feine Schliv",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9119d296-9171-5b88-8c31-28a6ab51c8cd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/der-feine-schliv",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/ADMKYW/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/ADMKYW/feedback/"
+}

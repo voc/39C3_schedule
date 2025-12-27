@@ -1,0 +1,30 @@
+{
+  "guid": "a2903548-3fde-4c4b-8265-4ce461828684",
+  "code": null,
+  "id": 290354,
+  "date": "2025-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-ehds",
+  "title": "European Health Data Space (EHDS)",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We will provide information about the EU regulation on the European Health Data Space (EHDS). The key provisions will come into force in 2027 and will then apply directly within all EU countries. EHDS says that all citizens will receive an electronic health record, which will be available EU-wide. Separately, all prescription data for medications will be available EU-wide. Access to pseudonymized health data will be permitted for very broadly defined research purposes. Individuals will have several opt-out possibilities available. How is civil society reacting?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "cccb107a-400b-4859-bca7-700147122097",
+      "name": "novider",
+      "public_name": "novider",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/novider"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ehds",
+  "links": []
+}

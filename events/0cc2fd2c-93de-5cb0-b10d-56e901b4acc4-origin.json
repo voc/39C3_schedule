@@ -1,0 +1,36 @@
+{
+  "guid": "0cc2fd2c-93de-5cb0-b10d-56e901b4acc4",
+  "code": "WRWCKR",
+  "id": 1756,
+  "logo": null,
+  "date": "2025-12-28T23:55:00+01:00",
+  "start": "23:55",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-1756-the-small-packet-of-bits-that-can-save-or-destabilize-a-city",
+  "url": "https://cfp.cccv.de/39c3/talk/WRWCKR/",
+  "title": "The Small Packet of Bits That Can Save (or Destabilize) a City",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The Emergency Alert System (EAS) and its SAME (Specific Area Message Encoding) protocol are public alerting technologies that broadcast short digital bursts over VHF triggering emergency messages on millions of receivers across North America. In Mexico, this technology was integrated into the Seismic Alert System (SASMEX) which more than 30 million people in the central part of the country rely on to prepare for frequent earthquakes.\r\n\r\nWhile new alerting technologies have emerged, the EAS-SAME network continues to play an important role for public safety in the U.S., Mexico, and Canada. Yet, the same small packets of bits that can help protect a city could also, in the wrong hands, destabilize it. This talk examines how these systems operate and reveals a troubling truth: spoofing these alerts is far easier than most people expect.",
+  "description": "In this talk, we\u2019ll begin by contextualizing the importance of the seismic alert in Mexico City, a system born from the devastating 1985 earthquake. We\u2019ll examine how it was designed, how it works, and why it carries such a deep psychological impact.\r\n\r\nFrom there, we\u2019ll explore the history and design of Weather Radio and the SAME protocol, looking at how messages are transmitted and encoded through this technology, and how it was later adapted for SASMEX. \r\n\r\nI\u2019ll also share my personal experience building compatible receivers, from early open-source experiments that inspired local manufacturers to create government-certified devices, to developing a receiver as part of my undergraduate thesis.\r\n\r\nWe\u2019ll analyze how simplicity, one of the key strengths of these systems, also introduces certain risks, and how these trade-offs emerge when dealing with accessibility, interoperability, and security in system design.\r\n\r\nFinally, I\u2019ll demonstrate how to receive, decode, and encode these alert messages, and discuss how, with the right equipment, it\u2019s possible to generate such alert signals.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "HUZ3XF",
+      "name": "Manuel R\u00e1bade",
+      "avatar": "https://cfp.cccv.de/media/avatars/HUZ3XF_YAff8Nj.jpeg",
+      "biography": "Computer Engineer from Mexico City. Works in software and explores hardware and radio communications for fun. Actively collaborates with Mexican tech, open-source, and hacking communities to build spaces to learn, share, and experiment together.",
+      "public_name": "Manuel R\u00e1bade",
+      "guid": "71899c27-9b19-5e4f-8f92-76cf0e71ad22",
+      "url": "https://cfp.cccv.de/39c3/speaker/HUZ3XF/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/WRWCKR/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/WRWCKR/",
+  "attachments": []
+}

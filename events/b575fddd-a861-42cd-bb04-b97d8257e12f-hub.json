@@ -1,0 +1,54 @@
+{
+  "guid": "b575fddd-a861-42cd-bb04-b97d8257e12f",
+  "code": null,
+  "id": 575861,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "01:00",
+  "room": "Fediverse shared table",
+  "slug": "39c3-fediday-2026-ruckblicke-und-ausblicke-fediday-2026",
+  "title": "FediDay 2026 R\u00fcckblicke und Ausblicke / FediDay 2026 Reviews and outlooks",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Here is a review of the first and second Berlin Fediverse Days. We have now held two conferences and are already planning the third. We are Europe's largest conference on the Fediverse, and perhaps even the world's largest. We look back, answer your questions and look ahead. Because after the second Berlin Fediverse Day comes the third Berlin Fediverse Day.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/381d5311bab2/fedi39c3.png",
+  "persons": [
+    {
+      "guid": "31eb74c3-d86c-46b9-a90c-110b57714e09",
+      "name": "e-punc (der / he)",
+      "public_name": "e-punc (der / he)",
+      "avatar": null,
+      "biography": "crewmember of c-base.org\nworking at Digitale Gesellschaft\nmaker and  player of the Coffeebots\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/e-punc"
+    },
+    {
+      "guid": "05dd9812-9f35-455c-9733-771f91914ca0",
+      "name": "poo",
+      "public_name": "poo",
+      "avatar": null,
+      "biography": "01001000 01100101 01101100 01101100 01101111 00100000\n01101101 01111001 00100000\n01101110 01100001 01101101 01100101 00100000\n01101001 01110011 00100000\n01110000 01101111 01101111 00100000\n01100110 01110010 01101111 01101101 00100000\n01110100 01101000 01100101 00100000\n01100011 00101101 01100010 01100001 01110011 01100101 00101110\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/poo"
+    },
+    {
+      "guid": "f56466f5-4af2-4310-825b-7b5bac0d4a03",
+      "name": "samvie",
+      "public_name": "samvie",
+      "avatar": null,
+      "biography": "Mastodon: @samvie@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/samvie"
+    },
+    {
+      "guid": "97ba3246-2286-48d8-a296-f5fd92eca0f7",
+      "name": "vgrass",
+      "public_name": "vgrass",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/vgrass"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fediday-2026-ruckblicke-und-ausblicke-fediday-2026",
+  "links": []
+}

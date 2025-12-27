@@ -1,0 +1,32 @@
+{
+  "guid": "64413d56-6f05-50a9-abe7-a40e5458f2fb",
+  "code": "VNYBYP",
+  "id": 644135,
+  "date": "2025-12-27T15:45:00+01:00",
+  "start": "15:45",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-werde-teil-der-endof10-kampagne-hilf-menschen-beim",
+  "title": "Werde Teil der Endof10 -Kampagne! Hilf Menschen beim Umstieg auf Linux [FLINTA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Aufgrund des Supportendes von Windows 10, zielt die endof10-Kampagne darauf ab, Unterst\u00fctzungsnetzwerke aufzubauen, um Menschen beim Umstieg auf Linux zu unterst\u00fctzen. \r\n\r\nAber wie k\u00f6nnen die betroffenen Menschen erreicht werden, die vielleicht noch nie von Linux geh\u00f6rt haben?",
+  "description": "Mit Linux k\u00f6nnen Computer, die nicht die Hardware - Voraussetzungen f\u00fcr Windows 11 erf\u00fcllen, noch lange sicher weiter betrieben werden. In einer kurzen Einf\u00fchrung von ca. 20 Minuten, m\u00f6chte ich meinen Weg beschreiben, wie ich mich immer mehr in der Endof10-Kampagne engagiert habe, obwohl ich keine Linux-Expertin bin.\n\nIch m\u00f6chte meine Erfahrungen mit dem Organisieren von Linux-Veranstaltungen in Berlin mit euch teilen und dar\u00fcber sprechen, wie mein Netzwerk immer mehr gewachsen ist.\n\nF\u00fcr den Umstieg auf Linux richte ich mich mit meinen Unterst\u00fctzungsangeboten haupts\u00e4chlich an \u00e4ltere, aufgeschlossene Menschen. Diese leben entweder in meiner Nachbarschaft oder sind in politischen Gruppen aktiv.\nEs gibt auch eine Kooperation mit dem Technikmuseum in Berlin, wo wir einmal im Monat ein Linux-Caf\u00e9 anbieten.\n\nAnschlie\u00dfend m\u00f6chte ich euch einladen, Ideen und Erfahrungen dar\u00fcber auszutauschen, wie auch ihr Teil dieses globalen Graswurzel Unterst\u00fctzungsnetzwerks werden k\u00f6nnt (falls ihr nicht schon dabei seid).\nWichtig ist dabei lediglich, dass euch das Thema wichtig ist (z.B wegen Vermeidung von Elektroschrott oder Unabh\u00e4ngigkeit von Microsoft). Jede Person hat etwas, das sie beitragen kann.\n\n\nFLINTA-Only.  Die Unterst\u00fctzungsstrukturen sind bisher stark m\u00e4nnlich gepr\u00e4gt. \u00dcber mehr Sichtbarkeit von FLINTA-Personen in diesem Bereich w\u00fcrde ich mich freuen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8b1554a7-c8da-547b-b4e6-b03138e36416",
+      "name": "Bettina Louis",
+      "public_name": "Bettina Louis",
+      "avatar": "https://cfp.cccv.de/media/avatars/RNUJTV_xdswJtP.jpeg",
+      "biography": "Bettina Louis has been an engineer for energy and process technology for 20 years and a teacher at a technical school for almost as long. Now retired, Bettina is dedicated to support the End Of 10 campaign by organizing install events in Berlin.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8b1554a7-c8da-547b-b4e6-b03138e36416"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/werde-teil-der-endof10-kampagne-hilf-menschen-beim",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/VNYBYP/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/VNYBYP/feedback/"
+}

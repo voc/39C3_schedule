@@ -1,0 +1,31 @@
+{
+  "guid": "38fcf304-2754-5d8f-9985-e77536442084",
+  "code": null,
+  "id": 300073,
+  "date": "2025-12-28T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:30",
+  "room": "CDC Circle",
+  "slug": "39c3-the-darkfi-super-app",
+  "title": "The DarkFi super-app",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Anonymous, Uncensored, Sovereign: How DarkFi gives birth to a new Paradigm of Society.",
+  "description": "Hi,\n\nmy name is Yuki and I am part of the DarkFi community. Out of this user/community perspective I will tell you something about the philosophy of DarkFi, the anonymous tech-stack, Lunarpunk, the Desert vs Forest, RegFi vs DarkFi and the DarkFi Vision.\n\nThe talk will not go to deep in the low level tech, because I am also just learning about them :)\n\nI plan to keep the talk short and have a Q&A personally after the talk, in a more 'relaxed' environment.\n\nnote: As you might expect, the talk will be held in english. But I can also speak german, if needed f.e\n\nP.S: This is the first talk I will hold, I am very excited :)\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/LK9MK3/media_GqwBPIVW8AAXeDU_2e2iV8F.jpeg",
+  "persons": [
+    {
+      "guid": "82668438-ecd7-55b9-9736-6b34fad45930",
+      "name": "Yuki",
+      "public_name": "Yuki",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_82668438-ecd7-55b9-9736-6b34fad45930"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-darkfi-super-app",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/LK9MK3/"
+}

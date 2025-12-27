@@ -1,0 +1,38 @@
+{
+  "guid": "5676feac-00d6-466f-b6ce-c682103eaaae",
+  "code": null,
+  "id": 567600,
+  "date": "2025-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-maennlichkeit-rg",
+  "title": "Perspektiven auf M\u00e4nnlichkeit - Eine Einladung zur gemeinsamen Betrachtung",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Egal welchen Geschlechts -  m\u00e4nnliche Sozialisation hat auch heute noch starke Auswirkungen auf unser Leben, Lieben und Zusammensein. Wir wollen gemeinsam auf M\u00e4nnlichkeit blicken;\nverstehen, wie sie entsteht, wirkt, erhalten wird und nach einem anderen Umgang mit ihr suchen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2b1aadf7-57b4-47d4-9d89-c2f1f532e7e8",
+      "name": "mation155 (she/her)",
+      "public_name": "mation155 (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/mation155"
+    },
+    {
+      "guid": "173a7631-aa82-481f-bba6-ccbad1343e20",
+      "name": "quin (they/them)",
+      "public_name": "quin (they/them)",
+      "avatar": null,
+      "biography": "alex@38c3\n@einalex@chaos.social\n@quin:fairydust.space\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/quin"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/maennlichkeit-rg",
+  "links": []
+}

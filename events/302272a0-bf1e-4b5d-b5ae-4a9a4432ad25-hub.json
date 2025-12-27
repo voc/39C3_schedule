@@ -1,0 +1,30 @@
+{
+  "guid": "302272a0-bf1e-4b5d-b5ae-4a9a4432ad25",
+  "code": null,
+  "id": 302272,
+  "date": "2025-12-28T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "02:00",
+  "room": "Chaoswellen Assembly",
+  "slug": "39c3-lateshift-pota-parks-on-the-air",
+  "title": "Lateshift POTA - Parks on the Air",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Introduction to Parks on the Air (POTA). POTA is an international radiosport award program that encourages licensed amateur radio operators to visit, enjoy and operate portable equipment in a variety of parks and public lands. Due to popular demand, now also available at a later time!",
+  "description": "Due to popular demand, now also available at a later time!\n\nPOTA introduction \"in a nutshell\" followed by joint POTA activation on shortwave in the \"Planten un Blomen\" park right next to the CCH.\n\nWe meet daily at 01:00 p.m. at the Assembly for a short introduction and then go out into the park together. The participants learn how to set up a portable shortwave station and get a crash course in shortwave operation. Then it's time to get on the air! Other radio amateurs around the world are waiting to contact us. Can you manage the 10 radio connections necessary for a successful \"activation\" of the park?\n\nNOTE: We meet AT THE CHAOSWELLE ASSEMBLY and start there with a short introduction to the POTA program. Then we go out into the park together. Dress warmly and weatherproof! We go outside even when it's raining or snowing!\n\nIf anyone wants to join us later: radio amateurs can reach us in the park on 145.500 MHz FM.\n\nOur location in the park: [OpenStreetMap](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=53.561346%2C9.986447%3B53.559593%2C9.986438#map=18/53.560490/9.986277)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/aaec5c71f1fa/pota_banner_winter.jpg",
+  "persons": [
+    {
+      "guid": "db7de33d-b829-4f37-b4c7-c6ae7906d12a",
+      "name": "DK4HAA",
+      "public_name": "DK4HAA",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dk4haa"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lateshift-pota-parks-on-the-air",
+  "links": []
+}

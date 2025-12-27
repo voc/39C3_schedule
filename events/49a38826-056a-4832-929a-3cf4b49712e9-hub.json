@@ -1,0 +1,30 @@
+{
+  "guid": "49a38826-056a-4832-929a-3cf4b49712e9",
+  "code": null,
+  "id": 493882,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "03:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-build-your-own-solar-powerd-lora-node",
+  "title": "Build your own solar powerd Lora node",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Build your own solar powerd Lora node",
+  "description": "After three days of conference and talks, what better ways to wind out the day than to get together in a relaxed atmosphere and try to build some hardware?\n\nThis workshop is intended for beginners who want to learn how to build their own lora/meshtastic/meshcore/reticulum hardware. These little devices can be used to message each other and build a network utilizing only some small antennas without the need of internet or a phone network. Together, we will build our own solar powered outside LORA nodes that can be used with mesh software such as Meshtastic, Meshcore or Reticulum without the need of a power outlet. We will bring the required parts and an easy to follow \"how to\" manual. There will be little to no input but we want to create a cozy atmosphere to come together to learn, to solder and teach ourselfs how to create our own communication devices from scratch (well at least almost).\n\nEach node will consist of a solar panel, a low power lora node, batteries, antennas and a few other parts so everything works together nicely.\n\nThere will be only a limited amount of seats available. Please come to the hardware hacking area an hour before this workshop starts to get the hardware (35\u20ac, cash preferred). This workshop is intended for beginners in Lora hardware and hardware hacking. Some previous soldering experience is helpful but not required.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "806d1707-d07a-499f-afec-3283603346f1",
+      "name": "mxtom",
+      "public_name": "mxtom",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/mxtom"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-solar-powerd-lora-node",
+  "links": []
+}

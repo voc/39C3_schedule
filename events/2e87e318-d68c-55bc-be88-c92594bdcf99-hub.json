@@ -1,0 +1,32 @@
+{
+  "guid": "2e87e318-d68c-55bc-be88-c92594bdcf99",
+  "code": "JMNBUT",
+  "id": 400003,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-whos-afraid-of-emotions-from-helplessness-to-impac",
+  "title": "Who's afraid of emotions? From helplessness to impactful activism",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "This workshop aims to equip techies and activists with some understanding to recognize and address emotional concerns in the context of digital rights. Together, let\u2019s cultivate a flourishing community that prioritizes well-being and empowerment in the face of technology-driven challenges.",
+  "description": "Join us for an engaging and transformative workshop designed specifically for techies and digital rights activists. In an era increasingly defined by surveillance and technological risks, it's essential to address the emotional toll these challenges take on our community and beyond.\n\nDuring this interactive session, participants will:\n\nReflect Together: Engage in a moment of introspection and heartfelt group discussions about the emotions surrounding surveillance, technology, and associated risks. Learn to actively listen and share your experiences in a supportive environment where your feelings are validated.\n\nBrainstorm Solutions: Explore ways our communities can provide more support to their members and be generous towards a broader audience, particularly those unfamiliar with digital rights issues. Learn how to communicate effectively about these feelings and provide alternatives and resources for those feeling overwhelmed.\n\nExperience Safe Spaces: Throughout the workshop, we will create an emotionally safe space that allows participants to experience firsthand what a supportive environment feels like. This is not just a theoretical exercise, but a practice in fostering community resilience and mutual care.\n\nAdditionally, participants will receive comprehensive material to help them easily reproduce this workshop in their own communities. With these tools, you'll be empowered to extend the conversation and emotional support to others who share similar feelings about the challenges posed by technology.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "044cef7a-ee61-58f7-98b6-ae7458040e33",
+      "name": "aline",
+      "public_name": "aline",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_044cef7a-ee61-58f7-98b6-ae7458040e33"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/whos-afraid-of-emotions-from-helplessness-to-impac",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/JMNBUT/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/JMNBUT/feedback/"
+}

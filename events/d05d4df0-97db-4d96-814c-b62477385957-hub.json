@@ -1,0 +1,30 @@
+{
+  "guid": "d05d4df0-97db-4d96-814c-b62477385957",
+  "code": null,
+  "id": 54097,
+  "date": "2025-12-28T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-roleplay-night-2-because-80min-is-not-enough",
+  "title": "C3RP - 39C3 Roleplaying Night (because 80min is not enough)",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A place for your TTRPG session. The whole night!\nFantasy to sci-fi, cosy to thrilling, rules light to rules heavy. It doesn't matter if you already played or will try it for the first time, this is the place to do it.\nThere will be limited materials (pens, paper). Please bring your own to ensure everyone can have some.\n\nMore information on https://c3rp.koehr.ing/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "bb2ad74e-bede-4674-b75e-3bde2e09407a",
+      "name": "koehr",
+      "public_name": "koehr",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/koehr"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/roleplay-night-2-because-80min-is-not-enough",
+  "links": []
+}

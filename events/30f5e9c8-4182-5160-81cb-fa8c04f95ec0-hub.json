@@ -1,0 +1,32 @@
+{
+  "guid": "30f5e9c8-4182-5160-81cb-fa8c04f95ec0",
+  "code": "8TYKHA",
+  "id": 83751,
+  "date": "2025-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-podcast-radiomegahertz-mhz-rein-khz-raus-ultraschall-fm-mittendrin",
+  "title": "Podcast Radiomegahertz \u2013 MHz rein | kHz raus | Ultraschall.fm mittendrin",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "In dieser Live-Session wird gescannt, gesampelt und gesendet: medizinischer Ultraschall im Megahertz-Bereich trifft digitale Audioverarbeitung mit 48 Kilohertz. Ultraschall.fm dient als Interface zwischen K\u00f6rper und Codec \u2013 vom Schallkopf bis zum Kopfh\u00f6rer, von Wellen im menschlichen Gewebe zu (Radio-) Wellen im \u00c4ther. Radiomegahertz demonstriert die open source Podcasting-Software zur Produktion einer medizinischen Live-Ultraschall Untersuchung. Die Session ist f\u00fcr alle Podcast-Kreaturen, die den Megahertz-Bereich auch h\u00f6ren und nicht nur sehen m\u00f6chten.\r\n\r\nThis live session involves scanning, sampling, and broadcasting: medical ultrasound in the megahertz range meets digital audio processing at 48 kilohertz.Ultraschall.fm serves as an interface between the body and the codec\u2014from the transducer to the headphones, from waves in tissue to waves in the ether. Radiomegahertz demonstrates the open source podcasting software. The session is for all creatures who want to hear the megahertz range and not just see it.",
+  "description": "Wenn Neo in die Matrix schaut, sieht er die Welt. \u00c4rzt:innen sollten bei der Betrachtung eines Ultraschallbildes mit den typischen Graustufen die Anatomie des Menschen erkennen. Doch die Entstehung und Interpretation des Graustufenbildes liegt in der Hand der Ultraschallenden. Neo muss genauso wie \u00c4rzt:innen lernen, die Technik zu nutzen und die Bilder zu interpretieren. Radiomegahertz erstellt Podcasts \u00fcber Ultraschall in der Medizin und wird w\u00e4hrend der Live-Session auf die M\u00f6glichkeiten und Grenzen von Ultraschall eingehen.\nZur Verdeutlichung werden Freiwillige live \u201egeschallt\u201d (sonografiert). Das Ziel ist die Erstellung eines Podcasts bzw. Videopodcasts. Zur Produktion wird die Open-Source-Software Ultraschall.fm verwendet. Die Software-Entwickler von Ultraschall.fm sind w\u00e4hrend der Session vor Ort und bieten Support bei podcasttypischen Fragen.\n\nWhen Neo looks into the Matrix, he sees the world. When looking at an ultrasound image with the typical gray scale, doctors should be able to recognize human anatomy. However, the creation and interpretation of the gray scale image is in the hands of the ultrasound technician. Just like doctors, Neo must learn to use the technology and interpret the images. Radiomegahertz creates podcasts about ultrasound in medicine and will discuss the possibilities and limitations of ultrasound during the live session. To illustrate this, volunteers will be \u201cscanned\u201d (sonographed) live. The goal is to create a podcast or video podcast. The open-source software Ultraschall.fm will be used for production. The software developers from Ultraschall.fm will be on site during the session to offer support with podcast-related questions.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/8TYKHA/Header_Sendezentrum_Beitrag_G2pakog.png",
+  "persons": [
+    {
+      "guid": "0d01d9b5-7b6f-5ae8-bf7c-6dae11731a6c",
+      "name": "Tim M\u00e4cken | Radiomegahertz",
+      "public_name": "Tim M\u00e4cken | Radiomegahertz",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/YSGVSB_uB21tTs.jpg",
+      "biography": "Radiomegahertz ist ein hochschwelliger Wissenschafts-Podcast. Er behandelt sonografische Techniken am Menschen, die \u00fcberwiegend von Personen mit \u00e4rztlicher Ausbildung durchgef\u00fchrt werden: Ultraschall f\u00fcr die Diagnostik und Intervention. Der Schwerpunkt liegt in Verfahren der An\u00e4sthesie, Notfall\u2013 und Schmerzmedizin. Bewusst wird auf Aspekte in der Ausbildung und Lehre eingegangen. Diese zielen auch auf Studierende der Humanmedizin und medizinisches Personal ab.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0d01d9b5-7b6f-5ae8-bf7c-6dae11731a6c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/podcast-radiomegahertz-mhz-rein-khz-raus-ultraschall-fm-mittendrin",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8TYKHA/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/8TYKHA/feedback/"
+}

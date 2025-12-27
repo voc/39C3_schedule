@@ -1,0 +1,45 @@
+{
+  "guid": "319c31a2-af90-5db9-89f0-fe9ac582726e",
+  "code": "POWER0",
+  "id": 1253,
+  "logo": null,
+  "date": "2025-12-30T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1253-closing-ceremony",
+  "url": "https://cfp.cccv.de/39c3/talk/POWER0/",
+  "title": "Closing Ceremony",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Ceremony",
+  "language": "de",
+  "abstract": "Power off! Nach vier wunderbaren Tagen kommt der Congress nun langsam zum Ende. Lasst uns zur\u00fcckblicken, die Eindr\u00fccke sortieren und diese inspirierte Stimmung nach drau\u00dfen tragen.",
+  "description": "&nbsp;",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "Q9L893",
+      "name": "Stella",
+      "avatar": "https://cfp.cccv.de/media/avatars/Q9L893_GlRDE3W.png",
+      "biography": "Stella ist Grafikerin aus Berlin und hat schon mehrere CCC-Designs geliefert \u2013 die Designs zum 33C3, 35C3 und das Camp-Design 2023. \r\n\r\nBei letzten Congress zeichnete sie die anonymisierten Karten f\u00fcr den Talk von Michael Kreil und Fl\u00fcpke \"Wir wissen wo dein Auto steht\" https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen\r\n\r\nStella interessiert sich f\u00fcr Gestaltungsideen mit kleinen Easter-Eggs, die erst beim zweiten Blick auffallen.",
+      "public_name": "Stella",
+      "guid": "5fe4f13e-449a-5831-b12d-4e6e22a43e75",
+      "url": "https://cfp.cccv.de/39c3/speaker/Q9L893/"
+    },
+    {
+      "code": "3RGBM8",
+      "name": "pajowu",
+      "avatar": "https://cfp.cccv.de/media/avatars/3RGBM8_I2z1NKj.webp",
+      "biography": "pajowu macht hacktivism bei zerforschung, tech-stuff f\u00fcr fragdenstaat und versucht die welt ein bisschen bunter zu machen.",
+      "public_name": "pajowu",
+      "guid": "4f09b480-eebf-54b5-b703-781907c5e048",
+      "url": "https://cfp.cccv.de/39c3/speaker/3RGBM8/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/POWER0/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/POWER0/",
+  "attachments": []
+}

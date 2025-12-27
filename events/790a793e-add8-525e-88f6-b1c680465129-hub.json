@@ -1,0 +1,41 @@
+{
+  "guid": "790a793e-add8-525e-88f6-b1c680465129",
+  "code": "7RU38E",
+  "id": 2426,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:15",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-climatepoetryorg",
+  "title": "Climatepoetry.org",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Antifa Lightning Talk",
+  "abstract": "Climatepoetry.org started as a project for writing and collecting songs about climate change. The songs have been used in sing-along events and climate protests, but during the three years the project has existed, the political climate in Sweden has changed. Peaceful singing has been met with hateful rhetoric from the government and repression from the police. It became clear that anti-fascist activism has to be an integrated part of the Climatepoetry.org project, and not a separate activity.",
+  "description": "Climatepoetry.org started as a project for writing and collecting songs about climate change. The songs have been used in sing-along events and climate protests, but during the three years the project has existed, the political climate in Sweden has changed. Peaceful singing has been met with hateful rhetoric from the government and repression from the police. It became clear that anti-fascist activism has to be an integrated part of the Climatepoetry.org project, and not a separate activity.\n\nAt the event, we will present the climatepoetry.org project and sing some of the songs.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a0908f49-3ab7-5857-a70d-5140508851dc",
+      "name": "Magnus Ahltorp",
+      "public_name": "Magnus Ahltorp",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/map-profile_BJXaRh8.jpg",
+      "biography": "Magnus started in the demo scene in the early '90s. In the later '90s, Magnus went on to free software and cryptography activism, participating in HIP '97, CCCamp 1999, HAL 2001 and WTH2005. Currently Magnus works mainly in language technology and text visualisation. Magnus also produces music and videos highlighting the climate crisis.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0908f49-3ab7-5857-a70d-5140508851dc"
+    },
+    {
+      "guid": "797a37ef-acb3-51ce-a1e5-9dadd1b52311",
+      "name": "Maria Skeppstedt",
+      "public_name": "Maria Skeppstedt",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/Skeppstedt-cropped_9Zyv5V5.jpg",
+      "biography": "Maria Skeppstedt received her PhD in Computer and Systems Sciences in 2015. After a few years of postdoctoral research in applied natural language processing, she has spent the past six years working within research infrastructures for digital humanities, developing tools for searching, processing, annotating, and visualizing terms and text. As a senior lecturer at Stockholm University, she specializes in creating new text visualization techniques tailored to the needs of researchers within the humanities.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_797a37ef-acb3-51ce-a1e5-9dadd1b52311"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/climatepoetryorg",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/7RU38E/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/7RU38E/feedback/",
+  "do_not_record": true
+}

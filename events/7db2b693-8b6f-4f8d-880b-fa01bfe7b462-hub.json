@@ -1,0 +1,30 @@
+{
+  "guid": "7db2b693-8b6f-4f8d-880b-fa01bfe7b462",
+  "code": null,
+  "id": 726938,
+  "date": "2025-12-30T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-steno-meetup-introduction",
+  "title": "Steno Meetup / Introduction",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A meetup for steno enthusiasts, users & those interested in stenography (both machine stenography & shorthand)\n\nThere will be a short introduction presentation on how machine stenography works (specifically the Plover theory, as that is freely available & the one I'm most familiar with), and I'll also bring all my hardware so you can try it out on your own devices - you do need Plover installed on your own laptop though to be able to use that hardware (https://github.com/openstenoproject/plover).\n\nI'm looking forward to seeing what kind of hardware & theories others are using, so do bring your things ^^\n\n(If enough people show up we'd just continue after the 25min somewhere else)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "52dad473-8ae0-4951-88b1-49e70ae7adaf",
+      "name": "42triangles (she/her)",
+      "public_name": "42triangles (she/her)",
+      "avatar": null,
+      "biography": "Stenography, programming languages, low level things, etc\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/42triangles"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/steno-meetup-introduction",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "f7f0514f-cc22-4cf5-9499-c87bf82ad13d",
+  "code": null,
+  "id": 705142,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-papierbasteln-tag-2",
+  "title": "Papierbasteln Tag 2",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Ein kleiner Berg (1 Stunde, Material und Werkzeug sind vorhanden)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/papierbasteln-tag-2",
+  "links": []
+}

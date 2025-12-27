@@ -1,0 +1,32 @@
+{
+  "guid": "f78c5719-dcfe-53b5-989c-966bbfcac35a",
+  "code": "TYCDRR",
+  "id": 2520,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-loui-beton",
+  "title": "Loui Beton",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Lets get besinnlich at the 39C3",
+  "description": "https://soundcloud.com/loui_beton\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/TYCDRR/WhatsApp_Imag_03mF0f7.webp",
+  "persons": [
+    {
+      "guid": "075955f3-a464-5320-b614-176e992db4e5",
+      "name": "Loui Beton",
+      "public_name": "Loui Beton",
+      "avatar": null,
+      "biography": "<3\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_075955f3-a464-5320-b614-176e992db4e5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/loui-beton",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TYCDRR/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/TYCDRR/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "a2864d6c-2d8e-52ad-a843-75e0eb83f115",
+  "code": "JVLFE8",
+  "id": 2480,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-lila-zoe-krau",
+  "title": "Lila-Zo\u00e9 Krau\u00df",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "L Twills aka Lila-Zo\u00e9 Krau\u00df ist Musikerin, Performerin und Multimedia-K\u00fcnstlerin. In ihrer Arbeit \r\nentwickelt sie eine transdisziplin\u00e4re Opernpraxis, um Fragen zur (post-)moderner Subjektivit\u00e4t und ihrer Beziehung zu Medien, Trauma und Erinnerung zu thematisieren. Sie studierte Bildende Kunst an der HFBK Hamburg und dem CalArts Los Angeles sowie Sound Studies an der UdK Berlin. In ihrer Musik kombiniert sie Elemente aus Downtempo, Experimentalmusik, Breakbeat und Oper mit eigens entwickelten Sounddesign-Techniken. Krau\u00df ver\u00f6ffentlichte 2020 und 2024 die Vinylalben [Freedom/Fiction] und [After her Destruction] und performte auf diversen B\u00fchnen, u.a.: Documenta Fifteen (Kassel), Kampnagel (Hamburg), Volkstheater (Wien), Montez-Press Radio (NYC), NAVEL (Los Angeles).",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/JVLFE8/smaller-lila-3_pu98rF4.jpg",
+  "persons": [
+    {
+      "guid": "f89ccb76-6848-5eae-94f6-7cecb960f349",
+      "name": "Lila-Zo\u00e9 Krau\u00df",
+      "public_name": "Lila-Zo\u00e9 Krau\u00df",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f89ccb76-6848-5eae-94f6-7cecb960f349"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lila-zoe-krau",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JVLFE8/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JVLFE8/feedback/"
+}

@@ -1,0 +1,45 @@
+{
+  "guid": "bc5b663a-1e48-5525-afbd-1e6895b71db0",
+  "code": "GAXEDZ",
+  "id": 1733,
+  "logo": null,
+  "date": "2025-12-27T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-1733-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights",
+  "url": "https://cfp.cccv.de/39c3/talk/GAXEDZ/",
+  "title": "Throwing your rights under the Omnibus - how the EU's reform agenda threatens to erase a decade of digital rights",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "A spectre is haunting Europe\u2014the spectre of bureaucracy. All the Powers of old Europe have entered into an unholy alliance to exorcise this spectre: The EU Commission, Member States, industry, even J.D. Vance. This threatens the digital rights and rules built up in the last decade.",
+  "description": "The new EU Commission has an agenda. What started with the report of former European Central Bank chief Mario Draghi on Europe's \"competitiveness\" has quickly turned into \"getting rid of bureaucracy\", then into \"simplification\", and finally open \"deregulation\". What this means is that a large number of European laws that were adopted in the last decade to ensure sustanabiliy, protect human rights along the whole supply chain, or to ensure our digital rights, are watered down, and core elements are scrapped. \r\n\r\nIn terms of the EU's digital rulebook, it has already started in May with the deletion of a core compliance element in the General Data Protection Regulation (GDPR) - the obligation to keep records of your processing activities. While it sounds harmless - all the other rights and obligations still appy - it means that companies have no clue anymore what personal data they process, for which purposes, and how. \r\n\r\nA much larger revision has been proposed on 19th November 2025, with the \"omnibus\" legislation dubbed \"Digital Simplification Package\". This will affect rules on data protection, data governance, AI, obligations to report cybersecurity incidents, and protections against cookies and other tracking technologies. Furthermore, the EU's net neutrality rules are scheduled to be opened for reform in December by the so called Digital Networks Act.\r\n\r\nIn this talk we discuss what to expect from the new EU agenda, who is driving it and how to resists. Our goal is to leave you better informed and equipped to fight back against this deregulatory trend. This talk may contain hope.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "UX9KST",
+      "name": "Thomas Lohninger",
+      "avatar": "https://cfp.cccv.de/media/avatars/job_pic_EaKs4jW.jpg",
+      "biography": "Thomas was a programmer and anthropologist in his former life. Digital rights had been his hobby until it became a job when he intensively accompanied the EU Net Neutrality Regulation as Policy Advisor for European Digital Rights (EDRi). Thomas was one of the driving forces behind the www.savetheinternet.eu campaign and has a strong work focus on net neutrality, data protection, and mass surveillance. Since 2010 he has played an active part at [Epicenter.works](https://epicenter.works/en/) and since 2014 he is the executive director of the organization. He also writes on [Netzpolitik.org](https://netzpolitik.org/), is a regular guest in the [Podcast Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) and a non-residential Fellow of the [Center for Internet and Society at the Stanford Law School](https://cyberlaw.stanford.edu/about/people/thomas-lohninger/). He was in the board of the EU umbrella of 45+ digital rights NGOs ([EDRi](https://edri.org/)) and since 2024 he is Chair of the Governance Working Group of the [UN dpi-safeguard initiative](https://www.dpi-safeguards.org/) and member of the [Jury for the German eIDAS Wallet](https://www.sprind.org/en/magazine/eudi-wallet-prototypes) and the Ad-Hoc Technical Advisory Group on eIDAS of the European Commission.",
+      "public_name": "Thomas Lohninger",
+      "guid": "f48d9f83-3e22-57da-9092-dc699b28b516",
+      "url": "https://cfp.cccv.de/39c3/speaker/UX9KST/"
+    },
+    {
+      "code": "H9N9DV",
+      "name": "Ralf Bendrath",
+      "avatar": "https://cfp.cccv.de/media/avatars/H9N9DV_6oDeKuA.jpg",
+      "biography": "Ralf Bendrath is adviser for civil liberties, justice and home affairs for the Greens/EFA group in the European Parliament, where he mainly works on data protection and other digital rights. In his spare time, he is active in the German EDRi member Digitale Gesellschaft.",
+      "public_name": "Ralf Bendrath",
+      "guid": "7030a8e5-dc8b-566e-ae17-00692fe3a96b",
+      "url": "https://cfp.cccv.de/39c3/speaker/H9N9DV/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/GAXEDZ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/GAXEDZ/",
+  "attachments": []
+}

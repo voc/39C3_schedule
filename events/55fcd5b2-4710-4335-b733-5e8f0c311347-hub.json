@@ -1,0 +1,21 @@
+{
+  "guid": "55fcd5b2-4710-4335-b733-5e8f0c311347",
+  "code": null,
+  "id": 555247,
+  "date": "2025-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:30",
+  "room": "Komonin",
+  "slug": "39c3-threat-model-best-practices-for-activists",
+  "title": "Threat model & best practices for activists",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "We want to talk about IT-Security best practices for activists in Germany and develop a general threat model. The conversation will likely be in german.",
+  "description": "",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/threat-model-best-practices-for-activists",
+  "links": []
+}

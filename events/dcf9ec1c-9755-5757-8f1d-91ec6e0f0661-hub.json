@@ -1,0 +1,54 @@
+{
+  "guid": "dcf9ec1c-9755-5757-8f1d-91ec6e0f0661",
+  "code": "VLFQSQ",
+  "id": 2407,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-the-museum-of-care-open-source-survival-kit-collection",
+  "title": "The Museum of Care: Open-Source Survival Kit Collection",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "The talk is about the ideas behind setting up the David Graeber Institute and the Museum of Care. The Survival Kit Collection brings together collectives developing open source \"social technologies\" \u2014spirulina farms, self-replicating 3D printers, modular housing, low-cost water systems, and ... art and education. In 2019, together with David Graeber, we held the first workshop about the Museum of Care at CCC to reimagine the relation between freedom, technology and value. Over these 6 years, the Museum of Care and the David Graeber Institute have experimented with various projects: the survival collection, Visual Assembly, and creating an open space for horizontal knowledge production\u2014something we hope to develop into an actual University.",
+  "description": "We think humanity could already be living in a society of abundance and communal luxury. We have the technologies to produce enough for everyone to have everything. The issue isn't technological but social. This is why we need a Museum (of Care): museums are among the few places that create, distribute, and preserve what a society values.\n\nWhat will be at the session:\nWe'll tell in more detail about the concept of the Museum of Care on abandoned ships (of which, according to Maritime Foundation data, there are more than 4,500 in the world). We'll talk about the halls of our museum: the Hall of Giants and other emerging spaces. Projects we're building\u2014spirulina farms, 3D printers\u2014in Saint Vincent (Caribbean) and Kibera Art District, Nairobi Kenya, Playground designed that communities can construct with nearly no resources. Can we actually build a nomadic museum proud not of its unique exhibits but of how easily they spread and get replicated?\n\nThen we will move to an open conversation about what poetic technologies are and how they differ from bureaucratic ones. Some people may have read David Graeber's book The Utopia of Rules; here you can download his other texts that are less widely known or not yet published. We would very much like to explore the question of poetic and bureaucratic technologies together with you. To facilitate this discussion, the David Graeber Institute has invited Alistair Parvin, creator of the Wiki House project, to join Nika Dubrovsky in conversation.\n\nThe discussion continues in the format of a Visual Assembly\u2014focused on building a distributed, non-hierarchical, genuinely open University with different ideas of funding and knowledge production. This is the very beginning of the process so all input is very much welcome. We'd welcome any ideas, critiques, or proposals for collaboration.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/29f541dc7b4d/e/29f541dc7b4d/Screenshot_2025-10-24_at_11.03.09_6fQCU_EoJfWpK.webp",
+  "persons": [
+    {
+      "guid": "f6d875c1-1cd4-5e0b-87dd-bd5eca9f8616",
+      "name": "Nika Dubrovsky",
+      "public_name": "Nika Dubrovsky",
+      "avatar": "https://cfp.cccv.de/media/avatars/NJF3ZF_wdRwQ4b.jpg",
+      "biography": "Nika Dubrovsky is an artist, author, and co-founder of the David Graeber Institute and the Museum of Care. Her latest book was published by MIT Press in 2024 and has been translated into several languages.\nThe David Graeber Institute carries forward David\u2019s work exploring radical alternatives to capitalism through research, activism, and public engagement. The Institute creates space for collaborative projects reimagining care, community, and social change.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f6d875c1-1cd4-5e0b-87dd-bd5eca9f8616"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-museum-of-care-open-source-survival-kit-collection",
+  "links": [
+    {
+      "url": "https://davidgraeber.org/people/roy-bhaskar/",
+      "type": "related",
+      "title": "On Roy Baskar: about technology"
+    },
+    {
+      "url": "https://files.libcom.org/files/David_Graeber-The_Utopia_of_Rules_On_Technology_St.pdf",
+      "type": "related",
+      "title": "Several texts by David Graeber about poetic and bureaucratic technologies"
+    }
+  ],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/VLFQSQ/",
+  "attachments": [
+    {
+      "url": "/media/39c3/submissions/VLFQSQ/resources/poster_Poetic_Technology_Davi_x8r6OON.jpeg",
+      "type": "related",
+      "title": "Poetic Technology, by David Graeber Institute"
+    },
+    {
+      "url": "/media/39c3/submissions/VLFQSQ/resources/poster_19-12_4vNSOFs.pdf",
+      "type": "related",
+      "title": "Posters about Poetic Technology with David Graeber's quotes"
+    }
+  ]
+}

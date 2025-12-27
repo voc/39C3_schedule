@@ -1,0 +1,30 @@
+{
+  "guid": "01b5310e-4f94-401a-9cbe-7cf630952ed3",
+  "code": null,
+  "id": 15310,
+  "date": "2025-12-27T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:55",
+  "room": "RopeLabs Assembly",
+  "slug": "39c3-rope-whippings-for-beginners_1gv6",
+  "title": "Rope whippings for beginners",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "I'll show you two techniques to whip ropes.",
+  "description": "Whippings are sewing techniques used to secure the ends of ropes against fraying.\n\nI'll show you two techniques to whip ropes.\n\nMaterials will be provided, you are welcome to bring your rope.\n\n> INFO\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d3e82a3b-3101-4e15-a2a8-41b0b6cda6dd",
+      "name": "kluthulhu",
+      "public_name": "kluthulhu",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kluthulhu"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/rope-whippings-for-beginners_1gv6",
+  "links": []
+}

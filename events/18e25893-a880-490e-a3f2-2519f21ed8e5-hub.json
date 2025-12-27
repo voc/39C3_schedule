@@ -1,0 +1,30 @@
+{
+  "guid": "18e25893-a880-490e-a3f2-2519f21ed8e5",
+  "code": null,
+  "id": 182589,
+  "date": "2025-12-28T11:45:00+01:00",
+  "start": "11:45",
+  "duration": "01:00",
+  "room": "Kidspace - Hackcenter",
+  "slug": "39c3-hour-of-code-programmieren-mit-minecraft-und-codeo",
+  "title": "Hour of Code - Programmieren mit Minecraft und Code.org",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Lust auf einen spielerischen Einstieg ins Programmieren? In dieser Hour of Code lernen Kinder (und interessierte Erwachsene) mit Minecraft die Grundlagen des Codings. Wir steuern Figuren, l\u00f6sen knifflige R\u00e4tsel und entdecken, wie man mit einfachen Befehlen spannende Dinge erschaffen kann. Keine Vorkenntnisse n\u00f6tig \u2013 einfach ausprobieren und Spa\u00df haben!",
+  "description": "Lust auf einen spielerischen Einstieg ins Programmieren? In dieser Hour of Code lernen Kinder (und interessierte Erwachsene) mit Minecraft die Grundlagen des Codings. Wir steuern Figuren, l\u00f6sen knifflige R\u00e4tsel und entdecken, wie man mit einfachen Befehlen spannende Dinge erschaffen kann. Keine Vorkenntnisse n\u00f6tig \u2013 einfach ausprobieren und Spa\u00df haben!\n\nProgrammieren kann ganz leicht sein \u2013 besonders, wenn man es mit Minecraft verbindet! In dieser Session arbeiten wir mit der Minecraft-Hour of Code von Code.org. Mit einer einfachen, blockbasierten Programmierumgebung k\u00f6nnt ihr Charaktere steuern, Herausforderungen meistern und ganz nebenbei verstehen, wie Code funktioniert.\n\nDieser Workshop richtet sich vor allem an Kinder, aber auch Erwachsene sind willkommen. Alles, was ihr braucht, ist Neugier und Lust, etwas Neues auszuprobieren!\n\n**Wichtig:**\nEs muss keine Software vorinstalliert werden. Ein moderner Browser reicht v\u00f6llig. Damit ihr mitmachen k\u00f6nnt, braucht ihr jedoch ein internetf\u00e4higes Tablet oder einen Laptop. Bitte bringt euer eigenes Ger\u00e4t mit! Vor Ort k\u00f6nnen leider keine Ger\u00e4te gestellt werden.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f967c058-2642-4e92-b8b6-8cf75d8f7a76",
+      "name": "ghenny",
+      "public_name": "ghenny",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ghenny"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hour-of-code-programmieren-mit-minecraft-und-codeo",
+  "links": []
+}

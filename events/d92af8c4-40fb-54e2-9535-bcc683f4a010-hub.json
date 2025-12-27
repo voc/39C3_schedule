@@ -1,0 +1,39 @@
+{
+  "guid": "d92af8c4-40fb-54e2-9535-bcc683f4a010",
+  "code": "3CCTFB",
+  "id": 1317,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system",
+  "title": "Xous: A Pure-Rust Rethink of the Embedded Operating System",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "Xous is a message-passing microkernel implemented in pure Rust, targeting secure embedded applications. This talk covers three novel aspects of the OS: hardware MMU support (and why we had to make our own chip to get this feature), how and why we implemented the Rust standard library in Rust (instead of calling the C standard library, like most other Rust platforms), and how we combine the power of Rust semantics with virtual memory to create safe yet efficient asynchronous messaging primitives. We conclude with a short demo of the OS running on a new chip, the \"Baochip-1x\", which is an affordable, mostly-open RTL SoC built in 22nm TSMC, configured expressly for running Xous.",
+  "description": "The world is full of small, Internet-of-Things (IoT) gadgets running embedded operating systems. These devices generally fall into two categories: larger devices running a full operating system using an MMU which generally means Linux, or smaller devices running without an MMU using operating systems like Zephyr, chibios, or rt-thread, or run with no operating system at all. The software that underpins these projects is written in C with coarse hardware memory protection at best. As a result, these embedded OSes lack the security guarantees and/or ergonomics offered by modern languages and best practices.\n\nThe Xous microkernel borrows concepts from heavier operating systems to modernize the embedded space. The open source OS is written in pure Rust with minimal dependencies and an emphasis on modularity and simplicity, such that a technically-savvy individual can audit the code base in a reasonable period of time. This talk covers three novel aspects of the OS: its incorporation of hardware memory virtualization, its pure-Rust standard library, and its message passing architecture.\n\nDesktop OSes such as Linux require a hardware MMU to virtualize memory. We explain how ARM has tricked us into accepting that MMUs are hardware-intensive features only to be found on more expensive \u201capplication\u201d CPUs, thus creating a vicious cycle where cheaper devices are forced to be less safe. Thanks to the open nature of RISC-V, we are able to break ARM\u2019s yoke and incorporate well-established MMU-based memory protection into embedded hardware, giving us security-first features such as process isolation and encrypted swap memory. In order to make Xous on real hardware more accessible, we introduce the Baochip-1x, an affordable, mostly-open RTL 22nm SoC configured expressly for the purpose of running Xous. The Baochip-1x features a Vexriscv CPU running at 400MHz, 2MiB of SRAM, 4MiB of nonvolatile RRAM, and a quad-core RV32E-derivative I/O accelerator called the \u201cBIO\u201d, based on the PicoRV clocked at 800MHz.\n\nMost Rust targets delegate crucial tasks such as memory allocation, networking, and threading to the underlying operating system\u2019s C standard library. We want strong memory safety guarantees all the way down to the memory allocator and task scheduler, so for Xous we implemented our standard library in pure Rust. Adhering to pure Rust also makes cross-compilation and cross-platform development a breeze, since there are no special compiler or linker concerns. We will show you how to raise the standard for \u201cPure Rust\u201d by implementing a custom libstd.\n\nXous combines the power of page-based virtual memory and Rust\u2019s strong borrow-checker semantics to create a safe and efficient method for asynchronous message passing between processes. This inter-process communication model allows for easy separation of different tasks while keeping the core kernel small. This process maps well onto the Rust \"Borrow / Mutable Borrow / Move\" concept and treats object passing as an IPC primitive. We will demonstrate how this works natively and give examples of how to map common programming algorithms to shuttle data safely between processes, as well as give examples of how we implement features such as scheduling and synchronization primitive entirely in user space.\n\nWe conclude with a short demo of Xous running on the Baochip-1x, bringing Xous from the realm of emulation and FPGAs into everyday-user accessible physical silicon.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4fa232d4-1c23-587b-ae2b-7b376bc114e2",
+      "name": "bunnie",
+      "public_name": "bunnie",
+      "avatar": "https://cfp.cccv.de/media/avatars/bunnie-avatar2_jfcttmh.png",
+      "biography": "bunnie is best known for his work hacking the Microsoft Xbox, as well as for his efforts in designing and manufacturing open source hardware, including the chumby (app-playing alarm clock), chibitronics (peel-and-stick electronics for craft), Novena (DIY laptop), and Precursor (trustable mobile device). He received his PhD in EE from MIT in 2002. He currently lives in Singapore where he runs a private product design studio, Kosagi. His current research interest is in facilitating trust in technology.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_4fa232d4-1c23-587b-ae2b-7b376bc114e2"
+    },
+    {
+      "guid": "f7a24a16-ed69-5ad4-8a39-af69124b518b",
+      "name": "Sean \"xobs\" Cross",
+      "public_name": "Sean \"xobs\" Cross",
+      "avatar": null,
+      "biography": "Sean \"xobs\" Cross has worked for fifteen years creating open hardware. His projects have ranged from the Tomu and Fomu family of tiny USB devices to the Farpatch wireless debugger. He frequently partners with Andrew \"bunnie\" Huang on projects including the NeTV HDMI device, the Novena open-source laptop, and the Precursor open communications platform. Lately he has taken a keen interest in operating systems, debug infrastructure, and hardware integration.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f7a24a16-ed69-5ad4-8a39-af69124b518b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/xous-a-pure-rust-rethink-of-the-embedded-operating-system",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/3CCTFB/"
+}

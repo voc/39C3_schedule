@@ -1,0 +1,31 @@
+{
+  "guid": "5a765194-a365-5b0c-988a-eb7a118cd663",
+  "code": null,
+  "id": 200518,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wiki-loves-demokratie",
+  "title": "Wiki Loves Demokratie",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "R\u00fcckblick auf bisher durchgef\u00fchrte Veranstaltungen und gemeinsamer Ausblick auf kommende Veranstaltungen.",
+  "description": "Im Jahr 2024 konnten wir den 75. Geburtstag des Grundgesetzes feiern. Anlass genug, um mit \u201cWiki Loves Demokratie\u201d eine Reihe von Veranstaltungen ins Leben zu rufen, die dazu beitragen will, zum Begriff der Demokratie selbst und zur freiheitlich demokratischen Grundordnung Artikel in der Wikipedia weiter anzureichern und so diese wichtigen Themen noch sichtbarer zu machen. In der Session wollen wir auf die durchgef\u00fchrten Veranstaltungen zur\u00fcckblicken und gemeinsam weitere Ideen und W\u00fcnsche f\u00fcr zuk\u00fcnftige Veranstaltungen zu \u201cWiki Loves Demokratie\u201d zusammentragen und sammeln. Wir freuen uns auf den Austausch mit euch!\n",
+  "logo": "https://pretalx.wikimedia.de/media/39c3-2025/submissions/V3SK8V/Bildschirmfoto_2025-12-22_um_11.47.16_vskk8jA.png",
+  "persons": [
+    {
+      "guid": "72b67aa4-ec68-53e3-8fd8-d6d74cad6e75",
+      "name": "Holger Plickert (WMDE)",
+      "public_name": "Holger Plickert (WMDE)",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/76589c02c6ad2d3fe812f8d4612aab0b_bipI1cL.jpg",
+      "biography": "Holger Plickert ist Referent f\u00fcr Kultur- und Ged\u00e4chtnisinstitutionen bei Wikimedia Deutschland e. V. Zuvor arbeitete er u. a. f\u00fcr die Stiftung Preu\u00dfische Schl\u00f6sser und G\u00e4rten Berlin-Brandenburg und die Kulturquartier Mecklenburg-Strelitz gGmbH. In seiner jetzigen Funktion versteht er sich als Bindeglied zwischen den Ehrenamtlichen der Wikimedia-Projekte und den Kultur- und Ged\u00e4chtnisinstitutionen sowie den Fachverb\u00e4nden.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_72b67aa4-ec68-53e3-8fd8-d6d74cad6e75"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wiki-loves-demokratie",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/V3SK8V/"
+}

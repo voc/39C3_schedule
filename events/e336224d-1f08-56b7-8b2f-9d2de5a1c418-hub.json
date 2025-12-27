@@ -1,0 +1,31 @@
+{
+  "guid": "e336224d-1f08-56b7-8b2f-9d2de5a1c418",
+  "code": null,
+  "id": 100447,
+  "date": "2025-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-fsfe-insights_q0tl",
+  "title": "FSFE Insights",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Join this session to gain a deeper understanding of the work of the Free Software Foundation Europe (FSFE) and how the organisation empowers users to take control of technology. We will explore FSFE\u2019s wide range of activities \u2014 from advocacy and policy work at the European level to practical initiatives such as \u201cPublic Money? Public Code!\u201d, which promotes publicly funded software being released as Free Software. Explore how we fight for Device Neutrality and how we want to spark children's interest in coding.\r\n\r\nThe session will also highlight FSFE\u2019s legal support efforts, community-building activities, and public awareness campaigns that help ensure technology remains accessible, transparent, and shaped by its users rather than by restrictive corporate or governmental control.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b33f91e0-9f93-583d-bc74-0dce0c3c99d5",
+      "name": "Ana",
+      "public_name": "Ana",
+      "avatar": null,
+      "biography": "Ana has a background in communication and social sciences. After an internship at FSFE, she continued her career in Berlin and Madrid with various journalistic, communication and production-related experiences, and has been back at FSFE since 2022. There she focuses on communication outreach tasks as well as helping to manage the FSFE community and related events.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b33f91e0-9f93-583d-bc74-0dce0c3c99d5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fsfe-insights_q0tl",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/KSAZCE/"
+}

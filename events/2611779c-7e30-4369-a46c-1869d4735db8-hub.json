@@ -1,0 +1,30 @@
+{
+  "guid": "2611779c-7e30-4369-a46c-1869d4735db8",
+  "code": null,
+  "id": 261177,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-wir-grunden-eine-chaos-wg-als-solidarisches-selbst",
+  "title": "Wir gr\u00fcnden eine Chaos-WG als solidarisches, selbstverwaltetes Wohnprojekt in Schleswig-Holstein/Hamburg.",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Eingeladen sind alle Interessierten die keine Lust mehr auf immer h\u00f6here Mieten f\u00fcr immer schlechteren Wohnraum haben und den Traum von einem bewohnten Hackspace/Makespace verwirklichen m\u00f6chten.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "877c8b97-7578-49fd-b38c-a7dce865a267",
+      "name": "yellni",
+      "public_name": "yellni",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/yellni"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wir-grunden-eine-chaos-wg-als-solidarisches-selbst",
+  "links": []
+}

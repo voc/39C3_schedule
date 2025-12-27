@@ -1,0 +1,38 @@
+{
+  "guid": "cc16de00-c31f-5c44-a34a-615e6beba883",
+  "code": "DE97UE",
+  "id": 1973,
+  "date": "2025-12-27T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-fetap-611-unplugged-taking-a-rotary-dial-phone-to-the-mobile-age",
+  "title": "FeTAp 611 unplugged: Taking a rotary dial phone to the mobile age",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "This project transforms a classic rotary phone into a mobile device. Previous talks have analyzed various aspects of analogue phone technology, such as rotary pulse detection or ringing voltage generation. Now this project helps you get rid of the cable: it equips the classic German FeTAp 611 with battery power and a flyback SMPS based ringing voltage generator - but still maintains the classical look and feel. The talk demonstrates the journey of bridging analog and digital worlds, explaining how careful design connects a vintage phone to today\u2019s mobile environment - in a way that will make your grandparents happy.",
+  "description": "There are people who throw away old telephones - and then there are those who find them in the garbage and think, \u201eHow can a microcontroller actually read the digits from a rotary dial?\u201c\nThis talk follows the journey of transforming a classic German FeTAp 611 rotary phone into a mobile device while keeping its vintage charm. Building on earlier retrofits, this project aims to combine the following design goals into a mobile version of the Fernsprechtischapparat:\n\n- Grandparents-compatible \u2013 The phone shall be easy to use by non-technical people, showing the same look and feel as the original phones, including details such as a dial tone.\n- easy phone switching \u2013 Switching between FeTAp and regular cellphone shall not require unscrewing the phone to switch SIM cards.\n- standard components \u2013 PCB/PCBA suppliers shall be capable of manufacturing boards at a reasonable price.\n- device-agnostic circuit design \u2013 Adapting to different phones (e.g. W48, FeTAp 791, FeTAp 611) shall minimize the need for changes in the schematic. This includes a ringing voltage generator that shall be powerful enough to drive an old W48 phone.\n\nThis talk will walk you through certain aspects of the German analog telephony standard 1TR110-1, and the challenges faced when implementing those on a battery-powered device with little space. It explains\n- the state machine implemented on an STM32 microcontroller,\n- how to connect old carbon microphones to modern audio electronics,\n- designing (and avoiding mistakes in) a flyback based SMPS to generate 32V - 75V ringing voltage,\n- how to generate 25 Hz AC using an H-bridge,\n- and how to layout the PCB such that the ancient second handset connector can now be used for USB-C charging.\n\nIn the course of the development, I discovered that the project is not only a good way to get a glimpse into various aspects of ancient and modern types of electronics - but also into people\u2019s reactions when such a phone suddenly starts ringing on a flea market\u2026 :-)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "028b127a-fe80-5fd0-b482-84735812ea7d",
+      "name": "Michael Weiner",
+      "public_name": "Michael Weiner",
+      "avatar": "https://cfp.cccv.de/media/avatars/E7N9CG_i0bfDhN.jpg",
+      "biography": "By day, Michael works as a pentester focusing on embedded systems and physical attacks. By night, he tinkers with electronics, picks locks, and sings in a choir - though not necessarily all at the same time. When not busy with work or travel, he can sometimes be found at his local hackerspace, the \u00b5C\u00b3 in Munich. Michael holds a PhD in electrical engineering.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_028b127a-fe80-5fd0-b482-84735812ea7d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fetap-611-unplugged-taking-a-rotary-dial-phone-to-the-mobile-age",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DE97UE/",
+  "attachments": [
+    {
+      "url": "/media/39c3/submissions/DE97UE/resources/FeTAp_611_unplugged_web_0V3xvzo.pdf",
+      "type": "related",
+      "title": "Presentation Slides"
+    }
+  ]
+}

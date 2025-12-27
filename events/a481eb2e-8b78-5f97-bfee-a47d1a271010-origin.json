@@ -1,0 +1,45 @@
+{
+  "guid": "a481eb2e-8b78-5f97-bfee-a47d1a271010",
+  "code": "YE7ZA9",
+  "id": 1965,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/YE7ZA9/cain_5IxOa2K.jpg",
+  "date": "2025-12-30T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1965-security-nightmares",
+  "url": "https://cfp.cccv.de/39c3/talk/YE7ZA9/",
+  "title": "Security Nightmares",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Was hat sich im Jahr 2025 im Bereich IT-Sicherheit getan? Welche neuen Methoden, Buzzwords und Trends waren zu sehen? Was waren die fiesesten Angriffe und die teuersten Fehler?",
+  "description": "Wir wagen auch den IT-Security-Ausblick auf das Jahr 2026. Der ist wie immer mit Vorsicht zu genie\u00dfen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "FCLVFD",
+      "name": "Constanze Kurz",
+      "avatar": "https://cfp.cccv.de/media/avatars/ich-7-2_8SjCXsu.jpg",
+      "biography": "Constanze Kurz ist promovierte Informatikerin und ehrenamtlich Sprecherin des Chaos Computer Clubs. Sie schreibt bei netzpolitik.org \u00fcber Technik und Gesellschaft. Sie war technische Sachverst\u00e4ndige beim Bundesverfassungsgericht bei den Verfassungsbeschwerden gegen Wahlcomputer, die Vorratsdatenspeicherung, das BKA-Gesetz, das BND-Gesetz, Staatstrojaner sowie automatisierte Datenanalyse bei der Polizei (Palantir).",
+      "public_name": "Constanze Kurz",
+      "guid": "79aa12ea-2d29-5df7-972b-1124a48a838b",
+      "url": "https://cfp.cccv.de/39c3/speaker/FCLVFD/"
+    },
+    {
+      "code": "SQZYBX",
+      "name": "Ron",
+      "avatar": null,
+      "biography": "todo",
+      "public_name": "Ron",
+      "guid": "41f383d6-2c5e-553f-974c-584324bd131f",
+      "url": "https://cfp.cccv.de/39c3/speaker/SQZYBX/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/YE7ZA9/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YE7ZA9/",
+  "attachments": []
+}

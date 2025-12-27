@@ -1,0 +1,58 @@
+{
+  "guid": "c31906d3-4cd5-5b05-aebe-5ce1538c70b8",
+  "code": "RDABLB",
+  "id": 1420,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/RDABLB/bestes_Beispiel_quer_xS8i0dH_0WOENdh_Xi_cTZCrBB.webp",
+  "date": "2025-12-29T21:05:00+01:00",
+  "start": "21:05",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1420-hegemony-eroding-excavating-diversity-in-latent-space",
+  "url": "https://cfp.cccv.de/39c3/talk/RDABLB/",
+  "title": "Hegemony Eroding: Excavating Diversity in Latent Space",
+  "subtitle": "",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Hegemony Eroding is an ongoing art project exploring how generative AI reflects and distorts cultural representation. Its name speaks to its core ambition: to bear witness to the slow erosion of Western cultural hegemony by exposing the cracks in which other cultures shine through.\r\n\r\nThis talk will discuss the blurry boundary between legitimate cultural representation and prejudice in AI-generated media and how generative AI can be used as a tool to explore humanity's digital foot print.\r\nIt is permeated by a critique of purely profit-driven AI development and it's tendency to blunt artistic exploration and expression.",
+  "description": "Generative AI models ingest huge datasets gathered all over the web. Unsurprisingly, they reflect decades of Western cultural hegemony. Yet, the hegemony is not absolute.\r\n\r\nNon-Western motifs, that is, recurring patterns and themes with deep cultural resonance, can be discovered and reproduced across different generative AI models.\r\n\r\nIn this talk I will explain the methods I developed to draw out motifs, the journey I took and what I learned along the way. I will present motifs and use them to outline a space stretching from representation to prejudice on the one hand and western to non-western depiction on the other.\r\n\r\nFinally, I will make a case for AI as a tool for cultural exploration and discuss how monetary incentives jeopardise this endeavour, adding to the long list of reasons to break up monopolies with transparent, publicly-funded AI-models.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "P7CNUN",
+      "name": "Karim Hamdi",
+      "avatar": "https://cfp.cccv.de/media/avatars/P7CNUN_a9nOifb.jpg",
+      "biography": "I'm a creative technologist specialised in AI, IoT and robotics. My main interests are the interaction of people with technology and the revelatory effects of technology on humans on an individual as well as societal level.\r\n\r\nI came up through the German hacker scene, when I got involved as one of the main organisers of **Make Munich**, Germany's first maker festival,  and co-founded the **Munich Maker Lab** in 2013. I continued my path hosting workshops and temporary hackerspaces at events like Hedo-Congress, MLOVE, DMY, etc.\r\n\r\nDuring the **D#AVANTGARDE** GenAI Lab at the art&tech Hackathon **Schmiede24: Faust**, I started an exploration of cultural representation in the latent space of generative AI models that lead to the ongoing ***Hegemony Eroding*** art project.",
+      "public_name": "Karim Hamdi",
+      "guid": "fb6e2ee7-cc7c-5b9a-b9ce-2881eaeb1056",
+      "url": "https://cfp.cccv.de/39c3/speaker/P7CNUN/"
+    }
+  ],
+  "links": [
+    {
+      "title": "Hegemony eroding",
+      "url": "https://hegemony-eroding.make-gyver.de/",
+      "type": "related"
+    },
+    {
+      "title": "Workshop @re:publica 2025",
+      "url": "https://re-publica.com/de/session/hegemony-eroding-hands-genai-workshop-how-excavate-diversity-latent-space",
+      "type": "related"
+    },
+    {
+      "title": "Workshop @Schmiede25: Faust",
+      "url": "https://schmiedehallein.com/archives/4204",
+      "type": "related"
+    }
+  ],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/RDABLB/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/RDABLB/",
+  "attachments": [
+    {
+      "title": "a crack one word wide",
+      "url": "/media/39c3/submissions/RDABLB/resources/bestes_Beispiel_JGuIMX2.webp",
+      "type": "related"
+    }
+  ]
+}

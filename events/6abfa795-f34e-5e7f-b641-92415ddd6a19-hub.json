@@ -1,0 +1,32 @@
+{
+  "guid": "6abfa795-f34e-5e7f-b641-92415ddd6a19",
+  "code": "C3CT3V",
+  "id": 1789,
+  "date": "2025-12-29T00:00:00+01:00",
+  "start": "00:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-kenji-tanaka-live",
+  "title": "Kenji Tanaka Live",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "In my improvised live set, my random generators and I bounce ideas off each other. This approach allows previously created loops to flow into endless new combinations.",
+  "description": "I love loopy and trippy techno. When dancing, I like to let go of everything around me and enter a deeper dialogue with myself. At this stage, I am 100% in tune with myself. This works for me when the groove drives me and the elements I hear are interesting but not too intrusive. That\u2019s exactly what I love to create on the dance floor.\n\nTo achieve this\u2014and to create the necessary element of surprise\u2014I combine different loops randomly and \"blindly\". Since I never know exactly what will happen, I am constantly surprised and inspired by the result.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/C3CT3V/Kenji_Tanaka__jjF7TQ0.webp",
+  "persons": [
+    {
+      "guid": "afc7d441-508c-563f-b41f-2f05195a28c3",
+      "name": "Kenji Tanak",
+      "public_name": "Kenji Tanak",
+      "avatar": "https://cfp.cccv.de/media/avatars/YTNW7G_6ooC3mj.png",
+      "biography": "I love loopy and trippy techno. When dancing, I love to let go of everything around me and enter into a deeper dialogue with myself. At this stage, I am 100% in tune with myself. This works for me when the groove drives me and the elements I hear are interesting but not too intrusive. That's exactly what I love to create on the floor.\n\nTo achieve this and also to create the necessary element of surprise, I combine different loops randomly and blindly. Since I never know exactly what will happen, I am also surprised and inspired by it.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_afc7d441-508c-563f-b41f-2f05195a28c3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/kenji-tanaka-live",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/C3CT3V/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/C3CT3V/feedback/"
+}

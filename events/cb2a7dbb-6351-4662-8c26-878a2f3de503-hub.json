@@ -1,0 +1,30 @@
+{
+  "guid": "cb2a7dbb-6351-4662-8c26-878a2f3de503",
+  "code": null,
+  "id": 276351,
+  "date": "2025-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:20",
+  "room": "Chaoswellen Assembly",
+  "slug": "39c3-amateurfunk-goes-politik-oder-wie-ich-das-overengi",
+  "title": "Amateurfunk goes Politik\u00a0\u2013 oder wie ich das Overengineering lernte",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Emergency communications in amateur radio had not really attracted much attention in Berlin politics until now. In this short talk, I explain how I wanted to change that, how I probably overengineered things in the process, and whether anything came of it in the end\u2014apart from some nice stamps.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3ba507b2-94f9-46ed-a4cb-d2d44af6e9b5",
+      "name": "Tny",
+      "public_name": "Tny",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/tny"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/amateurfunk-goes-politik-oder-wie-ich-das-overengi",
+  "links": []
+}

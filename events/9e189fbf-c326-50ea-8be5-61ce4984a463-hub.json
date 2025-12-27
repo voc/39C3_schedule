@@ -1,0 +1,32 @@
+{
+  "guid": "9e189fbf-c326-50ea-8be5-61ce4984a463",
+  "code": "HADW9B",
+  "id": 83757,
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-och-menno-mode-power-cycles-power-suit-dresscodes-wtf",
+  "title": "Och Menno Mode: Power Cycles, Power Suit, Dresscodes WTF",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Der inkompetente Podcast \u00fcber Dresscodes und Mode. Warum verschiedene Kleiderordnungen immer mal wieder zu komischen Situationen und politischen Missverst\u00e4ndnissen gesorgt haben. Warum ist der Business Dress eigentlich nur ein besserer Hausanzug ? Warum wird aus gem\u00fctlicher Kleidung eine Kleidung die bei Staatsempf\u00e4ngen getragen wird. Warum ist ein Dresscode immer missverst\u00e4ndlich ? Bitte zum Vortrag  in smart Casual  Business white Tie, aber nicht zu formal erscheinen. Wer das versteht oder auch nicht wird sich wohlf\u00fchlen.",
+  "description": "Eine kleine Reise \u00fcber die merkw\u00fcrdige Welt der (M\u00e4nner) Mode, die halt wenig sinnvoll ist. Mode ist halt nur eine M\u00f6glichkeit sich von anderen Abzugrenzen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc",
+      "name": "Sven Uckermann",
+      "public_name": "Sven Uckermann",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/sticker2a_sSfUyCi.png",
+      "biography": "Der Failpodcaster, der immer wieder merkw\u00fcrdige Talks zu merkw\u00fcrdigen Themen h\u00e4lt. MAcht im realen Leben was mit kaputten Computern.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0ce6bf66-a4bb-58b3-a2fa-54682eb3a1dc"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/och-menno-mode-power-cycles-power-suit-dresscodes-wtf",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HADW9B/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HADW9B/feedback/"
+}

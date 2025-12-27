@@ -1,0 +1,30 @@
+{
+  "guid": "a022566b-f89e-4025-bebe-ad239d018602",
+  "code": null,
+  "id": 22566,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-security-at-startupssmall-teams",
+  "title": "Security for small engineering teams",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "How do you manage security in small software engineering teams or startups (2-50 people)?\nWhat did you implement? Which changes did you implement or push for as a security person?\n\nI previously worked at a small NGO and startup and want to create a space to share experiences.\n\nInitially, I'll give some insights about what I implemented in the past year, however the goal is to have a discussion.\n\nTopics might include:\n- Fuzzing\n- Responsible disclosure (both incoming and outgoing)\n- DefectDojo, Dependabot and SecObserve\n- GitHub's security features\n- Static analyzers ranging from Semgrep to Zizmor\n\nPut in notes here if you want to join! https://cryptpad.fr/pad/#/2/pad/edit/3iZ8MLCkX9I3xcTsh6uc2LwA/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8f65032b-4267-4907-84b0-4eb7fe0ef207",
+      "name": "max1",
+      "public_name": "max1",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/max1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/security-at-startupssmall-teams",
+  "links": []
+}

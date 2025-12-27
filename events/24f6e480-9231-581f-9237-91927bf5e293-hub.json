@@ -1,0 +1,32 @@
+{
+  "guid": "24f6e480-9231-581f-9237-91927bf5e293",
+  "code": "HZVYUY",
+  "id": 108076,
+  "date": "2025-12-30T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-nebelhorn",
+  "title": "Nebelhorn",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Wir sind vom Nebelhorn Podcast der Scientists for Future in Hamburg und f\u00fchren in unregelm\u00e4\u00dfigen Abst\u00e4nden Interviews, meist zu Klima und Gesellschaft.\r\nJe nach Gelegenheit werden wir auf dem 39c3 ein kleines Interview oder eine Hinter-den-Kulissen Sonderfolge aufnehmen.\r\nhttps://nebelhorn.podigee.io/",
+  "description": "",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/HZVYUY/c8fb2956-28e5-470e-827f-4e_KGUOA6x.webp",
+  "persons": [
+    {
+      "guid": "a2309dd3-5164-5525-935e-6cbdea67f322",
+      "name": "Pascal4F",
+      "public_name": "Pascal4F",
+      "avatar": null,
+      "biography": "Ich bin Informatiker und bei den Scientists for Future aktiv.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a2309dd3-5164-5525-935e-6cbdea67f322"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nebelhorn",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HZVYUY/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/HZVYUY/feedback/"
+}

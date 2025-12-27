@@ -1,0 +1,45 @@
+{
+  "guid": "49ceb68c-bcbe-592f-9c62-b1085f657190",
+  "code": "3TA9HW",
+  "id": 1668,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/3TA9HW/a-rising-tide-lifts-all-bots_rose-willis_vEAOt06.png",
+  "date": "2025-12-30T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-1668-fossile-industrie-liebt-ki",
+  "url": "https://cfp.cccv.de/39c3/talk/3TA9HW/",
+  "title": "Fossile Industrie liebt KI!",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Der Hype um generative KI und die Gasindustrie bilden in Zeiten der Klimakrise eine bedrohliche Allianz f\u00fcr die Zukunft des Planeten.",
+  "description": "Obwohl die negativen Klimaauswirkungen generativer KI immer deutlicher werden, sollen in ganz Europa Gro\u00dfrechenzentren gebaut werden und Deutschland \u201eKI-Nation\u201c werden, was ungeahnte \u201eWirtschaftskr\u00e4fte freisetzen soll\u201c \u2013 zumindest, wenn es nach der Bundesregierung geht.\r\n\r\nDer Ausbau der Recheninfrastruktur f\u00fcr generative KI ben\u00f6tigt viel Energie, Wasser und Ressourcen, was global zu Umweltsch\u00e4den f\u00fchrt. Prognosen f\u00fcr die EU zeigen, dass der Energieverbrauch in Zukunft so gro\u00df werden k\u00f6nnte, dass der Ausbau der erneuerbaren Energien nicht mithalten kann \u2013 doch die fossile Industrie steht bereits in den Startl\u00f6chern.\r\n\r\nDer Hype um generative KI liefert ihnen die perfekte Begr\u00fcndung f\u00fcr den Ausbau fossiler Infrastruktur- mitten in der eskalierenden Klimakrise. Tech- und Fossilkonzerne investieren massiv in neue Gaskraftwerke f\u00fcr energiehungrige Rechenzentren.  Dabei ist der wirtschaftliche Nutzen und die Wertsch\u00f6pfung durch die Technologie weiterhin unklar.\r\nKlar ist: wir erleben derzeit eine fossile Gegenoffensive im Gewand digitaler Versprechen. Auf Kosten des Klimas und der Zukunft.\r\n\r\nDieser Vortrag schlie\u00dft an den Talk \"Klimasch\u00e4dlich by Design\" vom 38C3 an und gibt Updates zu Entwicklungen in Deutschland und Europa.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "LRVD9D",
+      "name": "Friederike Karla Hildebrandt",
+      "avatar": "https://cfp.cccv.de/media/avatars/photo_5366549009604394935_y_U3hE4p4.jpg",
+      "biography": "Hi! Ich bin Rike und koordiniere das Bits & B\u00e4ume B\u00fcndnis: https://bits-und-baeume.org/\r\nIch bin \u00d6konomin und Aktivistin im Bereich Klima- und Stadtpolitik.\r\nIhr k\u00f6nnt mich auch im Bits & B\u00e4ume Habitat auf dem 39C3 treffen. <3",
+      "public_name": "Friederike Karla Hildebrandt",
+      "guid": "14cf0385-199f-5cd2-a179-d02c553e9cb5",
+      "url": "https://cfp.cccv.de/39c3/speaker/LRVD9D/"
+    },
+    {
+      "code": "ZFBTGA",
+      "name": "Moritz",
+      "avatar": "https://cfp.cccv.de/media/avatars/ZFBTGA_MozvVAr.jpg",
+      "biography": "Hi, ich bin Moritz, Sozialwissenschaftler und organisiere bei der Umwelt- und Menschrechtsorganisation urgewald Kampagnen zu deutschen Energie- und Finanzkonzernen. Auf urgewalds \u00f6ffentlich zug\u00e4nglicher Industriedatenbank \u201eGlobal Oil and Gas Exit List\u201c spielen neue Gaskraftwerksprojekte f\u00fcr Datenzentren eine zunehmende Rolle.",
+      "public_name": "Moritz",
+      "guid": "e78efd2e-09d7-50da-9104-5f92044c346c",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZFBTGA/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/3TA9HW/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/3TA9HW/",
+  "attachments": []
+}

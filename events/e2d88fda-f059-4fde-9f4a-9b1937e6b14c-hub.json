@@ -1,0 +1,30 @@
+{
+  "guid": "e2d88fda-f059-4fde-9f4a-9b1937e6b14c",
+  "code": null,
+  "id": 288059,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-realismus-beim-sf-weltenbau-was-wir-aus-der-geschi",
+  "title": "Realismus beim SF Weltenbau: Was wir aus der Geschichte \u00fcber die SF-Zukunft lernen k\u00f6nnen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "So wie das Fantasy-Genre oft das Mittelalter abbildet und weiterdenkt, kann man sich auch in der Science Fiction an der realen Geschichte orientieren, vor allem dann, wenn sie realistisch sein soll.\n\nWie entstehen neue Technologien? Wie sind sie fr\u00fcher entstanden? Wird alles immer gr\u00f6\u00dfer, oder auch einmal kleiner und effizienter? Wie entwickeln sich Gesellschaften und Konflikte? Welche wirtschaftlichen und infrastrukturellen Voraussetzungen braucht es, um kilometergro\u00dfe Battleships zu bauen? Wie viele Menschen passen eigentlich auf die Erde? Was bedeutet Postapokalypse im historischen Kontext? Warum sollten wir das Sonnensystem besiedeln und Planeten terraformen? Falls es Aliens gibt, sind wir dann Forscher, Siedler und Eroberer? Oder sind wir eher die Eroberten, wie einst die Bewohner der Pazifikinseln?\n\nViel Material f\u00fcr eine realistische Geschichte der Zukunft, basierend auf realer Wissenschaft und historischen Mustern.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33966605-2f0b-4c4d-b56e-d1956f5953af",
+      "name": "Wolfspelz",
+      "public_name": "Wolfspelz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/wolfspelz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/realismus-beim-sf-weltenbau-was-wir-aus-der-geschi",
+  "links": []
+}

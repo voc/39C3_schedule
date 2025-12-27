@@ -1,0 +1,45 @@
+{
+  "guid": "fb08402b-1b8c-533b-b1fc-6daaa4fdc60f",
+  "code": "TRPMAN",
+  "id": 2173,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TRPMAN/swiss-flag_001_VqavHlJ.jpg",
+  "date": "2025-12-29T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2173-netzpolitik-in-der-schweiz-zwischen-bodensee-und-matterhorn",
+  "url": "https://cfp.cccv.de/39c3/talk/TRPMAN/",
+  "title": "Netzpolitik in der Schweiz: Zwischen Bodensee und Matterhorn",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Auch in der Schweizer Netzpolitik ging es im auslaufenden Jahr drunter und dr\u00fcber. Wir blicken mit gewohntem Schalk auf das netzpolitische Jahr 2025 zwischen Bodensee und Matterhorn zur\u00fcck - und diskutieren jene Themen, die relevant waren und relevant bleiben.",
+  "description": "**Themen sind unter anderem:**\r\n\r\n**Elektronische Identifizierung (E-ID):**\u00a0Die netzpolitische Community hat nicht nur eine privatisierte E-ID verhindert sondern auch den Datenschutz als zentrales Prinzip verankert und einen beispielhaften Gesetzgebungsprozess begleitet.\r\n\r\n**What the V\u00dcPF:** Wie die Schweiz im Gegenzug plant, das freie Internet weitgehend abzuschaffen. Wie der Stand der Versch\u00e4rfung ist. Was wir und du dagegen tun k\u00f6nnen?\r\n\r\n**KI- und Plattformregulierung:** Ein Vorschlag zur Plattformregulierung wurde vom Bund ausgearbeitet - und nach der Verh\u00e4ngung von 39% Strafzoll still und heimlich in der Schublade versenkt. M\u00fcssen wir nun warten, bis der Schulhof-Bully in den USA den Platz r\u00e4umt?\r\n\r\n**Leistungsschutzrecht:** Und wieso getraut sich der Bund trotzdem, ein Leistungsschuzrecht einzuf\u00fchren? Und mit der Motion \u00abG\u00f6ssi\u00bb KI-Sprachmodelle mit Schweizer Daten zu gef\u00e4hrden? (Spoiler: wegen der Verleger-Lobby)\r\n\r\n**Community in der Schweiz:** Winterkongress, Diversity und andere Aktivit\u00e4ten.\r\n\r\nNach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion in einer self-organized Session fortzusetzen. Es werden Aktivist:innen von verschiedenen Organisationen der Netzpolitik in der Schweiz anwesend sein.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "MVJECP",
+      "name": "Kire",
+      "avatar": "https://cfp.cccv.de/media/avatars/MVJECP_ltgF8aL.jpeg",
+      "biography": "Kire setzt sich seit vielen Jahren f\u00fcr Freiheitsrechte in einer vernetzten Welt ein. Er ist Informatiker, Co-Gesch\u00e4ftsleiter der Digitalen Gesellschaft Schweiz und ein fr\u00fches Mitglied im CCC. Sein Interesse gilt dem Spannungsfeld aus Technologie, Gesellschaft und Recht. Es ist Mitglied im Schweizer Presserat.",
+      "public_name": "Kire",
+      "guid": "16870bc8-38f8-5fe7-a094-cf04183fc0ce",
+      "url": "https://cfp.cccv.de/39c3/speaker/MVJECP/"
+    },
+    {
+      "code": "CXUFHQ",
+      "name": "Rahel",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Rahel",
+      "guid": "cd5e661d-19f0-57de-8235-b1899a12b89b",
+      "url": "https://cfp.cccv.de/39c3/speaker/CXUFHQ/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/TRPMAN/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TRPMAN/",
+  "attachments": []
+}

@@ -1,0 +1,21 @@
+{
+  "guid": "b497aae1-e1ca-4a34-b8c3-2053bba86cfe",
+  "code": null,
+  "id": 497114,
+  "date": "2025-12-27T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-shoc-1",
+  "title": "SHOC Meeting Day 1",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Scheduling Meeting for Heralds und Stagecoordinator angels",
+  "description": "",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/shoc-1",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "c216b3d6-9937-521f-a7ff-85dbb9e94d07",
+  "code": "Y99YJ7",
+  "id": 83786,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-c-t-uplink-digitale-souvernitt-sind-hcker-innen-jetzt-frs-staatswohl-verantwortlich",
+  "title": "c\u2019t uplink: Digitale Souver\u00e4nit\u00e4t \u2013 sind H\u00e4cker:innen jetzt f\u00fcrs Staatswohl verantwortlich?",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Sp\u00e4testens seitdem Donald Trump wieder im Wei\u00dfen Haus sitzt, geistert die \u201eDigitale Souver\u00e4nit\u00e4t\u201c verst\u00e4rkt durch die politischen Diskussionen. Wir haben mittlerweile ein Zentrum daf\u00fcr (ZenDiS) und einen Fonds, der sich zur Agentur gemausert hat (Sovereign Tech Fund/Agency). Aber ist jetzt das Schlagwort Digitale Souver\u00e4nit\u00e4t der T\u00fcr\u00f6ffner f\u00fcr mehr Open-Source-Software in Beh\u00f6rden, Verwaltungen, Schulen und anderen \u00f6ffentlichen Einrichtungen, oder erweist sich das als Bumerang? Sind Big Tech, die doch viel in Linux und Open Source investieren, wirklich das Problem?",
+  "description": "In dieser Sonderfolge des c\u2019t uplink blicken wir kritisch auf den Begriff Digitale Souver\u00e4nit\u00e4t und diskutieren, welche Konzepte sich dahinter verbergen. Wir sprechen dar\u00fcber, ob und warum gerade die Community den Karren aus dem Dreck ziehen soll. Au\u00dferdem schauen wir, warum es nur so langsam vorw\u00e4rts geht mit freier Software in \u00f6ffentlicher Hand und welche L\u00f6sungswege es gibt oder geben k\u00f6nnte.\n\nG\u00e4ste (u.a.):\n- Anne Roth, Referentin Digitalpolitik im Bundestag\n- Bonnie Mehring, Senior-Projekt-Managerin Free Software Foundation Europe\n- Sven Neuhaus, Tech Lead Open-Source-Produkte, Zentrum Digitale Souver\u00e4nit\u00e4t\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/Y99YJ7/Podcast_uplink_16_9_7F22NMv.jpg",
+  "persons": [
+    {
+      "guid": "c68cba7c-8d09-50fd-b322-57d56b439145",
+      "name": "Keywan Tonekaboni | c\u2019t uplink",
+      "public_name": "Keywan Tonekaboni | c\u2019t uplink",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/KF3MKT_5ejjKdu.jpg",
+      "biography": "Keywan Tonekaboni ist Technikjournalist und Redakteur bei der c\u2019t und heise online. Dort schreibt er vor allem \u00fcber Linux, Distributionen und Apps f\u00fcr den Linux-Desktop. Au\u00dferdem befasst er sich mit Entwicklungen freier Software allgemein, Themen wie digitale Souver\u00e4nit\u00e4t, Open Source in Beh\u00f6rden und dem Einfluss von Technik auf die Gesellschaft.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c68cba7c-8d09-50fd-b322-57d56b439145"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/c-t-uplink-digitale-souvernitt-sind-hcker-innen-jetzt-frs-staatswohl-verantwortlich",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/Y99YJ7/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/Y99YJ7/feedback/"
+}

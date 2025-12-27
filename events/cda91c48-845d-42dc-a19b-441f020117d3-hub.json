@@ -1,0 +1,30 @@
+{
+  "guid": "cda91c48-845d-42dc-a19b-441f020117d3",
+  "code": null,
+  "id": 914884,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-teamdatenschutz-meetup",
+  "title": "#TeamDatenschutz-Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The [#TeamDatenschutz](https://events.ccc.de/congress/2025/hub/tag/TeamDatenschutz) (team data protection) is used in the (more or less) social networks to assemble data protection officers, programmers, lawyers, activists, or supervisory authorities, as well as other people interested in data protection.\n\nThis Self-organized Session - attempting to is intended as a meet up, where people can meet other persons interested in data protection, maybe see someone again, and for sharing or ranting about data protection topics and issues, etc.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d81b9c7d-4ab2-4fc9-8ad2-f3b2f57f040b",
+      "name": "luap42 (er/ihm, he/him)",
+      "public_name": "luap42 (er/ihm, he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luap42"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/teamdatenschutz-meetup",
+  "links": []
+}

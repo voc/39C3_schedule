@@ -1,0 +1,30 @@
+{
+  "guid": "83890a4e-980e-4eb3-8594-0ec9a942cd62",
+  "code": null,
+  "id": 838904,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-iot-with-arduino-cloud-beginner-friendly-workshop",
+  "title": "IoT with Arduino Cloud: Beginner-Friendly Workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "A hands-on introduction to IoT using Arduino Cloud. You\u2019ll solder and wire sensors, program an ESP32, connect it to WiFi, and build a simple online dashboard to view live temperature, humidity, and air pressure data.",
+  "description": "# IoT with Arduino Cloud: Beginner-Friendly Workshop\n\nJoin us for a 2-hour, hands-on workshop that introduces you to the Internet of Things (IoT) using Arduino Cloud. This beginner-friendly session will show you how to connect a device to WiFi, visualise sensor data in real time, and manage your device remotely.\n\n## Arduino Cloud\n[Arduino Cloud](https://cloud.arduino.cc/) is an online platform for connecting compatible boards to the Internet, building dashboards, and viewing your sensor data from anywhere. You\u2019ll use it to get an ESP32 online and streaming live environmental readings.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll solder, wire, and program sensors on an ESP32. You\u2019ll connect your device to Arduino Cloud, set up a simple dashboard, and monitor temperature, humidity, and air pressure online. You\u2019ll also display readings locally on a small screen.\n\n## Materials\nYou\u2019ll work with:\n- Two ESP32 boards\n- A BME280 sensor for temperature, humidity, and air pressure\n- A small screen to display data locally\n\n## Requirements\n- A laptop\n- Install the [Arduino Cloud Agent](https://cloud.arduino.cc/download-agent/)\n- A USB-C data cable (limited number available to buy on the day)\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac25** for a kit to take home.\n\n## Instructions\n[Link to slides](https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing)\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/fbe9727b1ca3/ArduinoIOT.jpg",
+  "persons": [
+    {
+      "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
+      "name": "tdr112 (he/him)",
+      "public_name": "tdr112 (he/him)",
+      "avatar": null,
+      "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop",
+  "links": []
+}

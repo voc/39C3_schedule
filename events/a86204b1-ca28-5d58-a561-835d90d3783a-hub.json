@@ -1,0 +1,31 @@
+{
+  "guid": "a86204b1-ca28-5d58-a561-835d90d3783a",
+  "code": null,
+  "id": 200492,
+  "date": "2025-12-27T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:30",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-einfuhrung-in-wikidata",
+  "title": "Einf\u00fchrung in Wikidata",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Eine Einf\u00fchrung in Wikidata, die freie Wissensdatenbank.",
+  "description": "Wikidata ist ein Schwesterprojekt von Wikipedia, Wikimedia Commons und anderen Wikimedia-Projekten, das Linked Open Data (LOD) sammelt und bereitstellt. Hier k\u00f6nnt ihr herausfinden, was es damit auf sich hat und wie man die Daten bearbeiten und verwenden kann.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einfuhrung-in-wikidata",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/PVSGB7/"
+}

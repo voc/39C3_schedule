@@ -1,0 +1,31 @@
+{
+  "guid": "52fff0c0-2470-5ca0-b409-42df8d597649",
+  "code": null,
+  "id": 300121,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:10",
+  "room": "CDC Triangle",
+  "slug": "39c3-intro-to-the-critical-decentralization-cluster",
+  "title": "Intro to the Critical Decentralization Cluster",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Welcome and presentation of the CDC.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "81cd339a-6c77-586d-a76f-ce6eeaa97e14",
+      "name": "Diego Salazar",
+      "public_name": "Diego Salazar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_81cd339a-6c77-586d-a76f-ce6eeaa97e14"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/intro-to-the-critical-decentralization-cluster",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/Z9FEAG/"
+}

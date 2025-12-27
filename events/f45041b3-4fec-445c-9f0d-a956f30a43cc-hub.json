@@ -1,0 +1,30 @@
+{
+  "guid": "f45041b3-4fec-445c-9f0d-a956f30a43cc",
+  "code": null,
+  "id": 450413,
+  "date": "2025-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-debanking-und-die-folgen-fur-die-rote-hilfe-ev",
+  "title": "Debanking und die Folgen f\u00fcr die Rote Hilfe e.V.",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Der Roten Hilfe wurden die Konten gek\u00fcndigt. Was passiert ist, wie wir darauf reagieren und was IHR jetzt tun k\u00f6nnt erfahrt ihr hier und heute.",
+  "description": "Die Rote Hilfe hat, wie viele weitere linke Organisationen in den letzten Wochen auch, ihre Konten verloren. Politische Entscheidung der Trump-Administration f\u00fchrten dazu. \u00dcber das SWIFT-System kann die USA auch hierzulande bestimmen, wer ein Konto erh\u00e4lt, wer nicht und wessen Bankverbindung einseitig gek\u00fcndigt werden muss. \n.\nWir geben einen \u00dcberblick was warum bisher passiert ist, was die Folgen f\u00fcr uns sind, wie wir reagiert haben, wie es weiter geht und was IHR jetzt tun k\u00f6nnt.\n\nPressemitteilung: https://rote-hilfe.de/meldungen/kontokuendigung-wegen-antifa-banken-vollstrecken-us-politik-deutschland\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/3e1750a81731/Bildschirmfoto_2025-12-25_um_12.16.13.png",
+  "persons": [
+    {
+      "guid": "afbc1a6e-0739-494e-85bf-9452771693c2",
+      "name": "RoteHilfe",
+      "public_name": "RoteHilfe",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/rotehilfe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/debanking-und-die-folgen-fur-die-rote-hilfe-ev",
+  "links": []
+}

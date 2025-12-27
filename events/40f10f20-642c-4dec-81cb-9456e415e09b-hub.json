@@ -1,0 +1,38 @@
+{
+  "guid": "40f10f20-642c-4dec-81cb-9456e415e09b",
+  "code": null,
+  "id": 401020,
+  "date": "2025-12-29T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-omnibus-vs-digitalrechte_6jd6",
+  "title": "Omnibus vs. Digitalrechte",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The \u2018Digital Omnibus\u2019 is a collection of proposals from the EU Commission to deregulate existing digital laws, which are actually there to protect people. The General Data Protection Regulation (GDPR) and the AI Regulation (AI Act) will be watered down under the pretext of supposed reduction of bureaucracy .\n\nInstead of helping \u2018small and medium-sized enterprises\u2019 or start-ups in Europe, as promised, it is primarily US big tech giants that would benefit, and the European Commission's proposals read like an implementation of the Trump administration's wish list.\n\nThe session is intended to be a networking meeting for civil society NGOs and individuals to stop the omnibus bill.\n\nThis session follows a talk on the topic on Day 1, which we therefore recommend:\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "31eb74c3-d86c-46b9-a90c-110b57714e09",
+      "name": "e-punc (der / he)",
+      "public_name": "e-punc (der / he)",
+      "avatar": null,
+      "biography": "crewmember of c-base.org\nworking at Digitale Gesellschaft\nmaker and  player of the Coffeebots\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/e-punc"
+    },
+    {
+      "guid": "32a4fe68-4282-4c6a-b9bc-40c4eab94c21",
+      "name": "tyncet",
+      "public_name": "tyncet",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/tyncet"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/omnibus-vs-digitalrechte_6jd6",
+  "links": []
+}

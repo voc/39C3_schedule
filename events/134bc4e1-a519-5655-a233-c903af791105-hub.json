@@ -1,0 +1,32 @@
+{
+  "guid": "134bc4e1-a519-5655-a233-c903af791105",
+  "code": "KWC79V",
+  "id": 134415,
+  "date": "2025-12-29T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-austauschrunde-wie-kann-online-dating-in-einem-dat",
+  "title": "Austauschrunde: Wie kann Online-Dating in einem datensicheren, nicht-kommerziellen Safe(r) Space stattfinden? [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Ich habe keine L\u00f6sungen, m\u00f6chte aber einen Raum f\u00fcr Austausch schaffen.",
+  "description": "Diese Austauschrunde ist vielleicht f\u00fcr dich interessant, wenn du dich hierdurch angesprochen f\u00fchlst:\n\n- Du willst gern einen neuen Menschen kennenlernen, m\u00f6chtest aber in deinem Tempo und selbstbestimmt entscheiden, wann du welche Informationen \u00fcber dich in einem Kennenlernprozess teilst?\n- Du m\u00f6chtest nicht, dass deine Daten kommerziell genutzt werden?\n- Aktuell bestehende Dating-Apps f\u00fchlen sich f\u00fcr dich nicht nach einem Safe Space an?\n- Du m\u00f6chtest gern die Vorteile von Online-Dating nutzen, z.B. weil du sch\u00fcchtern bist oder eine Lebenssituation hast, in der du wenig neue Menschen kennenlernen kannst?\n- Du m\u00f6chtest dich mit anderen austauschen und erwartest dabei keine \"fertigen L\u00f6sungen\"?\n\nDie Austauschrunde richtet sich an Personen, die aktuell gern einen neuen Menschen kennenlernen m\u00f6chten. Es ist aber KEIN SPEED-DATING, sondern es geht um einen inhaltlichen Austausch, z.B. auf pers\u00f6nlicher, gesellschaftlicher, gern auch technischer Ebene.\n\nDie Austauschrunde ist f\u00fcr Menschen ab 18 Jahren, denen ein wertsch\u00e4tzender und r\u00fccksichtsvoller Austausch zum Thema wichtig ist.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5fbbf96b-09af-586d-a566-0d2b8c5b4584",
+      "name": "Okapi",
+      "public_name": "Okapi",
+      "avatar": null,
+      "biography": "Das Okapi ist eine Frau.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5fbbf96b-09af-586d-a566-0d2b8c5b4584"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/austauschrunde-wie-kann-online-dating-in-einem-dat",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/KWC79V/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/KWC79V/feedback/"
+}

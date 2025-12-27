@@ -1,0 +1,31 @@
+{
+  "guid": "5454618f-fcfb-568a-b82b-eb0b10bf89cb",
+  "code": "LUK8DG",
+  "id": 2129,
+  "date": "2025-12-29T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-build-a-fake-phone-find-real-bugs-qualcomm-gpu-emulation-and-fuzzing-with-libafl-qemu",
+  "title": "Build a Fake Phone, Find Real Bugs: Qualcomm GPU Emulation and Fuzzing with LibAFL QEMU",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Mobile phones are central to everyday life: we communicate, entertain ourselves, and keep vast swaths of our digital lives on them. That ubiquity makes high-risk groups such as journalists, activists, and dissidents prime targets for sophisticated spyware that exploits device vulnerabilities.\r\n\r\nOn Android devices, GPU drivers have repeatedly served as the final escalation vector into the kernel. To study and mitigate that risk, we undertook a research project to virtualize the Qualcomm Android kernel and the KGSL graphics driver from scratch in QEMU. This new environment enables deep debugging, efficient coverage collection, and large-scale fuzzing across server farms, instead of relying on a handful of preproduction devices.\r\n\r\nThis talk will highlight the technical aspects of our research, starting with the steps required to boot the Qualcomm mobile kernel in QEMU, all the way up to the partial emulation of the GPU. Then, we will present how we moved from our emulation prototype to a full-fledged fuzzer based on LibAFL QEMU.",
+  "description": "Mobile phone manufacturers ship competitive hardware supported by increasingly complex software stacks, ranging from firmware and bootloaders to kernel modules, hypervisors, and other TrustZone environments. In an effort to keep their products secure, these companies rely on state-of-the-art testing techniques such as fuzzing. They commonly perform their fuzzing campaigns on-device to find vulnerabilities. Unfortunately, this approach is expensive to scale and does not always provide fine-grained control over the target. To address these issues, we approached the problem through the prism of emulation, by partially reimplementing the hardware as a normal software to run on a computer. That way, we could scale fuzzing instances, and gain full control over the emulated target.\n\nThe presentation will outline how we made the full emulation of Qualcomm\u2019s Android ecosystem possible by tweaking the complex build system of the Android image and implementing a custom board (including more than 10 custom devices) in QEMU. We will review the steps required and the technical challenges encountered along the way.\n\nAfter providing a quick recap and the latest updates on LibAFL QEMU (presented at 37C3) by one of the LibAFL maintainers, we will delve into the gory details of how we partially emulated the latest version of Adreno\u2014the GPU designed by Qualcomm\u2014and built a fuzzer for its Android kernel driver. In particular, we will show how LibAFL QEMU was integrated into our custom board and the few improvements we made to the kernel to get better coverage with KCOV. Finally, we will demonstrate how our approach enabled us to find a new critical vulnerability in the GPU kernel driver.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "98ba5c41-c55a-5ad3-83f5-78741fd2a508",
+      "name": "Romain Malmain",
+      "public_name": "Romain Malmain",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_98ba5c41-c55a-5ad3-83f5-78741fd2a508"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-a-fake-phone-find-real-bugs-qualcomm-gpu-emulation-and-fuzzing-with-libafl-qemu",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/LUK8DG/"
+}

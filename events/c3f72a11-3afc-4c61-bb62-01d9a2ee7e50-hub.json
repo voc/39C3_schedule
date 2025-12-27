@@ -1,0 +1,30 @@
+{
+  "guid": "c3f72a11-3afc-4c61-bb62-01d9a2ee7e50",
+  "code": null,
+  "id": 372113,
+  "date": "2025-12-27T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-meshtastic-chaos-creatures-mcc-channels-distributi",
+  "title": "Meshtastic Chaos Creatures (MCC):  Channels Distribution Party",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A call of gathering of all creatures with an active Meshtastic node to import a custom-made encrypted chaos channels for communication across the CCC event with all fellow Meshtastic Chaos Creatures.\n\nAt end of onboarding of the distribution party, written details might will be left at TAMI Assembly table to be picked up by late bloomers (depends on logistics).\n\n* Any questions you have regarding the recommended preset, configurations and region will be explained during the gathering.\n\n* This event is self-organized by TAMI Hackerspace community, and is not officiality affiliated with Meshtastic Devs.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5ad80653-2ed3-42d8-95ab-a724dac037c5",
+      "name": "bak3n3k0 (He/Him)",
+      "public_name": "bak3n3k0 (He/Him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/bak3n3k0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meshtastic-chaos-creatures-mcc-channels-distributi",
+  "links": []
+}

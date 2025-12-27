@@ -1,0 +1,30 @@
+{
+  "guid": "0faa45e4-0a29-465f-883f-2c370fb318b7",
+  "code": null,
+  "id": 45402,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "House of Tea",
+  "slug": "39c3-house-of-tea-reunion",
+  "title": "House of Tea Reunion",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Gathering of people, who feel connected to the House of Tea.",
+  "description": "Something between community building, seeing old friends, making new friends, getting to know the beings behind social media handles, discussing what to do in the next days, conspiring, laughing and so on.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "af40aa5f-d066-4f49-953b-26beee7484e6",
+      "name": "AdeptVeritatis",
+      "public_name": "AdeptVeritatis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/adeptveritatis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/house-of-tea-reunion",
+  "links": []
+}

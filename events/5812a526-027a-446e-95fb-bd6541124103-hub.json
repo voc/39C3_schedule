@@ -1,0 +1,30 @@
+{
+  "guid": "5812a526-027a-446e-95fb-bd6541124103",
+  "code": null,
+  "id": 581252,
+  "date": "2025-12-27T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-femenism",
+  "title": "FeMENism?!",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "When it comes to feminism, many men* who are generally in favor of it stay in the  background: They don't want to intrude, override any woman*'s voice, doubt that they have anything to say, think they know too little to participate in the discussion.\nWe think that feminism is ready for the next (r)evolutionary phase, in which men are not \"allies\" but see themselves as a subject of feminism. What do you think: Time for FeMENism?\nIn this session we want to collect male* voices (too), create room for conversations and understand how people of all genders view this topic. All creatures welcome!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7e06c004-f4e7-405f-b873-b0dd0dbc945f",
+      "name": "philis",
+      "public_name": "philis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/philis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/femenism",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "12006a01-0f29-42fc-a66b-9da23b6b4b56",
+  "code": null,
+  "id": 120060,
+  "date": "2025-12-29T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-lasst-uns-die-diskriminierung-von-neurodivergenten",
+  "title": "Stop Neurodiverse Discrimination Now",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Society is not built for neurodivergent minds. Discrimination, exclusion, and institutional bullying are not individual misfortunes; they are systemic failures. I will share insights from my own journey and the practical tools I\u2019ve developed to fight back against these structures.\n\nBut individual resilience isn't enough. We are using this session at 39C3 to found a community that refuses to accept institutional discrimination. Our goal is to organize peer support, expose systemic abuse, and build a solid infrastructure for mutual aid.\n\nThis is not a lecture. Together, we will define how this collective will operate. Bring your anger, your ideas, and your skills. Let\u2019s hack the structures that try to shut us out.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "603cad9e-f83f-4a24-932b-118f59a2c4cf",
+      "name": "Lucifer",
+      "public_name": "Lucifer",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/lucifer"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lasst-uns-die-diskriminierung-von-neurodivergenten",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "1afda693-a62a-4d4e-a9b1-dc1a9d1dd23d",
+  "code": null,
+  "id": 169362,
+  "date": "2025-12-28T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "01:55",
+  "room": "Komonin",
+  "slug": "39c3-bildungsurlaub-20-burokratie-hacken",
+  "title": "Bildungsurlaub 2.0: B\u00fcrokratie hacken",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In mehreren Bundesl\u00e4ndern wurden Antr\u00e4ge auf Anerkennung von Bildungsurlaub abgelehnt.\nDie formalen Ablehnungen landen zwar bei einzelnen \u2013 die Konsequenz betrifft jedoch alle:\n\nArbeitnehmende aus diesen Bundesl\u00e4ndern k\u00f6nnen f\u00fcr entsprechende Veranstaltungen keinen Bildungsurlaub einreichen.\n\nIn dieser Self-organized Session wollen wir genau hier ansetzen und gemeinsam:\n- Ablehnungsgr\u00fcnde sammeln und systematisch analysieren\n- typische Argumentationsmuster der Beh\u00f6rden identifizieren\n- \u00fcberlegen, wie man diese H\u00fcrden konstruktiv und kreativ \u201ehacken\u201c kann\n- Ans\u00e4tze entwickeln, um Inhalte, Struktur oder Sprache so anzupassen,\n  dass Anerkennung k\u00fcnftig wahrscheinlicher wird\n\nZiel ist kein Frustabbau, sondern kollektives Probleml\u00f6sen:\n\nErfahrungen b\u00fcndeln, Wissen teilen und konkrete Ideen entwickeln,\nwie wir Bildungsurlaub auch unter schwierigen Rahmenbedingungen m\u00f6glich machen.\n\nDie Session ist offen gestaltet \u2013 bringt gern Ideen, Perspektiven oder einfach Neugier mit.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4c6824da-ebf8-43f0-97df-e1e0ee1820c1",
+      "name": "Dante",
+      "public_name": "Dante",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dante"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bildungsurlaub-20-burokratie-hacken",
+  "links": []
+}

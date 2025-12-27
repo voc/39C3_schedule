@@ -1,0 +1,36 @@
+{
+  "guid": "e0739bd6-f804-5fde-8cf6-fc940567bf45",
+  "code": "YGHB9K",
+  "id": 1611,
+  "logo": null,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-1611-asahi-linux-porting-linux-to-apple-silicon",
+  "url": "https://cfp.cccv.de/39c3/talk/YGHB9K/",
+  "title": "Asahi Linux - Porting Linux to Apple Silicon",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "In this talk, you will learn how Apple Silicon hardware differs from regular laptops or desktops.\r\nWe'll cover how we reverse engineered the hardware without staring at disassembly but by using a thin hypervisor that traces all MMIO access and then wrote Linux drivers.\r\nWe'll also talk about how upstreaming to the Linux kernel works and how we've significantly decreased our downstream patches in the past year.\r\n\r\nAs an example, we will use support for the Type-C ports and go into details why these are so complex and required changes across multi subsystems.\r\n\r\nIn the end, we'll briefly talk about M3/M4/M5 and what challenges we will have to overcome to get these supported.",
+  "description": "In this talk, you will learn how Apple Silicon hardware differs from regular laptops or desktops.\r\nWe'll cover how we reverse engineered the hardware without staring at disassembly but by using a thin hypervisor that traces all MMIO access and then wrote Linux drivers.\r\nWe'll also talk about how upstreaming to the Linux kernel works and how we've significantly decreased our downstream patches in the past year.\r\n\r\nAs an example, we will use support for the Type-C ports and go into details why these are so complex and required changes across multi subsystems.\r\n\r\nIn the end, we'll briefly talk about M3/M4/M5 and what challenges we will have to overcome to get these supported.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "SEQRYU",
+      "name": "sven",
+      "avatar": "https://cfp.cccv.de/media/avatars/SEQRYU_PTdxJYe.png",
+      "biography": "Used to be a console hacker at night, now I port Linux to Apple Silicon with a bunch of other great engineers.\r\n\r\nhttps://social.treehouse.systems/@sven",
+      "public_name": "sven",
+      "guid": "726ded7d-4c72-5ab9-8478-f808c11b93b3",
+      "url": "https://cfp.cccv.de/39c3/speaker/SEQRYU/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/YGHB9K/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YGHB9K/",
+  "attachments": []
+}

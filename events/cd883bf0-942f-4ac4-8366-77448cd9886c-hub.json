@@ -1,0 +1,30 @@
+{
+  "guid": "cd883bf0-942f-4ac4-8366-77448cd9886c",
+  "code": null,
+  "id": 883094,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-emf-explorer-badge-electromagnetic-discorvery-work",
+  "title": "EMF Explorer Badge Electromagnetic Discovery workshop (Day 1)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Ever wonder about the invisible world of electromagnetic fields around you? In this beginner-friendly hands-on workshop, you\u2019ll build your own EMF Explorer Badge from a kit, learn about different electromagnetic frequency bands, and walk away ready to explore the unseen frequencies that surround our daily lives.",
+  "description": "### EMF Explorer Badge Soldering Workshop\n\nIn this hands-on build-and-explore workshop, participants assemble their own **[EMF Explorer Badge](https://emfexplorer.space)** using guided soldering instruction, learn the science of electromagnetic frequency bands, and plug in headphones to *listen* to the invisible world around them. Every participant takes home their own exploration kit: badge + headphones, ready for EMF exploring with an illuminated badge that can be used at night for visibility and bling.\n\n---\n\n##### Material Costs\n\u20ac20 - \u20ac30\n\n---\n\n##### Workshop Itinerary\n- **Welcome + Electronics and Soldering Info** We will show you how to solder. Anyone who can safely hold a soldering iron can do it! It is actually a very easy skill to learn. It is also very useful.\n- **EMF Explanation and Badge Creation Overview** Learn about what EMF is, where it comes from, and how the badge works.\n- **Badge Assembly** Get to soldering! We will be available to help you along the way.\n- **Check your work, and power up your badge!**\n- **Wrap-Up + Q&A**\n- ** Live Exploration!** You are surrounded by interesting electronics at 39C3. Go exploring! What new sounds do you hear? Some of the most unassuming electronics can make the most interesting sounds.\n\n---\n\n##### Registration Info\nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First-come, first-served.\n- **Age:** anyone who can safely hold a soldering iron\n- **Experience level:** No prior soldering experience required\n- **Take-home:** Your assembled badge + headphones included\n\n---\n\n##### Links\n[EmfExplorer.Space](https://emfexplorer.space)\n\n---\n\n##### Instructor Notes\nThis is a **beginner-first hardware workshop**. The goal is skill building, curiosity, and real-world electronics exploration. The badge is both a tool and a conversation piece: it senses EMF, plays it through audio, and glows for visibility and bling.\n\n---\n\n##### Taught by **[Drc3p0](https://links.darcyneal.com)**\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3d0fe097-fdd8-47a2-a721-e2c276b917b3",
+      "name": "Drc3p0 (they/them)",
+      "public_name": "Drc3p0 (they/them)",
+      "avatar": null,
+      "biography": "Darcy Neal is an interactive audio-visual hardware designer & educator with 15+ years in production, from gallery installations to educational electronics. Former academic makerspace director and crowdfunding campaign manager. Teaching large-scale soldering workshops at maker events worldwide.\nLearn more at (Links.DarcyNeal.com)[https://links.darcyneal.com]\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/drc3p0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/emf-explorer-badge-electromagnetic-discorvery-work",
+  "links": []
+}

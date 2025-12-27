@@ -1,0 +1,31 @@
+{
+  "guid": "54c60811-8620-5022-b549-c953f84975d9",
+  "code": null,
+  "id": 200512,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-media-needing-categories-wir-raumen-auf",
+  "title": "Media needing categories: Wir r\u00e4umen auf!",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Wir r\u00e4umen gemeinsam nicht kategorisierte Dateien auf Wikimedia Commons auf!\r\n\r\nDu hast keine Ahnung, was das bedeutet? Im Medienarchiv Wikimedia Commons gibt es viele Inhalte, die nicht maschinenlesbar beschrieben sind. Wir begeben uns auf diese Halde und sortieren die Inhalte an der richtigen Stelle ein. Vorkenntnisse sind nicht erforderlich.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9",
+      "name": "GPSLeo",
+      "public_name": "GPSLeo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/media-needing-categories-wir-raumen-auf",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/EWLG7U/"
+}

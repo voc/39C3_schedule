@@ -1,0 +1,30 @@
+{
+  "guid": "e74fb148-5f18-46da-b02a-6bf7eac32d66",
+  "code": null,
+  "id": 741485,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Fediverse shared table",
+  "slug": "39c3-fediverse-treffen",
+  "title": "Fediverse-Meet-Up: Treffen von allen, die Instanzen selber betreiben (m\u00f6chten)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Wir wollen uns austauschen, um langfristig stabile Fediverse-Instanzen selber zu betreiben.",
+  "description": "What do I need to set up and maintain my own instance? What questions should I ask myself \u2013 preferably in advance?\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ee8c42d74959/Unbenannt.jpg",
+  "persons": [
+    {
+      "guid": "a5f5fb69-71d8-409a-ab5b-791293e3d02c",
+      "name": "MoniKa (c4E) (she/her)",
+      "public_name": "MoniKa (c4E) (she/her)",
+      "avatar": null,
+      "biography": "cyber4EDU-Assembly\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/monika_c4e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fediverse-treffen",
+  "links": []
+}

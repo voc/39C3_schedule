@@ -1,0 +1,21 @@
+{
+  "guid": "15165656-5a48-44f4-9d07-266fbeea726c",
+  "code": null,
+  "id": 151656,
+  "date": "2025-12-27T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:30",
+  "room": "Kidspace - Workshopraum",
+  "slug": "39c3-lote-dein-39c3-pcb",
+  "title": "L\u00f6te dein 39C3 PCB",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Wir, ein paar Menschen aus dem Umfeld des Chaostreffs des c3RE, haben zum 37c3 ein PCB in Form eines Getr\u00e4nkeuntersetzer im Congress-Design entworfen. Zun\u00e4chst nur f\u00fcr uns und \u2026 ach komm\u2026 wir machen ein paar mehr.\u2028\nAn Tag 0 waren alle PCBs weg!\nZum 38c3 gab es nicht nur eine Neuauflage im aktuellen Design sondern auch noch eine Nachproduktion vom 37c3.\u2028\nAn Tag 1 waren alle PCBs weg!\nZum 39c3 gibt es nun die dritte Auflage - wieder im aktuellen Congress-Design, mit 3 Widerst\u00e4nden, einem MOSfet und 8 RGB LEDs wird das Ganze mit einem Wemos D1 Mini zu einem leuchtenden, blinkenden Erinnerungsst\u00fcck an deinen (ersten?) Congress!\nWir haben L\u00f6tstationen, helfende H\u00e4nde aber leider nur begrenzt Platz und Zeit.\nWir werden verschiedene Vorbereitungsstufen vorhalten so dass jede und jeder -unabh\u00e4ngig von der L\u00f6terfahrung- am Ende ein PCB zum leuchten bringen kann.\nBitte meldet euch an damit wir planen k\u00f6nnen:\nkohlenpod@c3re.de\n\nDie Kosten f\u00fcr die Hardware inkl. Wemos betragen ca. 5\u20ac - es w\u00e4re nett wenn ihr euch an den Kosten beteiligt - dies ist aber absolut kein Muss!\n\nP.S: wir haben auch noch eine kleine Menge an 37C3 und 38C3 PCBs nachbestellt - damit die Menschen die gerne sammeln die Chance haben alle PCBs zu bekommen. Die sind \u00fcbrigens untereinander kompatibel und k\u00f6nnen gestapelt werden\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/a1efd0d8b93c/39c3pcb.png",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lote-dein-39c3-pcb",
+  "links": []
+}

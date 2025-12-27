@@ -1,0 +1,36 @@
+{
+  "guid": "b3ef337e-bfb3-51bf-bcaa-0b2d697b9c7f",
+  "code": "9MALHD",
+  "id": 2309,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/9MALHD/HostileShop-Draft_tvTfj3n_l9hp86i.webp",
+  "date": "2025-12-28T17:35:00+01:00",
+  "start": "17:35",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2309-a-quick-stop-at-the-hostileshop",
+  "url": "https://cfp.cccv.de/39c3/talk/9MALHD/",
+  "title": "A Quick Stop at the HostileShop",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Nothing stops [this train](https://ai-2027.com/). It just [might not arrive on schedule](https://www.interconnects.ai/p/brakes-on-an-intelligence-explosion)...\r\n\r\nLLMs appear unlikely to become capable of either true human-level novelty creation or AGI. However, they excel at task execution in [well-established task domains](https://epochai.substack.com/p/most-ai-value-will-come-from-broad), even exceeding most humans in some of these domains.\r\n\r\nThis capability set has yielded an \"Agentic Revolution\", where LLMs are being deployed as components of software systems for various tasks. These **LLM Agents** work **_just well enough_** to deploy in scenarios for which they are either [not yet safe](https://brave.com/blog/comet-prompt-injection/), or are [fundamentally impossible to secure against](https://labs.zenity.io/p/why-aren-t-we-making-any-progress-in-security-from-ai-bf02).\r\n\r\nThe resulting vulnerability surface is very much reminiscent of the hacking scene in the 1990s, but at a lightning pace, with exploits often being patched within hours after they widely circulate. The hacking dopamine treadmill has become an express train.\r\n\r\nRather than hop right on what looked like an express train to Fail City, I wanted a tool that would **hack LLM Agents automatically**, and also let me know if and when LLM Agents finally become secure enough for use in privacy preserving systems, without the need to rely on [oppressive](https://runtheprompts.com/resources/chatgpt-info/chatgpt-is-reporting-your-prompts-to-police/) [levels of surveillance](https://www.anthropic.com/news/activating-asl3-protections).\r\n\r\nAll of this led me to create [HostileShop](https://github.com/mikeperry-tor/HostileShop).",
+  "description": "In this talk, I will give you an overview of **LLM Agent hacking**. I will briefly introduce LLM Agents, their vulnerability surface, and types of attacks. Because everything old is new again, I will draw some parallels to the 90s hacking scene.\r\n\r\nI will then present [HostileShop](https://github.com/mikeperry-tor/HostileShop), which is a python-based LLM Agent security testing tool that was selected as one of the [ten prize winners](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/hackathon-winners) in [OpenAI's GPT-OSS-20B RedTeam Contest](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming/overview).\r\n\r\nHostileShop creates a fully simulated web shopping environment where an **Attacker Agent LLM** attempts to manipulate a **Target Shopping Agent LLM** into performing unauthorized actions that are automatically detected by the framework.\r\n\r\nHostileShop is best at discovering **prompt injections** that induce LLM Agents to make improper \"tool calls\". In other words, HostileShop finds the magic spells that make LLM Agents call functions that they have available to them, often with the specific input of your choice.\r\n\r\nHostileShop is also capable of [enhancement and mutation of \"universal\" jailbreaks](https://github.com/mikeperry-tor/HostileShop?tab=readme-ov-file#prompts-for-jailbreakers). This allows **cross-LLM adaptation of universal jailbreaks** that are powerful enough to make the target LLM become fully under your control, for arbitrary actions. This also enables public jailbreaks that have been partially blocked to work again, until they are more comprehensively addressed.\r\n\r\nFor 1990s hacking vibes, HostileShop has a [text-based chat interface](https://github.com/mikeperry-tor/HostileShop?tab=readme-ov-file#basic-usage) that lets you chat with the attacker agent, or become the attacker yourself.\r\n\r\nFor 2025 contrarian vibes (in some circles), HostileShop was vibe coded without an ounce of shame. Basically, I used LLMs to write a framework to have LLMs attack other LLMs. Crucially however, for reasons that I will explain in the talk, HostileShop does not use an LLM to judge attack success. Instead, success is determined automatically and immediately by the framework.\r\n\r\nAt the time of this writing, HostileShop has [working attack examples for the entire LLM frontier](https://github.com/mikeperry-tor/HostileShop?tab=readme-ov-file#attack-examples), though things move very fast in this arena.\r\n\r\nThere is a chance that by the time of the conference, all of the attacks that HostileShop is capable of discovering will have been fixed. In this case, the talk will focus on the current state of LLM security, the future of private Agentic AI, and either some thoughts on how to avoid complete dystopia, or amusing rants about the dystopia that has already arrived.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "LSG8UY",
+      "name": "Mike Perry",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Mike Perry",
+      "guid": "cc96361e-8dfd-5182-a0d3-cee96e2fc749",
+      "url": "https://cfp.cccv.de/39c3/speaker/LSG8UY/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/9MALHD/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9MALHD/",
+  "attachments": []
+}

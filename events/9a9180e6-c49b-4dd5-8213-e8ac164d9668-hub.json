@@ -1,0 +1,30 @@
+{
+  "guid": "9a9180e6-c49b-4dd5-8213-e8ac164d9668",
+  "code": null,
+  "id": 991806,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:30",
+  "room": "Fediverse shared table",
+  "slug": "39c3-research-on-fedi-integration-in-public-administrat",
+  "title": "Fedi in/for in (EU) Public Admin. Yet another story.",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Content warning! Expect a rather \u2018erotic\u2019 reading of stories based on extracts of our research, brewed by a quirky mind.",
+  "description": "This is a reading of some red-tape-diary stories, based on FediVariety\u2019s deep package inspection on the EDPS\u2019s \u2018EU Voice/Video\u2019 pilot project\u2014but with a juicy twist! Every character is real, each event actually happened, and all quotes are genuine. However, all of this will be ridiculously tweaked.\n\nViews are very personal, none of the involved (EU) organisations or individuals accept any liability for damage of any kind resulting from the risks inherent in the erotic transmission of messages.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d72f854e377f/FediVariety_logo__text_black_small.jpg",
+  "persons": [
+    {
+      "guid": "1e0ab9c4-720d-4594-beb7-0fa29e12e875",
+      "name": "ZZEPPOSS (CPT.)",
+      "public_name": "ZZEPPOSS (CPT.)",
+      "avatar": null,
+      "biography": "(CPT.) ZZEPPOSS\u2019s lifelong passion for technology was ignited by a childhood fascination with screwdrivers, electro-mechanical pinball machines, klunker bikes, the treasures found in his dad\u2019s workshop\u2026 and garbage dumpsites. This deep enthusiasm often left his parents and teachers bewildered for years.\n\nDespite facing challenges related to being unrecognized on \u2018the spectrum\u2019 during his formative years, I carved out a explorational path filled with adventures in the tech world. With experience as a strategist, teacher, coach, transmedia storyteller, and artist, I'm currently involved in an advisory agency that specializes in offering \u2018unsolicited advices\u2019 on an open and just society (SABOA foundation). With the FediVariety (circus) and its research project on Fediverse integration in/for Public Administration as a result.\n\n\u2014 Btw. \u2018Stay Hungry. Stay Foolish\u2019 is my leitmotif (cfr. WEC).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/zzepposs"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/research-on-fedi-integration-in-public-administrat",
+  "links": []
+}

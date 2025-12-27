@@ -1,0 +1,31 @@
+{
+  "guid": "032fdd30-9488-55b8-968c-dbce19a3f446",
+  "code": "7GSZAD",
+  "id": 2122,
+  "date": "2025-12-29T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-set-top-box-hacking-freeing-the-freebox",
+  "title": "Set-top box Hacking: freeing the 'Freebox'",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "The French ISP 'Free' was the first to introduce a set-top box in France in 2002, named the Freebox. Four years later, the fifth version of the Freebox was released and distributed to customers. It comprises two devices: a router, and a PVR called the Freebox HD, both running Linux. The Freebox HD had innovative features at the time, such as live television control and HD capabilities.\r\n\r\nSuch a device has a lot of potential for running homebrew, so I decided to hack it. I present how I got arbitrary code execution on the Freebox HD and then root privileges, using a chain of two 0-day exploits, one of which is in the Linux kernel. I then analyze the device, run homebrew software, and explain the structure of the ISP's private network that I uncovered while exploring the device.",
+  "description": "The Freebox HD is a set-top box with media player capabilities designed and built by the French ISP 'Free' in 2006, and distributed to customers since (including me). It is still in use and will be maintained until the end of 2025.\n\nWhen I got it, I wanted to run homebrew software on it, so I decided to reverse engineer it. The initial goal was to get arbitrary code execution. The Freebox HD being largely undocumented, this talk shows the full process of reverse engineering it from scratch:\n* Initial visual inspection\n* Disassembly and inspection of the insides\n* Attack surface analysis and choice of the target\n* Search and exploitation of a vulnerability in PrBoom (a Doom source port running on the Freebox HD)\n* Analysis of the Linux system running on the Freebox HD\n* Search and exploitation of a Linux kernel exploit to escape the sandbox and gain root privileges\n* Decryption and dump of the firmware\n* Analysis of the Linux system and the programs of the Freebox HD\n* Playing with the remote control capabilities\n* Reverse engineering of the private networks of the ISP\n\nThe two exploits used to gain full root access were both discovered for this specific hack, which makes them 0-day exploits.\n\nThe analysis leads to some interesting discoveries about the device itself, but also the ISP, how their technical support works and accesses the devices remotely, and much more!\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/7GSZAD/freebox_hd_hacked_Ff7V3CM.jpg",
+  "persons": [
+    {
+      "guid": "ef5dffa4-d8ab-5fc0-a7e7-f4ac3a0f90c2",
+      "name": "Fr\u00e9d\u00e9ric Hoguin",
+      "public_name": "Fr\u00e9d\u00e9ric Hoguin",
+      "avatar": "https://cfp.cccv.de/media/avatars/XQDTSC_XkVC25r.jpg",
+      "biography": "I'm a low-level software engineer working at CERN, and I've been researching and hacking embedded devices for 20 years.\n\nI always try to get arbitrary code execution on devices I'm not supposed to run code on, and sometimes I manage :)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ef5dffa4-d8ab-5fc0-a7e7-f4ac3a0f90c2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/set-top-box-hacking-freeing-the-freebox",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/7GSZAD/"
+}

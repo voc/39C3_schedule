@@ -1,0 +1,46 @@
+{
+  "guid": "fb532d6e-6a02-4069-8d2c-48bf7e02c14b",
+  "code": null,
+  "id": 532660,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "DigiGes shared table",
+  "slug": "39c3-nicht-schon-wieder-vorratsdatenspeicherung",
+  "title": "Nicht schon wieder Vorratsdatenspeicherung!",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Vernetzungstreffen, um uns (wieder mal) gegen die geplante Vorratsdatenspeicherung zur Wehr zu setzen",
+  "description": "German meet-up on fighting back against the new proposal for data retention in Germany.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/79644d787c5e/Event-VDS_3Nhfpci.png",
+  "persons": [
+    {
+      "guid": "32a4fe68-4282-4c6a-b9bc-40c4eab94c21",
+      "name": "tyncet",
+      "public_name": "tyncet",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/tyncet"
+    },
+    {
+      "guid": "31eb74c3-d86c-46b9-a90c-110b57714e09",
+      "name": "e-punc (der / he)",
+      "public_name": "e-punc (der / he)",
+      "avatar": null,
+      "biography": "crewmember of c-base.org\nworking at Digitale Gesellschaft\nmaker and  player of the Coffeebots\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/e-punc"
+    },
+    {
+      "guid": "a3d03128-2dec-402f-8703-8789f60a1825",
+      "name": "pneutig",
+      "public_name": "pneutig",
+      "avatar": null,
+      "biography": "digital rights advocate with a focus on (in-)security politics\n\nActive in the Fediverse as: [@pneutig@eupolicy.social](https://eupolicy.social/@pneutig/) (toots mostly in English and German)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/pneutig"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nicht-schon-wieder-vorratsdatenspeicherung",
+  "links": []
+}

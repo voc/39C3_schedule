@@ -1,0 +1,21 @@
+{
+  "guid": "ee302bdb-3e3e-4c4e-981b-df131b1493c5",
+  "code": null,
+  "id": 302334,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-led-strips-everywhere-for-everyone-workshop",
+  "title": "LED Strips Everywhere for Everyone! workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Learn how to program LED strips. It's super easy and fun to make your life trippy and beautiful. For total beginners.",
+  "description": "Learn how to light up LED strips with a cheap Arduino, and make your life trippy and beautiful! For total beginners -- no knowledge needed at all.\n\nLED strips have become really inexpensive. And many people have created easy methods of controlling the color and brightness of individual LEDs in LED strips. This workshop will show you one easy and fun way to control LED strips, and to make them do what you want. I'll show you everything you need to know to use existing Arduino programs -- and how to hack Arduino programs -- to control the colors in your world with LED strips.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac20**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._  \n[Arduino software](https://www.arduino.cc/en/Main/Software)\n\n**Workshop Itinerary**:\n* Intro to Red-Green-Blue (RGB) LEDs\n* Brief intro to Arduino\n* How to use an Arduino to control an LED strip\n* Some demos of programs you can download\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[LED Strips Everywhere for Everyone! workshop webpage](https://cornfieldelectronics.com/cfe/projects.php#ledstrips)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f20dbf8dfaa7/led-strips-everywhere-for-everyone-workshop.banner.jpg",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/led-strips-everywhere-for-everyone-workshop",
+  "links": []
+}

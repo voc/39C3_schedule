@@ -1,0 +1,30 @@
+{
+  "guid": "f1417f1a-9b59-45ef-a8a3-ec86a5083638",
+  "code": null,
+  "id": 141719,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-relationship-anarchy-and-technologies-of-conn_x57l",
+  "title": "Relationship Anarchy and Technologies of Connection",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Abstract: Relationship Anarchy is a guiding principle that hold the promise for us to prefigure the future. This session will start off by defining Relationship Anarchy. It will then nest this definition in the context of our current situation (socially, politically, technologically). Finally, we will look at technologies in a wider sense and investigate whether they are nurturing or hostile towards the prefiguration of Relationship Anarchy.\n\nDescription: Relationship Anarchy is a form of livable anarchy. It follows in the steps of anarchy, in that it rejects illegitimate authority and nurtures personal and collective autonomy and agency. Livable anarchy opens up the public space for folx to participate actively in shaping how they wish to live and self-represent their desire and identity. It is rooted in solidarity and a respectful attitude towards otherness.\n\nIn this talk, we explore the ways in which technology shapes our ability to practice Relationship Anarchy, as a form of livable anarchy. We start off by acknowledging that our use of technology shapes what we can do, perceive and imagine. In this sense, we can categorize technologies, in a broad sense, as either hostile towards Relationship Anarchy, or as nurturing towards it.\n\nThe basis of this discussion is going to be a definition of Relationship Anarchy that catileptic, the speaker, offers in their writing: \"Relationship Anarchy is honoring alterity while making one's self subject to others\".\n\nThis presentation is loosely based on this essay: https://catileptic.tech/posts/relationship-anarchy-technology/ .\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9186ce57-1308-4c60-af4a-d1374ea9fba6",
+      "name": "catileptic (they/she)",
+      "public_name": "catileptic (they/she)",
+      "avatar": null,
+      "biography": "Catileptic (Alex \u0218tef\u0103nescu) moves slow and fixes things.\n\nThey blog (rarely, and mostly long-form) at https://catileptic.tech/ .\n\nThey contribute to the development, maintenance and deployment of OpenAleph, a FOSS tool for investigative journalists and researchers. They do advocacy for digital rights, in Romania and the wider EU context, with Asocia\u021bia pentru Tehnologie \u0219i Internet (https://apti.ro).\n\nThey are profoundly interested in (and sometimes horrified by) how technology shapes the way we connect, imagine and prefigurate the world.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/catileptic"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/relationship-anarchy-and-technologies-of-conn_x57l",
+  "links": []
+}

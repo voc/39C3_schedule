@@ -1,0 +1,621 @@
+{
+  "data": {
+    "version": "0.75",
+    "source_urls": [],
+    "rooms": [
+      {
+        "name": "One",
+        "slug": "15-one",
+        "guid": "ba692ba3-421b-5371-8309-60acc34a3c05",
+        "type": "stage",
+        "stream_id": null,
+        "capacity": 3025,
+        "description_en": "Lecture hall in CCH central, Level +2 to +4\n",
+        "description_de": "Lecture hall in CCH central, Level +2 to +4\n",
+        "features": {
+          "recording": "record_by_default"
+        },
+        "assembly": {
+          "name": "CCC",
+          "slug": "ccc",
+          "guid": "2465345f-f0e4-4a72-96d8-346d703a59e3"
+        },
+        "schedule_name": "One",
+        "stream": null
+      },
+      {
+        "name": "Ground",
+        "slug": "16-ground",
+        "guid": "7202df07-050c-552f-8318-992f94e40ef0",
+        "type": "stage",
+        "stream_id": "s2",
+        "capacity": 1160,
+        "description_en": "Lecture hall G in CCH West, Level +2\n",
+        "description_de": "Lecture hall G in CCH West, Level +2\n",
+        "features": {
+          "recording": "record_by_default"
+        },
+        "assembly": {
+          "name": "CCC",
+          "slug": "ccc",
+          "guid": "2465345f-f0e4-4a72-96d8-346d703a59e3"
+        },
+        "schedule_name": "Ground",
+        "stream": null
+      },
+      {
+        "name": "Zero",
+        "slug": "17-zero",
+        "guid": "62251a07-13e4-5a72-bb3c-8528416ee0f2",
+        "type": "stage",
+        "stream_id": null,
+        "capacity": 965,
+        "description_en": "Lecture hall Z in CCH East, Level +3\n",
+        "description_de": "Lecture hall Z in CCH East, Level +3\n",
+        "features": {
+          "recording": "record_by_default"
+        },
+        "assembly": {
+          "name": "CCC",
+          "slug": "ccc",
+          "guid": "2465345f-f0e4-4a72-96d8-346d703a59e3"
+        },
+        "schedule_name": "Zero",
+        "stream": null
+      },
+      {
+        "name": "Fuse",
+        "slug": "18-fuse",
+        "guid": "85a6ba5d-11d9-4efe-8d28-c5f7165a19ce",
+        "type": "stage",
+        "stream_id": null,
+        "capacity": 270,
+        "description_en": "Lecture hall F in CCH West, Level +2\n",
+        "description_de": "Lecture hall F in CCH West, Level +2\n",
+        "features": {
+          "recording": "record_by_default"
+        },
+        "assembly": {
+          "name": "CCC",
+          "slug": "ccc",
+          "guid": "2465345f-f0e4-4a72-96d8-346d703a59e3"
+        },
+        "schedule_name": "Fuse",
+        "stream": null
+      },
+      {
+        "name": "Am Sp\u00e4tverkauf",
+        "slug": "12-am-spatverkauf",
+        "guid": "6114efbe-f549-579a-8aa4-cd143f5a96cf",
+        "type": "stage",
+        "stream_id": null,
+        "capacity": null,
+        "description_en": "",
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "Sp\u00e4tverkauf",
+          "slug": "spaetverkauf",
+          "guid": "102fd55f-74c8-42e5-b116-1359bf503df8"
+        },
+        "schedule_name": "Am Sp\u00e4tverkauf",
+        "stream": null
+      },
+      {
+        "name": "Sendezentrum B\u00fchne (Saal X 07)",
+        "slug": "sendezentrum-buehne",
+        "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e19",
+        "type": "stage",
+        "stream_id": "s5",
+        "capacity": 70,
+        "description_en": "Auf Ebene +1 \u2013 Saal X, hinten rechts\n",
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "Sendezentrum",
+          "slug": "sendezentrum",
+          "guid": "67a4da55-4477-487c-ae63-e414205d302b"
+        },
+        "schedule_name": "Sendezentrum B\u00fchne (Saal X 07)",
+        "stream": null
+      },
+      {
+        "name": "The House of Tea",
+        "slug": "the-house-of-tea",
+        "guid": "50814d28-5d61-4501-84cd-8f6928d1cc77",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 50,
+        "description_en": "",
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "House of Tea",
+          "slug": "houseoftea",
+          "guid": "fc3e07d9-2272-46ff-aa5b-6801fba5bd9a"
+        },
+        "schedule_name": "The House of Tea",
+        "stream": null
+      },
+      {
+        "name": "Chaoswellen Assembly",
+        "slug": "chaoswellen-assembly",
+        "guid": "e0339235-7eb1-4c6f-8940-d8b341c406aa",
+        "type": "lecturehall",
+        "stream_id": null,
+        "capacity": 35,
+        "description_en": null,
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "Chaoswelle",
+          "slug": "chaoswelle",
+          "guid": "7d6e95cc-5890-45d2-b7bc-2a3303d9eada"
+        },
+        "schedule_name": "Chaoswellen Assembly",
+        "stream": null
+      },
+      {
+        "name": "Kidspace - Workshopraum",
+        "slug": "kidspace-workshopraum",
+        "guid": "44bba78f-4945-40e4-b38e-ce6c772a3fc6",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 30,
+        "description_en": "Vorderer Raum auf der linken Seite im Saal B im 1. OG\n",
+        "description_de": "Vorderer Raum auf der linken Seite im Saal B im 1. OG\n",
+        "features": {},
+        "assembly": {
+          "name": "Kidspace",
+          "slug": "c3kidspace",
+          "guid": "3c3543c6-c1ba-406a-8aa7-0b0dadbde427"
+        },
+        "schedule_name": "Kidspace - Workshopraum",
+        "stream": null
+      },
+      {
+        "name": "Kidspace - Hackcenter",
+        "slug": "kidspace-hackcenter",
+        "guid": "3ec94f24-6a95-48f4-91d0-1e9ced1f2144",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 30,
+        "description_en": "Back room on the left in Hall B on the 1st floor\n",
+        "description_de": "Hinterer Raum links in Saal B, 1. OG\n",
+        "features": {},
+        "assembly": {
+          "name": "Kidspace",
+          "slug": "c3kidspace",
+          "guid": "3c3543c6-c1ba-406a-8aa7-0b0dadbde427"
+        },
+        "schedule_name": "Kidspace - Hackcenter",
+        "stream": null
+      },
+      {
+        "name": "Hardware Hacking Area -- Left-front",
+        "slug": "hardware-hacking-area-left-front",
+        "guid": "96b6f1c3-8b00-4faa-8957-a2980bd4bd44",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 25,
+        "description_en": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the left, after walking into the main doorways into Hall 3, and closest to the main doorways.\n",
+        "description_de": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the left, after walking into the main doorways into Hall 3, and closest to the main doorways.\n",
+        "features": {},
+        "assembly": {
+          "name": "Hardware Hacking Area",
+          "slug": "hardwarehackingarea",
+          "guid": "886d68dd-a272-4008-8a5a-076d28ce396d"
+        },
+        "schedule_name": "Hardware Hacking Area -- Left-front",
+        "stream": null
+      },
+      {
+        "name": "Hardware Hacking Area -- Left-rear",
+        "slug": "hardware-hacking-area-left-rear",
+        "guid": "9825112f-e46b-49b0-9c86-b791f7a3ec90",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 25,
+        "description_en": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the left, after walking into the main doorways into Hall 3, and furthest back towards the wall.\n",
+        "description_de": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the left, after walking into the main doorways into Hall 3, and furthest back towards the wall.\n",
+        "features": {},
+        "assembly": {
+          "name": "Hardware Hacking Area",
+          "slug": "hardwarehackingarea",
+          "guid": "886d68dd-a272-4008-8a5a-076d28ce396d"
+        },
+        "schedule_name": "Hardware Hacking Area -- Left-rear",
+        "stream": null
+      },
+      {
+        "name": "Hardware Hacking Area -- Right-front",
+        "slug": "hardware-hacking-area-right-front",
+        "guid": "24bda89e-2bc4-471b-8870-eccacf62ef3b",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 25,
+        "description_en": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the right, after walking into the main doorways into Hall 3, and closest to the main doorways.\n",
+        "description_de": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the right, after walking into the main doorways into Hall 3, and closest to the main doorways.\n",
+        "features": {},
+        "assembly": {
+          "name": "Hardware Hacking Area",
+          "slug": "hardwarehackingarea",
+          "guid": "886d68dd-a272-4008-8a5a-076d28ce396d"
+        },
+        "schedule_name": "Hardware Hacking Area -- Right-front",
+        "stream": null
+      },
+      {
+        "name": "Hardware Hacking Area -- Right-rear",
+        "slug": "hardware-hacking-area-right-rear",
+        "guid": "976c5e91-0b7d-4ec9-94f8-356d8852c8b1",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 25,
+        "description_en": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the right, after walking into the main doorways into Hall 3, and furthest back towards the wall.\n",
+        "description_de": "The Hardware Hacking Area room is a space for a full schedule of diverse workshops about making physical things, open throughout 39C3.  The Hardware Hacking Area consists of two halves -- this is the half to the right, after walking into the main doorways into Hall 3, and furthest back towards the wall.\n",
+        "features": {},
+        "assembly": {
+          "name": "Hardware Hacking Area",
+          "slug": "hardwarehackingarea",
+          "guid": "886d68dd-a272-4008-8a5a-076d28ce396d"
+        },
+        "schedule_name": "Hardware Hacking Area -- Right-rear",
+        "stream": null
+      },
+      {
+        "name": "Kidspace - Affenfelsen",
+        "slug": "kidspace-affenfelsen",
+        "guid": "0f16853b-8850-4bfa-956e-4da7d8ef7d25",
+        "type": "stage",
+        "stream_id": null,
+        "capacity": 20,
+        "description_en": "In Hall B, 1st Floor\n",
+        "description_de": "In Saal B im 1. OG\n",
+        "features": {},
+        "assembly": {
+          "name": "Kidspace",
+          "slug": "c3kidspace",
+          "guid": "3c3543c6-c1ba-406a-8aa7-0b0dadbde427"
+        },
+        "schedule_name": "Kidspace - Affenfelsen",
+        "stream": null
+      },
+      {
+        "name": "CADUS Skillstation",
+        "slug": "cadus-skillstation",
+        "guid": "b8121ce4-8a5a-405e-936e-89f633d8c7db",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 16,
+        "description_en": "Our Skillstation is an open hands-on area within the CADUS Assembly.\nEvery full hour, we offer small interactive sessions from our core fields: medical emergency basics, technical hacks, psychosocial tools, safety and field skills.\nFrom water purification and radio communication to stress-management tools from PFA \u2014 this is a space for trying things out, soldering, practicing, and learning together.\n",
+        "description_de": "Unsere Skillstation ist ein offener Mitmach-Bereich im CADUS-Assembly.\nZu jeder vollen Stunde gibt es kleine, interaktive Sessions aus unseren Kernbereichen: medizinische Notfallbasics, technische Hacks, psychosoziale Tools, Sicherheit & Field Skills.\nVon Wasseraufbereitung \u00fcber Funkkommunikation bis hin zu Stress-Tools aus dem PFA \u2013 hier wird ausprobiert, gel\u00f6tet, ge\u00fcbt und gemeinsam gelernt.\n",
+        "features": {},
+        "assembly": {
+          "name": "CADUS - Reboot Solidarity",
+          "slug": "cadus-reboot-solidarity-2025",
+          "guid": "2ff0040c-6c51-4d73-8c3f-b9c2a9f0d084"
+        },
+        "schedule_name": "CADUS Skillstation",
+        "stream": null
+      },
+      {
+        "name": "Bits&B\u00e4ume Living Room",
+        "slug": "bits-baume-wohnzimmer-lounge",
+        "guid": "326e815a-aba6-4552-9e14-dc9184fc197b",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 15,
+        "description_en": "A cozy lounge area with couches and bean bags for relaxed conversations and discussions.\n",
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "Bits & B\u00e4ume / about:freedom",
+          "slug": "bitsundbaeume_aboutfreedom",
+          "guid": "6e7d4287-2304-455a-b53e-66ac813c0a71"
+        },
+        "schedule_name": "Bits&B\u00e4ume Living Room",
+        "stream": null
+      },
+      {
+        "name": "Vegan Chaos Assembly",
+        "slug": "vegan-chaos-assembly",
+        "guid": "237b04ac-1b42-4c60-b0eb-30b186054fb9",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 12,
+        "description_en": null,
+        "description_de": null,
+        "features": {},
+        "assembly": {
+          "name": "Vegan Chaos Community",
+          "slug": "vegan_chaos",
+          "guid": "b75802a0-dc3e-4431-b504-b2bee5a05509"
+        },
+        "schedule_name": "Vegan Chaos Assembly",
+        "stream": null
+      },
+      {
+        "name": "Kidspace - Basteltische",
+        "slug": "kidspace-basteltische",
+        "guid": "5df6836a-709f-43e2-bb49-954bc4f130ce",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 10,
+        "description_en": "Round Tables in Hall B, 1st floor\n",
+        "description_de": "Runde Tische in Saal B, 1. OG\n",
+        "features": {},
+        "assembly": {
+          "name": "Kidspace",
+          "slug": "c3kidspace",
+          "guid": "3c3543c6-c1ba-406a-8aa7-0b0dadbde427"
+        },
+        "schedule_name": "Kidspace - Basteltische",
+        "stream": null
+      },
+      {
+        "name": "Kidspace - Elektrotisch",
+        "slug": "kidspace-elektrotisch",
+        "guid": "65a93a3a-1a7f-4aa8-91e9-b0acde34de89",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 5,
+        "description_en": "In Saal B wird es einen Bereich geben, in welchem mit Elektronikbauk\u00e4sten gebaut werden kann.\n",
+        "description_de": "In Saal B wird es einen Bereich geben, in welchem mit Elektronikbauk\u00e4sten gebaut werden kann.\n",
+        "features": {},
+        "assembly": {
+          "name": "Kidspace",
+          "slug": "c3kidspace",
+          "guid": "3c3543c6-c1ba-406a-8aa7-0b0dadbde427"
+        },
+        "schedule_name": "Kidspace - Elektrotisch",
+        "stream": null
+      },
+      {
+        "name": "Sendezentrum Podcast-Tisch",
+        "slug": "sendezentrum-podcast-tisch",
+        "guid": "6744610c-1f7d-59b6-94d4-cbe917bb5100",
+        "type": "workshop",
+        "stream_id": null,
+        "capacity": 4,
+        "description_en": "on Level +1 \u2013  in the Sendezentrum-Assembly in Saal X, front right area\n",
+        "description_de": "Auf Ebene +1 \u2013  in der Sendezentrum-Assembly in Saal X, vorne rechts\n",
+        "features": {},
+        "assembly": {
+          "name": "Sendezentrum",
+          "slug": "sendezentrum",
+          "guid": "67a4da55-4477-487c-ae63-e414205d302b"
+        },
+        "schedule_name": "Sendezentrum Podcast-Tisch",
+        "stream": null
+      }
+    ],
+    "conferences": [
+      {
+        "url": "https://cfp.cccv.de/39c3-chaos-computer-music-club",
+        "name": "music",
+        "meta": {
+          "name": {
+            "de": "39C3 Chaos Computer Music Club",
+            "en": "39C3 Chaos Computer Music Club"
+          },
+          "slug": "39c3-chaos-computer-music-club",
+          "is_public": true,
+          "date_from": "2025-12-27",
+          "date_to": "2025-12-30",
+          "timezone": "Europe/Berlin",
+          "email": "39c3-booking@cccv.de",
+          "primary_color": null,
+          "custom_domain": null,
+          "logo": null,
+          "header_image": null,
+          "locale": "en",
+          "locales": [
+            "en",
+            "de"
+          ],
+          "content_locales": [
+            "de",
+            "en"
+          ]
+        },
+        "rooms": [
+          {
+            "id": 13,
+            "name": {
+              "de": "Chaos Computer Music Club",
+              "en": "Chaos Computer Music Club"
+            },
+            "description": {},
+            "uuid": "8f027ad0-044c-50bb-bce6-d7c35cbfd326",
+            "guid": "8f027ad0-044c-50bb-bce6-d7c35cbfd326",
+            "capacity": null,
+            "position": 0,
+            "speaker_info": {},
+            "availabilities": []
+          },
+          {
+            "id": 14,
+            "name": {
+              "de": "Lounge",
+              "en": "Lounge"
+            },
+            "description": {},
+            "uuid": "ae1d2469-2639-46dc-b21b-809ab14badae",
+            "guid": "ae1d2469-2639-46dc-b21b-809ab14badae",
+            "capacity": null,
+            "position": 1,
+            "speaker_info": {},
+            "availabilities": []
+          }
+        ]
+      },
+      {
+        "url": "https://cfp.cccv.de/39c3-call-for-punk",
+        "name": "punk",
+        "meta": {
+          "name": {
+            "de": "39C3 Sp\u00e4tkauf"
+          },
+          "slug": "39c3-call-for-punk",
+          "is_public": true,
+          "date_from": "2025-12-27",
+          "date_to": "2025-12-30",
+          "timezone": "Europe/Berlin",
+          "email": "39c3-spaetkauf@cccv.de",
+          "primary_color": null,
+          "custom_domain": null,
+          "logo": null,
+          "header_image": null,
+          "locale": "en",
+          "locales": [
+            "en",
+            "de"
+          ],
+          "content_locales": [
+            "de",
+            "en"
+          ]
+        },
+        "rooms": [
+          {
+            "id": 12,
+            "name": {
+              "de": "Am Sp\u00e4tverkauf",
+              "en": "Am Sp\u00e4tverkauf"
+            },
+            "description": {},
+            "uuid": "6114efbe-f549-579a-8aa4-cd143f5a96cf",
+            "guid": "6114efbe-f549-579a-8aa4-cd143f5a96cf",
+            "capacity": null,
+            "position": null,
+            "speaker_info": {},
+            "availabilities": [
+              {
+                "start": "2025-12-27T12:00:00+01:00",
+                "end": "2025-12-28T04:00:00+01:00",
+                "allDay": false
+              },
+              {
+                "start": "2025-12-28T12:00:00+01:00",
+                "end": "2025-12-29T04:00:00+01:00",
+                "allDay": false
+              },
+              {
+                "start": "2025-12-29T12:00:00+01:00",
+                "end": "2025-12-30T04:00:00+01:00",
+                "allDay": false
+              },
+              {
+                "start": "2025-12-30T12:00:00+01:00",
+                "end": "2025-12-31T00:00:00+01:00",
+                "allDay": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://pretalx.c3voc.de/39c3-sendezentrum",
+        "name": "sendezentrum",
+        "meta": {
+          "name": {
+            "de": "39C3: Sendezentrum"
+          },
+          "slug": "39c3-sendezentrum",
+          "is_public": true,
+          "date_from": "2025-12-27",
+          "date_to": "2025-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/39c3-sendezentrum/",
+            "schedule": "https://pretalx.c3voc.de/39c3-sendezentrum/schedule/",
+            "login": "https://pretalx.c3voc.de/39c3-sendezentrum/login/",
+            "feed": "https://pretalx.c3voc.de/39c3-sendezentrum/schedule/feed.xml"
+          }
+        },
+        "rooms": [
+          {
+            "id": 5953,
+            "guid": "9001b61b-b1f1-5bcd-89fd-135ed5e43e19",
+            "name": {
+              "de": "Sendezentrum B\u00fchne (Saal X 07)"
+            },
+            "description": {
+              "de": "Auf Ebene +1 \u2013 Saal X, hinten rechts"
+            },
+            "capacity": 70,
+            "position": 0,
+            "url": "/orga/event/39c3-sendezentrum/schedule/rooms/5953/"
+          },
+          {
+            "id": 5952,
+            "guid": "6744610c-1f7d-59b6-94d4-cbe917bb5100",
+            "name": {
+              "de": "Sendezentrum Podcast-Tisch"
+            },
+            "description": {
+              "de": "Auf Ebene +1 \u2013  in der Sendezentrum-Assembly in Saal X, vorne rechts"
+            },
+            "capacity": 4,
+            "position": 1,
+            "url": "/orga/event/39c3-sendezentrum/schedule/rooms/5952/"
+          }
+        ]
+      },
+      {
+        "url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2024",
+        "name": "haecksen"
+      },
+      {
+        "url": "https://pretalx.wikimedia.de/39c3-2025",
+        "name": "free-knowledge",
+        "meta": {
+          "name": {
+            "de": "Free Knowledge Habitat 39c3",
+            "en": "Free Knowledge Habitat 39c3"
+          },
+          "slug": "39c3-2025",
+          "is_public": true,
+          "date_from": "2025-12-27",
+          "date_to": "2025-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.wikimedia.de/39c3-2025/",
+            "schedule": "https://pretalx.wikimedia.de/39c3-2025/schedule/",
+            "login": "https://pretalx.wikimedia.de/39c3-2025/login/",
+            "feed": "https://pretalx.wikimedia.de/39c3-2025/schedule/feed.xml"
+          }
+        },
+        "rooms": []
+      },
+      {
+        "url": "https://pretalx.chaos.jetzt/jugend",
+        "name": "jugend",
+        "meta": {
+          "name": {
+            "de": "Jugend macht Chaos"
+          },
+          "slug": "jugend",
+          "is_public": true,
+          "date_from": "2025-12-27",
+          "date_to": "2025-12-30",
+          "timezone": "Europe/Berlin",
+          "email": "info@chaos.jetzt",
+          "primary_color": null,
+          "custom_domain": null,
+          "logo": null,
+          "header_image": null,
+          "locale": "de",
+          "locales": [
+            "de"
+          ],
+          "content_locales": [
+            "de"
+          ]
+        },
+        "rooms": null
+      }
+    ]
+  }
+}

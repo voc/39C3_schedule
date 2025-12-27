@@ -1,0 +1,40 @@
+{
+  "guid": "878d9a0c-0446-561d-9f85-c81033aad209",
+  "code": "ATEWP7",
+  "id": 2202,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-burn-gatekeepers-not-books",
+  "title": "Burn Gatekeepers, not Books!",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "*Der deutsche Buchmarkt gegen den Rest der Welt\r\noder auch: Enshittification des Buchmarkts und keine API f\u00fcr ein Halleluja*\r\n\r\nEs gibt unz\u00e4hlige wundervolle Geschichten und das Internet hat \u00fcber die letzten Jahrzehnte viele gro\u00dfartige Autor*innen hervorgbracht. Doch Verlage haben begrenzte Kapazit\u00e4ten und sind au\u00dferdem zumeist sehr konservativ in ihren Programmen. Die L\u00f6sung f\u00fcr beides: Selfpublishing. Neue und gewitzte, genre-\u00fcbergreifende B\u00fccher an neugierige Lesende zu bringen, k\u00f6nnte so einfach sein; w\u00e4ren da nicht Barsortimente, fehlende APIs und ein insgesamt schreckliches \u00d6kosystem, die Indie-Autor:innen (und alle, die versuchen, auf dem deutschpsprachigen Buchmarkt irgend etwas Innovatives f\u00fcr Indies zu machen) das Leben schwer machen.",
+  "description": "Der Buchmarkt ist kaputt; das ist keine neue Erkentnis. Wir dr\u00f6seln auf, an welchen Ecken es hakt und zeigen auf, wie schlimm es wirklich ist. Dabei machen wir auch ein bisschen Name & Shame, denn irgendwer ist ja schuld. Wir zeigen aber auch, wo uns auf dem deutschen Markt noch fehlende APIs (im Gegensatz zum internationalen Buchmarkt) das Leben deutlich leichter machen w\u00fcrden.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3ad34cd6-6b00-5de1-af12-d79bd3bd5145",
+      "name": "tomate",
+      "public_name": "tomate",
+      "avatar": "https://cfp.cccv.de/media/avatars/7f41e8f13ec3bf64a9429081f0a45b26_74hE5Mq.jpg",
+      "biography": "Autor, Selfpublisher, ehemaliger Verleger. Wenn they nicht gerade das B\u00fcro eines IT-Sercurity Unternehmens schmei\u00dft, schreibt they ins Internet und in Ebooks, manchmal auch auf Papier. tomate mag Stempel und kann stundenlang dar\u00fcber sprechen, was Stempel eigentlich genau machen. \nThey hat auch bei einem gro\u00dfen Publikumsverlag ver\u00f6ffentlich und war erschrocken mit was f\u00fcr Werkzeugen selbst gro\u00dfe Verlage so arbeiten m\u00fcssen. Darauf hin hat they das Epub selbst gebaut und an den Verlag gegeben, damit das wenigstens ordentlich ist. tomate hat immer ein paar ISBN parat, man wei\u00df ja nie, f\u00fcr was man die so gebrauchen kann.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3ad34cd6-6b00-5de1-af12-d79bd3bd5145"
+    },
+    {
+      "guid": "40b7d77d-7dbf-5b79-b9cf-fbcef28015b2",
+      "name": "jinxx",
+      "public_name": "jinxx",
+      "avatar": "https://cfp.cccv.de/media/avatars/D7BTD8_eZ48Qcg.jpeg",
+      "biography": "Seit 2014 ver\u00f6ffentlichte Autorin, Selfpublisherin, Kleinst-Verlags-Inhaberin. Ihre ersten Kriminalromane ver\u00f6ffentlichte sie in einem deutschen Kleinverlag. Nachdem dieser geschlossen wurde, gab sie ihre B\u00fccher selbst heraus und hatte mit denselben B\u00fccher in f\u00fcnf Monaten soviel eingenommen, wie in vier Jahren beim Verlag. Seither macht sie fast alle ihre B\u00fccher selbst nach dem internationalen \"publishing wide\" Modell \u2013 keine Exklusivrechte f\u00fcr irgendeinen Anbieter, stattdessen Publikation \u00fcber eine Vielzahl von Plattformen. Damit eckt sie auf dem deutschsprachigen Buchmarkt regelm\u00e4\u00dfig \u00fcberall an, wo man nur anecken kann.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_40b7d77d-7dbf-5b79-b9cf-fbcef28015b2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/burn-gatekeepers-not-books",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ATEWP7/",
+  "do_not_record": true
+}

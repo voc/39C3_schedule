@@ -1,0 +1,30 @@
+{
+  "guid": "178c7de7-3090-4531-9a19-fac6daadb84d",
+  "code": null,
+  "id": 178773,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-the-state-of-leo-satellite-enthusiast-meetup",
+  "title": "The State of LEO - Satellite enthusiast meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The aim of this low-key meet-up is to discuss the current state of LEO / MEO constellations and the benefits they provide.\nWe will also discuss potential risks and vulnerabilities as well as future fields for research in the security community.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e8f60f68-f24c-4a37-a5e7-c5ffb64c7bdf",
+      "name": "beeblebroxx",
+      "public_name": "beeblebroxx",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/beeblebroxx"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-state-of-leo-satellite-enthusiast-meetup",
+  "links": []
+}

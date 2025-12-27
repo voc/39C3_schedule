@@ -1,0 +1,32 @@
+{
+  "guid": "3d17ba8f-ebb2-5143-acc4-db47b6a9adf7",
+  "code": "8EERFK",
+  "id": 1629,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-lisaholic-live-beatset",
+  "title": "lisaholic (live beatset)",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Lisaholic - breakbeat / bass / vocals \r\nliveloopset with a drum computer and a loopstation.",
+  "description": "www.lisaholic.com\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/8EERFK/IMG_6275_rGbF9tz.jpeg",
+  "persons": [
+    {
+      "guid": "16df8a37-554c-5ad9-8871-04ddae30fb33",
+      "name": "lisaholic",
+      "public_name": "lisaholic",
+      "avatar": "https://cfp.cccv.de/media/avatars/Y9TX88_jEbbeH5.jpeg",
+      "biography": "Lisa likes liveloops, breaks and bass\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_16df8a37-554c-5ad9-8871-04ddae30fb33"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lisaholic-live-beatset",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8EERFK/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8EERFK/feedback/"
+}

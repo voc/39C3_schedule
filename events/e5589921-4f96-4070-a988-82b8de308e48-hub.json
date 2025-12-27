@@ -1,0 +1,21 @@
+{
+  "guid": "e5589921-4f96-4070-a988-82b8de308e48",
+  "code": null,
+  "id": 558992,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-hacking-edge-ai",
+  "title": "Hacking Edge-AI",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "AI is moving from the Cloud to the Edge. Seeing the impossibility of scaling transformers on GPU clusters and the wild amount of cash flowing to anything that can be called AI. Now using a variety of specialised and exotic hardware companies are applying AI at our doorsteps, telephone masts, street lights.\n\nCompanies like Flock Safety apply AI at the edge in their cameras they claim for efficiency and privacy. Yet, they now fail on both counts.\n\nNow that AI is breaking out of the climate controlled data centres. Will it become more smash-able, controllable? Can we prefigure convivial visions of AI? Or, will we see the next round of datafication of the enclosure? What is the Internet of Battlefield Things and how can we fight it?\n\nI plan to show some Edge-AI boards and applications. And hope for some help in attempting to find out its limits and vulnerabilities.\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hacking-edge-ai",
+  "links": []
+}

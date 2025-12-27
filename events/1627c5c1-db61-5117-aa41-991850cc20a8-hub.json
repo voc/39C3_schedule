@@ -1,0 +1,47 @@
+{
+  "guid": "1627c5c1-db61-5117-aa41-991850cc20a8",
+  "code": "3JXAJJ",
+  "id": 2022,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-rowhammer-in-the-wild-large-scale-insights-from-flippyr-am",
+  "title": "Rowhammer in the Wild: Large-Scale Insights from FlippyR.AM",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Last year at 38c3, we gave a talk titled \"Ten Years of Rowhammer: A Retrospect (and Path to the Future).\"\r\nIn this talk, we summarized 10 years of Rowhammer research and highlighted gaps in our understanding.\r\nFor instance, although nearly all DRAM generations from DDR3 to DDR5 are vulnerable to the Rowhammer effect, we still do not know its real-world prevalence.\r\nFor that reason, we invited everyone at 38c3 last year to participate in our large-scale Rowhammer prevalence study.\r\nIn this year's talk, we will first provide an update on Rowhammer research and present our results from that study. \r\n\r\nA lot has happened in Rowhammer research in 2025.\r\nWe have evidence that DDR5 is as vulnerable to Rowhammer as previous generations.\r\nOther research shows that not only can adversaries target rows, but columns can also be addressed and used for bit flips.\r\nBrowser-based Rowhammer attacks are back on the table with Posthammer and with ECC. fail, we can mount Rowhammer attacks on DDR4 with ECC memory.\r\n\r\nIn our large-scale study, we measure Rowhammer prevalence in a fully automated cross-platform framework, FlippyR.AM, using the available state-of-the-art software-based DRAM and Rowhammer tools.\r\nOur framework automatically gathers information about the DRAM and uses 5 tools to reverse-engineer the DRAM addressing functions, and based on the reverse-engineered functions, uses 7 tools to mount Rowhammer.\r\nWe distributed the framework online and via USB thumb drives to thousands of participants from December 30, 2024, to June 30, 2025. Overall, we collected 1006 datasets from 822 systems with various CPUs, DRAM generations, and vendors.\r\nOur study reveals that out of 1006 datasets, 453 (371 of the 822 unique systems) succeeded in the first stage of reverse-engineering the DRAM addressing functions, indicating that successfully and reliably recovering DRAM addressing functions remains a significant open problem.\r\nIn the second stage, 126 (12.5 % of all datasets) exhibited bit flips in our fully automated Rowhammer attacks.\r\nOur results show that fully automated, i.e., weaponizable, Rowhammer attacks work on a lower share of systems than FPGA-based and lab experiments indicated, but at 12.5%, are still a practical vector for threat actors.\r\nFurthermore, our results highlight that the two most pressing research challenges around Rowhammer exploitability are more reliable reverse-engineering tools for DRAM addressing functions, as 50 % of datasets without bit flips failed in the DRAM reverse-engineering stage, and reliable Rowhammer attacks across diverse processor microarchitectures, as only 12.5 % of datasets contained bit flips.\r\nAddressing each of these challenges could double the number of systems susceptible to Rowhammer and make Rowhammer a more pressing threat in real-world scenarios.",
+  "description": "This will be a followup talk after our talk \"Ten Years of Rowhammer: A Retrospect (and Path to the Future)\" at 38C3.\nIn the talk last year we gave an overview of the current state of Rowhammer and highlighted that there are no large-scale prevalence studies.\nWe wanted to change that and asked the audience to participate in our large-scale study on Rowhammer prevalence.\n\nWe performed the large-scale study on Rowhammer prevalence thanks to many volunteers supporting our study by measuring their systems.\nIn total, we collected 1006 datasets on 822 different systems (some systems were measured multiple times).\nWe show that 126 of them (12.5%) are affected by Rowhammer with our fully-automated setup.\nThis should be seen as a lower bound, since the preconditions required for effective tools failed on ~50% of the systems.\nAmong many other insights, we learned that the fully-automated reverse-engineering of DRAM addressing functions is still an open problem and we assume the actual number of affected systems to be higher as the 12.5% we measured in our study.\n\nNow, one year after our talk at the 38C3, we want to give an update on the current state of Rowhammer, since multiple new insights were published in the last year:\nThe first reliable Rowhammer exploit on DDR5, a JavaScript implementation of Rowhammer that works on current DDR4 systems, and an ECC bypass on DDR4, just to name a few.\nAdditionally, we want to present the results of our large-scale study on Rowhammer prevalence which was supported by the audience from last year's talk.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/3JXAJJ/rowhammer_lclviuE_NtNU8dT.jpg",
+  "persons": [
+    {
+      "guid": "e3a3be8d-7b46-5d3a-88f4-5563d4918e42",
+      "name": "Martin Heckel",
+      "public_name": "Martin Heckel",
+      "avatar": "https://cfp.cccv.de/media/avatars/MAEMK9_PWbhLo2.png",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e3a3be8d-7b46-5d3a-88f4-5563d4918e42"
+    },
+    {
+      "guid": "3f1d885e-cddd-5878-a7af-3bd31a5d9817",
+      "name": "Florian Adamsky",
+      "public_name": "Florian Adamsky",
+      "avatar": "https://cfp.cccv.de/media/avatars/ich-round-avatar_P80F54Q.png",
+      "biography": "Florian Adamsky attended the first Chaos Communication Congress in 2000 (17C3). He co-founded Chaostreff Regensburg at some point, before becoming immersed in academia, from which he has not found his way out. As a result, he has been serving as a professor of IT security at Hof University of Applied Sciences since 2019. In 2020, he established his own small research group called System and Network Security (SNS), which focuses on phishing, anonymity networks, and hardware-based side-channel attacks, such as Rowhammer.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f1d885e-cddd-5878-a7af-3bd31a5d9817"
+    },
+    {
+      "guid": "4fac2ea7-9464-54dc-94af-ab15f0fa2f43",
+      "name": "Daniel Gruss",
+      "public_name": "Daniel Gruss",
+      "avatar": "https://cfp.cccv.de/media/avatars/portrait_small_rPT8mpS.jpg",
+      "biography": "Daniel Gruss (@lavados) is a Professor at Graz University of Technology.\nHe has been teaching undergraduate courses since 2010. Daniel's research\nfocuses on side channels and transient execution attacks. He implemented\nthe first remote fault attack running in a website, known as\nRowhammer.js. His research team was one of the teams that found the\nMeltdown and Spectre bugs published in early 2018. He frequently speaks\nat top international venues.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_4fac2ea7-9464-54dc-94af-ab15f0fa2f43"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/rowhammer-in-the-wild-large-scale-insights-from-flippyr-am",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/3JXAJJ/"
+}

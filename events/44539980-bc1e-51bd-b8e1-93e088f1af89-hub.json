@@ -1,0 +1,32 @@
+{
+  "guid": "44539980-bc1e-51bd-b8e1-93e088f1af89",
+  "code": "BWPZZD",
+  "id": 2494,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-chaeza-doc",
+  "title": "chaeza + doc",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Dj Set",
+  "description": "..\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/BWPZZD/chaezadoc_xtL_jMAh1jb.webp",
+  "persons": [
+    {
+      "guid": "cc027b20-78eb-5d41-9a4d-dd30af9d3d43",
+      "name": "chaeza + doc",
+      "public_name": "chaeza + doc",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cc027b20-78eb-5d41-9a4d-dd30af9d3d43"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chaeza-doc",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/BWPZZD/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/BWPZZD/feedback/"
+}

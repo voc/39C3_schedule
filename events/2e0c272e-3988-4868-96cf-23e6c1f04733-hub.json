@@ -1,0 +1,30 @@
+{
+  "guid": "2e0c272e-3988-4868-96cf-23e6c1f04733",
+  "code": null,
+  "id": 202723,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:55",
+  "room": "SoS Workshop D",
+  "slug": "39c3-austausch-mental-health-und-suizidpravention-im-ch",
+  "title": "Austausch Mental Health und Suizidpr\u00e4vention im Chaos / Meetup Mental Health and Suicide Prevention in Chaos",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Austausch zum Thema suizidale Krisen, Mental Health und nachhaltige Unterst\u00fctzung. Gemeinsam Erfahrungen teilen, Ressourcen b\u00fcndeln und konkrete Schritte f\u00fcr ein sichereres Miteinander erarbeiten. // A meetup to talk about mental health, suicide prevention and sustainable support: sharing experiences, gathering resources, and developing practical steps for safer community care.",
+  "description": "CN: Suicide / Mental Health\n\nDepression is widespread\u2014and within the Chaos community, the number of entities struggling with depression and suicidal thoughts is alarmingly high. The painful suicides of the past year, particularly within the trans community, have clearly shown us: We urgently need better structures for mental health and crisis intervention, as well as practical advice for the community on how to support one another. In this session, we want to take action. We will gather initial ideas and approaches: How can we effectively support beings with suicidal thoughts? How do we protect ourselves from burnout? What good resources do we already know and can share with each other? Which ressources are still missing? Together, we will exchange ideas in small groups for a safer, more supportive environment. We will share these results at the end of the session and make them available to the wider community afterwards.\n\nA meetup initiated by CCCHH, The Spectrum, Safe the Dance & F.U.C.K.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d6704c8c-fddb-42c0-aa6d-05cadc8014b4",
+      "name": "sjaelv (she/they)",
+      "public_name": "sjaelv (she/they)",
+      "avatar": null,
+      "biography": "Mirca is a diversity trainer, curator, and conceptual artist working at the intersection of culture, community, and social change. Their professional experience includes the Munich Film Festival, Virtual Worlds (an international competition for narrative VR), and the Most Wanted:Music conference. In 2017, Mirca co-initiated We Make Waves, the first international FLINTA+ showcase and conference, and has since been part of the international Keychange program promoting diversity in music. In 2020, together with Johanna Bauhus and Carmen Westermeier, they founded Safe The Dance, an agency for awareness, diversity, and inclusion. Safe The Dance works with groups of all sizes, from small collectives to large-scale events with up to 60,000 attendees. Their work extends beyond the music industry to museums, theaters, universities, sporting events, and more. The expertise gained over the years was compiled in 2023 into an awareness handbook designed to help anyone create sustainable safer spaces. Currently, their focus is on The Spectrum, a queer-feminist, interdisciplinary hackspace newly founded in Munich in 2025.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/sjaelv"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/austausch-mental-health-und-suizidpravention-im-ch",
+  "links": []
+}

@@ -1,0 +1,38 @@
+{
+  "guid": "c43b6837-5cf8-47fd-93e8-6d50077d290d",
+  "code": null,
+  "id": 436837,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-cat-got-your-password-wi-fi-self-defense-for-_nsam",
+  "title": "Cat Got Your Password: Wi-Fi Self Defense For Beginners (Day 3)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Cat Got Your Password: Wi-Fi Self Defense For Beginners",
+  "description": "**Cat Got Your Password: Wi-Fi Self Defense For Beginners**\n\n**Materials costs**:  \n\u20ac160\n\n**Taught by** Retia / Nick & Kody .\n\n**Workshop Itinerary**:  Cat got your password? In this class, you will use the Wi-Fi Nugget to learn how hackers attack wireless networks - and how to stop them. We will cover evil QR codes, extracting information like work and travel history from personal devices, Wi-Fi phishing attacks, and how to detect hacking tools like Wi-Fi pineapples. Most importantly, you will learn how to use the Nugget to physically \"foxhunt\" for suspicious Wi-Fi devices and secure your own home network against these common threats.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area or on the website to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-cat-got-your-password-wi-fi-self-defense-for-beginners-29-dec-17-00-19-00)\n\n**Workshop Includes**: Wi-Fi Nugget, Class Coupon, USB Cable\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8e9fde75-8969-4fbd-ab16-5bd330b8addb",
+      "name": "skickar",
+      "public_name": "skickar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skickar"
+    },
+    {
+      "guid": "c7f4ebde-368e-4be4-9ace-8feeab38f30b",
+      "name": "koufax",
+      "public_name": "koufax",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/koufax"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cat-got-your-password-wi-fi-self-defense-for-_nsam",
+  "links": []
+}

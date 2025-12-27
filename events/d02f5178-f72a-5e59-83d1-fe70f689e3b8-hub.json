@@ -1,0 +1,31 @@
+{
+  "guid": "d02f5178-f72a-5e59-83d1-fe70f689e3b8",
+  "code": null,
+  "id": 300086,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-real-world-timestamping-with-opentimestamps",
+  "title": "Real World Timestamping With OpenTimestamps",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "How is OpenTimestamps used in the real world? We'll explain how it achieves cryptographic timestamping, and show some read world examples of it in use such as the Guatemalan Presidential Election.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "59986456-bfb2-5757-a2d4-0c7c740397ef",
+      "name": "Peter Todd",
+      "public_name": "Peter Todd",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_59986456-bfb2-5757-a2d4-0c7c740397ef"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/real-world-timestamping-with-opentimestamps",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/TYKHNF/"
+}

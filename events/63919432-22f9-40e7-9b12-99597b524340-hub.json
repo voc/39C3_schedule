@@ -1,0 +1,30 @@
+{
+  "guid": "63919432-22f9-40e7-9b12-99597b524340",
+  "code": null,
+  "id": 639194,
+  "date": "2025-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-build-your-own-satellite-ground-station",
+  "title": "Build Your Own Satellite Ground Station",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "A beginner-friendly, hands-on workshop where you build and program a TinyGS satellite ground station and a simple antenna. Learn the basics of receiving LoRa satellite and weather probe data, then get your station online and ready to pick up signals from space.",
+  "description": "# Build Your Own Satellite Ground Station\n\nAre you fascinated by space and want to learn how to receive data from satellites and weather probes? Join us in this TinyGS Station Workshop where you\u2019ll build and program your own ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IoT, antenna design, and space exploration.\n\n## TinyGS\n[TinyGS](https://tinygs.com/) is an open, community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, including CubeSats.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required. We\u2019ll provide the materials, tools, and equipment to guide you through the process.\n\n## Requirements\n- A device with a web browser and WiFi, such as a phone or laptop\n- A [Telegram](https://telegram.org/) account\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac80** for a kit to take home. You\u2019ll leave with your own ground station. Pair it with a waterproof box, and you\u2019ll be ready to pick up satellites.\n\n## Instructions\n[https://www.tog.ie/build-your-own-satellite-ground-station-tinygs-compressed/)](https://www.tog.ie/build-your-own-satellite-ground-station-tinygs-compressed/)\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/684d627b68e5/build-your-own-satellite-ground-station.banner.jpg",
+  "persons": [
+    {
+      "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
+      "name": "tdr112 (he/him)",
+      "public_name": "tdr112 (he/him)",
+      "avatar": null,
+      "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-satellite-ground-station",
+  "links": []
+}

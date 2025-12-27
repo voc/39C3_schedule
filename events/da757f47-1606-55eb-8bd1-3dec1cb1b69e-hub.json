@@ -1,0 +1,32 @@
+{
+  "guid": "da757f47-1606-55eb-8bd1-3dec1cb1b69e",
+  "code": "9CXV8W",
+  "id": 757471,
+  "date": "2025-12-27T11:15:00+01:00",
+  "start": "11:15",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-lets-talk-entspannt-neue-kontakte-knupfen",
+  "title": "Let\u2019s Talk! Entspannt neue Kontakte kn\u00fcpfen [FLINTA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Du m\u00f6chtest auf dem 39C3 neue Leute kennenlernen? In entspannter Runde erh\u00e4ltst du praktische Tipps f\u00fcr den Einstieg und spannende Gespr\u00e4che. Willkommen sind alle \u2013 egal, ob sch\u00fcchtern oder gespr\u00e4chig! Offen f\u00fcr: FLINTA",
+  "description": "Auf den ersten Blick sind Veranstaltungen wie der 39C3 eine super Gelegenheit, Gleichgesinnte kennenzulernen und den eigenen Freundeskreis zu erweitern.\nIn der Praxis ist das aber oft gar nicht so einfach, wie es klingt. Vielleicht habt ihr euch auch schon einmal gefragt:\n- Ist es eigentlich okay, andere einfach so anzusprechen?\n- Mit welchen Fragen gelingt der Gespr\u00e4chseinstieg?\n- Wie bleibt ein Gespr\u00e4ch f\u00fcr beide Seiten interessant?\n\nIn diesem Workshop verfolgen wir zwei Ziele:\n1. Ihr lernt euch in lockerer Atmosph\u00e4re untereinander kennen und habt somit schon einmal ein paar bekannte Gesichter auf dem Kongress dazugewonnen.\n2. Ihr bekommt praktisches Handwerkszeug, das es euch erleichtert, auf dem Kongress (und dar\u00fcber hinaus) Gespr\u00e4che mit euch unbekannten Personen zu starten und zu f\u00fchren.\n\nUnd nat\u00fcrlich soll der Spa\u00df dabei nicht zu kurz kommen!\nEgal, ob ihr eher sch\u00fcchtern oder extrovertiert seid \u2013 bei diesem Workshop seid ihr herzlich willkommen.\n\nOffen f\u00fcr: FLINTA\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "49b6f48e-42c8-5fd6-9cf3-9f8993bc9c60",
+      "name": "Gigi",
+      "public_name": "Gigi",
+      "avatar": null,
+      "biography": "Gigi besch\u00e4ftigt sich seit vielen Jahren mit Kommunikation, Gruppendynamik und zwischenmenschlichem Austausch. Sie liebt es, R\u00e4ume f\u00fcr Begegnung und Vernetzung zu schaffen \u2013 ob auf Kongressen, in Workshops oder im Alltag. Ihr Ziel: Hemmschwellen abbauen und echte Verbindungen erm\u00f6glichen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_49b6f48e-42c8-5fd6-9cf3-9f8993bc9c60"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lets-talk-entspannt-neue-kontakte-knupfen",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/9CXV8W/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/9CXV8W/feedback/"
+}

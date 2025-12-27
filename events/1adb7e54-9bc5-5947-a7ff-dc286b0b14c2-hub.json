@@ -1,0 +1,31 @@
+{
+  "guid": "1adb7e54-9bc5-5947-a7ff-dc286b0b14c2",
+  "code": "9KVMHY",
+  "id": 2250,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-design-for-3d-printing",
+  "title": "Design for 3D-Printing",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "3D-Printers have given us all the unprecedented ability to manufacture mechanical parts with a very low barrier to entry.  The only thing between your idea and its physical manifestation is the process of designing the parts. However, this is actually a topic of incredible depth: Design engineering is a whole discipline to itself, built on top of tons and tons of heuristics to produce shapes that are functional, strong, and importantly: well-manufacturable\r\n\r\nIn this talk, I will present the rules for designing well-printable parts and touch on other areas of design considerations so you can learn to create parts that work first try and can be reproduced by others on their 3d-printers easily.",
+  "description": "Over the years, the 3d-printing community has discovered many tricks and rules that help creating parts that can be printed well and fulfill their purpose as best as possible. I started collecting these rules and wrote an article guide to make this knowledge more accessible. I want to present the most important principles and the mindset that is needed to achieve perfected design.\n\nThis is not about how to use a CAD program to design a part \u2014 but rather about the thought process of the design engineer while drawing up a part.  A though process that consists of compromises between many objectives, of heuristic rules, and many neat little tricks.\n\nThe article that this talk is based on can be found on my blog: https://blog.rahix.de/design-for-3d-printing/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7719cbcd-ddcb-5053-98e8-ae23ea13302d",
+      "name": "rahix",
+      "public_name": "rahix",
+      "avatar": "https://cfp.cccv.de/media/avatars/ZPNDCK_WXhy7mg.png",
+      "biography": "Originally from embedded systems software, I pivoted to mechanical and electrical engineering to satiate my curiosity about the whole world of designing technical systems.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7719cbcd-ddcb-5053-98e8-ae23ea13302d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/design-for-3d-printing",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9KVMHY/"
+}

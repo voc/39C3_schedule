@@ -1,0 +1,32 @@
+{
+  "guid": "f1f8be7b-2087-5fff-969d-baef470497b1",
+  "code": "XHULRU",
+  "id": 2439,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-the-modular-workshop-the-tunegirl-und-rob-strobe",
+  "title": "The Modular Workshop \u2013 The Tunegirl und Rob StrobE",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Music Workshop",
+  "abstract": "Hallo CCC Community,\r\nwir pr\u00e4sentieren euch The Tunegirl und Rob StrobE, beide sind mit Ver\u00f6ffentlichungen auf dem Assassins Soldier Label beheimatet und blicken auf eine gemeinsame Liebe f\u00fcr Detroit Techno.\r\n\r\nDie Idee zum gemeinsamen Workshop f\u00fcr euch entstand  nat\u00fcrlich auf dem Dancefloor und The Tunegirl hat die Cases gepackt und nach Hamburg gebracht.\r\n\r\nW\u00e4hrend The Tunegirl den praktischen Teil verantwortet und die Kabel steckt, wird euch Rob durch die Kabel f\u00fchren und einen Einblick in die Welt der Module und Drummachines geben. Unterst\u00fctzt wird das ganze von einer Kamera, damit ihr nah am Geschehen dabei sein k\u00f6nnt.\r\n\r\nDie beiden stehen euch f\u00fcr Fragen nach dem Workshop zur Verf\u00fcgung.\r\n\r\nWir w\u00fcnschen euch viel Spass und gute Unterhaltung,",
+  "description": "Ablauf des Workshops\n1. Begr\u00fc\u00dfung & Einf\u00fchrung \n   \u2022\tVorstellung der Artists\n   \u2022\tMotivation und Ziel des Workshops\n   \u2022\tKurzer \u00dcberblick \u00fcber Setup & Equipment\n2. Theorie & Orientierung im Kabeldschungel mit The Tunegirl & Rob StrobE \n   \u2022\tWas passiert eigentlich im Patch?\n   \u2022\t\u00dcberblick \u00fcber Module, Signale, Clocking & Drummachines\n   \u2022\tSounddesign-Strategien und Workflow-Tipps\n3. Praxis: Live Modular Patchen mit The Tunegirl \n   \u2022\tPatchen in Echtzeit\n   \u2022\tAufbau und Struktur eines modularen Livesets\n   \u2022\tEntstehung von Rhythmus, Sequenzen und Texturen\n   \u2022\tAbschlie\u00dfend Live-Jam\n4. Visual Support\n   \u2022\teine Kamera f\u00fcr den direkten Einblick ins Patch-Setup\n5. Q&A \u2013 Eure Fragen, unsere Antworten  Minuten\n   \u2022\tOffene Fragerunde\n   \u2022\tAustausch & Networking\n________________________________________\nZielgruppe\n\u2022\tEinsteiger bis Fortgeschrittene\n\u2022\tInteressierte an modularer Klangerzeugung, Hardware-Livesets & -Musikproduktion\n________________________________________\nHinweis\nNach dem Workshop stehen wir euch gerne f\u00fcr pers\u00f6nliche Fragen, Austausch und Nerd-Talk zur Verf\u00fcgung.\n________________________________________\nWir w\u00fcnschen viel Spa\u00df, Inspiration & gute Unterhaltung!\nAndrea (The Tunegirl) & Rob (Rob StrobE)\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/XHULRU/_DSC8128_txZz_Zxssx7n.webp",
+  "persons": [
+    {
+      "guid": "764946ba-cec5-555a-a1d8-c8596581f426",
+      "name": "Rob StrobE",
+      "public_name": "Rob StrobE",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_764946ba-cec5-555a-a1d8-c8596581f426"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-modular-workshop-the-tunegirl-und-rob-strobe",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/XHULRU/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/XHULRU/feedback/"
+}

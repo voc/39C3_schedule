@@ -1,0 +1,30 @@
+{
+  "guid": "cf5e34a6-eafa-4747-a2f6-871df62f3591",
+  "code": null,
+  "id": 534647,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:00",
+  "room": "SoS Workshop D",
+  "slug": "39c3-haecksen-picknick-fur-alt-haecksen_i0dn",
+  "title": "Traditionelles Haecksen-Picknick",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Haecksen-Picknick f\u00fcr bereits beigetretene Haecksen",
+  "description": "Every year, we meet for the traditional Haecksen picnic at the Congress, exchange ideas and plan for the coming year.\n\nNote:\nThis picnic is not intended for the admission of new Haecksen.\nIf you would like to join the Haecksen, please attend the [picnic for new Haecksen](https://events.ccc.de/congress/2025/hub/en/event/detail/haecksen-picknick-fur-noch-nicht-haecksen_gyr8) on day 2 at 2 p.m. as your first event!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b686df5b-abcf-4fa9-a3c6-f86919ec24c8",
+      "name": "Deanna (keins/none-they/them)",
+      "public_name": "Deanna (keins/none-they/them)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/deanna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/haecksen-picknick-fur-alt-haecksen_i0dn",
+  "links": []
+}

@@ -1,0 +1,31 @@
+{
+  "guid": "ab19e1f1-ca13-531e-9d30-0ca5b0c7551c",
+  "code": "SRCDYW",
+  "id": 1785,
+  "date": "2025-12-27T23:55:00+01:00",
+  "start": "23:55",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-building-a-noc-from-scratch",
+  "title": "Building a NOC from scratch",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Learn from our mistakes during the first iteration of Network Operations for Europe's largest furry convention, Eurofurence.\r\nDieses Jahr hat ein kleines Team aus dem Chaos, Furries und Chaos-Furries ein neues Netzwerk-OC gegr\u00fcndet, um die Eurofurence mit gutem premium \ud83d\udc4c Internetz auszustatten. Wir erz\u00e4hlen von unseren Erfahrungen und den sozialen sowie technischen Herausforderungen.",
+  "description": "Zum Zeitpunkt der 29. Eurofurence (also dieses Jahr) hatte das Event eine Gr\u00f6\u00dfe erreicht, bei der typische Event-Locations unsere speziellen Anforderungen nicht mal eben so erf\u00fcllen konnten. Beispielsweise ist eine aufw\u00e4ndige Audio/Video-Produktion Teil der Eurofurence, welche ein IP-Netz mit hoher Bandbreite, niederiger Latenz, niedrigem Jitter, Multicast-Transport und pr\u00e4zise Zeitsynchronisierung ben\u00f6tigt. Deshalb wurde dieses Jahr das _Onsite Eurofurence Network Operation Center_ _(EFNOC)_ gegr\u00fcndet. Unsere Aufgabe sollte es sein, alle Anforderungen der anderen Teams kompetent zu erf\u00fcllen wovon wir euch in diesem Vortrag etwas aus dem N\u00e4hk\u00e4stchen erz\u00e4hlen wollen.\n\nGrob haben wir w\u00e4rend der EF29 das Team etabliert und ein Netzwerk gebaut, welches f\u00fcr A/V-Produktion, Event-Koordination und Event-Management (z.B. Security, Ticketing) benutzt wurde. Unser pers\u00f6nliches Ziel war es au\u00dferdem, ein benutzbares WLAN-Netzwerk f\u00fcr alle Besuchenden \u00fcber dies gesamte Event-Venue hinweg zu schaffen \u2013 also von Halle H bis zum Vorplatz.\nUnsere Architektur bestand daf\u00fcr aus einem simplen Layer2-Netzwerk mit VLAN-Unterteilung, welches von _Arista DCS-7050TX-72Q_ mit 40Gbit/s Optiken bereitgestellt wurde. Die Aristas haben au\u00dferdem ein PTP-Signal propagiert, welches von einer Meinberg Master-Clock gesteuert wurde. Zus\u00e4tzlich war ein Linux-Server als Hypervisor f\u00fcr diverse Netzwerk-Services wie DNS, DHCP, Monitoring und Routing im Einsatz.\nSo zumindest der Plan, denn w\u00e4hrend des Events wurden wir mit der Realit\u00e4t und vielen \u201espa\u00dfigen\u201c Problemen konfrontiert.\n\nUnser Talk wird sich unter anderem mit diesen technischen Problemen besch\u00e4ftigen, allerdings den Fokus nicht nur auf die technische Darstellung legen. Stattdessen werden wir auch beleuchten, wie wir als Team menschlich untereinander und in der Kommunikation mit anderen Teams damit umgegangen sind.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "effa73d5-9fd2-5e52-a24b-9a7b0ed19827",
+      "name": "lilly",
+      "public_name": "lilly",
+      "avatar": "https://cfp.cccv.de/media/avatars/Y7FLAX_Epjopod.jpg",
+      "biography": "- Queer hacktivist from Hamburg\n- level 42 kubernetes wizard\n- network engineering hobbyist with an IPv6 fetish\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_effa73d5-9fd2-5e52-a24b-9a7b0ed19827"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/building-a-noc-from-scratch",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/SRCDYW/"
+}

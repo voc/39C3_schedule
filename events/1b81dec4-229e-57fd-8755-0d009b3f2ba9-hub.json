@@ -1,0 +1,47 @@
+{
+  "guid": "1b81dec4-229e-57fd-8755-0d009b3f2ba9",
+  "code": null,
+  "id": 200506,
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-ask-me-anything-internet-governance",
+  "title": "Ask me anything: Internet Governance",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Internet Governance beeinflusst, wie offen, sicher und zug\u00e4nglich das Internet ist \u2013 von technischen Standards \u00fcber Plattformregulierung bis hin zu Fragen von Macht und Teilhabe. In diesem interaktiven Ask Me Anything-Workshop laden wir Teilnehmende dazu ein, ihre Fragen, Zweifel und Kritik rund um Internet Governance einzubringen (unabh\u00e4ngig von Vorwissen).\r\n\r\nDer Workshop bietet einen niedrigschwelligen Einstieg in zentrale Akteure, Prozesse und Konfliktlinien der Internet Governance (z. B. Multistakeholder-Ansatz, Staaten vs. Tech-Konzerne, Global Digital Compact, WSIS, IETF, ICANN, W3C; und noch viel mehr Abk\u00fcrzungen). Gleichzeitig ist Raum f\u00fcr vertiefende Diskussionen, pers\u00f6nliche Erfahrungen und aktuelle politische Aushandlungen. Ziel ist es, Internet Governance entmystifizieren, Machtstrukturen sichtbar zu machen und gemeinsam zu diskutieren, wie eine gerechtere und inklusivere digitale Zukunft aussehen kann.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "812788a1-9def-5616-96f1-9bdba46f8fff",
+      "name": "Sophia Longwe",
+      "public_name": "Sophia Longwe",
+      "avatar": "https://cfp.cccv.de/media/avatars/SR7JLF_0uURAbU.webp",
+      "biography": "Sophia Longwe is project manager policy at Wikimedia Deutschland e. V. and works on international digital policy, digital infrastructure, and public interest data policy. She studied Global Studies and Public Policy in Maastricht, Berlin, and Austin.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_812788a1-9def-5616-96f1-9bdba46f8fff"
+    },
+    {
+      "guid": "6ef535f9-e705-59f9-a2e1-2a172e38e024",
+      "name": "Ben Burmeister",
+      "public_name": "Ben Burmeister",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6ef535f9-e705-59f9-a2e1-2a172e38e024"
+    },
+    {
+      "guid": "27364d07-e9b5-5fa2-94fc-ad06a8946d1a",
+      "name": "Friederike von Franqu\u00e9",
+      "public_name": "Friederike von Franqu\u00e9",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/9de152bf5bdddb5ad2c5e74eb9955590_4sUKOoM.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_27364d07-e9b5-5fa2-94fc-ad06a8946d1a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ask-me-anything-internet-governance",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/NYT7YQ/"
+}

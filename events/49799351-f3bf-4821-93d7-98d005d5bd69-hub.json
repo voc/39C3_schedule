@@ -1,0 +1,30 @@
+{
+  "guid": "49799351-f3bf-4821-93d7-98d005d5bd69",
+  "code": null,
+  "id": 497993,
+  "date": "2025-12-27T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-chatbot-memoryfinetuningpersonality-meetup",
+  "title": "Chatbot Memory/Finetuning/Personality Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "A brief meetup for those working in (private and/or decentralized and/or open-source and/or academic) LLM memory, LLM finetuning, and everything more involved than system prompts for LLMs\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b2e11a06-c488-47a6-8c46-08b2c1da0a9f",
+      "name": "Indraos",
+      "public_name": "Indraos",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/indra0s"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chatbot-memoryfinetuningpersonality-meetup",
+  "links": []
+}

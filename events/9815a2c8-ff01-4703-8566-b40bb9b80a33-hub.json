@@ -1,0 +1,30 @@
+{
+  "guid": "9815a2c8-ff01-4703-8566-b40bb9b80a33",
+  "code": null,
+  "id": 981528,
+  "date": "2025-12-28T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-build-your-own-joustmania",
+  "title": "Build your own Joustmania",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "At several Chaos events, you can often spot a cheerful group of people playing the game \u201cJoustmania\u201d ( https://github.com/adangert/JoustMania ).\n\nIn this game, each player holds a PlayStation Move controller that tracks the player\u2019s movement.\nAs soon as a controller accelerates too quickly, the player is eliminated from the game.\nThe competitors therefore try to defeat each other by bumping or nudging the other players\u2019 controllers, forcing them to move too fast.\n\nThis year, I decided to rebuild the game myself and ran into quite a few obstacles along the way: from sourcing the hardware, to setting up a Raspberry Pi (the game is already about 10 years old), all the way to compiling Bluetooth drivers. In the end, this even resulted in my own fork of the project: https://github.com/VanFanelia/joustmania-remastered\n\nIn this session, I would like to share what I\u2019ve learned, answer your questions about the game or rebuilding it, and/or organize a few rounds of play.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ef6d0255-85c7-4c68-8127-cee9e314626d",
+      "name": "VanFanel",
+      "public_name": "VanFanel",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/vanfanel"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-joustmania",
+  "links": []
+}

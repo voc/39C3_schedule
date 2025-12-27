@@ -1,0 +1,31 @@
+{
+  "guid": "ba5269c3-88f7-50e8-b12c-63510ee697e8",
+  "code": "8CVJUN",
+  "id": 2258,
+  "date": "2025-12-30T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-what-you-hack-is-what-you-mean-35-years-of-wiring-sense-into-text",
+  "title": "What You Hack Is What You Mean: 35 Years of Wiring Sense into Text",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "Encoding isn\u2019t just for machines \u2014 it\u2019s how humans shape meaning. This talk traces 35 years of hacking text through the Text Encoding Initiative (TEI), a community-driven, open-source standard for describing the deep structure of texts. We\u2019ll explore how TEI turns literature, research, and even hacker lore into machine-readable, remixable data \u2014 and how it enables minimal, sustainable self-publishing without gatekeepers. From alphabets to XML and the Hacker Bible, we\u2019ll look at text as a living system: something we can read, write, and hack together.",
+  "description": "Computers can\u2019t do much without encoding. They need ways to turn bytes into symbols, words, and meaning \u2014 to make text readable for both humans and machines. But encoding isn\u2019t just for machines. Humans also encode: we describe, structure, and translate our thoughts into text. And while the number of text formats seems endless (and keeps growing), that\u2019s not a bug \u2014 it\u2019s a feature. Diversity in encoding is how we learn what works and what doesn\u2019t.\n\nLong before ASCII tables or Unicode, text encoding already existed \u2014 in alphabets, printing presses, and typographic systems. Every technology of writing has been a way of hacking language into matter: from clay tablets to lead letters, from code pages to Markdown. Each era brings new formats and new constraints \u2014 and with them, new genres, new rules, new cultural codes. Think of poetry and protocol manuals, fairy tales and README files, the Hacker Bible itself \u2014 all shaped by the tools and conventions that carry them.\n\nSo here\u2019s the question: can we encode not only what we see, but what we mean? Can we capture a poem\u2019s rhythm, a play\u2019s voices, or the alternate endings of a story \u2014 and do it in a way that\u2019s open, remixable, and machine-readable?\n\nTurns out, yes \u2014 and the solution has existed since 1988. It\u2019s called the Text Encoding Initiative (TEI), a long-running open-source standard that lets you describe the structure, semantics, and context of texts using XML. You can think of it as a humanities fork of hypertext \u2014 an extensible markup language for everything from medieval manuscripts to memes.\n\nTEI is more than a format: it\u2019s a collaborative, living standard maintained by an international community of researchers, librarians, and digital humanists. It evolves with the world \u2014 adding elements for new text types (like social media posts) and for changing cultural realities (like non-binary gender markers). It embodies open science principles and keeps publishing in the hands of its creators.\n\nYou don\u2019t need a publisher, a platform, or a big server farm. Just an XML-aware text editor, a few lines of CSS, and maybe a Git repo. From there, you can transform your encoded text into websites, PDFs, e-books \u2014 or share it directly in its raw, readable, hackable form. It\u2019s sustainable, transparent, and low-energy. It even challenges the academic prestige economy by making every individual contribution visible \u2014 from editors to annotators to script writers.\n\nIn this talk, we\u2019ll look at text as code and code as culture, from alphabets to XML, and explore how TEI can be a tool for hacking not machines but meaning itself. We\u2019ll end with a practical example: a TEI-encoded page of the first Hacker Bible \u2014 because our own history also deserves to be archived, shared, and forked.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/8CVJUN/hackerbible-p40_WmYht9p.png",
+  "persons": [
+    {
+      "guid": "c37650f7-c396-552b-83b3-cd16f450c160",
+      "name": "Torsten Roeder",
+      "public_name": "Torsten Roeder",
+      "avatar": "https://cfp.cccv.de/media/avatars/dino_RaA5dRd.png",
+      "biography": "Torsten Roeder works at the University of Wurzburg and is specialized on digital heritage research. His work in digital editing and textual history made him a member of the TEI Technical Council. Recently, he started a Retro Computing Lab at his department which is used for studying the digital culture of the 1980s and 1990s. He also holds a PhD in musicology and plays some guitar, and enjoys gardening. Jack of all trades, master of none.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c37650f7-c396-552b-83b3-cd16f450c160"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/what-you-hack-is-what-you-mean-35-years-of-wiring-sense-into-text",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/8CVJUN/"
+}

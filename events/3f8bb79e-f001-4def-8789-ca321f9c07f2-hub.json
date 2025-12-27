@@ -1,0 +1,30 @@
+{
+  "guid": "3f8bb79e-f001-4def-8789-ca321f9c07f2",
+  "code": null,
+  "id": 387900,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:30",
+  "room": "Kidspace - Basteltische",
+  "slug": "39c3-nerds-spielen-spiele-tag-1",
+  "title": "Nerds spielen Spiele - Tag 1",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Nerds spielen Spiele",
+  "description": "Du hast gerade nichts zu tun, brauchst eine kleine Entspannungszeit oder suchst einfach ein wenig Spa\u00df mit anderen? Spiel doch einfach mit! Jeder ist willkommen! Denn was tun Nerds, wenn sie gerade nichts hacken? Sie spielen Spiele!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3654176b-6de7-4bac-b711-eab2976f092e",
+      "name": "monsterchen",
+      "public_name": "monsterchen",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/monsterchen"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nerds-spielen-spiele-tag-1",
+  "links": []
+}

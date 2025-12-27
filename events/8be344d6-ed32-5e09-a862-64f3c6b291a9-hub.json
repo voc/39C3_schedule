@@ -1,0 +1,32 @@
+{
+  "guid": "8be344d6-ed32-5e09-a862-64f3c6b291a9",
+  "code": "AW9WFN",
+  "id": 110643,
+  "date": "2025-12-30T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-die-sicherheits_lucke-live-vom-39c3-recap",
+  "title": "Die Sicherheits_l\u00fccke live vom 39c3: Recap",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Die **Sicherheits_l\u00fccke** (https://sicherheitsluecke.fm) greift aktuelle Ereignisse und Trends der Cybersecurity auf. Im Podcast werden die Themen - gerne auch mal humoristisch, sarkastisch oder selbstironisch - von Volker Skwarek, Monina Schwarz und Ingo Timm mit Tiefgang aufbereitet.\r\nMit dem Format **live** ist der Podcast auch regelm\u00e4\u00dfig auf Kongressen zu finden und diskutiert interessante Vortr\u00e4ge mit ausgew\u00e4hlten G\u00e4sten.",
+  "description": "Wir, Monina Schwarz und Volker Skwarek, fassen unsere Eindr\u00fccke vom 39c3 zusammen. Gemeinsam sprechen wir \u00fcber zivilgesellschaftliche und technische Trends sowie Hacks und Bedrohungen \u00fcber die wir Neues an den letzten 4 Tagen gelernt haben.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/AW9WFN/HOOU_Cover-Sicherheitsluec_gVi5ZWv.webp",
+  "persons": [
+    {
+      "guid": "11b9887b-9830-51f2-99d5-8531e829c648",
+      "name": "Volker",
+      "public_name": "Volker",
+      "avatar": null,
+      "biography": "Volker Skwarek, Professor f\u00fcr Informatik, \u00fcberzeugter Wissenschaftler und Nerd, was Privacy, Identity und \"low level Cyberangriffe\" angeht. Hat seit 2 Jahren seine Freude am Podcasting und Wissenschaftsjournalismus entdeckt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11b9887b-9830-51f2-99d5-8531e829c648"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/die-sicherheits_lucke-live-vom-39c3-recap",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/AW9WFN/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/AW9WFN/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "a3655a3a-b74e-5714-ad79-77b0c803136b",
+  "code": "CASXCP",
+  "id": 1463,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-openautolab-photographic-film-processing-machine-fully-automatic-and-diy-friendly",
+  "title": "OpenAutoLab: photographic film processing machine. Fully automatic and DIY-friendly.",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "OpenAutoLab, an open source machine, that is capable of processing contemporary color and black-and-white films for analogue photography, is being presented here. It made its first public appearance at 37C3 and was already seen there in action, but had no organized talk or proper presentation. Now it is better documented, waits to be built by more people and to be further developed by the community.\r\nThis talk is about motivation behind developing OpenAutoLab and about the technical decisions made during it. It is argued that any dedicated film photographer is able to get one built.",
+  "description": "The presentation starts with a short overview of analogue photography processes and motivation of some photographers to shoot film instead of using contemporary digital technology.\nIt covers ways to process the film starting from least involved, such as sending to specialized laboratory, and possible motivation to get a processing machine.\nExisting film processors are described with their features and deal-breakers for an end-user in 2025.\nThen the history of developing OpenAutoLab is given, together with important design decisions made during development and why alternative solutions were discarded.\nIn the end the process of building the machine (and sourcing the needed parts) is given with some motivation towards changing it to fit the needs of an individual photographer.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/CASXCP/13597be39db7dbce_FcumBNf_UwZmZz1_zGfGiQA.webp",
+  "persons": [
+    {
+      "guid": "ae507069-f6f4-5a29-80c6-5687bd0ab90a",
+      "name": "Kauz",
+      "public_name": "Kauz",
+      "avatar": null,
+      "biography": "I live in Hamburg and work there as a software developer. It took me long (both in terms of time elapsed and number of hops) to get there (geographically as well as occupationally), so I won't bother you with details. Important is, that during those years, photography oscillated between being part of my job and one of my hobbies, and so did tinkering with microcontrollers and automation.\nThe projects I'm into are often about bringing contemporary hardware and 3d-printed parts to something considered obsolete.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ae507069-f6f4-5a29-80c6-5687bd0ab90a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openautolab-photographic-film-processing-machine-fully-automatic-and-diy-friendly",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/CASXCP/",
+  "do_not_record": true
+}

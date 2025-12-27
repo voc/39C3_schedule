@@ -1,0 +1,32 @@
+{
+  "guid": "7b74138e-db8f-522b-acde-beec4094a977",
+  "code": "KKFMCH",
+  "id": 2483,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-gajek",
+  "title": "Gajek",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Gajek produces and performs electronic music. Since 2014 He released five studio albums on Labels such as STROOM, Infinite Greyscale, Throttle Records and more. Gajek composes music for films and theatre. He has performed at major international venues and festivals such like Berghain, silent green, Printworks London, Traumabar Und Kino, ADE Amsterdam, Melt Festival and many more. Gajek lives and works in Berlin.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/KKFMCH/Gajek-1_uprigh_5QVx0dk.jpg",
+  "persons": [
+    {
+      "guid": "e652be56-54b4-5fd1-9f5a-0b8ad54a2ccd",
+      "name": "Unnamed user",
+      "public_name": "Unnamed user",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e652be56-54b4-5fd1-9f5a-0b8ad54a2ccd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gajek",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/KKFMCH/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/KKFMCH/feedback/"
+}

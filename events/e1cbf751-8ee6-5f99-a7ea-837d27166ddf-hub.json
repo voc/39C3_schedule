@@ -1,0 +1,32 @@
+{
+  "guid": "e1cbf751-8ee6-5f99-a7ea-837d27166ddf",
+  "code": "PS3MBU",
+  "id": 2231,
+  "date": "2025-12-30T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-modular-synthesizer-anfangerworkshop-mit-software",
+  "title": "Modular Synthesizer Anf\u00e4ngerworkshop mit Software",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Music Workshop",
+  "abstract": "Ein Anf\u00e4ngerfreundlicher Modular-Synthesizer Workshop. In der Software VCV-Rack lernen wir die Basics der (modular)-Synthesizer kennen und am Ende des Workshops sind Ausdr\u00fccke wie LFO, CV, Gate, Low-Pass-Filter keine unbekannten meh: die Grundlage f\u00fcr komplexere Patches ist gesetzt. Bitte bringt Kopfh\u00f6rer mit, sowie einen Rechner auf dem VCV-Rack bereits installiert ist. Die Software findet ihr bei vcvrack.com oder gegebenenfalls in eurem Paketmanager.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "71960d0f-99b8-598f-b6a3-9518cbe8b4a3",
+      "name": "wdlbrmft",
+      "public_name": "wdlbrmft",
+      "avatar": "https://cfp.cccv.de/media/avatars/RTPZZC_QpVfmuq.jpg",
+      "biography": "I like to combine technology and music. I dream of cables and raves.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_71960d0f-99b8-598f-b6a3-9518cbe8b4a3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/modular-synthesizer-anfangerworkshop-mit-software",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/PS3MBU/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/PS3MBU/feedback/"
+}

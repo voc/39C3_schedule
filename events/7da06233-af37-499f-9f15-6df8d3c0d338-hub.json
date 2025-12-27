@@ -1,0 +1,30 @@
+{
+  "guid": "7da06233-af37-499f-9f15-6df8d3c0d338",
+  "code": null,
+  "id": 706233,
+  "date": "2025-12-27T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-gewaltfreie-kommunikation",
+  "title": "Gewaltfreie Kommunikation",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In diesem Workshop lernst du die Grundlagen der Gewaltfreien Kommunikation (GFK) nach Marshall Rosenberg kennen. Du erf\u00e4hrst, wie du deine eigenen Bed\u00fcrfnisse klar ausdr\u00fcckst, die Bed\u00fcrfnisse anderer verstehst und Konflikte konstruktiv l\u00f6sen kannst.\n\nMit praxisnahen \u00dcbungen und Werkzeugen trainierst du, empathisch zuzuh\u00f6ren, Missverst\u00e4ndnisse zu vermeiden und Beziehungen \u2013 beruflich wie privat \u2013 nachhaltig zu verbessern.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3f386845-997e-422f-be9a-29e02984ee02",
+      "name": "Johannes_Max",
+      "public_name": "Johannes_Max",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/johannes_max"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gewaltfreie-kommunikation",
+  "links": []
+}

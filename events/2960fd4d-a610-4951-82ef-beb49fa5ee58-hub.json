@@ -1,0 +1,30 @@
+{
+  "guid": "2960fd4d-a610-4951-82ef-beb49fa5ee58",
+  "code": null,
+  "id": 296046,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "somewhere in the house of tea",
+  "slug": "39c3-cozy-crafting-session",
+  "title": "cozy crafting session",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "wir sitzen bei Tee gem\u00fctlich zusammen und quatschen und stricken/h\u00e4keln/sticken ect\r\nein gem\u00fctlicher start in Tag 2",
+  "description": "we sit together with a cup of tea and chat while crafting \na cozy start for day 2\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "064e865a-000b-416e-a5a7-b41f747e104e",
+      "name": "Lorva (keine/no pronouns)",
+      "public_name": "Lorva (keine/no pronouns)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/lorva"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cozy-crafting-session",
+  "links": []
+}

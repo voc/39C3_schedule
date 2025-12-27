@@ -1,0 +1,30 @@
+{
+  "guid": "01fcd8c2-eb77-4167-80f7-d71f09efde38",
+  "code": null,
+  "id": 18277,
+  "date": "2025-12-30T00:00:00+01:00",
+  "start": "00:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-tor-relay-operators-meetup",
+  "title": "Tor Relay Operators Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Official 39C3 Tor Relay Operators Meetup supported by the Tor Project.\n\nAs always, TROMs are open for everyone who is running a relay, wants to run a relay or just thinks about it. \ud83d\ude42\n\nAt this point we don't have a agenda, but everyone is free to bring up questions or topics at the meeting itself.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f53df518-2c8a-4c18-af94-49b7be1eb7ba",
+      "name": "Leibi",
+      "public_name": "Leibi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/leibi"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tor-relay-operators-meetup",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "370782f9-0621-5e49-a49d-11676f50bf92",
+  "code": "AYTEQX",
+  "id": 370782,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "03:00",
+  "room": "SoS",
+  "slug": "39c3-rust-programming-language-an-absolute-beginne_vwxn",
+  "title": "Rust programming language: An absolute beginner workshop with intro presentation [all creatures welcome]",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Rust programming language: An absolute beginner workshop with intro presentation.\r\n\r\nAbsolute beginner means \u201cbeginner in Rust\u201d just as well as \u201cbeginner in programming\u201d. Anyone interested can benefit from the introductory presentation, the exercises and our guidance, regardless of experience.",
+  "description": "**A heartfelt welcome!**\n\nWe will hold a Rust workshop for beginners.\n\nWe will start with an introduction in the form of a lecture of about 45 minutes.\n\nThis will be followed by a period of about 120 minutes (including a break), during which you are going to work through exercises independently and at your own pace.\n\nWe will help with any questions. We \u2014 and you \u2014 will be supported by the automated Rustlings course.\n\nOther experienced Rust developers will be on hand to help all participants directly with questions during the workshop.\n\nDon't hold back: You are very welcome to ask questions during the workshop!\n\n**You will need:**\n\n- A laptop, prepared as described below, so we can get started right away.\n\n**Preparation**\n\n- Follow the instructions at **<https://rustlings.rust-lang.org/>** for the installation of Rust itself, as well as the interactive Rustlings course.\n- Also note the instructions for the editor and terminal. The integration with [**rust-analyzer**](https://rust-analyzer.github.io/) will make your Rust experience much more enjoyable!\n\n**Verify that your setup works ahead of time!**\n\nIf you would like to receive help setting this up or verifying that your setup works well (especially if you use Windows), please come by our friendly Rust assembly or contact me directly.\n\n**Power supply**\n\nThe workshop rooms at the venue are not well prepared for work with many laptops: unfortunately, there will not be any power sockets at the tables!\n\n- Please bring your laptop fully charged.\n- If you can, then bring a long cable and multi-sockets, so you can provide yourself and others with electricity.\n\n**See you at the workshop \u2014 great to have you!**\n\nLeonie ([**@calisti@chaos.social**](https://chaos.social/@calisti))\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1152f2ed-f15f-5dc8-94ad-a6cff4306b28",
+      "name": "calisti",
+      "public_name": "calisti",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/NDQMLH_twh1PaI.png",
+      "biography": "uwu\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1152f2ed-f15f-5dc8-94ad-a6cff4306b28"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/rust-programming-language-an-absolute-beginne_vwxn",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/AYTEQX/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/AYTEQX/feedback/"
+}

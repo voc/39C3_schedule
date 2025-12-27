@@ -1,0 +1,47 @@
+{
+  "guid": "1f43797b-7640-5227-83ac-ef70d51bf848",
+  "code": null,
+  "id": 100438,
+  "date": "2025-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-community-data-centers-a-workshop",
+  "title": "Community data centers - a workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 110 Minutes",
+  "abstract": "What if local communities operated their own data centres? How might that look and function? To what extent would it be democratic and sustainable? Who would (not) benefit from it?\r\n\r\nIn this workshop, we would like to think through, examine and discuss alternative models for the ownership and management of collective data centres. We will take a structured look at fundamental concepts, governance issues and implications, as well as discuss parallel ideas in other areas (cooperative banks or housing, community-supported agriculture) in the hope of initiating a broad discussion about alternatives to the profit and exploitation logic of the current data centre industry. Similar approaches to data centers that already exist include Nubo (Belgium), Espora (Mexico) and Wobcom (Germany).",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e07de72b-efac-5b65-a43c-f2941ca8d703",
+      "name": "Rainer Rehak",
+      "public_name": "Rainer Rehak",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/WI_Dach_Rehak_only_HKfxX4W.jpg",
+      "biography": "Rainer Rehak is part of the research group \u201cDigitalization, Sustainability, and Participation\u201d at the Weizenbaum Institute for the Networked Society, he is an associated researcher at the Berlin Social Science Center (WZB) and is currently doing his PhD on systemic IT security and societal data protection at the TU Berlin.\n\nHe studied computer science and philosophy in Berlin and Hong Kong and has been working on the implications of the computerization of society for over 15 years. His research fields include technology impact assessment, collective data protection, systemic IT security, state hacking, computer science and ethics, fictions of technology, digitization and sustainability, convivial and democratic digital technology, epistemics of automation, digital (de-)colonialism, and the implications and limits of AI systems.\n\nHe also publishes regularly in non-scientific outlets and is an expert witness for parliaments (e.g., the German Bundestag) and courts (e.g., the German Constitutional Court). Together with other digital policy and environmental organizations, he initiated the \u201cBits & B\u00e4ume\u201d conference series for digitalisation and sustainability. Rainer Rehak is co-chair of the Forum Computer professionals for peace and societal responsibility (FIfF).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e07de72b-efac-5b65-a43c-f2941ca8d703"
+    },
+    {
+      "guid": "4d706abd-076a-5248-8134-3ba61f18ecc9",
+      "name": "Nicolas",
+      "public_name": "Nicolas",
+      "avatar": null,
+      "biography": "Dr Nicolas Zehner is a postdoctoral researcher at the Collaborative Research Center 1265 \u201cRe-Figuration of Spaces\u201d at Technical University Berlin, as well as associated researcher at Weizenbaum Institute and HafenCity University. Nicolas holds a PhD in Sociology from the University of Edinburgh. His research investigates the co-constitutive relationship between scientific knowledge production and urban development with a particular focus on higher education institutions.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_4d706abd-076a-5248-8134-3ba61f18ecc9"
+    },
+    {
+      "guid": "7fc20554-c85e-59e5-9613-d450c8a2ab14",
+      "name": "Tara Merk",
+      "public_name": "Tara Merk",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7fc20554-c85e-59e5-9613-d450c8a2ab14"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/community-data-centers-a-workshop",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/HB9EBD/"
+}

@@ -1,0 +1,38 @@
+{
+  "guid": "b8a42a3e-ecbc-4f37-bf79-940cdfdb4fca",
+  "code": null,
+  "id": 842343,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear",
+  "slug": "39c3-meshcore-meshtastic-for-hackers-set-up-config_hq6s",
+  "title": "Meshcore & Meshtastic for Hackers: Set up, Configure, & Deploy Nodes for Advanced Use (Day 3)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Meshcore & Meshtastic for Hackers: Set up, Configure, & Deploy Nodes for Advanced Use",
+  "description": "**Meshcore & Meshtastic for Hackers: Set up, Configure, & Deploy Nodes for Advanced Use**\n\n**Materials costs**:  \n\u20ac140\n\n**Taught by** Retia / Kody.\n\n**Workshop Itinerary**:  Meshcore is the future! Worldwide, Meshcore is overtaking Meshtastic as the regional LoRa mesh net of choice. Unlike Meshtastic, Meshcore scales well and supports reliable direct messaging. Meshcore is optimized for hackers, developers, or beginners who want deeper control. We will dive into Meshcore differences, setup and customization, and how to utilize the Nibble\u2019s Flipper-Zero compatible expansion ports for sensors and peripherals.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**: [Reserve Your Seat](https://retia.io/products/39c3-workshop-meshtastic-meshcore-for-hackers-29-dec-12-00-14-00)\n\n**Workshop Includes**: New Nibble Zero\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8e9fde75-8969-4fbd-ab16-5bd330b8addb",
+      "name": "skickar",
+      "public_name": "skickar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skickar"
+    },
+    {
+      "guid": "c7f4ebde-368e-4be4-9ace-8feeab38f30b",
+      "name": "koufax",
+      "public_name": "koufax",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/koufax"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/meshcore-meshtastic-for-hackers-set-up-config_hq6s",
+  "links": []
+}

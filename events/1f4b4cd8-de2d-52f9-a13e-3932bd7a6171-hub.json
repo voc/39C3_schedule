@@ -1,0 +1,31 @@
+{
+  "guid": "1f4b4cd8-de2d-52f9-a13e-3932bd7a6171",
+  "code": null,
+  "id": 100429,
+  "date": "2025-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-openstreetmap-software-development-ask-us-anything",
+  "title": "OpenStreetMap Software Development \u2013 Ask us anything!",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "OpenStreetMap is not a project but rather a movement with small core and many different applications and libraries to us the data. In this Ask Us Anything session, you can ask all the questions about OpenStreetMap data usage as a software developer.",
+  "description": "OpenStreetMap is not a project but rather a movement with small core and many different applications and libraries to us the data. However, there is no central documentation and finding the right tool for your job is challenging. The first search result might work. Will it point to the right tool on long term? Will you run into performance issues or can it handle the complete dataset? How much memory can do you need for X?\n\nIn this Ask Us Anything session, you can ask all the questions about OpenStreetMap data usage as a software developer. As experienced developers for OpenStreetMap based services (and mappers), we have used lots of different libraries and tools to access and modify the data, to calculate routes or render maps.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c765c9b7-5796-5a74-b77c-2ee51c7ce423",
+      "name": "Nakaner",
+      "public_name": "Nakaner",
+      "avatar": null,
+      "biography": "OpenStreetMap contributor and software developer since 2011\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c765c9b7-5796-5a74-b77c-2ee51c7ce423"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openstreetmap-software-development-ask-us-anything",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/87XQBL/"
+}

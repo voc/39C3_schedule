@@ -1,0 +1,38 @@
+{
+  "guid": "d81cfbe8-6281-41ba-908f-9fe1763f3750",
+  "code": null,
+  "id": 818628,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "c4E-Roundtable",
+  "slug": "39c3-edu-meet-up-du-machst-was-im-bildungsbereich-komm-",
+  "title": "EDU-Meet-Up: Du machst was im Bildungsbereich? Komm dazu! (#cyberLZ)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Dieses Meet-Up ist f\u00fcr alle gedacht, die was im Bildungsbereich machen. Lehrer*\\innen, Schulleitungen, P\u00e4dagogische Fachkr\u00e4fte, Sozialarbeiter*\\innen, Inklusionsbeauftragte, Personen in der Lehrer*\\innen(aus)bildung, Fortbildner*\\innen, ...\r\nDieses Treffen soll zur Vernetzung dienen. ggf. auch um gemeinsam im Programm zu schauen, was es Spannendes zum Thema Bildung beim 39C3 gibt oder auch einfach, um sich dar\u00fcber auszutauschen, wo im (Hoch)Schul-Alltag der Schuh dr\u00fcckt.\r\n\r\nDie letzten Jahre lief das Treffen mal unter #Leherzimmer, #Twitterlehrerzimmer, #cyberLZ, ...",
+  "description": "",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/fd894d6668e1/cyber4EDU_Logo_2048.png",
+  "persons": [
+    {
+      "guid": "a5f5fb69-71d8-409a-ab5b-791293e3d02c",
+      "name": "MoniKa (c4E) (she/her)",
+      "public_name": "MoniKa (c4E) (she/her)",
+      "avatar": null,
+      "biography": "cyber4EDU-Assembly\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/monika_c4e"
+    },
+    {
+      "guid": "fe5f4574-7a00-49f4-9e71-0e09bd01d298",
+      "name": "pnrd",
+      "public_name": "pnrd",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/pnrd"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/edu-meet-up-du-machst-was-im-bildungsbereich-komm-",
+  "links": []
+}

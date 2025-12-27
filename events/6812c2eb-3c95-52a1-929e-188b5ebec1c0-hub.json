@@ -1,0 +1,48 @@
+{
+  "guid": "6812c2eb-3c95-52a1-929e-188b5ebec1c0",
+  "code": "MAUE9B",
+  "id": 681223,
+  "date": "2025-12-29T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "01:30",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-riot-pub-quiz",
+  "title": "Riot Pub Quiz [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Evening Event (open end)",
+  "abstract": "60-120 min 20 Fragen und Teams von 2-6 Personen. \r\nDas Typische Pub Quiz eben. Wir stellen Fragen und ihr Schreibt die Antworten auf einen Zettel.\r\nDas Team mit den meisten richtigen Antworten gewinnt einen kleinen Preis.\r\n\r\nThemengebiete alles Rund um Demos, Riots und Linke Kultur.",
+  "description": "Bei einem Pub Quiz bildet man ein kleines Team mit einem lustigen Namen. Dann gibt es hintereinander Fragen. Mal sind es Sch\u00e4tzfragen, mal der Name einer Gruppe, der Name eines Liedes oder eine kleine Anekdote zu einem kurzen Videoausschnitt oder Bild. F\u00fcr die Beantwortung jeder Frage gibt es dann etwa eine Minute Zeit und am Ende muss der Zettel mit den L\u00f6sungen abgegeben werden. Diesen kontrollieren wir dann und K\u00fcren dann das Team mit dem meisten Riot Wissen.\n\nEin Spa\u00df f\u00fcr die ganze Bezugsgruppe.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f9b40a16-0d3d-51f2-8cb6-a0e6fdf2a2bf",
+      "name": "Lethe",
+      "public_name": "Lethe",
+      "avatar": null,
+      "biography": "Haeckse doing Haecksen stuff.\n\nDECT 9798 @ 39C3\n\nFor questions regarding the Haecksen Workshops, contact the callgroup at 4997 (HXWS).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f9b40a16-0d3d-51f2-8cb6-a0e6fdf2a2bf"
+    },
+    {
+      "guid": "11825085-f5d1-554c-89e5-65023ae48fbe",
+      "name": "captain-maramo",
+      "public_name": "captain-maramo",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/avatar_4xzkG1Y.png",
+      "biography": "Haeckse\nTrans\nirgendwas mit DevSecOps und Platform Engineering\nCybernanny\n@captain_maramo@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11825085-f5d1-554c-89e5-65023ae48fbe"
+    },
+    {
+      "guid": "f044dcdb-009b-5654-9851-dd5defe55b4a",
+      "name": "-",
+      "public_name": "-",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f044dcdb-009b-5654-9851-dd5defe55b4a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/riot-pub-quiz",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/MAUE9B/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/MAUE9B/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "36cae562-f715-5b7a-9999-e92c183537bd",
+  "code": "77F8FV",
+  "id": 2491,
+  "date": "2025-12-30T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "02:00",
+  "room": "Chill Floor",
+  "slug": "39c3-nixe",
+  "title": "Nixe",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Dj Set",
+  "description": "N\u0268xe moves quietly beneath the surface of the German underground. She has been part of Berlin\u2019s slow sound since its early waves, shaping downtempo spaces with a calm and steady presence. Her sets drift between pulse and atmosphere, guided by a deep intuition for timing and tone. To hear N\u0268xe play is to follow a subtle current. She doesn\u2019t push or perform. She invites, leads, and lets the music do the rest. Her sound has travelled across continents, yet always returns to something essential: classy grooves that breathe, rhythms that open space, and a gentle pull toward introspection. It\u2019s all held together by a distinct sensitivity to mood and movement \u2014 one that doesn\u2019t ask for attention, but quietly earns it. Beneath it all, there\u2019s a soft devotion to acid lines and psychedelic textures. Subtle. Never loud. Always felt.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/77F8FV/Artist_Pic_Nix_Xq2vNRN.JPG",
+  "persons": [
+    {
+      "guid": "22939e9e-2533-5c2e-95c1-fb2ebf00cbd8",
+      "name": "Nixe",
+      "public_name": "Nixe",
+      "avatar": null,
+      "biography": "N\u0268xe moves quietly beneath the surface of the German underground. She has been part of Berlin\u2019s slow sound since its early waves, shaping downtempo spaces with a calm and steady presence. Her sets drift between pulse and atmosphere, guided by a deep intuition for timing and tone. To hear N\u0268xe play is to follow a subtle current. She doesn\u2019t push or perform. She invites, leads, and lets the music do the rest. Her sound has travelled across continents, yet always returns to something essential: classy grooves that breathe, rhythms that open space, and a gentle pull toward introspection. It\u2019s all held together by a distinct sensitivity to mood and movement \u2014 one that doesn\u2019t ask for attention, but quietly earns it. Beneath it all, there\u2019s a soft devotion to acid lines and psychedelic textures. Subtle. Never loud. Always felt.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_22939e9e-2533-5c2e-95c1-fb2ebf00cbd8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nixe",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/77F8FV/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/77F8FV/feedback/"
+}

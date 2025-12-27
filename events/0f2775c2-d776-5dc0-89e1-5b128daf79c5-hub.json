@@ -1,0 +1,31 @@
+{
+  "guid": "0f2775c2-d776-5dc0-89e1-5b128daf79c5",
+  "code": null,
+  "id": 300062,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-leveraging-llms-for-preventing-de-anonymization-oc",
+  "title": "Leveraging LLMs for Preventing De-anonymization: Occlumask",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Personal data leaks can happen to the best of us. A unique development in machine learning gives us the opportunity to catch lapses before they're passed on for the world to see. This talk covers how Occlumask works and its developments so far.",
+  "description": "Have you ever mentioned the weather? Maybe offhandedly complained about mosquitoes? Then you may have inadvertently given away crucial bits of who you are and where you are.\nOcclumask is a new tool for detecting content-based anonymity leaks like this, utilizing the capabilities of large language models to provide more accurate 'coverage'. Come and learn about the reasoning behind Occlumask's development, and the various considerations that had to be made during its development.\n\nTopics covered in this talk:\n\n* How does this work fill a gap in the broader anonymity tool context of Tor, stylometry, etc?\n* Background of content-based data-leak prevention tools.\n* What is Occlumask and how does it work?\n* Why use an LLM for this?\n* Unique challenges faced by using an LLM.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/UWJ8XB/namecoin-coin_YUI8Kw0.svg",
+  "persons": [
+    {
+      "guid": "3f137516-11ff-5f5e-98c7-974636e98d3d",
+      "name": "Alice Margatroid",
+      "public_name": "Alice Margatroid",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f137516-11ff-5f5e-98c7-974636e98d3d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/leveraging-llms-for-preventing-de-anonymization-oc",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/UWJ8XB/"
+}

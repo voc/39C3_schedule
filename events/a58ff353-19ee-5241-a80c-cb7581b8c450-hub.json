@@ -1,0 +1,32 @@
+{
+  "guid": "a58ff353-19ee-5241-a80c-cb7581b8c450",
+  "code": "QV3MVU",
+  "id": 500084,
+  "date": "2025-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "01:00",
+  "room": "Wohnzimmerb\u00fchne",
+  "slug": "39c3-openstreetmap",
+  "title": "OpenStreetMap",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Im Workshop lernt ihr gemeinsam mit anderen Jugendlichen, aktiv zur OpenStreetMap beizutragen. Der Fokus liegt auf der Vermittlung von digitalen Kompetenzen, der Bedeutung freier Daten und der F\u00f6rderung von Zusammenarbeit\r\n\r\nF\u00fcr Jugendliche zwischen 12 und 18 Jahren",
+  "description": "Entdecke die Welt von OpenStreetMap und werde ein Teil der OpenData-Bewegung! \ud83d\uddfa\ufe0f\n\nEgal, ob du schon mal von OpenStreetMap geh\u00f6rt hast oder nicht, in unserem Workshop lernst du, wie du selbst aktiv an einer der gr\u00f6\u00dften freien Kartenprojekte der Welt mitwirken kannst. Hier erf\u00e4hrst du, warum OpenData so wichtig ist und wie jede:r Einzelne dazu beitragen kann, die Daten f\u00fcr alle Menschen besser zu machen.\n\nIm Gegensatz zu den Karten gro\u00dfer Firmen wie Google Maps ist OpenStreetMap von der Community f\u00fcr die Community. Das bedeutet, dass jede:r Daten hinzuf\u00fcgen oder korrigieren kann. Und das Beste daran? Es macht riesigen Spa\u00df, dabei mitzumachen! \ud83d\ude03\n\nAlso komm vorbei und lass uns gemeinsam die Welt ein St\u00fcckchen besser kartieren! \ud83c\udf0d\n",
+  "logo": "https://pretalx.chaos.jetzt/media/jugend/submissions/QV3MVU/lab-fuerstenberg-2020-openstreetmap_1nA_nSoKZj6.png",
+  "persons": [
+    {
+      "guid": "3c99d053-d7cf-57e2-9c11-244372e4f1c4",
+      "name": "Gerd Kant",
+      "public_name": "Gerd Kant",
+      "avatar": null,
+      "biography": "Softwareentwickler mit Leidenschaft f\u00fcr Netzpolitik, Informationsfreiheit und Jugendarbeit. Als Lab Lead im Jugend hackt Lab Schwerin und Vorstandsmitglied des Hacklabors engagiere ich mich f\u00fcr Open Source, Open Data, Jugendbildung sowie die Vermittlung von Medienkompetenz und lebe dabei die Werte der Hacker*innenethik sowie Diversit\u00e4t, Offenheit, Teilhabe und kreative Zusammenarbeit. Es ist mir wichtig, Menschen einen Zugang zu dieser spannenden Welt zu erm\u00f6glichen, die ihn sonst vielleicht nicht h\u00e4tten.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3c99d053-d7cf-57e2-9c11-244372e4f1c4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openstreetmap",
+  "links": [],
+  "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/QV3MVU/",
+  "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/QV3MVU/feedback/"
+}

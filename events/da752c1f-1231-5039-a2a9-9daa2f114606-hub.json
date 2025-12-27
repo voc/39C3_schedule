@@ -1,0 +1,39 @@
+{
+  "guid": "da752c1f-1231-5039-a2a9-9daa2f114606",
+  "code": "L7BUAN",
+  "id": 2361,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai",
+  "title": "51 Ways to Spell the Image Giraffe: The Hidden Politics of Token Languages in Generative AI",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "Generative AI models don't operate on human languages \u2013 they speak in **tokens**. Tokens are computational fragments that deconstruct language into subword units, stored in large dictionaries. These tokens encode not only language but also political ideologies, corporate interests, and cultural biases even before model training begins. Social media handles like *realdonaldtrump*, brand names like *louisvuitton*, or even *!!!!!!!!!!!!!!!!* exist as single tokens, while other words remain fragmented. Through various artistic and adversarial experiments, we demonstrate that tokenization is a political act that determines what can be represented and how images become computable through language.",
+  "description": "Tokens are the fragments of words that generative models use to process language, the step that breaks text into subword units before any neural networks are involved. There are 51 ways to combine tokens to spell the word giraffe using existing vocabulary: from a single token **giraffe** to splits using multiple tokens like *gi|ra|ffe*, *gira|f|fe*, or even *g|i|r|af|fe*.\n\nIn one experiment, we hijacked the prompting process and fed token combinations directly to text-to-image models. With variations like *g|iraffe* or *gir|affe* still generating recognizable results, our experiments show that the beginning and end of tokens hold particular semantic weight in forming giraffe-like images. This reveals that certain images cannot be generated through prompting alone, as the tokenization process sanitizes most combinations, suggesting that English, or any human language, is merely a subset of token languages.\n\nThe talk features experiments using genetic algorithms to reverse-engineer prompts from images, respelling words in token language to change their generative outcomes, and critically examining token dictionaries to investigate edge cases where the vocabulary breaks down entirely, producing somewhat *speculative languages* that include strange words formed at the edge of chaos where English meets token (non-)sense.\n\nThese experiments show that even before generation occurs, token dictionaries already encode a stochastic worldview, shaped by the statistical frequencies of their training data \u2013 dominated by popular culture, brands, platform-speak, and *non-words*. Tokenization is, therefore, a political act: it defines what can be represented and how the world becomes computationally representable. We will look at specific tokens and ask: Which models use which vocabularies? What *non-word* tokens are shared among models? And how do language models make sense of a world using a language we do not understand?\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/L7BUAN/photo_2025-12-11_17.12.19_3heeRc5_OONFq_HxQxqDJ.webp",
+  "persons": [
+    {
+      "guid": "43656c5e-8178-5f5e-aaee-39ec192cac02",
+      "name": "Ting-Chun Liu",
+      "public_name": "Ting-Chun Liu",
+      "avatar": "https://cfp.cccv.de/media/avatars/FDYRKA_bOBRTwD.webp",
+      "biography": "Ting-Chun Liu (Taipei, Taiwan) is an artist whose practice and research operate at the intersections of critical artificial intelligence, audiovisual media, and network practice. Through dissecting technological systems with feedback-driven interventions, he examines how perception, aesthetics, and power dynamics propagate through computational processes. He studied at the Academy of Media Arts Cologne, and currently works as an artistic associate and lecturer at the Bauhaus University Weimar.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_43656c5e-8178-5f5e-aaee-39ec192cac02"
+    },
+    {
+      "guid": "3554043e-7bd7-502c-8144-e6e9bcd2c7c7",
+      "name": "Leon-Etienne K\u00fchr",
+      "public_name": "Leon-Etienne K\u00fchr",
+      "avatar": "https://cfp.cccv.de/media/avatars/photo_2024-10-27_00-03-33_nBMazKU.jpg",
+      "biography": "Leon-Etienne K\u00fchr works as a computer scientist and media artist with methods of information visualization, data science, and artificial intelligence. In his practice, he investigates the mechanisms of AI-driven automation and the phenomena of the increasingly intertwined relationship between the world and its digital representation in generative AI. He is a research assistant and co-director of the AI Lab at the Offenbach University of Art and Design and previously studied media arts at the KHM Cologne and media informatics at the Bauhaus University Weimar.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3554043e-7bd7-502c-8144-e6e9bcd2c7c7"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/L7BUAN/"
+}

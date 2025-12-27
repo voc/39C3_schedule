@@ -1,0 +1,39 @@
+{
+  "guid": "b3c4051a-5490-501c-a591-26afd8f64169",
+  "code": null,
+  "id": 200487,
+  "date": "2025-12-28T17:15:00+01:00",
+  "start": "17:15",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-bingo_0xgq",
+  "title": "Bingo",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Spiele unser j\u00e4hrliches Bingo mit uns!\r\n------\r\nPlay our annual bingo with us!",
+  "description": "Komm vorbei und spiele das allseits bekannte und beliebte Bingo mit uns.\n-------\nCome by and play the annual bingo at the Free Knowledge Habitat with us.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3e5d7ff5-1ba6-5528-9432-47307af98ed6",
+      "name": "Merle",
+      "public_name": "Merle",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3e5d7ff5-1ba6-5528-9432-47307af98ed6"
+    },
+    {
+      "guid": "7a5e9944-6378-5cc2-befa-67e087f8da11",
+      "name": "Kara",
+      "public_name": "Kara",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7a5e9944-6378-5cc2-befa-67e087f8da11"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bingo_0xgq",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/BKHNTR/"
+}

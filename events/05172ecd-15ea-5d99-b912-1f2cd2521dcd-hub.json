@@ -1,0 +1,32 @@
+{
+  "guid": "05172ecd-15ea-5d99-b912-1f2cd2521dcd",
+  "code": "DW8DSV",
+  "id": 400024,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Saal 5",
+  "slug": "39c3-the-digital-identity-event-horizon",
+  "title": "The Digital Identity Event Horizon",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Despite years of information security innovation, user safety continues to decay and digital systems remain vulnerable. The reason: most attacks exploit a flawed first principle of digital identity, built on entrenched assumptions about presentation, authentication, enforcement, and trust. As societies digitize and digital identity becomes the endpoint for all contact between citizens, institutions, and infrastructure, this collective failure to imagine new designs will shatter how we cultivate social trust. How else can this state of affairs, where no single attribute of a person can escape the reach of bad actors, be brought to an end?\r\n\r\nDrawing on unprecedented access to individuals across the digital identity landscape and organisations developing the next wave of identity solutions, The Digital Identity Event Horizon presents New Design Congress' analysis of the core emerging socio-technical threats inherent in all digital identity systems, and lays the case for why proposed solutions will not address these threats without radical rethinking.",
+  "description": "What happens when threat modelling becomes reality? This is the story of a research team caught in the mask-off moment for digital identity, documenting the technology's inherent dangers at the exact moment its weaponised design revealed itself.\n\nOver four years, New Design Congress conducted eight case studies across implementations ranging from national biometric schemes to Web3 zero-knowledge proofs. More than 45 participants, including law enforcement officers, military personnel, information security researchers, CEOs, and activists, spoke candidly about digital identity's failure modes. The resulting 600+ citations documented a fundamental problem: the Cartesian vulnerability. \"I authenticate, therefore I am\" - when proving identity becomes inseparable from possessing identity, social-engineering attacks become inevitable. When identity infrastructure becomes a single point of failure, it tears at the fabric of society itself.\n\nSince 2021, New Design Congress has applied adversarial security research methodology to the question of flawed digital identity: its definitions, implementations, and implications. From FaceID to BankID, from Facebook to the fediverse, from Worldcoin to the world's passports, this is an exhaustive study of the opportunities and risks that emerge from how we represent entities in the information age. At the centre is a core hypothesis: today's digital identities are inherently vulnerable to attack, and this leads to brittle digital societies.\n\nThis talk presents the threats and findings for the first time. It is for anyone who still believes today's technologies can safely represent humans. The report it is based on, The Digital Identity Event Horizon, is a landmark adversarial study that names the concrete harms of digital identity directly, establishes a working definition, introduces a threat modeling framework for evaluating any scheme, and presents ten key findings and fourteen recommendations, with many immediately  implementable across policy, design, and governance.\n\nThe report will be soft-launched at https://newdesigncongress.org/en/report/2026/the-digital-identity-event-horizon.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ef0fcb8c-1910-5022-9fb1-76d88a4461db",
+      "name": "Cade Diehm",
+      "public_name": "Cade Diehm",
+      "avatar": "https://pretalx.riat.at/media/avatars/cade-diehm-b_w_hu10645561143209146470_PkCaRZW.png",
+      "biography": "Cade is the Head of Research at the World Ethical Data Foundation, and founder of New Design Congress and Para-Real Limited, an R&D research lab.\n\nWith a multi-disciplinary background in information security, interface politics and digital anthropology, Cade and his team study technology's macro-influence on subcultures, economic livelihoods, identity, conflict and ecological relationships. As New Design Congress' founder, Cade leads an ambitious research programme that anticipates how digital dependence creates brittle societies by accelerating risks across economics, infrastructure, identity, and ecology.\n\nPrior to founding New Design Congress, Cade was a security researcher at Tactical Tech, a Berlin-based NGO focused on digital rights. He contributed to Signal\u2019s initial launch in the early 2010s, and headed a design-led security practice at SpiderOak, a pioneering zero-knowledge cloud storage company. Cade\u2019s work has informed a wide range of projects and organisations, from the European Parliament and the Pontifical Academy of Sciences, to PEN America and VRChat. He serves on the executive board of the Australian and New Zealand Society for Ecological Economics and the observer board of the Digital Credentials for Europe (DC4EU), a European Union Digital Europe Programme pilot. From 1999 to 2006, Cade represented Australia in international disability swimming, and holds Australian and world records.\n\nCade resides in Berlin with his partner and two Shiba Inus, Ripley and Kodak.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ef0fcb8c-1910-5022-9fb1-76d88a4461db"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-digital-identity-event-horizon",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/DW8DSV/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/DW8DSV/feedback/"
+}

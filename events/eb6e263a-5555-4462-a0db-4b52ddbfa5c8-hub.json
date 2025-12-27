@@ -1,0 +1,30 @@
+{
+  "guid": "eb6e263a-5555-4462-a0db-4b52ddbfa5c8",
+  "code": null,
+  "id": 626355,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Chaoswellen Assembly",
+  "slug": "39c3-funksender-finden-mit-gehackten-funkgeraten",
+  "title": "Funksender finden mit gehackten Funkger\u00e4ten",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Amateurfunkpeilen mit g\u00fcnstigen Funkger\u00e4ten und OpenSource-Firmware und das Projekt draussenfuchs.de im \u00dcberblick.",
+  "description": "This talk will be in German.\n\nAmateur radio direction finding with inexpensive radios and open-source firmware, and an overview of the draussenfuchs.de project.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "db7de33d-b829-4f37-b4c7-c6ae7906d12a",
+      "name": "DK4HAA",
+      "public_name": "DK4HAA",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dk4haa"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/funksender-finden-mit-gehackten-funkgeraten",
+  "links": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "0de1bea3-ff4d-4e1b-b562-5066049c54a5",
+  "code": null,
+  "id": 13441,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:50",
+  "room": "SoS Stage H",
+  "slug": "39c3-der-embedded-migrationspfad-purpose-ai-proofing-di",
+  "title": "Safety First, Innovation Last? \u00dcberleben als Embedded-Entickler",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Zielgruppe:\nEmbedded Entwickler, Architekten, System-Ingenieure, die sich fragen: \"Bringt meine Arbeit der Welt noch etwas, und habe ich morgen noch einen Job?\" Besonders f\u00fcr High-End-Entwickler aus Legacy-Branchen (Automotive, Industrie, Luftfahrt).\n\nFormat:\nOpen-Space & Reverse Mentoring Diskussion (45 Minuten): Ein Austausch in zwei Teilen.\n\nDie Gro\u00dfe These:\nDein gut bezahlter Legacy-Job ist ein Goldener K\u00e4fig, dessen Opportunit\u00e4tskosten exponentiell steigen. C-Legacy und veraltete Prozesse machen uns zu Low-Hanging-Fruit f\u00fcr die n\u00e4chste Generation von Code-Copilots und AI-Automatisierung. Wir m\u00fcssen uns neu positionieren und unsere Skills \"AI-Proofen\".\n\nDer Austausch:\nDies ist ein Networking-Event f\u00fcr den Ausbruch. Wir suchen den direkten Austausch mit Leuten, die die Migration bereits erfolgreich geschafft haben (z. B. von Automotive zu MedTech, Startups, oder Open Source). Wir diskutieren: Welchen Purpose hat unser Wissen in nachhaltigeren Branchen? Welche Skills (abseits von C95) sind jetzt gefragt?\n\nCall to Action:\nKomm, teile deinen Schmerz und triff diejenigen, die ihren Karriere-Reset-Knopf schon gedr\u00fcckt haben.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "569e1027-5f36-4c3d-a599-dce470d298fa",
+      "name": "kurisu",
+      "public_name": "kurisu",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kurisu"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/der-embedded-migrationspfad-purpose-ai-proofing-di",
+  "links": []
+}

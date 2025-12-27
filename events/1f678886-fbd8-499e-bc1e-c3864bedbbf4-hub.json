@@ -1,0 +1,38 @@
+{
+  "guid": "1f678886-fbd8-499e-bc1e-c3864bedbbf4",
+  "code": null,
+  "id": 167888,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-power-play-cycles",
+  "title": "Power Play Cycles: Rewriting the Rules of Economic Simulation",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "What happens when players rewrite the rules of economic simulation games instead of obeying them? By hacking classics like Hammurabi, Oregon Trail, and Lemonade Stand, this talk explores how code, ideology, and play form power cycles\u2014and how breaking them turns market logic into creative resistance.\n\nhands-on session afterwards (from 6pm):\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/power-play-cycles-hands-on\n\n\u2013\n\nEconomic power hides in rules. Early home-computer \u201cmarket simulators\u201d such as Hammurabi, Oregon Trail, and Lemonade Stand encoded entire ideologies of productivity, scarcity, and profit into a few dozen lines of BASIC. They taught us how to play the economy \u2014 literally.\n\nBut what happens when players stop following those rules and begin to rewrite them? This talk explores the power cycles inside these classic games: loops of control between player, program, and system. By modifying code, exploiting glitches, and bending rule sets, we can expose how computational models reproduce economic dogmas\u2014and how small hacks can turn libertarian fantasies into playful counter-economies.\n\nThrough live demonstrations and short historical dives, we\u2019ll trace how the simple act of \u201ccheating\u201d becomes a tool of critique. Each intervention reveals a new feedback loop between code and ideology: where every CPU cycle becomes a site of political power.\n\nCan a hacked simulation still be fun? Can rewriting a game\u2019s rules help us imagine different systems of value and exchange? Between nostalgia, code archaeology, and playful subversion, this session invites you to rethink what\u2014and who\u2014games simulate when we let the power cycle run differently.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "442e729a-3e3e-4e8d-aa65-35bb96a79a80",
+      "name": "doczx",
+      "public_name": "doczx",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/doczx"
+    },
+    {
+      "guid": "c45a4f94-1f5f-4b88-bf4c-11056bdaa672",
+      "name": "Mikroprofessor",
+      "public_name": "Mikroprofessor",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/mikroprofessor"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/power-play-cycles",
+  "links": []
+}

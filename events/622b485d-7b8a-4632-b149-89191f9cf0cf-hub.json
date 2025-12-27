@@ -1,0 +1,30 @@
+{
+  "guid": "622b485d-7b8a-4632-b149-89191f9cf0cf",
+  "code": null,
+  "id": 622485,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-wie-eine-gruppe-nerds-einen-wald-rettete-und-_bgci",
+  "title": "Wie eine Gruppe Nerds einen Wald rettete und nur um Haaresbreite vier Wochen Gef\u00e4ngnis entkam",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Klimagerechtigkeitsaktivismus: ein Blick hinter die Kulissen.\n\nIn Augsburg und Ravensburg gibt es seit 2019 Nerdgruppen, die nicht nur starke Meinungen zu Programmiersprachendesign haben :-), sondern auch mit zivilem Ungehorsam versuchen, einen Beitrag f\u00fcr Klimagerechtigkeit zu leisten. Im Laufe der Zeit haben wir verschiedene Techniken erlernt und weiterentwickelt, die gr\u00f6\u00dftenteils auf beliebige andere St\u00e4dte \u00fcbertragbar sind.\n\nAktivismus wirkt leider meist verz\u00f6gert, indirekt oder schwer quantifizierbar. In dieser Session m\u00f6chten wir einen ganz bestimmtes Projekt vorstellen, bei dem sich ausnahmsweise der Erfolg doch unmittelbar und direkt eingestellt hat:\n\nDer erfolgreichen Rettung des rodungsbedrohten Forst Kasten bei M\u00fcnchen.\n\nIn Zeiten des Rechtsrucks freut sich vielleicht die eine oder andere Person hier \u00fcber etwas Positives :-)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a986b9de-e627-4450-953a-aa4efe3160e3",
+      "name": "IngoBlechschmidt",
+      "public_name": "IngoBlechschmidt",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ingoblechschmidt"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wie-eine-gruppe-nerds-einen-wald-rettete-und-_bgci",
+  "links": []
+}

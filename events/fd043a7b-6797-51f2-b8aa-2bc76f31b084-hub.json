@@ -1,0 +1,32 @@
+{
+  "guid": "fd043a7b-6797-51f2-b8aa-2bc76f31b084",
+  "code": "SPTH7V",
+  "id": 400016,
+  "date": "2025-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "FNF Assembly",
+  "slug": "39c3-fighting-the-eu-surveillance-law-apocalypse-contin",
+  "title": "Fighting the EU Surveillance Law Apocalypse Continued",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Open discussion round after the previous Talk in Hall Fuse\r\nhttps://fahrplan.events.ccc.de/congress/2025/fahrplan/event/the-last-of-us-fighting-the-eu-surveillance-law-apocalypse",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "dc5eeab0-8aed-5f6b-af58-6526414c6b55",
+      "name": "Chlo\u00e9 Berth\u00e9l\u00e9my",
+      "public_name": "Chlo\u00e9 Berth\u00e9l\u00e9my",
+      "avatar": "https://cfp.cccv.de/media/avatars/DMF9KE_q3VczFD.jpg",
+      "biography": "Chlo\u00e9 Berth\u00e9l\u00e9my works as a Senior Policy Advisor at European Digital Rights (EDRi), the biggest network of non-governmental organisations in Europe that defend and promote human rights in the digital age. She works specifically on law enforcement, state surveillance and migration issues at European Union level.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_dc5eeab0-8aed-5f6b-af58-6526414c6b55"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fighting-the-eu-surveillance-law-apocalypse-contin",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/SPTH7V/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/SPTH7V/feedback/"
+}

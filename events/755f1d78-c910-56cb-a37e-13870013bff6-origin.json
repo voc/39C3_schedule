@@ -1,0 +1,36 @@
+{
+  "guid": "755f1d78-c910-56cb-a37e-13870013bff6",
+  "code": "J88RFE",
+  "id": 1207,
+  "logo": null,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1207-gegenmacht-best-of-informationsfreiheit",
+  "url": "https://cfp.cccv.de/39c3/talk/J88RFE/",
+  "title": "Gegenmacht - Best of Informationsfreiheit",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Sind mehr Infos wirklich die L\u00f6sung? Ob Jens Spahn, Philipp Amthor oder Friedrich Merz - sie alle sagen offen, was sie vorhaben und machen keinen Hehl aus ihren Verbindungen zur Trump-Regierung, zu Milliard\u00e4ren und der fossilen Lobby. Was bringt Transparenz in Zeiten der autorit\u00e4ren Wende?",
+  "description": "Transparenz braucht Rechenschaft. Ohne Konsequenzen bleibt Transparenz wirkungslos. Wie k\u00f6nnen wir also eine wirksame Gegenmacht schaffen, die Ver\u00e4nderungen durchsetzt? \r\n\r\nPhilipp Amthors Angriff aufs Informationsfreiheitsgesetz konnten wir erst einmal abwehren - jetzt geht's in die Offensive! Mit den Highlights aus Strafanzeigen gegen Alexandeer Dobrindt, Spahns geleaktem Maskenbericht, der Milliard\u00e4rslobby im Wirtschaftsministerium und allen Steueroasen in Deutschland.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "ESSJ93",
+      "name": "Arne Semsrott",
+      "avatar": "https://cfp.cccv.de/media/avatars/ESSJ93_bAbp1JW.jpg",
+      "biography": "Arne leitet [FragDenStaat](https://fragdenstaat.de/) und hat den [Freiheitsfonds](https://freiheitsfonds.de/) gegr\u00fcndet.",
+      "public_name": "Arne Semsrott",
+      "guid": "7c29904e-c407-5f62-bf8e-8a9235dddbd6",
+      "url": "https://cfp.cccv.de/39c3/speaker/ESSJ93/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/J88RFE/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/J88RFE/",
+  "attachments": []
+}

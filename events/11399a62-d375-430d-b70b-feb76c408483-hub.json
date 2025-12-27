@@ -1,0 +1,38 @@
+{
+  "guid": "11399a62-d375-430d-b70b-feb76c408483",
+  "code": null,
+  "id": 113996,
+  "date": "2025-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-openwrt-meetup",
+  "title": "OpenWrt Meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Once again this year, the developers and users attending the congress want to discuss current OpenWrt topics.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7049dd7d-756a-44b1-88bc-beda1caa40f6",
+      "name": "Hauke",
+      "public_name": "Hauke",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/hauke"
+    },
+    {
+      "guid": "b6e3f437-2eb7-4bda-836c-284f35decc83",
+      "name": "skorpy (she/her)",
+      "public_name": "skorpy (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skorpy"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openwrt-meetup",
+  "links": []
+}

@@ -1,0 +1,42 @@
+{
+  "guid": "34f3d9a6-9164-58df-81e6-51c112362a89",
+  "code": "QWFPYT",
+  "id": 1944,
+  "date": "2025-12-28T22:05:00+01:00",
+  "start": "22:05",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-machine-vision-vom-algorithmus-zum-baumpilz-im-digitalen-metabolismus",
+  "title": "Machine Vision \u2013 Vom Algorithmus zum Baumpilz im digitalen Metabolismus",
+  "subtitle": null,
+  "language": "de",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "Milliarden von Kameras produzieren t\u00e4glich Bilder, die zunehmend von Maschinen analysiert werden. In dieser Lecture Performance beleuchten wir die Entwicklung des maschinellen Sehens \u2013 von den fr\u00fchen algorithmischen Ans\u00e4tzen bis zu den heutigen Anwendungen \u2013 und schauen, wie verschiedene K\u00fcnstler:innen diese Technologien nutzen und reflektieren. Anhand der beiden Arbeiten \u201eThrowback Environment\u201d und \u201eFomes Fomentarius Digitalis\u201d betrachten wir die Nutzung des maschinellen Sehens in einem k\u00fcnstlerischen Feedback-Loop. Die Arbeiten machen sichtbar, was die eingesetzten Algorithmen sehen und in welchen Mustern sie operieren.",
+  "description": "Unmengen an Bilder werden T\u00e4glich in die Netzwerke hochgeladen. Doch nicht nur Menschen betrachten diese Bilder, auch Maschinen analysieren und \u201ebetrachten\" sie. Wie funktioniert dieses maschinelle \u201eSehen\" und wie wurde dieses den Computern beigebracht?\nDiese Lecture Performance gibt einen \u00dcberblick \u00fcber die Entwicklung des maschinellen Sehens. Nach einem kurzen Einblick in die geschichtliche Entwicklung \u2013 von den ersten Ans\u00e4tzen bis zu heutigen Anwendungen \u2013 betrachten wir, wie diese Technologien in unterschiedlichsten k\u00fcnstlerischen Arbeiten eingesetzt werden. Was reflektieren diese Arbeiten jenseits der reinen Anwendung von Machine Vision Algorithmen?\nAnhand der beiden Arbeiten \"Throwback Environment\" und \"Fomes Fomentarius Digitalis\" betrachten wir, wie Machine Vision in einem k\u00fcnstlerischen Feedbackloop genutzt worden ist und wie uns dies Perspektiven auf die Funktionsweise dieser Algorithmen er\u00f6ffnet. Die Arbeiten machen sichtbar, was die Eingesetzten Alghorithmen sehen, in welchen Mustern sie operieren. Sie zeigen auch, wo ihre Grenzen liegen und was das ganze mit Baumpilzen zu tun hat.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/QWFPYT/Fomes_Fomentarius_Digitalis_Thomas_Knus_OQOGL1r.webp",
+  "persons": [
+    {
+      "guid": "0fc7e04d-4473-5d6b-9af5-2ae1fde21243",
+      "name": "Thomas Kn\u00fcsel",
+      "public_name": "Thomas Kn\u00fcsel",
+      "avatar": "https://cfp.cccv.de/media/avatars/EAXJGR_yJFcjvW.png",
+      "biography": "Thomas Kn\u00fcsel (*1984) ist Medienk\u00fcnstler und Creative Technologist mit einem Bachelor of Arts der HSLU DFK und einem Master of Fine Arts der ZHdK. Seine k\u00fcnstlerische Praxis erforscht die \u00dcberschneidungen von Technologie, Materialit\u00e4t, Wahrnehmung, Wissenschaft und Kunst und nutzt verschiedene Medien, um Werke zu schaffen, die zwischen Kunst und Technologie oszillieren.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0fc7e04d-4473-5d6b-9af5-2ae1fde21243"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/machine-vision-vom-algorithmus-zum-baumpilz-im-digitalen-metabolismus",
+  "links": [
+    {
+      "url": "https://www.tknusel.ch/FomesFomentariusDigitalis.html",
+      "type": "related",
+      "title": "Fomes Fomentarius Digitalis"
+    },
+    {
+      "url": "https://www.tknusel.ch/ThrowbackEnvironment.html",
+      "type": "related",
+      "title": "Throwback Environment"
+    }
+  ],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/QWFPYT/"
+}

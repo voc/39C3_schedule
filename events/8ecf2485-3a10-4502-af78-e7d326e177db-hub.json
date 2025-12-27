@@ -1,0 +1,21 @@
+{
+  "guid": "8ecf2485-3a10-4502-af78-e7d326e177db",
+  "code": null,
+  "id": 824853,
+  "date": "2025-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-nextcloud-collectives-meetup",
+  "title": "Nextcloud Collectives Community Meetup",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "You use Nextcloud Collectives within a group or plan to do so? Come along and talk with the maintainers and other community members. With Collectives we aim to build a collaborative knowledge database for self-organized and activist groups. Currently we focus on fostering the community and reducing hierarchies between us, the developers and the direct users of Collectives.\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nextcloud-collectives-meetup",
+  "links": []
+}

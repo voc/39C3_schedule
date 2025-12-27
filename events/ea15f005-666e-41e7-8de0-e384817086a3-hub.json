@@ -1,0 +1,30 @@
+{
+  "guid": "ea15f005-666e-41e7-8de0-e384817086a3",
+  "code": null,
+  "id": 150056,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:30",
+  "room": "Kidspace - Hackcenter",
+  "slug": "39c3-minecraft-commands",
+  "title": "Minecraft Commands",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "M\u00f6chtest du in Minecraft einen Command-Block oder Barrieren haben? Oder dich zu anderen Personen teleportieren?\n\nDas zeige ich euch!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e8689599-fef6-4d71-834d-80229ea0d5e6",
+      "name": "FMT",
+      "public_name": "FMT",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fmt"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/minecraft-commands",
+  "links": []
+}

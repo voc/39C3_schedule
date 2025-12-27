@@ -1,0 +1,30 @@
+{
+  "guid": "86c8a0f9-dfe8-4e68-b128-06528188e60c",
+  "code": null,
+  "id": 868098,
+  "date": "2025-12-29T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "01:30",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-build-your-own-air-quality-sensor",
+  "title": "Build Your Own Air Quality Sensor",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "A beginner-friendly, hands-on workshop where you build a working particulate matter air quality sensor using off-the-shelf parts. Learn the basics of IoT environmental monitoring and share your data online with Sensor.Community.",
+  "description": "# Build Your Own Air Quality Sensor\n\nAir pollution affects many people\u2019s daily lives, not only those living near industrial centres. In Ireland, official air quality monitoring relies on a limited number of sensors, so local and short-term pollution sources can be missed. In this 90-minute, hands-on workshop, you\u2019ll build your own particulate matter (PM2.5) air quality sensor using a kit of off-the-shelf parts, then connect it to the Internet so you can view and share the data.\n\n## Sensor.Community\n[Sensor.Community](https://sensor.community/) is an open, global citizen science network where people build low-cost sensors and share environmental data. Once your device is online, it can publish readings so you can track trends over time and compare data across different locations.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll assemble a working PM2.5 air quality sensor and get it online. We\u2019ll cover the basics of IoT devices, local data collection, and how to publish readings to Sensor.Community. You\u2019ll also learn what the numbers mean, what these sensors are good for, and where their limits are.\n\n## Materials\nYou\u2019ll work with:\n- ESP8266 board\n- SDS011 particulate matter sensor (PM2.5 and PM10)\n- BME280 sensor (temperature, humidity, air pressure)\n- USB cable\n- Jumper wires\n- Plastic tube (air inlet)\n\n## Requirements\n- A device with a web browser and WiFi, such as a phone or laptop\n- All setup is browser-based, no software install needed\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac60** for a kit to take home.\n\n## Instructions\nSetup steps and links will be shared on the day.\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/7992037e6eb0/PXL_20241116_112343300.jpg",
+  "persons": [
+    {
+      "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
+      "name": "tdr112 (he/him)",
+      "public_name": "tdr112 (he/him)",
+      "avatar": null,
+      "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-air-quality-sensor",
+  "links": []
+}

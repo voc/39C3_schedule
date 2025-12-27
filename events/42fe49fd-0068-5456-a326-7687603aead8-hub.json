@@ -1,0 +1,31 @@
+{
+  "guid": "42fe49fd-0068-5456-a326-7687603aead8",
+  "code": "TPZG8S",
+  "id": 2401,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-chaos-all-year-round",
+  "title": "Chaos all year round",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Neben dem Congress gibt es noch viele andere Chaos-Events, die \u00fcber das ganze Jahr verteilt stattfinden. Das Easterhegg, die GPN und die MRMCD kennen vermutlich die meisten Chaos-Wesen. Aber was ist eigentlich mit den ganzen kleineren Veranstaltungen?",
+  "description": "Bei diesem Vortrag im Lightning-Talk-Format habt ihr die M\u00f6glichkeit, euch quasi im Schnelldurchlauf \u00fcber viele weitere tolle Chaos-Events zu informieren. Zus\u00e4tzlich werden auch ein bis zwei gr\u00f6\u00dfere Events vorgestellt, die sich gerade in der Planungsphase befinden und noch Verst\u00e4rkung f\u00fcr ihr Team suchen.\n\nFalls ihr euer Chaos-Event auf der gro\u00dfen B\u00fchne kurz vorstellen m\u00f6chtet, tragt euch bitte [im Wiki ein](https://events.ccc.de/congress/2025/hub/de/wiki/event-vorstellungen).\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "129e2903-9157-5ec9-92a2-cfd724a1c629",
+      "name": "Deanna",
+      "public_name": "Deanna",
+      "avatar": null,
+      "biography": "Neurodivergent.\nNicht-bin\u00e4r.\nHaeckse.\nCyborg.\nQueer.\nBerlin.\nCats.\nPan.\n\nPronomen: keine oder they/them\n\nhttps://chaos.social/@Deanna\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_129e2903-9157-5ec9-92a2-cfd724a1c629"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chaos-all-year-round",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TPZG8S/"
+}

@@ -1,0 +1,39 @@
+{
+  "guid": "372f7089-b6ae-50ed-bc35-f60c5e9fd6e1",
+  "code": "VN77T8",
+  "id": 2376,
+  "date": "2025-12-28T20:10:00+01:00",
+  "start": "20:10",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-recharge-your-batteries-with-us-an-empowering-journey-through-the-energy-transition",
+  "title": "Recharge your batteries with us - an empowering journey through the energy transition",
+  "subtitle": null,
+  "language": "en",
+  "track": "Science",
+  "type": "Talk",
+  "abstract": "Amidst gloomy headlines, extreme weather, and climate anxiety, the good stories often get lost. Yet they exist - inspiring people, clever engineering, real breakthroughs. And that's exactly what we bring you \u2013 the positive power cycles of the energy transition in action. And real energy on stage.",
+  "description": "A committed energy activist and an award-winning solar cell researcher take you on a lively, motivating and sometimes funny journey:\n\n- to electricity rebels from the Black Forest,\n- to heat pumps that supply entire neighborhoods,\n- to new solar technologies,\n- to wind turbines with history,\n- and to politicians who were too pessimistic.\n\nWhat is already going really well? What can you emulate? Where is it worth getting involved?\nWe'll show you \u2013 in an easy-to-understand, cheerful way.\nTo stay motivated for an adventure as big as the energy transition, we need more than just facts and figures. We need momentum, optimism, and the human energy that keep the power cycles turning.\nCome by! Let\u2019s recharge together and celebrate the successes of the energy transition.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c1c0c946-3a66-57c2-9ba9-f518e96d02c3",
+      "name": "Salacidre",
+      "public_name": "Salacidre",
+      "avatar": "https://cfp.cccv.de/media/avatars/E3LE7M_2RprwVs.jpg",
+      "biography": "Simone (Salacidre) is a climate scientist and science communicator. As the head of Balkon.Solar e.V., she is committed to promoting the energy transition from the bottom up. Her goal is for everyone to actively participate in the energy transition and feel that they themselves have agency and are an important part. Simone works with Akkudoktor and many others to remove legal barriers. Together, they are taking unconventional approaches - politically, technologically, and socially.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c1c0c946-3a66-57c2-9ba9-f518e96d02c3"
+    },
+    {
+      "guid": "9e427cc5-dc91-50ca-84ec-f0a3b963fb95",
+      "name": "JulianeB",
+      "public_name": "JulianeB",
+      "avatar": "https://cfp.cccv.de/media/avatars/XNRNVJ_tyNz8FQ.webp",
+      "biography": "Juliane studied physics in Berlin, Halle (Saale), and Oxford. After research positions in Cambridge and Amsterdam, she has been in Freiburg (Breisgau) since 2022. There she heads a research group that develops and investigates new materials for solar cells. Her research focuses on novel perovskite-silicon tandem solar cells.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9e427cc5-dc91-50ca-84ec-f0a3b963fb95"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/recharge-your-batteries-with-us-an-empowering-journey-through-the-energy-transition",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/VN77T8/"
+}

@@ -1,0 +1,33 @@
+{
+  "guid": "0f1eb728-e514-51d7-9437-d78bbb7df058",
+  "code": "TSKVKW",
+  "id": 2431,
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-steuerkarten-fur-freunde-post-punk-experimental-sp",
+  "title": "Steuerkarten f\u00fcr Freunde (post-punk, experimental, spoken word)",
+  "subtitle": null,
+  "language": "en",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Minimal bis Post-Punk Cringe aus dem Bedroom. Endlich mal wieder aus sich heraus- und einander n\u00e4her kommen. F\u00fcr die Friends von den Friends mit guten Texten, meistens Punk, manchmal sanft, aber Hauptsache Spa\u00df.",
+  "description": "Wir, Jona, Fen und Bille, haben uns im Sommer gefunden und pl\u00f6tzlich ist genug entstanden um die Musik auch teilen zu wollen, weil die Texte von uns handeln und, weil es raus muss in die Welt.\n\nShy, chaotisch, solidarisch, hypnotisierend, fragend, w\u00fctend - Es geht um das Nein-Sagen im Sp\u00e4tkapitalismus, wie man trauert wenn man Gewalt erfahren hat, queer desires und was an Leonard eigentlich so besonders ist. Punk, Spoken Word, noisige Fl\u00e4chen, deutsche und englische Texte.\n\nSetlist:\nNein\nVictims\nWas ist denn an Leonard so besonders\nBaby \nHairpin Turns\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b9f4f255-c97b-5ec2-abbb-a00584cb16cb",
+      "name": "Steuerkarten f\u00fcr Freunde",
+      "public_name": "Steuerkarten f\u00fcr Freunde",
+      "avatar": "https://cfp.cccv.de/media/avatars/C3RGWD_TUnVmsJ.jpg",
+      "biography": "Uns gibts noch nicht so lange, aber wir sind gekommen um zu bleiben, mit Minimal bis Post-Punk Cringe aus dem Bedroom. Shy, chaotisch, solidarisch, hypnotisierend, fragend, w\u00fctend - Endlich mal wieder aus sich heraus- und einander n\u00e4her kommen, denn wir wollen Nein-Sagen im Sp\u00e4tkapitalismus, dar\u00fcber reden wie man trauert wenn man Gewalt erfahren hat, es geht um queer desire und was an Leonard eigentlich so besonders ist. Spoken Word, noisige Fl\u00e4chen, deutsche und englische Texte. F\u00fcr die Friends von den Friends mit, meistens Punk, manchmal sanft, aber Hauptsache Spa\u00df.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b9f4f255-c97b-5ec2-abbb-a00584cb16cb"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/steuerkarten-fur-freunde-post-punk-experimental-sp",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/TSKVKW/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/TSKVKW/feedback/",
+  "do_not_record": true
+}

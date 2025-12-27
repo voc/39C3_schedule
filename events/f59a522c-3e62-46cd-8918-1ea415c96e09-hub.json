@@ -1,0 +1,30 @@
+{
+  "guid": "f59a522c-3e62-46cd-8918-1ea415c96e09",
+  "code": null,
+  "id": 595223,
+  "date": "2025-12-29T03:00:00+01:00",
+  "start": "03:00",
+  "duration": "07:00",
+  "room": "SoS Workshop D",
+  "slug": "39c3-congress-penpaper-night",
+  "title": "Congress-Pen&Paper-Night",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Eine weitere Verl\u00e4ngerung der Congress-P&P-Night. Anderer Raum als die anderen, was dran liegt, dass wir urspr\u00fcnglich als zwei Menschen unabh\u00e4ngig voneinander eine P&P-Night angemeldet haben und das dann gemerkt und zusammen gelegt haben. Und Raum und Zeit l\u00e4sst sich nicht trivial \u00e4ndern, weil dieses Jahr Nacht-Sessions nur noch von der Orga angelegt werden k\u00f6nnen. Egal, wird schon, Nachts ist ja eigentlich \u00fcberall genug Platz. Mehr Infos hier: https://events.ccc.de/congress/2025/hub/backoffice/self-organized/sessions/b57e7df8-1d24-458c-91a8-fcd7b281e4db/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c9ecb2d6-a76b-433d-b973-5f2c34b27c55",
+      "name": "Luna",
+      "public_name": "Luna",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/luna"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/congress-penpaper-night",
+  "links": []
+}

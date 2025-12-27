@@ -1,0 +1,32 @@
+{
+  "guid": "ca62412d-494d-5256-8a60-6caf8e1d5777",
+  "code": "8YYMHQ",
+  "id": 400002,
+  "date": "2025-12-30T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "00:30",
+  "room": "Saal 5",
+  "slug": "39c3-key-signing-party",
+  "title": "Key-Signing Party",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Other",
+  "abstract": "Wir m\u00fcssen einsehen, dass wir uns nicht mehr wegducken k\u00f6nnen. Seit Jahren werden alle Key-Signing-Partys weggel\u00e4chelt, verschoben oder mit unfl\u00e4tigen Bezeichnern versehen. Das darf nicht so bleiben.",
+  "description": "Wir brauchen vielleicht mehr Key-Signing f\u00fcr eine bessere Welt. Unsere informationelle Selbstbestimmung verdient eine Party. Eine krasse und gute Party.\nWenn Du nicht sicher bist, ob Du einen PGP-Key brauchst, was das ist oder wie Du Deinen alten verl\u00e4ngern kannst: komm l\u00e4ngs! Falls Du das wei\u00dft: komm erst recht l\u00e4ngs! Bei ausreichender Resourcen-Lage k\u00f6nnte es zu folgenden Anomalien kommen:\n- Wahl des coolsten PGP-Vanity-Keys,\n- Wahl des angemessensten 80s/90s-Outfits und\n- Feststellung der Gewinnerin des Gnupg-Kommandozeilenbefehl-Quizzes\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "bb54a57f-9b77-566a-86aa-fa1ee632ad93",
+      "name": "ulif",
+      "public_name": "ulif",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_bb54a57f-9b77-566a-86aa-fa1ee632ad93"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/key-signing-party",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/8YYMHQ/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/8YYMHQ/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "a79aa412-ba9c-58c4-a22a-28a3f0c3cd23",
+  "code": "JQLXXM",
+  "id": 83814,
+  "date": "2025-12-29T13:45:00+01:00",
+  "start": "13:45",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-zellkultur",
+  "title": "Zellkultur",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Ich bin ja glaube ich reichlich sp\u00e4t, aber da Moepern endlich wieder zum Congress kommt und ich das erst vor kurzem erfahren habe, dachte ich, ich werfe unseren Namen mal in den Hut. Wir sind/waren ein Biologie-Podcast und durch Babypause bei Moepern ist der etwas eingeschlafen. Schaffen wir ein Revival? Verratet ihr's uns. Wir nehmen auch den Podcast-Tisch wenns sonst nicht passt. :)",
+  "description": "In der Zellkultur reden Claudia (moepern) und Anna (Adora Belle) \u00fcber das Leben, die Biologie und den ganzen Rest. Am liebsten schauen wir tief in die Zelle, auf die DNA und schauen Viren bei der Arbeit zu. Wir besprechen aktuelle Themen - aber wollen auch Grundlagenwissen vermitteln. Ihr seid au\u00dferdem eingeladen, eure Fragen zu stellen. Ob live oder per Zusendung. :) Und in einer aktuellen Bio-Frage kl\u00e4ren wir Biologie-Mythen auf!\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/JQLXXM/4_xDq1v22.png",
+  "persons": [
+    {
+      "guid": "3408e504-195a-5d17-885b-a757797ff6e5",
+      "name": "Adora Belle",
+      "public_name": "Adora Belle",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/UWAQWG_CPjH0oP.png",
+      "biography": "Ich bin Anna, ich bin Biologin und rede dar\u00fcber. Manchmal auch in Mikrofone.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3408e504-195a-5d17-885b-a757797ff6e5"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/zellkultur",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/JQLXXM/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/JQLXXM/feedback/"
+}

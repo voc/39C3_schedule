@@ -1,0 +1,48 @@
+{
+  "guid": "1de14692-0928-5f3e-8bbf-c8aabd6593ce",
+  "code": "FPMSKP",
+  "id": 114692,
+  "date": "2025-12-29T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-how-to-barrieren-brechen-mit-open-data",
+  "title": "How to: Barrieren brechen mit Open Data [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Wir zeigen Alltagsbarrieren \u2013 und wie ihr helfen k\u00f6nnt, sie mit Open Data abzubauen. Nach einer kurzen Einstimmung zeigen wir, wie aus einzelnen Daten ein Gesamtbild f\u00fcr mehr Teilhabe entsteht und erfassen dann gemeinsam Orte auf dem Gel\u00e4nde.",
+  "description": "Komm ich mit einem Rollstuhl in das Caf\u00e9 oder hat es Stufen? Wie kriege ich \u00fcberhaupt mit, wo ich hin muss? Barrieren fallen oft erst auf, wenn man selbst davon betroffen ist - oder aber gelernt hat, auf sie zu achten. Deshalb starten wir mit einer kurzen Sensibilisierungs\u00fcbung zum Thema Inklusion & Barrierefreiheit (nicht nur f\u00fcrs Thema Mobilit\u00e4t).\n\nAnschlie\u00dfend zeigen wir euch einen \u201esozialen Algorithmus\u201c, der Barrierefreiheit auf der Ebene von Stadtverwaltung, Politik und Aktivismus vorantreiben soll. Wir geben Einblick in die Entwicklung unseres Projekts a11y-Score, welches vom Bundesministerium f\u00fcr Verkehr (BMV) im Rahmen der mFund-Initiative gef\u00f6rdert wird.\n\nWeiter geht's mit einer Einf\u00fchrung in die Wheelmap: einer offenen Karte (basierend auf OpenStreetMap), mit der Menschen weltweit Zug\u00e4nglichkeit dokumentieren k\u00f6nnen - auch f\u00fcr den vorgestellten Algorithmus.\n\nNach dem Workshop gehen / rollen wir in Gruppen \u00fcber das Gel\u00e4nde und probieren das ganze konkret vor Ort aus.\n\nZum Abschluss bleibt Zeit f\u00fcr Fragen, Austausch und Ideen. Lasst uns gemeinsam die Welt zug\u00e4nglicher machen - one data entry at a time! \u270a\n\nWheelmap: https://wheelmap.org\na11y-Score: https://a11yscore.org\n\nFalls ihr als Teilnehmer*innen eine Sinneseinschr\u00e4nkung, Behinderung oder ein bestimmtes Bed\u00fcrfnis habt, lasst uns das gern vorab [per Mail](mailto:info@wheelmap.org) wissen. Wir versuchen dann, gemeinsam daf\u00fcr zu sorgen, dass alle auf dem gleichen Level mitmachen k\u00f6nnen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "cf056c14-fc87-55bd-be23-d47ef3d1cabf",
+      "name": "Luise Bruche",
+      "public_name": "Luise Bruche",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/RA3D33_ooQFg5r.jpg",
+      "biography": "Kommunikations- und Community-Managerin bei den Sozialheld*innen\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cf056c14-fc87-55bd-be23-d47ef3d1cabf"
+    },
+    {
+      "guid": "3e80d13e-dc5f-5dda-b4a1-bafee9bb57c2",
+      "name": "Sebastian Felix Zappe",
+      "public_name": "Sebastian Felix Zappe",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/PGKLNG_0OhVGb4.jpeg",
+      "biography": "Sebastian (er/ihn/they/them) hackt seit 2016 bei den Sozialheld*innen an (nicht nur) technischen L\u00f6sungen f\u00fcr gesellschaftliche Probleme. Das Team entwickelt momentan eine neue Version von Wheelmap.org und baut a11y-Score, ein Werkzeug zum Abbau von Barrieren.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3e80d13e-dc5f-5dda-b4a1-bafee9bb57c2"
+    },
+    {
+      "guid": "aaa01246-114b-58eb-b2db-c54fdcfc3f20",
+      "name": "Lynn Janzen",
+      "public_name": "Lynn Janzen",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/7HRQGD_eDWy6HV.jpg",
+      "biography": "Lynn ist Full-Stack-Entwicklerin bei den Sozialheld*innen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_aaa01246-114b-58eb-b2db-c54fdcfc3f20"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-barrieren-brechen-mit-open-data",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/FPMSKP/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/FPMSKP/feedback/"
+}

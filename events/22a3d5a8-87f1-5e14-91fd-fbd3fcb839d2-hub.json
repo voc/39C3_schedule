@@ -1,0 +1,40 @@
+{
+  "guid": "22a3d5a8-87f1-5e14-91fd-fbd3fcb839d2",
+  "code": "QQ7AAM",
+  "id": 223588,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "02:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-payload-picnic",
+  "title": "Payload Picnic [FLINTA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Evening Event (open end)",
+  "abstract": "FLINTA in IT Security.\r\nNo matter your background or skill level, you\u2019re welcome to join, learn, and exchange in a supportive, judgement-free space.\r\nThe event is open-ended: we\u2019ll bring the cookies, you bring your curiosity.",
+  "description": "This is a FLINTA only security meetup. We had one at 38c3 as well. It is organised by noctiluca and katalyst. neither of us are speakers as such, it is more of a gathering. We will discuss security themes that are decided by the participants. It is an informal meetup\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5395844e-0836-5890-8ed2-3a69fd251b0d",
+      "name": "katalyst",
+      "public_name": "katalyst",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/AUFEDD_lhvtCYu.webp",
+      "biography": "katalyst is involved in the security haecksen\nshe/her\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5395844e-0836-5890-8ed2-3a69fd251b0d"
+    },
+    {
+      "guid": "21b543eb-8077-5909-afc8-a9743733f69e",
+      "name": "noctiluca",
+      "public_name": "noctiluca",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_21b543eb-8077-5909-afc8-a9743733f69e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/payload-picnic",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/QQ7AAM/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/QQ7AAM/feedback/"
+}

@@ -1,0 +1,54 @@
+{
+  "guid": "ce60f89c-fcdb-577f-89c2-5beb11b88ca7",
+  "code": "DXSRB7",
+  "id": 1796,
+  "logo": null,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:30",
+  "room": "Fuse",
+  "slug": "39c3-1796-the-maybe-talent-show",
+  "url": "https://cfp.cccv.de/39c3/talk/DXSRB7/",
+  "title": "The Maybe Talent Show",
+  "subtitle": "",
+  "track": "Entertainment",
+  "type": "Game show",
+  "language": "en",
+  "abstract": "Come on stage and present things you are very bad in. Or just mediocre. Get raging applause and love from the audience!\r\nHosted by the drag-quings Norman M\u00fcller-Schmitz and James Bonne d'age this open stage celebrates trying, failing and the beauty of discovering hidden Talents together when the most beautiful cuties from the audience enter the stage to try something they have absolutely no experience in.",
+  "description": "The show is an open format that gives people the space to show themselves, be visible and make themselves vulnerable. We bring a queer format that celebrates people for simply being humans to Hamburgs neighborhood pubs, autonomous stages and other easily accessible spaces. In doing so it's explicitly anti-capitalist, builds communities and unlikely alliances.\r\nNot just in the hacker/CCC community we applaud the cool things people can do: The big stage is often reserved for outstanding achievements; attention and social credits usually go to those who already have the network and skills. While we consider celebrating success to be absolutely necessary, we see the need to give people space to try things out, to fail publicly without having to be ashamed, and to celebrate Imperfection. Stage presence comes from trying on stage, and the Maybe Talent Show is the place where this is possible for everyone. Inclusive, hilarious and without making fun of anyone. Promise.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "code": "FBT3ZG",
+      "name": "Norman M\u00fcller-Schmitz",
+      "avatar": "https://cfp.cccv.de/media/avatars/FBT3ZG_r6YJ4ay.JPG",
+      "biography": "He ist he most normal man in the world. Charming and presentable. Warehouse logistics by day, secret drag star by night. Always on a mission to make normality more visible in the world.\r\nNorman M\u00fcller-Schmitz is the most rising star in hamburg's drag scene, celebrated drag king since 2023 and winner of everybody's hearts.",
+      "public_name": "Norman M\u00fcller-Schmitz",
+      "guid": "a0f2d700-6f53-5303-9c3e-0e9b2d7765ed",
+      "url": "https://cfp.cccv.de/39c3/speaker/FBT3ZG/"
+    },
+    {
+      "code": "TAMJNS",
+      "name": "lukas-schmukas",
+      "avatar": null,
+      "biography": "Lukas (er/ihm) ist der Tonboy f\u00fcr die The May Be Talent Show.\r\n\r\nEr ist kein Golem und nicht aus Ton, sondern hat die verantwortungsvolle Aufgabe immer wieder den Themesong abzuspielen, wenn eine Person die B\u00fchne betritt.\r\n\r\nAu\u00dferdem kannst du bei ihm deine Bed\u00fcrfnisse anmelden, wenn dein Talent mehr als nur dich selbst ben\u00f6tigen wird.",
+      "public_name": "lukas-schmukas",
+      "guid": "2e24fccd-c632-5453-91e8-12d3005d6ba2",
+      "url": "https://cfp.cccv.de/39c3/speaker/TAMJNS/"
+    },
+    {
+      "code": "BMCXR9",
+      "name": "James Bonne d'age",
+      "avatar": "https://cfp.cccv.de/media/avatars/BMCXR9_HpAw1Ot.jpg",
+      "biography": "James Bonne dage\r\n\r\nHe solved many cases of entagled matters throughout his career as an educator. On his travels he discovered plenty of useless talents that he occasionally shows off on stages throughout the country.\r\nAs a showman with sometimes strict sometimes silly attire he encharms the crowd with his quick tongue and charming smirk.",
+      "public_name": "James Bonne d'age",
+      "guid": "a687c335-9874-5575-b097-77283b7275f9",
+      "url": "https://cfp.cccv.de/39c3/speaker/BMCXR9/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/DXSRB7/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DXSRB7/",
+  "attachments": []
+}

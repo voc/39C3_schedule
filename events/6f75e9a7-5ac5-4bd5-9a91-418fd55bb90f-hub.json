@@ -1,0 +1,30 @@
+{
+  "guid": "6f75e9a7-5ac5-4bd5-9a91-418fd55bb90f",
+  "code": null,
+  "id": 675975,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-python-programming-for-absolute-beginners",
+  "title": "Python Programming for Absolute Beginners",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "(While this abstract is in English, this workshop will be held either in English or German; depending on who wants to participate!)\n\nProgramming is not only a useful competency and oftentimes fun, but also a sort of \u201ccultural technique\u201d of our ever-expanding community. This workshop is intended as a first introduction to (Python) programming for absolute beginners. While C3 is traditionally a 'tech/hacker conference', more and more people without a programming background attend \u2013 as far as I'm concerned, this is awesome!\n\nWhile you certainly don't have to be a 'coder' to be a part of Congress (or to be a hacker), programming is still fun, wonderfully creative, and also an extremely valuable skill. Don't be afraid to give it a go!\n\nOf course, by the end of this 90-minute workshop, you will not be a programmer. You will, however, have attempted a deep dive into (Python) programming, learned some basics, and set yourself up for further learning (if you choose to do so). Furthermore, we will explore why it is still worthwhile to learn programming in a world that is seeing increased LLM usage \u2013 especially in the domain of software development.\n\n## Target Audience and Required Previous Knowledge\n\nThis is NOT a session for experienced developers who want to learn Python. This session is intended for beginners with little to no experience programming! Motivated children and young hackers are more than welcome, but it will be a stretch.\n\nNo previous knowledge and/or technical expertise is required!\n\n## Learning Objectives\n\nFrom a learning perspective, after the session, participants will be able to \u2026\n\n* describe what programming essentially is about.\n* name and describe some basic programming terminology.\n* define requirements and design simple software.\n* model simple problems in terms of data structures and basic algorithms.\n* write basic scripts in Python in order to solve specific problems.\n* describe the role of LLMs in modern software development.\n\n## About Me\n\nMy Name is Ingo, and I am currently responsible for Digital Education and Educational Technology at the University of Cologne. Relevant to this session, I have a background in both education and computational linguistics. My love for Python stems from my work as a (computational) linguist and various projects I've been involved with. :)\n\n## Format\n\nThis session will be a 90-minute \u201ccode-along\u201d workshop. We will be looking at some fundamental concepts in theory and, together, write some code.\n\n## Technical Requirements\n\nIf you want to participate actively (i.e., code along), you should bring a device that is capable of running a modern browser and has Internet access. Being able to type comfortably is also recommended ;). Alternatively, any device capable of running Python 3.10+ (ideally in a Jupyter Notebook) will do just fine!\n\n## Material\n\nAfter the session, I will provide all materials, including some selected additional resources. All materials will also be provided via this page.\n\nPs. This is a slightly updated version of the workshop(s) I gave at previous iterations of congress.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8bb67d00-1b96-413f-bfe0-88c5666ab9c9",
+      "name": "IngoKleiber (er/sein)",
+      "public_name": "IngoKleiber (er/sein)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ingokleiber"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/python-programming-for-absolute-beginners",
+  "links": []
+}

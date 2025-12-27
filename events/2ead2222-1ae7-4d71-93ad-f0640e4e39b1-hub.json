@@ -1,0 +1,30 @@
+{
+  "guid": "2ead2222-1ae7-4d71-93ad-f0640e4e39b1",
+  "code": null,
+  "id": 222221,
+  "date": "2025-12-27T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Rear-middle",
+  "slug": "39c3-light-and-sound-badge-making-choice-of-2-kits",
+  "title": "Light and Sound Badge-Making (choice of 2 kits)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Light and Sound Badge-Making (choice of 2 kits)",
+  "description": "**Light and Sound Badge-Making (choice of 2 kits)**\n\n**Materials costs**:  \n\u20ac25\n\n**Taught by** fablab|nk.\n\n**Workshop Itinerary**:  \nChoose to build one of two badge-kits: a drawable-reusable LED convention badge (1 hour, beginner skill level) or a beam-catching light-to-sound synthesiser badge (2 hours, intermediate skill level)\n\nAbout the SynthLab \u201cBeam-Catcher\u201d Badge:\nA special-edition light-to-sound synthesiser badge based on Dylan B's open-source Beam Catcher project. Wave a DIY photoresistive probe over 6 tunable LED\u2019s to amplify light frequencies and create your own drone-tones. \u2018Break-out\u2019 your badge and power it with a 9V battery or leave it intact and use it as your first Eurorack synth module (see it in action in our DIY rack at our assembly!). This project comes out of our weekly SynthLab audio hardware meetups at fablab|nk and is designed to be a first-introduction kit to DIY synthesiser building for new visitors :)\n\nAbout the Mechmon Drawable Convention Badge:\nCreate your own unique, reusable convention badge! This fun hands-on project lets you solder a 555-timer based LED badge that blinks and shows off your style. The screenprinted avatar area can be drawn on with a whiteboard marker, then easily erased to design new faces or characters again and again. Perfect for makers and convention-goers alike, this workshop combines creativity, electronics, and personalization\u2014so you can stand out with a badge that\u2019s truly one of a kind at 39C3 and your next event\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[SynthLab \u201eBeam-Catcher\u201c-Badge](https://github.com/fablabnk/SynthLabBadge)  \n[Inspiration](https://loess-labs.net/inst/beam/)  \n[Mechmon Drawable Convention Badge](https://github.com/fablabnk/MechMonBadge)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e707c4f11ad8/SynthLabBadge.jpg",
+  "persons": [
+    {
+      "guid": "4f53b348-fefe-48c9-80ac-3036f3d246d3",
+      "name": "graham42",
+      "public_name": "graham42",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/graham42"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/light-and-sound-badge-making-choice-of-2-kits",
+  "links": []
+}

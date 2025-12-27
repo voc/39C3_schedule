@@ -1,0 +1,31 @@
+{
+  "guid": "fe789c4d-9b9b-5a9d-b2dd-aeb6dc6bc59d",
+  "code": null,
+  "id": 300135,
+  "date": "2025-12-27T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-seedsigner-diy-bitcoin-signing-device-build-worksh",
+  "title": "SeedSigner DIY Bitcoin signing device build workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Build your own open-source Bitcoin signing device with a Raspberry Pi Zero, camera and display! We have kits for 45\u20ac",
+  "description": "Seedsigners are open-source DIY signing devices which can be built using \"normal\" hardware like a Raspberry Pi and act as kind of hardware wallets to sign Bitcoin transactions. Since the hardware is missing a secure element chip, the keys are saved externally, usually via self-drawn QR-codes which are read again for every use via the build-in camera.\n\nWe brought a few kits with us which we sell for 45\u20ac and build together. We will solder the 40pin GPIO header to the Raspberry Pi Zero, flashing the firmware on the MicroSD card and then build everything together in the 3d-printed enclosure.\n\nThe kit includes:\nRaspberry Pi Zero 1.3 (without Wifi or Bluetooth chip), GPIO-header to solder\nDisplay-Hat with joystick and buttons\nCamera\n64GB MicroSD card\nMicroUSB to USB-C cable\n3D printed enclosure\n6 printed templates for self-drawn QR-Codes\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/MMHXLC/Make-Your-Own-Case_1pFeL4l.png",
+  "persons": [
+    {
+      "guid": "d75564b2-9776-5e06-b8cb-ec17e16e6d5f",
+      "name": "freerk",
+      "public_name": "freerk",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d75564b2-9776-5e06-b8cb-ec17e16e6d5f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/seedsigner-diy-bitcoin-signing-device-build-worksh",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/MMHXLC/"
+}

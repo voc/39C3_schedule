@@ -1,0 +1,30 @@
+{
+  "guid": "5bb2abd5-e968-4db6-98c5-d1a5cc707c70",
+  "code": null,
+  "id": 525968,
+  "date": "2025-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "02:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-synth-meetup",
+  "title": "Synth Meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Music Synthesizer Meetup -- demo, look, jam, hangout",
+  "description": "Get together and geek out over music synthesizers, music synthesis, making sound, and creating music. Hardware, software - anything goes! All are welcome to come and talk synths, play synths, share projects, learn, and share. Some attendees have made their own synths at workshops at HOPE_16 -- please bring them! Please feel free to bring any synth or sound-making device. Everyone welcome - no need to bring anything but your interest in music, sound, and noise!\n\n**Registration**:  \nNo registration -- please show up at the Hardware Hacking Area and join us!\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/37a87a983e12/500px-SynthCollage.jpg",
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/synth-meetup",
+  "links": []
+}

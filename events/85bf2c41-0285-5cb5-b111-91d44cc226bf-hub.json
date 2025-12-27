@@ -1,0 +1,30 @@
+{
+  "guid": "85bf2c41-0285-5cb5-b111-91d44cc226bf",
+  "code": null,
+  "id": 852410,
+  "date": "2025-12-29T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-pre-quantum-to-post-quantum-cryptography",
+  "title": "Pre-Quantum to Post-Quantum Cryptography",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Quantum computers represent a looming threat to much of the critical foundations of modern cryptography. Post-quantum cryptography (PQC) utilizes hard mathematical problems that we believe resist the so-called \"quantum advantage,\" to preserve security and privacy. In this workshop we will unpack the principles behind the leading PQC families such as lattice and code based constructions, then showcase their implications for cryptocurrencies, digital signatures, and zero-knowledge protocols.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "72b19689-5ffe-504f-aa0e-debfbb32590a",
+      "name": "Freeman Slaughter",
+      "public_name": "Freeman Slaughter",
+      "avatar": "https://pretalx.riat.at/media/avatars/Headshot_eBiAj7K.jpg",
+      "biography": "Freeman Slaughter is a postdoc at the University of South Florida, having obtained his Ph.D. from Clemson University, with a focus on zero-knowledge proofs. He has been spearheading the push to migrate cryptocurrencies to post-quantum standards, having published a few of them himself.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_72b19689-5ffe-504f-aa0e-debfbb32590a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/pre-quantum-to-post-quantum-cryptography",
+  "links": []
+}

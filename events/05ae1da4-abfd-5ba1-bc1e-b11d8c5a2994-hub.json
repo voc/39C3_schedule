@@ -1,0 +1,32 @@
+{
+  "guid": "05ae1da4-abfd-5ba1-bc1e-b11d8c5a2994",
+  "code": "ULE8TC",
+  "id": 2493,
+  "date": "2025-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-etai-darway",
+  "title": "Etai Darway",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Dj Set Etai Darway",
+  "description": "A glamorous and rhythmic mood-swinging rollercoaster.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/ULE8TC/etaidarway_lX_O9m2qQ6.webp",
+  "persons": [
+    {
+      "guid": "06d4d89c-2aa1-511c-b092-5557120f5889",
+      "name": "Etai Darway",
+      "public_name": "Etai Darway",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_06d4d89c-2aa1-511c-b092-5557120f5889"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/etai-darway",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/ULE8TC/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/ULE8TC/feedback/"
+}

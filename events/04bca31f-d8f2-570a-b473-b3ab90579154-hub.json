@@ -1,0 +1,40 @@
+{
+  "guid": "04bca31f-d8f2-570a-b473-b3ab90579154",
+  "code": "GEU3ER",
+  "id": 83761,
+  "date": "2025-12-28T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-comeflywithus",
+  "title": "Comeflywithus",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Wir, das sind Steffen und arl , besprechen in unserem Podcast alles was die Gro\u00dfe und Kleine Fliegerei angeht.\r\nDas CFWU Team besteht I.d.R. aus aktiven Piloten:innen von gro\u00dfen und kleinen Flugzeugen, sehr gut unterst\u00fctzt durch den sehr erfahrenen Flugzeugtechniker Harry!",
+  "description": "Update GPS Spoofing\n\nATPL (AirlineTransportPilotLicense)\nWie lernt man heute fliegen\nWie l\u00e4uft es bei arl seinem ATPL\n\nFlugvorbereitungen\nWas muss man alles machen\nTechnik\n\nAirIndia\nBeispiel f\u00fcr Schwurbelungen\nAufbau der Technik\nWie schaltet man ein Triebwerk ein\nWie schaltet man ein Triebwerk aus\nWie schaltet man es im Notfall aus\nFeuerl\u00f6schsystem\n\nDas NOTAM System\nWas ist es\nWann wurde es gebaut\nWie hat es sich entwickelt\n\nTrotz des vermeintlich ernsten Themas sind wir immer mit Humor dabei!\n\nWenn ihr Fragen zur Sendung oder zum Thema habt, stellt sie gerne \u2013 am besten schon vorab.\nIhr k\u00f6nnt uns kurz vorher antreffen!\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/GEU3ER/cover_Kopie_ZSFjb4Q_iPcUYn_fjUrhQQ.webp",
+  "persons": [
+    {
+      "guid": "cd54359c-328b-5323-8298-65490d9346dd",
+      "name": "Steffen Braasch",
+      "public_name": "Steffen Braasch",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/7HTZXP_NJdXBIj.jpg",
+      "biography": "Fluglehrer, Instrument Flight-instructor , SET Rating, Former B737 Trainer, retired A380 CPT with A300, A340 experience\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cd54359c-328b-5323-8298-65490d9346dd"
+    },
+    {
+      "guid": "c7edff15-628c-5894-abd9-1aa6b1b9fdce",
+      "name": "arl",
+      "public_name": "arl",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c7edff15-628c-5894-abd9-1aa6b1b9fdce"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/comeflywithus",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/GEU3ER/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/GEU3ER/feedback/"
+}

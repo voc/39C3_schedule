@@ -1,0 +1,38 @@
+{
+  "guid": "a5335820-b003-4d06-9434-df253d02ac26",
+  "code": null,
+  "id": 533582,
+  "date": "2025-12-28T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-tech-from-below",
+  "title": "tech from below",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "[tech from below](https://techfrombelow.de/) is a Berlin-based meetup that brings together tech-savvy activists and activist developers to discuss tech tools for social movements. In this special edition, we\u2019ll introduce ourselves and hear from three projects that use technology in their political work.\n\n* [Klasse & Methode \u2013 IT Collective Stuttgart](https://klasse-methode.it/) will present the community calendar software [Lauti](https://lauti.org/)\n* [esc-IT Collective](https://esc-it.org) creates content for IT security trainings for activists\n* One slot still available (contact us at <techfrombelow@proton.me> or via [@techfrombelow@chaos.social](https://chaos.social/@techfrombelow))\n\nThe event will most likely be held in German only.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "07a0ade6-f523-4fbd-b91c-5a6073c602c5",
+      "name": "leohnever",
+      "public_name": "leohnever",
+      "avatar": null,
+      "biography": "tech from below\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/leohnever"
+    },
+    {
+      "guid": "e7e7d272-7585-4578-8155-4ef4e9b5d0b5",
+      "name": "VonBelow",
+      "public_name": "VonBelow",
+      "avatar": null,
+      "biography": "Johann von Below organizes [tech from below](https://techfrombelow.de/) in Berlin\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/vonbelow"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/tech-from-below",
+  "links": []
+}

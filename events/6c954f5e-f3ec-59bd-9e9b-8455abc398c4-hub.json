@@ -1,0 +1,32 @@
+{
+  "guid": "6c954f5e-f3ec-59bd-9e9b-8455abc398c4",
+  "code": "HCH8XG",
+  "id": 2477,
+  "date": "2025-12-27T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-afidissima-alice",
+  "title": "Afidissima & Alice",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Afidissima and Alice, two millennial stereotypes sharing music tips as emotional currency. \r\n\r\nGabby radio host Afidissima delivers genre-chaotic sets drenched in dubby vibes and oozing with groove. A relentless cratedigger with questionable priorities. \r\nAlice unites musical moments and moods that refuse to be united. Seductive, whimsical, followed by familiar paths, so as not to upset the ear and inner balance. \r\n\r\nMixed feelings becoming multiple emotions. Everything as usual \u2013 just enhanced momentum.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/HCH8XG/Afidissima__A_OKRtD9V.jpg",
+  "persons": [
+    {
+      "guid": "d719a325-9d2a-59f9-8d5a-ced4537078d2",
+      "name": "Afidissima & Alice",
+      "public_name": "Afidissima & Alice",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d719a325-9d2a-59f9-8d5a-ced4537078d2"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/afidissima-alice",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/HCH8XG/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/HCH8XG/feedback/"
+}

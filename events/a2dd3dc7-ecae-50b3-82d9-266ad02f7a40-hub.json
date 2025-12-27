@@ -1,0 +1,50 @@
+{
+  "guid": "a2dd3dc7-ecae-50b3-82d9-266ad02f7a40",
+  "code": "JZ9A3E",
+  "id": 1254,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale",
+  "title": "All my Deutschlandtickets gone: Fraud at an industrial scale",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "The Deutschlandticket was the flagship transport policy of the last government, rolled out in an impressive timescale for a political project; but this speed came with a cost - a system ripe for fraud at an industrial scale.\r\n\r\nGerman public transport is famously decentralised, with thousands of individual companies involved in ticketing and operations. Unifying all of these under one national, secure, system has proven a challenge too far for politicians. The end result: losses in the hundreds of millions of Euros, compensated to the transport companies from state and federal budgets to keep the system afloat, and nobody willing to take responsibility.\r\n\r\nThis talk will cover the political, policy, and technical mistakes that lead to this mess; how we can learn from these mistakes; and what we can do to ensure the Deutschlandticket has a viable future.",
+  "description": "At last years Congress Q presented [a deep-dive into the technical details of train ticketing](https://media.ccc.de/v/38c3-what-s-inside-my-train-ticket) and its [Z\u00fcgli](https://z\u00fcgli.app) platform for this; since then, things have gone rather out of hand. The little side-project for looking into the details of train tickets turned into a full-time project for detecting ticketing fraud. This talk details an executive summary of the madness that has been the past year, and how we accidentally ended up in national and international politics working to secure the Deutschlandticket.\n\nShortly after last year's talk, we were contacted about some *interesting* looking tickets someone noticed, issued by the Vetter GmbH Omnibus- und Mietwagenbetrieb - or so they claimed to be. These were normal Deutschlandtickets, but with a few weird mistakes in them. At first, we thought nothing much of it; mistakes happen. But, on further investigation, these turned out to not be legitimate tickets at all, but rather from a fraudulent website by the name of d-ticket.su, using the private signing key obtained under suspicious circumstances. How exactly this key came into the wrong hands remains unclear, but we present the possible explanations for how this could've happened, how many responsible have been thoroughly uncooperative in getting to the bottom of this, and how the supporting systems and processes of the Deutschlandticket were unable to cope with this situation.\n\nParallel to this, another fraud has been draining the transport companies of their much-needed cash: SEPA Direct Debit fraud. Often, a direct debit payment can be setup online with little more than an IBAN and ticking a box; and most providers of the Deutschlandticket offer an option to pay via direct debit. Fraudsters have noticed this, and mass purchase Deutschlandtickets with invalid or stolen IBANs before flipping them for a discounted price on Telegram; made easier because most transport companies issue a ticket immediately, before the direct debit has been fully processed. The supporting systems of the Deutschlandticket in many cases don't even provide for the revocation of such tickets. We will detail the hallmarks of this fraud, how transport companies can work to prevent it, and how we tracked down the fraudsters by their own careless mistakes.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7fa522b7-3b42-5b1c-8f62-eb9a7c3c5dab",
+      "name": "Q Misell",
+      "public_name": "Q Misell",
+      "avatar": "https://cfp.cccv.de/media/avatars/tram-pfp_gfzXLHS.jpg",
+      "biography": "Q is a researcher at the [Max-Planck Institut f\u00fcr Informatik](https://mpi-inf.mpg.de) in Saarbr\u00fccken, focusing its work on Internet architecture and security. In its spare time, it runs [Glauca Digital](https://glauca.digital), a domain registrar and web host. It's also a massive train nerd \ud83d\ude84.\n\nFedi: [@q@glauca.space](https://glauca.space/@q)\nWebsite: [magicalcodewit.ch](https://magicalcodewit.ch)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7fa522b7-3b42-5b1c-8f62-eb9a7c3c5dab"
+    },
+    {
+      "guid": "20b0b20d-d206-5bef-988a-1f46d006beca",
+      "name": "551724 / maya boeckh",
+      "public_name": "551724 / maya boeckh",
+      "avatar": "https://cfp.cccv.de/media/avatars/MZTZLK_4QP9UbG.webp",
+      "biography": "maya (it/its), frequently identified by the serial 551724, is a self-described \"software janitor\" as well as a creature that enjoys building things, be it friendships, communities, events and - in the real world - security blinky boxes and software. It also enjoys breaking things and figuring out how stuff really functions, constantly striving to improve them, when it isn't completely burnt out.\n\nfedi: @maya@catgirl.global\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_20b0b20d-d206-5bef-988a-1f46d006beca"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/all-my-deutschlandtickets-gone-fraud-at-an-industrial-scale",
+  "links": [
+    {
+      "url": "https://magicalcodewit.ch/39c3-slides/",
+      "type": "related",
+      "title": "Slides"
+    },
+    {
+      "url": "https://z\u00fcgli.app",
+      "type": "related",
+      "title": "Z\u00fcgli"
+    }
+  ],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/JZ9A3E/"
+}

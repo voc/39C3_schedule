@@ -1,0 +1,32 @@
+{
+  "guid": "ee467e45-6332-5539-bbb4-10b7e346a8da",
+  "code": null,
+  "id": 100426,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-handson-reusesoftware",
+  "title": "Handson REUSE.software",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Developing, using, and re-using [Free Software](https://fsfe.org/freesoftware/index.en.html) is fun, but declaring licensing and copyright information is not. [REUSE](https://reuse.software/) changes that. With three simple steps, it makes declaring licensing and copyright information unambiguous and perfectly human- and machine-readable.\r\n\r\nThis is an interactive workshop as an introduction to the REUSE project and demonstration of how to make a repository REUSE compliant.",
+  "description": "As software has gotten more complex over the last years, the importance of declaring licensing information has become even more crucial. The FSFE's REUSE initiative contributes to the goal of clearly displaying legal information in Free Software projects by embedding it into every file of the repository. Any project following the REUSE recommendations makes copyright and licensing information readable for both humans and machines. We ensure that individuals, organizations, and companies that are reusing code are aware of and respect the license terms chosen by its original author, thus making life easier for everyone involved in the software supply chain .\n\nREUSE integrates seamlessly into development processes and other best practices of indicating Free Software licenses. In addition, there are tools and documentation to help you get started.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "35bfc217-276d-598f-b5c2-4a084b134df6",
+      "name": "Tobias",
+      "public_name": "Tobias",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/Southpark-Tobias-FSFE_z1p2YKU.png",
+      "biography": "FLOSS Enthusiast from Berlin, Fediverse Ambassador, working for the FSFE\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_35bfc217-276d-598f-b5c2-4a084b134df6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/handson-reusesoftware",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/KAQ8ZT/",
+  "do_not_record": true
+}

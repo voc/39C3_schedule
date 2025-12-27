@@ -1,0 +1,48 @@
+{
+  "guid": "082025d8-53d4-54de-8fa3-1d48b5ee4229",
+  "code": "T3HWVP",
+  "id": 1506,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-der-verlangerte-reboot",
+  "title": "Der verl\u00e4ngerte Atem pres. Ghost Processes",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Der verl\u00e4ngerte Atem pres. Ghost Processes\r\n\r\nSeit 2020 sendet Der verl\u00e4ngerte Atem regelm\u00e4\u00dfig auf HALLO:Radio und tourt mit Gastauftritten auf Festivals und Veranstaltungen in und um Hamburg. Als offenes Radiolabor zwischen Musik, Redebeitr\u00e4gen und thematisch passenden Audio-Snippets, verweben die Vinyl-DJs, K\u00fcnstlerinnen und Radiomacherinnen Fiona Grassl, Jil Lahr und Martin Ramacher analoge Kl\u00e4nge, Stimmen und Gedanken zu thematischen Sendungen.\r\n\r\nF\u00fcr den 39C3 f\u00e4hrt Der Verl\u00e4ngerte Atem das System herunter - und wieder hoch. Und findet dazwischen: Prozesse ohne Besitzer, Threads ohne Aufgaben, Routinen, die l\u00e4ngst beendet sein sollten und doch weiterlaufen. Geisterprozesse fl\u00fcstern im Hintergrund, aktualisieren sich selbst, verlieren den Takt oder schlafen zu tief, um je zur\u00fcckzukehren. Zwischen knisterndem Vinyl, digitalem Summen, Glitches und verspielten Redebeitr\u00e4gen entstehen live Sound-Landschaften, in denen nichts ganz verschwindet - und alles wiederkehrt. Spooky.",
+  "description": "https://soundcloud.com/derverlaengerteatem\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/T3HWVP/dva_39c3_sONV_3HA8u85.webp",
+  "persons": [
+    {
+      "guid": "35ec7009-8125-5b0e-bf56-4e4092eb2a06",
+      "name": "Martin",
+      "public_name": "Martin",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_35ec7009-8125-5b0e-bf56-4e4092eb2a06"
+    },
+    {
+      "guid": "df5a5edf-e6aa-5746-8bf9-ce32751ca4f0",
+      "name": "Fiona",
+      "public_name": "Fiona",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_df5a5edf-e6aa-5746-8bf9-ce32751ca4f0"
+    },
+    {
+      "guid": "eae045d6-462f-5410-ab0f-e051d9332c1d",
+      "name": "Jil",
+      "public_name": "Jil",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_eae045d6-462f-5410-ab0f-e051d9332c1d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/der-verlangerte-reboot",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/T3HWVP/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/T3HWVP/feedback/"
+}

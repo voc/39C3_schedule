@@ -1,0 +1,30 @@
+{
+  "guid": "6a6daa67-ce77-4c97-aa20-c12661c70bec",
+  "code": null,
+  "id": 666777,
+  "date": "2025-12-27T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:30",
+  "room": "Art & Play: Bus Stage",
+  "slug": "39c3-traumtaucher",
+  "title": "Christoph Fleischer: Traumtaucher (documentary)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Der Theatertechniker Elias baut zusammen mit seinen Freunden ein voll funktionsf\u00e4higes Steampunk-U-Boot. W\u00e4hrend Nico Menschen aus den Wellen des Mittelmeers rettet, r\u00e4t der 70-j\u00e4hrige K\u00fcnstler Jim: \u201eTu es nicht. Repariere keine Autos, sondern mach lieber etwas im Leben, was du wirklich willst.\u201c Elias fragt sich: Muss man sich zwischen Selbstverwirklichung und selbstlosem Handeln entscheiden? Wovon h\u00e4ngt die Verantwortung gegen\u00fcber Einzelpersonen oder der Gesellschaft insgesamt ab?",
+  "description": "**Artist: Christoph Fleischer**\n\n**Genre: Documentary, 92 min**\n\n*DE with EN subtitles, 2024*\n\nTheatre engineer Elias builds a fully functional steampunk submarine together with his friends. While Nico rescues people from the waves of the Mediterranean, the 70-year-old artist Jim advises: \u201dDon\u2018t do it. Don\u2019t fix cars, but rather do something in life that you really want to\u201d. Elias asks himself: Is there a decision to be made between self-realization and selfless-action? Upon what does responsibility towards individuals or larger society depend?\n\nABOUT WATER AND DREAMS is a philosophical journey that questions the meaningfulness of our actions and dares to dream publicly in our dreamless society.\n\n\nDocumentary film about the submarine project presented at 37C3 with a lecture.\nLecture - \u201cHow to build a submarine and survive\u201d by Elias and Nico\n\n[www.traumtaucher-film.de](www.traumtaucher-film.de)\n\n[www.tiefenruder.de](www.tiefenruder.de)\n\nPicture: Traumtaucher \u00a9Christoph Fleischer\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/309857a8358f/1080-1080-max.jpg",
+  "persons": [
+    {
+      "guid": "44636aa8-eb33-4548-8e70-007750e83ab8",
+      "name": "Marty",
+      "public_name": "Marty",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/marty"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/traumtaucher",
+  "links": []
+}

@@ -1,0 +1,23 @@
+{
+  "guid": "970c40cb-3332-5e64-97f4-465a56f1b96a",
+  "code": "XFHQBY",
+  "id": 2449,
+  "date": "2025-12-29T09:30:00+01:00",
+  "start": "09:30",
+  "duration": "01:15",
+  "room": "Ground",
+  "slug": "39c3-azubi-tag-einfuhrung",
+  "title": "Azubi-Tag Einf\u00fchrung",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Jedes Jahr zwischen Weihnachten und Neujahr treffen sich tausende Hacker*innen zum Chaos Communication Congress in Hamburg. Der Azubi-Tag ist eine g\u00fcnstige Gelegenheit f\u00fcr Auszubildende, den Congress zu besuchen, den CCC kennenzulernen und viel \u00fcber IT-Security, Technik und Gesellschaft zu lernen. Wir freuen uns, diesen Tag nun zum dritten Mal anbieten zu k\u00f6nnen.",
+  "description": "Weitere Informationen findest du auf [https://events.ccc.de/congress/2025/infos/azubi-tag.html](https://events.ccc.de/congress/2025/infos/azubi-tag.html)\n",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/azubi-tag-einfuhrung",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/XFHQBY/",
+  "do_not_record": true
+}

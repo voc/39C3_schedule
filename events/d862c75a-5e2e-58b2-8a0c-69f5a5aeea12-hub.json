@@ -1,0 +1,32 @@
+{
+  "guid": "d862c75a-5e2e-58b2-8a0c-69f5a5aeea12",
+  "code": "39AGRE",
+  "id": 2524,
+  "date": "2025-12-31T02:00:00+01:00",
+  "start": "02:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-gregor-tresher",
+  "title": "Gregor Tresher",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "In the trend-driven universe of electronic dance music, Gregor Tresher is the rare artist who transcends such cycles. His secret? A relentless focus on melody and timbre, timeless musical elements that other producers often undervalue. Just as a painting or a photograph appears to move if one stares at it long enough, close listening to the stratified grooves and melodies in Tresher's music reveals an organic universe of shifting sound.",
+  "description": "https://soundcloud.com/gregortresher\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/39AGRE/artworks-9B5m_PqsZeff.webp",
+  "persons": [
+    {
+      "guid": "58f0741b-f34c-59f2-acaa-167781f25aef",
+      "name": "Gregor Tresher",
+      "public_name": "Gregor Tresher",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_58f0741b-f34c-59f2-acaa-167781f25aef"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gregor-tresher",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/39AGRE/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/39AGRE/feedback/"
+}

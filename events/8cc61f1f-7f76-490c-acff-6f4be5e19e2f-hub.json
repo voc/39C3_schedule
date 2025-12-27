@@ -1,0 +1,30 @@
+{
+  "guid": "8cc61f1f-7f76-490c-acff-6f4be5e19e2f",
+  "code": null,
+  "id": 861177,
+  "date": "2025-12-28T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:25",
+  "room": "SoS Workshop D",
+  "slug": "39c3-search-engine-creators-meetup",
+  "title": "Search Engine Creators Meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Meeting of creatures who have already tinkered with search engines, for getting to know each other and exchanging knowledge.\n\nIf you are interested in search engines, but have no prior knowledge [Search engines for the Curious](https://events.ccc.de/congress/2025/hub/en/event/detail/search-engines-for-the-curious) on day 3 is the even t for you.\n\nBring\n* problems where you are curious how others solved them\n* solutions others may be interested in\n* Lots of curiousness\n* some time to chat and listen\n\nIf you are curious about how search engines work but haven't worked on one yet you might be interested in the session \"Search Engines for the Curious\" which is aimed to be accessible to newcomers.\n\nExact location are still to be announced.\n\nNote: SoS Workshop D is way too large, I'd be happy to free up the reservation in exchange for a small location (maybe ~20 people) (and maybe a 50min slot)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6cfd0fb7-1bcd-492e-98e4-c2f55a7c65d9",
+      "name": "slatian (they/them)",
+      "public_name": "slatian (they/them)",
+      "avatar": null,
+      "biography": "Floofy dragon on the internet who builds software.\n\nCurrently working on the search engine over at [unobtanium.rocks](https://unobtanium.rocks).\n\nIf you want to meet me call my DECT (7586 \"SLTN\"), if I don't answer please try again later.\n\nWeb: [https://slatecave.net](https://slatecave.net)  \nKontakt: [https://slatecave.net/about/me#contact](https://slatecave.net/about/me#contact)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/slatian"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/search-engine-creators-meetup",
+  "links": []
+}

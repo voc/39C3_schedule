@@ -1,0 +1,36 @@
+{
+  "guid": "a877c904-f887-588e-9637-9b1df2f019dd",
+  "code": "7MSRA7",
+  "id": 1451,
+  "logo": null,
+  "date": "2025-12-29T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1451-10-years-of-dieselgate",
+  "url": "https://cfp.cccv.de/39c3/talk/7MSRA7/",
+  "title": "10 years of Dieselgate",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Let's have a (hopefully) final look at Diesel emission cheating. This technical talk summarizes what I learned by reverse-engineering dozens of engine ECU software, how I found and characterized \"interesting logic\" which, more often than not, ended up being a court-approved \"defeat device\".\r\n\r\nWhat started as a \"curious investigation\" in 2015 to obtain a ground truth to widespread media reports of \"VW being caught for cheating\" ended up as a full-blown journey through the then-current state of the Diesel car industry.\r\n\r\nIn this talk, I'll walk through the different implementation of defeat devices, their impact on emissions.",
+  "description": "10 years ago, I spent a lot of sleepless nights on reverse-engineering the Diesel software that implemented the (by now) well-known \"Acoustic Function\" defeat device; I presented my findings at the 32c3 and 33c3 in 2015 and 2016, expecting this to be the last time we needed to hear about this.\r\n\r\nLittle did I know about the extent of the Diesel emissions cheating. Since then I've analyzed many more vehicles, learned a bit or two about mechanical engineering problems of cars that I'd like to share.\r\n\r\nThis talk will discuss methodologies of independent analysis of highly dynamic systems that many people see as black boxes (but that, of course, are not: they are just machines running software).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "3XW7PG",
+      "name": "Felix Domke",
+      "avatar": "https://cfp.cccv.de/media/avatars/3XW7PG_vTVZIRz.webp",
+      "biography": "Felix has been reverse-engineering embedded systems for a long time. He stumbled across satellite TV receivers, gaming consoles and more recently automotive vehicle electronics and consumer drones. \r\n\r\nSince 2015, starting from a curious view at his own \"cheating\" Diesel car, he is involved in reverse-engineering and documenting various defeat devices that have been used in Diesel cars.",
+      "public_name": "Felix Domke",
+      "guid": "a384f3b5-7578-5d78-96cf-9ad54eddaea9",
+      "url": "https://cfp.cccv.de/39c3/speaker/3XW7PG/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/7MSRA7/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/7MSRA7/",
+  "attachments": []
+}

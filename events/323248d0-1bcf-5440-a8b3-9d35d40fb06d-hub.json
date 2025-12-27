@@ -1,0 +1,31 @@
+{
+  "guid": "323248d0-1bcf-5440-a8b3-9d35d40fb06d",
+  "code": "8NECSP",
+  "id": 1806,
+  "date": "2025-12-30T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-infrastructure-review",
+  "title": "Infrastructure Review",
+  "subtitle": null,
+  "language": "en",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Infrastructure teams present what they did for this years congress and why they did it that way.",
+  "description": "39c3 is a big challenge to run, install power, network connectivity and other services in a short time and tear down everything even faster. This is a behind the scenes of the event infrastructure, what worked well and what might not have worked as expected.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e5b459b2-9f87-50d0-93d5-9dc8a03505a8",
+      "name": "nicoduck",
+      "public_name": "nicoduck",
+      "avatar": null,
+      "biography": "I'm building networks and other stuff\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e5b459b2-9f87-50d0-93d5-9dc8a03505a8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/infrastructure-review",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/8NECSP/"
+}

@@ -1,0 +1,36 @@
+{
+  "guid": "ba655198-f461-5a1b-998c-12ed49fc7aae",
+  "code": "FT3MEL",
+  "id": 2424,
+  "logo": null,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-2424-a-tale-of-two-leaks-how-hackers-breached-the-great-firewall-of-china",
+  "url": "https://cfp.cccv.de/39c3/talk/FT3MEL/",
+  "title": "A Tale of Two Leaks: How Hackers Breached the Great Firewall of China",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The Great Firewall of China (GFW) is one of, if not arguably the most advanced Internet censorship systems in the world. Because repressive governments generally do not simply publish their censorship rules, the task of determining exactly what is and isn\u2019t allowed falls upon the censorship measurement community, who run experiments over censored networks. In this talk, we\u2019ll discuss two ways censorship measurement has evolved from passive experimentation to active attacks against the Great Firewall.",
+  "description": "While fuzzing the Great Firewall\u2019s DNS injection system in 2021, we noticed something strange: Sometimes the injected responses contained weird garbage. After some investigation, we realized we\u2019d stumbled onto a memory disclosure vulnerability that would give us an unprecedented window into the Great Firewall\u2019s internals: Wallbleed.\r\n\r\nSo we crafted probes that could leak up to 125 bytes per response and repeatedly sent them for two years. Five billion responses later, the picture that emerged was... concerning. Over 2 million HTTP cookies leaked. Nearly 27,000 URL parameters with passwords. SMTP commands exposing email addresses. We found UPnP traffic from RFC 1918 private addresses - suggesting we were seeing the Great Firewall\u2019s own internal network. We saw x86_64 stack frames with ASLR-enabled pointers. We even sent our own tagged traffic into China and later recovered those exact bytes in Wallbleed responses, proving definitively that real user traffic was being exposed.\r\n\r\nIn September 2023, the patching began. We watched in real-time as blocks of IP addresses stopped responding to our probes. But naturally the same developers that made this error in the first place made further mistakes. Within hours, we developed \u201cWallbleed v2\u201d queries that still triggered the leak. The vulnerability persisted for another six months until March 2024.\r\n\r\nGFW measurement research went back to business as usual until September of this year when an anonymous source released 600GB of leaked source code, packages, and documentation via Enlace Hacktivista. This data came from Geedge Networks - a company closely connected to the GFW and the related MESA lab. Geedge Networks develops censorship software not only for the GFW but also for other repressive countries such as Pakistan, Myanmar, Kazakhstan, and Ethiopia.\r\n\r\nWe will discuss some of our novel findings from the Geedge Networks leak, including system architecture and deployment details of the systems developed by Geedge Networks and MESA.\r\n\r\nWallbleed and the Geedge Networks leak show that censorship measurement research can be about more than just actively probing censored networks. We hope this talk will be a call to arms for hackers against Internet censorship.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "7KTGGW",
+      "name": "Unnamed user",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Unnamed user",
+      "guid": "94ec02b0-4907-5e9a-a54a-bc043dee5e97",
+      "url": "https://cfp.cccv.de/39c3/speaker/7KTGGW/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/FT3MEL/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/FT3MEL/",
+  "attachments": []
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "ad1cc4c7-e125-4cbe-ac14-9e8aaafe5a6f",
+  "code": null,
+  "id": 147125,
+  "date": "2025-12-28T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-science-in-science-fiction-die-reale-wissenschaft-",
+  "title": "Science in Science Fiction: Die reale Wissenschaft von Star Trek und Star Wars",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "In Science Fiction gibt es \u00dcberlichtgeschwindigkeit, Aliens, Antigravitation, Terraforming, Schutzschilde, Beamen, Railguns, KI, Fusion, Nano, und noch viel mehr.\n\nDieser Vortrag gibt einen \u00dcberblick, was die moderne Wissenschaft dazu sagt. Der Stand der Wissenschaft entwickelt sich weiter und das kommt nur langsam in der Science Fiction Literatur und in der \u00d6ffentlichkeit an. Was stimmt noch und was hat sich ge\u00e4ndert? Was ist wissenschaftlich fundiert, was w\u00e4re vielleicht doch m\u00f6glich und was wird immer erfundene Wissenschaft bleiben.\n\nEin realistischer Blick auf die Technologien von Star Trek und Star Wars. Au\u00dferdem ein Blick \u00fcber den Tellerrand, denn auch in der Vergangenheit wurden ab und zu schon Technologien erfunden, die sich vorher niemand vorstellen konnte.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33966605-2f0b-4c4d-b56e-d1956f5953af",
+      "name": "Wolfspelz",
+      "public_name": "Wolfspelz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/wolfspelz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/science-in-science-fiction-die-reale-wissenschaft-",
+  "links": []
+}

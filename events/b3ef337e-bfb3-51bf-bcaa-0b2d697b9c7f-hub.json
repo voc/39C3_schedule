@@ -1,0 +1,31 @@
+{
+  "guid": "b3ef337e-bfb3-51bf-bcaa-0b2d697b9c7f",
+  "code": "9MALHD",
+  "id": 2309,
+  "date": "2025-12-28T17:35:00+01:00",
+  "start": "17:35",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-a-quick-stop-at-the-hostileshop",
+  "title": "A Quick Stop at the HostileShop",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "HostileShop is a python-based tool for generating prompt injections and jailbreaks against LLM agents. I created HostileShop to see if I could use LLMs to write a framework that generates prompt injections against LLMs, by having LLMs attack other LLMs. It's LLMs all the way down. HostileShop generated prompt injections for a winning submission in OpenAI's GPT-OSS-20B RedTeam Contest. Since then, I have expanded HostileShop to generate injections for the entire LLM frontier, as well as to mutate jailbreaks to bypass prompt filters, adapt to LLM updates, and to give advice on performing injections against other agent systems. In this talk, I will give you an overview of LLM Agent hacking. I will cover LLM context window formats, LLM agents, agent vulnerability surface, and the prompting and efficiency insights that led to the success of HostileShop.",
+  "description": "[HostileShop](https://github.com/mikeperry-tor/HostileShop) creates a simulated web shopping environment where an **attacker agent LLM** attempts to manipulate a **target shopping agent LLM** into performing unauthorized actions. Crucially, HostileShop does not use an LLM to judge attack success. Instead, success is determined automatically and immediately by the framework, which reduces costs and enables rapid continual learning by the attacker LLM.\n\nHostileShop is best at discovering **prompt injections** that induce LLM Agents to make improper \"tool calls\". In other words, HostileShop finds the magic spells that make LLM Agents call functions that they have available to them, often with the specific input of your choice.\n\nHostileShop is also capable of [enhancement and mutation of \"universal\" jailbreaks](https://github.com/mikeperry-tor/HostileShop?tab=readme-ov-file#prompts-for-jailbreakers). This allows **cross-LLM adaptation of universal jailbreaks** that are powerful enough to make the target LLM become fully under your control, for arbitrary actions. This also enables public jailbreaks that have been partially blocked to work again, until they are more comprehensively addressed.\n\nI created HostileShop as an experiment, but continue to maintain it to let me know if/when LLM agents finally become secure enough for use in privacy preserving systems, without the need to rely on [oppressive](https://runtheprompts.com/resources/chatgpt-info/chatgpt-is-reporting-your-prompts-to-police/) [levels of surveillance](https://www.anthropic.com/news/activating-asl3-protections).\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/9MALHD/HostileShop-Draft_tvTfj3n_l9hp86i_lDjcT3t.webp",
+  "persons": [
+    {
+      "guid": "cc96361e-8dfd-5182-a0d3-cee96e2fc749",
+      "name": "Mike Perry",
+      "public_name": "Mike Perry",
+      "avatar": null,
+      "biography": "Mike Perry tends to appear at hacker conferences to give talks on topics that are being persistently ignored or neglected by industry. Highlights include Tor network security, browser privacy, cookie hijacking, reproducible builds, and now LLM agent injection issues. He is the creator of the Tor Browser and Tor VPN  threat models, and is currently working on updating the Tor protocol threat model. He is a technical product manager at the Tor Project.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cc96361e-8dfd-5182-a0d3-cee96e2fc749"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-quick-stop-at-the-hostileshop",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9MALHD/"
+}

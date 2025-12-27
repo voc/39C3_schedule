@@ -1,0 +1,30 @@
+{
+  "guid": "21b76119-cff4-402a-b269-8199fe78396d",
+  "code": null,
+  "id": 217611,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "House of Tea",
+  "slug": "39c3-chaos-cannabis-cup",
+  "title": "Chaos Cannabis Cup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Cannabis homegrowers meeting",
+  "description": "Cannabis homegrowers meeting\n\nSocial sharing of Cannabis is still prohibited. But nobody can keep us from showing our harvest to each other, discussing it.\n\nNo competition. No \"cup\". Just cozy get-together.\\\nLet's celebrate the survival of the partial legalization.\n\nMaybe we can realize a seed exchange. Bring along what you have left.\n\nsybb - show your best bud\\\nbyow - bring your own weed\n\nmatrix: [#chaos-cannabis-cup](https://events.ccc.de/congress/2025/hub/tag/chaos-cannabis-cup):tchncs.de\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "af40aa5f-d066-4f49-953b-26beee7484e6",
+      "name": "AdeptVeritatis",
+      "public_name": "AdeptVeritatis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/adeptveritatis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/chaos-cannabis-cup",
+  "links": []
+}

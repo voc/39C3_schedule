@@ -1,0 +1,55 @@
+{
+  "guid": "8ba2a160-c00d-56c4-a84e-afb1536bc48b",
+  "code": "F3LF7R",
+  "id": 2419,
+  "date": "2025-12-28T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-neue-chaos-events-inselchaos-und-hack-ma-s-castle-plaudern-aus-dem-nahkastchen",
+  "title": "Neue Chaos Events - InselChaos und H\u00e5ck ma\u2019s Castle plaudern aus dem N\u00e4hk\u00e4stchen",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Auf der Insel R\u00fcgen und in \u00d6sterreich tut sich was - und zwar neue Chaos Events. Wir m\u00f6chten \u00fcber Anforderungen, Herausforderungen, H\u00fcrden, Erfahrungen und Gl\u00fccksmomente aus unserer Sicht der Orga erz\u00e4hlen. Das InselChaos fand im LaGrange e.V. im September 2025 statt und bildet den Auftakt f\u00fcr weitere kreative, informative und chaotische Events auf der Insel R\u00fcgen. Das H\u00e5ck ma\u2019s Castle wird mit etwas Humor auch \u00fcber Herausforderungen sprechen, welche unter anderem durch dezentrale Teams aus diversen Hackspaces entstehen.",
+  "description": "**InselChaos**\nDer Port39 e.V. hatte den Traum, das Chaos nach MV zu holen und ein gr\u00f6\u00dferes Event an der Ostsee zu veranstalten. Gerade erst 3 Jahre alt, haben wir mit der Planung in kleinem Kreis begonnen. Eine Location musste gesucht, Inspirationen und Ideen gesammelt, b\u00fcrokratische H\u00fcrden und sehr viele individuelle Probleme gel\u00f6st werden, bis es Anfang September soweit war, dass wir unsere G\u00e4ste begr\u00fc\u00dfen durften. In diesem Talk sprechen wir dar\u00fcber, wie es ist, als kleiner Verein mit einem vierk\u00f6pfigen Orga-Team ein ChaosEvent mit \u00fcber 150 G\u00e4sten zu koordinieren, welche Schwierigkeiten wir dabei \u00fcberwunden und vor allem, welche Learnings wir daraus gezogen haben, um es n\u00e4chstes Mal noch besser zu machen.\n\n\n**H\u00e5ck ma\u2019s Castle**\nWir werden in unserem Talk, dar\u00fcber sprechen, welche Methoden und Meetingmodi wir ausgetestet haben, gute wie aber auch schlechte Entscheidungen welche getroffen wurden. Vorallem aber auch \u00fcber die Herausforderung, die es mit sich bringt, wenn sich Wesen noch nicht kennen und wir zuerst auf menschlicher Ebene auch zusammenkommen mussten, damit es inhaltlich auch besser klappt.\n\nHard facts H\u00e5ck ma's Castle:\n- 3 (+1) Tage Event\n- August 2024\n- mit Schloss\n- mit Camping\n- ~330 Wesen\n- inklusive 1 Schlosskatze *meow*\n- Orga verteilt in ganz \u00d6sterreich und dar\u00fcber hinaus:\n- metalab, realraum, C3W, CCC Salzburg, /dev/lol, SegFaultDragons, SegVault, IT-Syndikat, /usr/space, Geb\u00e4rdenverse, female coders, chaos.jetzt etc.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "54df8a2c-ddf5-5eaf-a0ba-3b27fd1d6695",
+      "name": "Erwin Ernst \"eest9\" Steinhammer",
+      "public_name": "Erwin Ernst \"eest9\" Steinhammer",
+      "avatar": null,
+      "biography": "Netzpolitischer Aktivist aus \u00d6sterreich. Aktiv beim Chaos Computer Club Wien und Forum Informtionsfreiheit. Setzt sich seit Jahren vor allem f\u00fcr die Informationsfreiheit, f\u00f6derierte soziale Netze und Community-Building ein.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_54df8a2c-ddf5-5eaf-a0ba-3b27fd1d6695"
+    },
+    {
+      "guid": "0c99800d-4f94-5fe9-91f1-3cd868384eee",
+      "name": "lasii",
+      "public_name": "lasii",
+      "avatar": "https://cfp.cccv.de/media/avatars/LDLELP_OgstTBp.png",
+      "biography": "hat jahrelange Erfahrung an Eventorganisation, sowieso Vereinsleitungen und Gr\u00fcndungen. lasii ist mit der Projektleitung vom Hack ma's Castle auch deutlich tiefer ins Chaos eingetaucht.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0c99800d-4f94-5fe9-91f1-3cd868384eee"
+    },
+    {
+      "guid": "cd9ba78f-d099-54dd-b7fe-76a43476f1f9",
+      "name": "Daniel",
+      "public_name": "Daniel",
+      "avatar": null,
+      "biography": "Daniel vom Port39 e.V..  - jack of all trades -\n\nDer Verein Port39 e.V. aus Stralsund ist eine gemeinn\u00fctzige Organisation, die sich der F\u00f6rderung von Bildung, Weiterbildung sowie Kunst und Kultur im Bereich der Informationstechnologie widmet. Themen wie Computersicherheit, Datenschutz und der verantwortungsvolle Umgang mit Technologie stehen dabei im Mittelpunkt.\nIch bin Mitglied des Orga-Teams, gemeinsam mit drei weiteren Menschen bilden wir das Kern-Orga-Team des InselChaos.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cd9ba78f-d099-54dd-b7fe-76a43476f1f9"
+    },
+    {
+      "guid": "9aa24256-0acd-5beb-8b51-38395f3c09b9",
+      "name": "Niklas",
+      "public_name": "Niklas",
+      "avatar": null,
+      "biography": "Niklas vom Port39 e.V.. \nDer Verein Port39 e.V. aus Stralsund ist eine gemeinn\u00fctzige Organisation, die sich der F\u00f6rderung von Bildung, Weiterbildung sowie Kunst und Kultur im Bereich der Informationstechnologie widmet. Themen wie Computersicherheit, Datenschutz und der verantwortungsvolle Umgang mit Technologie stehen dabei im Mittelpunkt.\nIch bin Mitglied des Orga-Teams, gemeinsam mit drei weiteren Menschen bilden wir das Kern-Orga-Team des InselChaos.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9aa24256-0acd-5beb-8b51-38395f3c09b9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/neue-chaos-events-inselchaos-und-hack-ma-s-castle-plaudern-aus-dem-nahkastchen",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/F3LF7R/"
+}

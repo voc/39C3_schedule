@@ -1,0 +1,30 @@
+{
+  "guid": "3dd8e2f3-d272-4828-a2f3-802d88443679",
+  "code": null,
+  "id": 382327,
+  "date": "2025-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-block",
+  "title": "FAQ Panel 2.0: Your Notes, Our Conversation: Unpacking Your Questions about Ethical Non-Monogamy",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Just like last congress we'll sit and chat about your submitted questions and thoughts. If you want to submit an idea or question, find the question box around one of our events, or at the Relationship Geeks assembly.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "03009b1d-1c72-42f6-9d67-a3d17a0341ef",
+      "name": "zenme",
+      "public_name": "zenme",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/zenme"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/block",
+  "links": []
+}

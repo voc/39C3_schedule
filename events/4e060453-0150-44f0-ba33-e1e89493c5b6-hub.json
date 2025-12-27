@@ -1,0 +1,30 @@
+{
+  "guid": "4e060453-0150-44f0-ba33-e1e89493c5b6",
+  "code": null,
+  "id": 406045,
+  "date": "2025-12-28T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "02:00",
+  "room": "SoS Workshop D",
+  "slug": "39c3-3-congress-skatturnier-auf-dem-39c3",
+  "title": "3. Congress Skatturnier auf dem 39c3 - 1. Serie",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Erste Serie des 3. Congress Skatturnier auf dem 39C3.\r\n\r\nFirst series of the 3rd Congress Tournament at 39C3.",
+  "description": "This is the first series of the [3rd Congress Skat Tournament at 39C3](https://0x1b.de/39c3Skat/Skatturnier.html). Non-binding registration takes place at [Nuudel](https://nuudel.digitalcourage.de/xe7sI6LzCfXXXEUm). The first 48 registrants are guaranteed a spot, after which a waiting list will be created.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a07f9fd5-5f94-4943-a697-cd87d487859c",
+      "name": "segal",
+      "public_name": "segal",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/segal"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/3-congress-skatturnier-auf-dem-39c3",
+  "links": []
+}

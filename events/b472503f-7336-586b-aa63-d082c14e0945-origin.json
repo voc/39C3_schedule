@@ -1,0 +1,36 @@
+{
+  "guid": "b472503f-7336-586b-aa63-d082c14e0945",
+  "code": "YDKJDT",
+  "id": 2035,
+  "logo": null,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2035-how-to-keep-open-source-open-without-leaving-our-communities-open-to-threats",
+  "url": "https://cfp.cccv.de/39c3/talk/YDKJDT/",
+  "title": "How to keep Open Source open without leaving our communities open to threats",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The Four Freedoms (defined \\~40 years ago) and the Four Opens (\\~15 years ago) for Open Source provided canonical definitions for what are the cornerstones of Open Source Software communities today. While the ethos still applies today, the cultural norms that blossomed to put it into practice are from an era with different challenges.\r\n\r\nTo build a better world, we need to both keep _and protect_ the value system of the Four Freedoms and Four Opens. To do that, we need to re-assess our risk and threat models to balance that allows beautiful minds to flourish as well as introduce responsible friction to prevent harm from coming to them.",
+  "description": "The state of the internet, c 1990:\r\n\r\n* Limited, opt-in connectivity: people had to both have access to a computer and that computer had to have access to the internet.\r\n* Tooling required some in-industry knowledge to be able to run and use, not only for development but also for communication. \r\n* Open source was a young movement. The \"common source\" was proprietary.\r\n\r\nThe state of the internet, c 2025:\r\n\r\n* Always online, might-not-even-be-to-opt-out connectivity: devices are almost always collecting and transmitting data, including audio/visual, in some cases even if \"turned off\".\r\n* Easy to use tooling has made it easier for everyone to come together. The pervasiveness of technology also means that most people, of any background, can easily access other people in the thousands or even millions.\r\n* Open source is common, accessible, and matured. A $9 **_trillion_** resource. Yes, **_trillion_**.\r\n\r\nThese three significant changes drastically change the threat model for OSS communities. In the beginning, someone had to have both knowledge and resources to harm or otherwise compromise a community of developers. Now, anyone with a grudge can make a bot army with seamless integrations and gracious freemium tiers for AI/LLMs. Likewise, when open source was small, the \"who\" who would be motivated to harm and otherwise disrupt those communities was limited. Now there is both massive social and economic benefit to harm and disrupt. This means that risks and threats now still include the motivated and resourced **_with the addition of_** those who are scarce in both.\r\n\r\nWe need to come together to build new organizational threat models that account for how this consequence has posed new risks to our communities. With care and attention to detail, we can introduce responsible friction that will protect our communication infrastructure, the lifeblood of what allows open source to grow.\r\n\r\nThere will also be a workshop with this presentation, with the outcome of creating an ongoing working group dedicated to helping OSS Foundations of all sizes protect their communities.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "PWZ3CX",
+      "name": "Quintessence",
+      "avatar": "https://cfp.cccv.de/media/avatars/PWZ3CX_3wQcHNc.png",
+      "biography": "Quintessence is the Executive Director of the Nivenly Foundation as well as the Head Moderator of the Hachyderm Mastodon instance.",
+      "public_name": "Quintessence",
+      "guid": "d18297f0-02e4-5e1d-894b-5f3fa08f5dbc",
+      "url": "https://cfp.cccv.de/39c3/speaker/PWZ3CX/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/YDKJDT/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/YDKJDT/",
+  "attachments": []
+}

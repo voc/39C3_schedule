@@ -1,0 +1,36 @@
+{
+  "guid": "f894f246-6bd4-5750-a66b-d073e37b7acd",
+  "code": "AAHZK8",
+  "id": 1856,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/AAHZK8/Utrecht_NL_2010-00-00_00.00_Interieu_Z98tfgy.jpg",
+  "date": "2025-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:00",
+  "room": "Zero",
+  "slug": "39c3-1856-human-microservices-at-the-dutch-railways-modern-architecture-ancient-hardware",
+  "url": "https://cfp.cccv.de/39c3/talk/AAHZK8/",
+  "title": "Human microservices at the Dutch Railways: modern architecture, ancient hardware?",
+  "subtitle": "",
+  "track": "Hardware",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The Dutch railways have been operating an increasingly complicated network of trains for over 80 years. The task of overseeing it is far too complex for a single human. As such, a network of specifically scoped humans has been connected. Over time, computers and software have been introduced into the system, but today there is still a significant role for humans.\r\n\r\nThis talk describes the network of \"human microservices\" that is involved in the Dutch Railways' day to day operation from the eyes of a software developer.",
+  "description": "When a train breaks down in the Netherlands, a system of interconnected humans is shifted into gear. The current state of that system has been developed for over 80 years and as such should be seen as an architectural marvel. Even though there is nowadays a significant amount of software involved in the process, the people involved are still very much necessary.\r\n\r\nThis talk describes the processes and roles involved in the Dutch railway day to day operations. We will start at a broken down train on a busy track and work our way towards solutions including dragging the train, evacuating travelers and redirecting other trains on that trajectory. We will explore this from a software developer's perspective. We will consider the people involved as an ancient form of hardware, and the protocols between them as software. We will also go over the more modern additions to the system: phone lines and software running on actual computers.\r\n\r\nAfter our investigation you will have a new understanding of the complexity of running a railway network. And we will ask ourselves: is this an outdated system that needs to be digitized? Or is this actually a modern system with microservices and a \"human in the loop\"?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "ZLWUGH",
+      "name": "Maarten W",
+      "avatar": "https://cfp.cccv.de/media/avatars/ZLWUGH_D2mZGBo.png",
+      "biography": "I'm a software developer at the Nederlandse Spoorwegen (Dutch Railways / NS). I work on software that is used to keep an eye on all the trains. It is used in the day-to-day operations, where a 24/7 shift keeps track of the trains, and makes sure problems are solved with as little impact on travelers as possible.",
+      "public_name": "Maarten W",
+      "guid": "2bb4f201-0888-59cd-b215-dc2d55af772f",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZLWUGH/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/AAHZK8/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/AAHZK8/",
+  "attachments": []
+}

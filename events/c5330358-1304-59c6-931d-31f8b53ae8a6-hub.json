@@ -1,0 +1,47 @@
+{
+  "guid": "c5330358-1304-59c6-931d-31f8b53ae8a6",
+  "code": null,
+  "id": 300129,
+  "date": "2025-12-27T11:10:00+01:00",
+  "start": "11:10",
+  "duration": "00:40",
+  "room": "CDC Triangle",
+  "slug": "39c3-the-cdc-badge-conference-badge-devboard-with-tropi",
+  "title": "The CDC Badge: conference badge & devboard with TROPIC01 and ESP32-S3",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Electronic hacker badge for the Critical Decentralization Cluster, featuring the TROPIC01 secure element with an ESP32-S3 microcontroller.\r\n\r\nMeant to be used for workshops and prototyping. It can also be worn as a mobile badge. Features an e-paper display with frontlight, a JST connector for single-cell LiPo batteries and a 12-button keypad.\r\n\r\nDesigned with KiCad and released as open-hardware.\r\n\r\nhttps://github.com/riatlabs/cdc-badge",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1e2e0937-99ca-55d6-b3c7-1ec402969850",
+      "name": "dllud",
+      "public_name": "dllud",
+      "avatar": "https://pretalx.riat.at/media/avatars/b6de4d19f686b43fa8be3d2e44a629c8_0HCXJSp.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1e2e0937-99ca-55d6-b3c7-1ec402969850"
+    },
+    {
+      "guid": "c137308a-d751-512b-9c32-2af04ca0e696",
+      "name": "Pavel Polach",
+      "public_name": "Pavel Polach",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c137308a-d751-512b-9c32-2af04ca0e696"
+    },
+    {
+      "guid": "68f0daef-472b-5204-9d06-173d3ef227e4",
+      "name": "bobotronic",
+      "public_name": "bobotronic",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_68f0daef-472b-5204-9d06-173d3ef227e4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-cdc-badge-conference-badge-devboard-with-tropi",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/TJXALG/"
+}

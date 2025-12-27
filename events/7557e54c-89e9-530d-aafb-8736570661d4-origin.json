@@ -1,0 +1,45 @@
+{
+  "guid": "7557e54c-89e9-530d-aafb-8736570661d4",
+  "code": "XN3U8L",
+  "id": 2067,
+  "logo": null,
+  "date": "2025-12-28T19:15:00+01:00",
+  "start": "19:15",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-2067-amtsgeheimnis-raus-datenhalde-rein-was-die-informationsfreiheit-in-osterreich-bringt",
+  "url": "https://cfp.cccv.de/39c3/talk/XN3U8L/",
+  "title": "Amtsgeheimnis raus, Datenhalde rein: was die Informationsfreiheit in \u00d6sterreich bringt",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Jahrelang war die staatliche Intransparenz in \u00d6sterreich nur eine Punchline in den Congress-Talks von Frag Den Staat. Damit k\u00f6nnte jetzt Schluss sein: seit heuer haben B\u00fcrger:innen endlich ein Recht, Dokumente einzusehen und ein Informationsfreiheitsgesetz. Wir zeigen, was Deutschland aus der \u00fcber ein Jahrzehnt andauernden Kampagne f\u00fcr die Abschaffung des Amtsgeheimnisses lernen kann, wof\u00fcr uns die Nachbarl\u00e4nder beneiden werden und wof\u00fcr sich Bayern besonders sch\u00e4men sollte.",
+  "description": "Die Kampagne \u2013 wie aus \"binnen zwei Wochen\" mehr als elf Jahre wurden\r\nDie Strategien \u2013 die man \u00fcbernehmen kann\r\nDer Vergleich \u2013 wie ist \u00d6sterreichische IFG im Vergleich zum Deutschen, und ist das der richtige\r\nDie (besten) Preistr\u00e4ger \u2013 aus mehr als zehn Jahren des Schm\u00e4hpreises \"Mauer des Schweigens\"\r\nDie Datenhalde \u2013 mit Aufruf, was aus dem Datenberg zu machen",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "VD8B7V",
+      "name": "Markus (fin) Hametner",
+      "avatar": "https://cfp.cccv.de/media/avatars/VD8B7V_7ZT6rwm.jpeg",
+      "biography": "Markus (fin) Hametner ist freier Datenjournalist und ehrenamtlich als Vorstandsmitglied des Forum Informationsfreiheit t\u00e4tig. Seine Rechtsstreite f\u00fchrten erstmals zur Anerkennung eines Rechtes auf Information von \u201epublic watchdogs\u201c durch \u00f6sterreichische H\u00f6chstgerichte. Das Forum Informationsfreiheit ist \u00d6sterreichs f\u00fchrende NGO f\u00fcr Informationsrechte von B\u00fcrgerinnen und B\u00fcrgern. Es betreibt unter Anderem das Anfrage-Portal FragDenStaat.at.",
+      "public_name": "Markus (fin) Hametner",
+      "guid": "9957178a-6e8a-51b0-bf8a-700fba0de5f9",
+      "url": "https://cfp.cccv.de/39c3/speaker/VD8B7V/"
+    },
+    {
+      "code": "DJVBVP",
+      "name": "Erwin Ernst \"eest9\" Steinhammer",
+      "avatar": null,
+      "biography": "Netzpolitischer Aktivist aus \u00d6sterreich. Aktiv beim Chaos Computer Club Wien und Forum Informtionsfreiheit. Setzt sich seit Jahren vor allem f\u00fcr die Informationsfreiheit, f\u00f6derierte soziale Netze und Community-Building ein.",
+      "public_name": "Erwin Ernst \"eest9\" Steinhammer",
+      "guid": "54df8a2c-ddf5-5eaf-a0ba-3b27fd1d6695",
+      "url": "https://cfp.cccv.de/39c3/speaker/DJVBVP/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/XN3U8L/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/XN3U8L/",
+  "attachments": []
+}

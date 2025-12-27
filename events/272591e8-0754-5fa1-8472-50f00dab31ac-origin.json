@@ -1,0 +1,45 @@
+{
+  "guid": "272591e8-0754-5fa1-8472-50f00dab31ac",
+  "code": "WHGYRX",
+  "id": 1743,
+  "logo": null,
+  "date": "2025-12-29T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-1743-learning-from-south-korean-telco-breaches",
+  "url": "https://cfp.cccv.de/39c3/talk/WHGYRX/",
+  "title": "Learning from South Korean Telco Breaches",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "2025 was a bad year for South Korean mobile network operators. All three operators (SK Telecom, KT, LG U+) were affected by breach in some part of their respective network: HSS of SK Telecom, femtocells of KT. Meanwhile, handling of the breach by each operators and post-mortem analysis of each breaches have stark differences. The technical details and implemented mitigations are often buried under the vague terms, and occasionally got lost in translation to English. In this talk, I will cover the technical aspects of SK Telecom and KT's breach, and how the operators are coping to the breach and what kind of measurements have been performed to secure their network.",
+  "description": "This talk will cover the public information and experiments related to the South Korean telco breaches in 2025. This talk will cover SK Telecom's HSS breach (final results announced), KT's femtocell breach (investigation ongoing) and related operator billing fraud, and revisit Phrack report on KT and LG U+ breach. We also give a light on the detail regarding the implemented mitigation and diaster response of each operators.\r\n\r\nSK Telecom's HSS breach is attributed to a variant of BPFDoor malware, resulting leakage of critical operator data related to subscriber authentication and accounting. They replaced the SIM cards of all 23 million subscribers, and implemented additional mechanism to track the possible cloning of the SIM card. We analyze the aftermath and how it will effectively protect against the said attack.\r\n\r\nKT's femtocell and operator billing breach (investigation still ongoing as the time of writing) is attributed to the mismanagement of KT's femtocell, allowing an external attacker to mimick the behavior of KT's legitimate femtocell and use as a cellular interception device. This is a modern implementation of the remarkable research \"Weaponizing Femtocells\" back in 2012, and new cellular technologies like VoLTE have changed the possible attack vectors. We provide a possible theory on how the attack would be possible, based on the publicly available information and previous researches.\r\n\r\nFinally, we also cover the characteristics of South Korean mobile market and how the media caused the inaccurate analysis and FUD (fear, uncertainty, and doubt). In particular, how SMS-based 2FA is tied to personal authentication and how everything is strongly bound to the personal identity. Early media reports could be attributed to the information \"lost in translation\" and inaccurate information in English-language articles when the details of the breach were not widely shared. We try to correct the information (also in the official incidence report) and showcase how not to report the breach in general.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "B79TLY",
+      "name": "Shinjo \"peremen\" Park",
+      "avatar": null,
+      "biography": "Shinjo Park (peremen) is a security researcher with focus on cellular network equipment and modems.",
+      "public_name": "Shinjo \"peremen\" Park",
+      "guid": "33de4ca2-d09c-578d-bdb9-bbc166d2b568",
+      "url": "https://cfp.cccv.de/39c3/speaker/B79TLY/"
+    },
+    {
+      "code": "BYELPM",
+      "name": "Yonghyu \"perillamint\" Ban",
+      "avatar": null,
+      "biography": ".",
+      "public_name": "Yonghyu \"perillamint\" Ban",
+      "guid": "1816e392-479a-5c68-a21a-2c16a8a641cb",
+      "url": "https://cfp.cccv.de/39c3/speaker/BYELPM/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/WHGYRX/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/WHGYRX/",
+  "attachments": []
+}

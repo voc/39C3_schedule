@@ -1,0 +1,30 @@
+{
+  "guid": "c6459ba2-d5dc-46e7-8f7d-ed9cd40ac62e",
+  "code": null,
+  "id": 645925,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Kidspace - Tisch vor Saal B",
+  "slug": "39c3-papierbasteln-tag-3",
+  "title": "Papierbasteln Tag 3",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Eine kleine Tropeninsel (1 Stunde, Material und Werkzeug sind vorhanden)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e23e64f7-3daf-482c-978f-7c53ba235605",
+      "name": "Cisz (er, he)",
+      "public_name": "Cisz (er, he)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/cisz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/papierbasteln-tag-3",
+  "links": []
+}

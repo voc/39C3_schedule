@@ -1,0 +1,40 @@
+{
+  "guid": "1149b97e-2043-542d-b0e8-62686fce6c01",
+  "code": "GA9PPQ",
+  "id": 114997,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "01:30",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-haecksen-power-cycle-dezentralisieren-und-rebooten",
+  "title": "Haecksen Power (Cycle) \u2013 Dezentralisieren und Rebooten [Haecksen only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Haecksen only.\r\n\r\nEs ist an der Zeit daf\u00fcr zu sorgen, dass wir mehr Engagement bei den Haecksen hinbekommen und das Wissen, wie alles funktioniert, schneller verteilen. Lasst uns die Struktur dezentralisieren und rebooten.",
+  "description": "Einzelne Personen tragen viele H\u00fcte. Die gesamte Struktur wird durch wenige am Laufen gehalten. Gerade durch das Wachstum der letzten Jahre und die damit verbundene Gr\u00f6\u00dfe von ~1000 Haecksen sollte dazu f\u00fchren, dass die Last verteilt wird \u2013 und nicht einfach mehr Aufwand auf weiterhin wenigen Schultern verteilt wird. Die Haecksen sind keine reine remote Gruppe, aber auch keine, die nur offline t\u00e4tig und sichtbar ist. Damit m\u00fcssen wir einen guten Umgang finden, damit beide Bereiche gut miteinander funktionieren.\n\nWir sind viele und unsere Existenz ist wichtig, Es ist an der Zeit die Haecksen neu zu strukturieren; beginnend bei der Kommunikation \u00fcber die IT hin zu den Ortsgruppen. Sei es nun die \u00dcbernahme von mehr Verantwortung durch eine Verteilung der Verantwortung auf die Ortsgruppen oder einen anderen Ansatz. Es gibt einige Themen, die wir einmal bearbeiten m\u00fcssen, um diese gro\u00dfartige und wichtige Struktur weiter zu verbessern.\n\nLasst uns in diesem Workshop Verantwortung \u00fcbernehmen und die bestehenden Strukturprobleme angehen und gemeinsam Ma\u00dfnahmen zur Verbesserung erarbeiten. Am Anfang soll eine Themensammlung stattfinden, um zu erfassen, was es anzugehen gilt. Danach m\u00f6chten wir in kleineren Arbeitsgruppen die ersten m\u00f6glichen Ma\u00dfnahmen definieren. Alles folgt dem Ziel, die Haecksen wieder voran zu bringen und zu einem Ort des Engagements zu machen \u2013 in dem die Verantwortung von vielen getragen wird.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "11825085-f5d1-554c-89e5-65023ae48fbe",
+      "name": "captain-maramo",
+      "public_name": "captain-maramo",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/avatar_4xzkG1Y.png",
+      "biography": "Haeckse\nTrans\nirgendwas mit DevSecOps und Platform Engineering\nCybernanny\n@captain_maramo@chaos.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_11825085-f5d1-554c-89e5-65023ae48fbe"
+    },
+    {
+      "guid": "dc2407ad-052d-572e-a88e-b51d3b4bb4f8",
+      "name": "naerrin",
+      "public_name": "naerrin",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/naerrin_logo_Cq4RxoM.jpg",
+      "biography": "Mache Dinge bei den Haecksen. Und noch mehr Zeug.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_dc2407ad-052d-572e-a88e-b51d3b4bb4f8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/haecksen-power-cycle-dezentralisieren-und-rebooten",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GA9PPQ/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GA9PPQ/feedback/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "97b9ddde-ef72-548e-bddb-e83af610076c",
+  "code": null,
+  "id": 100458,
+  "date": "2025-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-battlemesh-meetup",
+  "title": "Battlemesh Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Meetup for all people involved or interested in the Battlemesh community event, especially regarding the 2026 Battlemesh v18: https://battlemesh.org/BattleMeshV18",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "603ee8bc-45aa-51aa-af9c-3792ad2171e3",
+      "name": "battlemesh",
+      "public_name": "battlemesh",
+      "avatar": null,
+      "biography": "The Wireless Battle Mesh is a non-commercial, volunteer-organized annual convention.\n\nThe convention features a variety of talks and workshops on technical and political issues related to mesh networking, wireless community networks and Openwrt firmware development.\n\nThe purpose of the event is to further topics such as right to connectivity, community-owned infrastructure and related free open source projects. \nhttps://battlemesh.org/\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_603ee8bc-45aa-51aa-af9c-3792ad2171e3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/battlemesh-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/MQDPMH/",
+  "do_not_record": true
+}

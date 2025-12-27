@@ -1,0 +1,30 @@
+{
+  "guid": "8e705309-d766-5ad7-9ab7-80422c1c171c",
+  "code": null,
+  "id": 870530,
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-open-legal-qa-with-judith-de-boer-can-i-get-arrest",
+  "title": "Open Legal Q&A with Judith de Boer: \"Can I Get Arrested for Writing Code?\"",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Judith de Boer is leading the Alex Pertsev's legal defence team \u2014 fighting his \"Alex could've thought that his code will be used by criminals, but still wrote it \u2014 so he's guilty of criminal conspiracy\" verdict from a Dutch court.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "50c12702-e270-59ed-827c-af7c2d9a53fc",
+      "name": "Kirill",
+      "public_name": "Kirill",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_50c12702-e270-59ed-827c-af7c2d9a53fc"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/open-legal-qa-with-judith-de-boer-can-i-get-arrest",
+  "links": []
+}

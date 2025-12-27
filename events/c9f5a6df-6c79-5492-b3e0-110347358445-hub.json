@@ -1,0 +1,31 @@
+{
+  "guid": "c9f5a6df-6c79-5492-b3e0-110347358445",
+  "code": "TTQVKM",
+  "id": 1421,
+  "date": "2025-12-28T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-a-post-american-enshittification-resistant-internet",
+  "title": "A post-American, enshittification-resistant internet",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Trump has staged an unscheduled, midair rapid disassembly of the global system of trade. Ironically, it is this system that prevented all of America's trading partners from disenshittifying their internet: the US trade representative threatened the world with tariffs unless they passed laws that criminalized reverse-engineering and modding. By banning \"adversarial interoperability,\" America handcuffed the world's technologists, banning them from creating the mods, hacks, alt clients, scrapers, and other tools needed to liberate their neighbours from the enshittificatory predations of the ketamine-addled zuckermuskian tyrants of US Big Tech.\r\n\r\nWell, when life gives you SARS, you make sarsaparilla. The Trump tariffs are here, and it's time to pick the locks on the those handcuffs and set the world's hackers loose on Big Tech. Happy Liberation Day, everyone!",
+  "description": "Enshittification wasn't an accident. It also wasn't inevitable. This isn't the iron laws of economics at work, nor is it the great forces of history.\n\nEnshittification was a choice: named individuals, in living memory, enacted policies that created the enshittogenic environment. They created a world that encouraged tech companies to merge to monopoly, transforming the internet into \"five giant websites, each filled with screenshots of the other four.\" They let these monopolists rip us off and spy on us.\n\nAnd they banned us from fighting back, claiming that anyone who modified a technology without permission from its maker was a pirate (or worse, a terrorist). They created a system of \"felony contempt of business-model,\" where it's literally a crime to change how your own devices work. They declared war on the general-purpose computer and demanded a computer that would do what the manufacturer told it to do (even if the owner of the computer didn't want that).\n\nWe are at a turning point in the decades-long war on general-purpose computing. Geopolitics are up for grabs. The future is ours to seize.\n\nIn my 24 years with EFF, I have seen many strange moments, but never one quite like this. There's plenty of terrifying things going on right now, but there's also a massive, amazing, incredibly opportunity to seize the means of computation.\n\nLet's take it. '\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TTQVKM/trump-big-tech_lzS3fBk.png",
+  "persons": [
+    {
+      "guid": "9901bfa3-19e0-58bd-b4eb-a2f39a20d68f",
+      "name": "Cory Doctorow",
+      "public_name": "Cory Doctorow",
+      "avatar": "https://cfp.cccv.de/media/avatars/7XJVEG_NGCQnDg.jpg",
+      "biography": "Cory Doctorow has worked for the Electronic Frontier Foundation for 24 years. He writes many (more than 30!) books, including books on tech policy, science fiction novels, and books for young readers and small children. He is visiting faculty at the Open University (UK), Cornell, MIT, and the University of North Carolina, and holds honourary doctorates in computer science (Open Universtiy) and laws (York University). He has been inducted into the Canadian Science Fiction and Fantasy Hall of Fame and been awarded the Sir Arthur Clarke Imagination in Service to Society Awardee for lifetime achievement and the Neil Postman Award for Career Achievement in Public Intellectual Activity. His latest book is *Enshittification: Why Everything Suddenly Got Worse and What to do About It.* He keeps a daily(ish) blog at Pluralistic.net.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9901bfa3-19e0-58bd-b4eb-a2f39a20d68f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-post-american-enshittification-resistant-internet",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TTQVKM/"
+}

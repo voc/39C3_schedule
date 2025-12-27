@@ -1,0 +1,39 @@
+{
+  "guid": "832b4de9-1ee3-5905-a4dc-692a71ac87d3",
+  "code": "CBZFN3",
+  "id": 1827,
+  "date": "2025-12-28T22:05:00+01:00",
+  "start": "22:05",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-don-t-look-up-there-are-sensitive-internal-links-in-the-clear-on-geo-satellites",
+  "title": "Don\u2019t look up: There are sensitive internal links in the clear on GEO satellites",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "We pointed a commercial-off-the-shelf satellite dish at the sky and examined all of the geostationary satellite communications visible from our vantage point. A shockingly large amount of sensitive traffic is being broadcast unencrypted, including critical infrastructure, internal corporate and government communications, private citizens\u2019 voice calls and SMS, and consumer Internet traffic from in-flight wifi and mobile networks.",
+  "description": "In this talk, we will cover our hardware setup, alignment techniques, our parsing code, and survey some of the surprising finds in the data.  This talk will include some previously unannounced results.  This data can be passively observed by anyone with a few hundred dollars of consumer-grade hardware. There are thousands of geostationary satellite transponders globally, and data from a single transponder may be visible from an area as large as 40% of the surface of the earth.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/CBZFN3/dontlookup_gmsM0KU.jpeg",
+  "persons": [
+    {
+      "guid": "33ca77e2-91a6-5215-84f1-5d2c27d757c2",
+      "name": "Nadia Heninger",
+      "public_name": "Nadia Heninger",
+      "avatar": null,
+      "biography": "Nadia Heninger is a professor in the computer science and engineering department at the University of California, San Diego.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_33ca77e2-91a6-5215-84f1-5d2c27d757c2"
+    },
+    {
+      "guid": "442c6872-8af4-58e2-b307-4ae001600d44",
+      "name": "Annie Dai",
+      "public_name": "Annie Dai",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_442c6872-8af4-58e2-b307-4ae001600d44"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/don-t-look-up-there-are-sensitive-internal-links-in-the-clear-on-geo-satellites",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/CBZFN3/"
+}

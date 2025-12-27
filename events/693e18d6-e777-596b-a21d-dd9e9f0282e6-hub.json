@@ -1,0 +1,31 @@
+{
+  "guid": "693e18d6-e777-596b-a21d-dd9e9f0282e6",
+  "code": "DXEGJL",
+  "id": 2409,
+  "date": "2025-12-28T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-live-die-repeat-the-fight-against-data-retention-and-boundless-access-to-data",
+  "title": "Live, Die, Repeat: The fight against data retention and boundless access to data",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Both within the EU as well as nationally in Germany, there exists a renewed drive to implement data retention, a practice struck down by the ECJ and discontinued in many national legislations. In parallel, cross-border access to stored data has been mandated within the EU as \u201ce-evidence\u201d, and will soon be extended to 90+ countries under the umbrella of the EU cybercrime convention. In principle, all data stored by service providers will be available to law enforcement as part of a criminal investigation. The timing of both initiatives is not coincidental, as access to data naturally relies on the availability of data.\r\nThe talk will address the state of play on data retention in various legislations, and introduce the practice of cross border access to stored data by law enforcement as well as its shortcomings and threats to privacy and confidentiality.",
+  "description": "The Specter of Data Retention is back in the political arena, both as a harmonized, EU-wide approach as well as being part of the coalition agreement of the new German national government. Other countries have already recently implemented new data retention laws, i.e. Belgium or Denmark. \nIn parallel, access to all types of stored data \u2013 and not only data stored under a data retention regime \u2013 by law enforcement has been radically reformed by groundbreaking new legislation, undermining both exiting national safeguards as well as protections implemented by businesses aiming for a higher standard in cyber security and data protection.  \nThe talk will give an overview on recent developments for a harmonized \u201cminimum\u201d approach to data retention under the Polish and Danish EU presidency as well as the new German legislation currently under consideration. \nIt will introduce the upcoming international release mechanisms for stored data under the e-evidence legislation, the 2nd protocol to the EU cybercrime convention as well as future threats from the UN cybercrime convention. \nIt will address how a cross-border request for information works in practice, which types of data can be requested by whom, and who will be responsible for the few remaining safeguards \u2013 including an analysis of the threat model and potential \u201cside channel\u201d attacks by cybercrime to gain access to basically all data stored by and with service providers.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "219f2843-5c02-53e9-9085-c5db278379e0",
+      "name": "Klaus Landefeld",
+      "public_name": "Klaus Landefeld",
+      "avatar": "https://cfp.cccv.de/media/avatars/landefeld-600x600_ON3nq91.jpg",
+      "biography": "Klaus is an expert on internet and telecommunications infrastructure and networks, net neutrality, data retention, surveillance, and IT security. \nAs early as 1984, he was setting up mailbox systems and LAN infrastructure. In 1995 he founded Nacamar, one of the first independent ISPs in Germany, which became the first German tier one globally. From 1999, he was CTO of the pan-European World Online N.V. group, where he was responsible for 1,500 technicians in 17 countries.\nSince 2013, Klaus is CEO of nGENn GmbH and is advising companies on the build and operation of broadband access networks, data centers, and IP services. He also acts as data protection and security officer for diverse carriers and satellite operators.\nRepresenting eco e.V. and EuroISPA, Klaus is negotiating the diverse iterations of data retention legislation as an industry expert since 2004. He is also a member of the EU e-evidence implementation expert group as well as an expert for the implementation of the 2nd Budapest protocol for the EU cybercrime convention.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_219f2843-5c02-53e9-9085-c5db278379e0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/live-die-repeat-the-fight-against-data-retention-and-boundless-access-to-data",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DXEGJL/"
+}

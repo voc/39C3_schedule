@@ -1,0 +1,31 @@
+{
+  "guid": "5aff7e34-29b3-5f04-84a0-326e3c7ac072",
+  "code": null,
+  "id": 300093,
+  "date": "2025-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-decentralized-syndication-the-missing-internet-pro",
+  "title": "Decentralized Syndication\u200a\u2014\u200aThe Missing Internet Protocol",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "The Internet is decentralized by design. It came into being not at once, but in parts.\u200a New protocols were added on top of  previous ones, with each new protocol extending and improving functionality of the global network. However one essential protocol is still missing \u200a\u2014\u200a an open way to discover content on the web.",
+  "description": "I have implemented a conceptual decentralized content sydication platform and would like to tell more about the philosophy behind it.\n\nThe workshop will consist of two parts: 30 min presentation about the concept and 30 min workshop where participants would try to publish their social post on RSDS network.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b161bbb1-eb4b-535f-af33-a4c548320504",
+      "name": "Tautvilas",
+      "public_name": "Tautvilas",
+      "avatar": "https://pretalx.riat.at/media/avatars/profile_ylLyMUH.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b161bbb1-eb4b-535f-af33-a4c548320504"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/decentralized-syndication-the-missing-internet-pro",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/DVEGM7/"
+}

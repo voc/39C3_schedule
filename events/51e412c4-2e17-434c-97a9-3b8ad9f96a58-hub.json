@@ -1,0 +1,30 @@
+{
+  "guid": "51e412c4-2e17-434c-97a9-3b8ad9f96a58",
+  "code": null,
+  "id": 514124,
+  "date": "2025-12-29T00:30:00+01:00",
+  "start": "00:30",
+  "duration": "01:20",
+  "room": "SoS Saal 6",
+  "slug": "39c3-qubes-os-meetup",
+  "title": "Qubes OS meetup",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We are a group of Qubes OS users who meet monthly in Berlin.\nAt 39c3 we would like to meet other Qubes OS enthusiasts and discuss everything Qubes OS related!\n\nSome\u00a0topics for the meeting could be:\n\n- 2025 in Qubes :D\n- Qubes OS 4.3\n- Introducing Qubes OS: A beginner\u2019s perspective and a hands-on experience\n- Whatever you would like to share and discuss!\n\nAll creatures welcome <3\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "077cd756-5bfd-449f-9461-700a7f93fdbd",
+      "name": "qubedmaiska",
+      "public_name": "qubedmaiska",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/qubedmaiska"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/qubes-os-meetup",
+  "links": []
+}

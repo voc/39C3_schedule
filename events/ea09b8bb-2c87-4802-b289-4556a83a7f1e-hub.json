@@ -1,0 +1,38 @@
+{
+  "guid": "ea09b8bb-2c87-4802-b289-4556a83a7f1e",
+  "code": null,
+  "id": 98287,
+  "date": "2025-12-27T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:20",
+  "room": "SoS Workshop D",
+  "slug": "39c3-burgerrat-zur-biometrischen-authentifizierung-der-",
+  "title": "B\u00fcrgerrat zur biometrischen Authentifizierung der Zukunft - Eine spielerische Diskussion \u00fcber Regulierungsans\u00e4tze",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The year is 2040. Everyday digital life is convenient, but the digital sovereignty of state and civil society remains a sensitive issue. Recent approaches to authentication based on behavior, physical characteristics, or DNA are intended to make many things even easier \u2013 but do we want that, and if so, how? In our workshop, you will be part of a citizens' assembly deciding on the applications, implementation, and limits of these technologies. Join us in discussing the focus for tomorrow's biometrics! (This workshop will be held in German.)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c993243b-abaf-4f8b-9958-2d83b4f26709",
+      "name": "grbll",
+      "public_name": "grbll",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/grbll"
+    },
+    {
+      "guid": "7e06c004-f4e7-405f-b873-b0dd0dbc945f",
+      "name": "philis",
+      "public_name": "philis",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/philis"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/burgerrat-zur-biometrischen-authentifizierung-der-",
+  "links": []
+}

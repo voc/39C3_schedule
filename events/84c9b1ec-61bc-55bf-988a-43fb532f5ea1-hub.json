@@ -1,0 +1,39 @@
+{
+  "guid": "84c9b1ec-61bc-55bf-988a-43fb532f5ea1",
+  "code": null,
+  "id": 200513,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-intro-to-sparql-and-wikidata-query-service-en",
+  "title": "Intro to SPARQL and Wikidata Query Service (EN)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "The WIkidata Query Service (WDQS) is one of the main services to get data from Wikidata. In this workshop we'll explore the SPARQL query language that allows us to access data as well as the WDQS UI, a helpful UI in which we can write and run queries. The goal is that you'll be able to write your own queries and explore Wikidata's data by the end of the session.",
+  "description": "The slides for this talk can be found here: https://docs.google.com/presentation/d/1f_depHSZDL73Ba3ZA1L2TG2J_F1o8RwsBfm_2hETYQQ/edit?usp=sharing\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5e4a742b-3e67-5905-8655-f871f1cde3e4",
+      "name": "Andrew McAllister",
+      "public_name": "Andrew McAllister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/icon_square_FhQtdbT.png",
+      "biography": "Andrew is a Data Analyst focusing on Wikidata and Linked Open Data at Wikimedia Deutschland.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5e4a742b-3e67-5905-8655-f871f1cde3e4"
+    },
+    {
+      "guid": "6c34013e-ee28-5a83-bdd7-07da671a309c",
+      "name": "Lucas Werkmeister",
+      "public_name": "Lucas Werkmeister",
+      "avatar": "https://pretalx.wikimedia.de/media/avatars/2023-04-26_Lucas_Werkmeister_WMDE_by_Sandro_Halank001_square_QObvO97.jpg",
+      "biography": "Lucas arbeitet bei Wikimedia Deutschland als Softwareentwickler und ist auch sonst in den Wikimedia-Projekten aktiv, u. a. als Tool-Entwickler.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6c34013e-ee28-5a83-bdd7-07da671a309c"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/intro-to-sparql-and-wikidata-query-service-en",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/RNWUH8/"
+}

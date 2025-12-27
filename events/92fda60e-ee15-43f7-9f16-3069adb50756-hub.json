@@ -1,0 +1,30 @@
+{
+  "guid": "92fda60e-ee15-43f7-9f16-3069adb50756",
+  "code": null,
+  "id": 926015,
+  "date": "2025-12-28T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-privacy-ultras-meetup",
+  "title": "Privacy Ultras Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "If you're trying to raise your privacy / OPSEC in the real and digital worlds to a maximum, this is for you.\n\nThis is a round-table skill sharing session about practical privacy.\nLet's discuss our threat levels (what we're trying to protect against) and share our approaches to preserving our privacy.\n\nTopics may include how to avoid unique identifiers like your legal or birth name, phone numbers, email addresses, physical (postal) addresses, device identifiers like browser cookies, IP addresses, MAC addresses, anonymous/multiple SIM cards or virtual phone numbers, and all kinds of fingerprinting techniques.\n\nI will bring a list of topics/threats and we'll discuss our solutions to them. I'm asking to share your tricks, which may include using fake names, P.O. boxes and parcel lockers, actively avoiding cameras, using anonymous phone numbers / SIM cards, VPNs, browser extensions, sandboxing techniques, self hosting, and whatever else. Of course I'll bring my knowledge on this topic as well.\n\nThe session will not be recorded. Please do not take any photos.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f59b53dd-630e-40c6-8660-306b9387b305",
+      "name": "jomo",
+      "public_name": "jomo",
+      "avatar": null,
+      "biography": "- [@jomo@mstdn.io](https://mstdn.io/@jomo)\n- Interested in privacy/OPSEC.\n- Did [a CCC talk](https://jomo.tv/osint-opsec-introduction) about that topic titled `OSINT: Ich wei\u00df wo dein Haus wohnt` (engl. ~ `I know where you live`).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/jomo"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/privacy-ultras-meetup",
+  "links": []
+}

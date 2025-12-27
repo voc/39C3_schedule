@@ -1,0 +1,30 @@
+{
+  "guid": "50ab2aec-7e8f-466a-88d2-ef4d4de7b6cb",
+  "code": null,
+  "id": 502784,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "Vegan Chaos Assembly",
+  "slug": "39c3-vegan-chaos-lets-talk-day-1",
+  "title": "Vegan Chaos: Let's Talk (Day 1)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Komm vorbei und lasst uns in unserer Assembly quatschen! Dies ist die Zeit, wo die Community zusammenkommt, wo Interessierte stressfrei Fragen stellen k\u00f6nnen, oder auch nur einfach ein Getr\u00e4nk miteinander getrunken werden kann.",
+  "description": "**Come by and let's chat at our assembly!**\n\nThis is the time when the community comes together, when anyone interested can ask questions in a relaxed atmosphere, or just enjoy a drink together. Like-minded people, curious minds, motivated individuals, interested parties and many more meet here. Let's connect, all creatures are welcome!\n\n### More Information:\n\n- To the **[Vegan Chaos Community Assembly](https://events.ccc.de/congress/2025/hub/en/assembly/detail/vegan_chaos)**\n- Follow us at Mastodon: **[@vegan@chaos.social](//chaos.social/@vegan)**\n\n### Our Events:\n\n-  27.12.  |  13:00  |  Room D |  **[Vegan Chaos: Welcome Meet & Greet](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-welcome-meet-greet_zdm4)**\n\n-  27.12.  |  20:30  |  Assembly |  **[Vegan Chaos: Let's Talk](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-lets-talk-day-1)**\n\n-  28.12.  |  11:30  |  Assembly |  **[Vegan Chaos: Let's Talk](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-lets-talk-day-2)**\n\n-  29.12.  |  13:00  |  Room D |  **[Vegan Chaos: Bring-Along Fingerfood Brunch](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-bring-along-fingerfood-brunch)**\n\n-  28.12.  |  18:30  |  Assembly |  **[Vegan Chaos: Let's Talk](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-lets-talk-day-3)**\n\n-  30.12.  |  11:00  |  Room 6 |  **[Vegan Chaos: Farewell Meeting](https://events.ccc.de/congress/2025/hub/en/event/detail/vegan-chaos-farewell-meeting)**\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/0ab2619dbe14/39C3veganchaos.png",
+  "persons": [
+    {
+      "guid": "07784d08-b358-4b23-9963-1e532487e171",
+      "name": "ganzesaetze (he/him)",
+      "public_name": "ganzesaetze (he/him)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ganzesaetze"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/vegan-chaos-lets-talk-day-1",
+  "links": []
+}

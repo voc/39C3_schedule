@@ -1,0 +1,40 @@
+{
+  "guid": "442a198c-46c1-52b8-9f23-88c5132d6b74",
+  "code": "BTCAAA",
+  "id": 400020,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "FNF Assembly",
+  "slug": "39c3-datenschutzrechte-zum-mitmachen-dsgvo-anfragen-ste",
+  "title": "Datenschutzrechte zum Mitmachen \u2013 DSGVO-Anfragen stellen mit Datenanfragen.de",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Die DSGVO ist in aller Munde, aber was bedeutet sie eigentlich f\u00fcr Dich? Wir wollen uns die Rechte, die Dir durch die DSGVO zugesichert werden, einmal genauer anschauen und \u2013 vor allem \u2014 ausprobieren. In unserem Workshop lernst Du, mit Datenanfragen.de Anfragen zu stellen, um an Deine Daten zu kommen, sie l\u00f6schen zu lassen, zu berichtigen oder Widerspruch gegen Direktwerbung einzulegen.",
+  "description": "Online-Shops, Streamingdienste, Banken, Handy-Apps, \u00f6ffentliche Stellen, Versicherungen, soziale Netzwerke \u2026 Die Liste an Organisationen, die Deine Daten haben wollen, ist sehr lang. Wahrscheinlich gibt es sogar etliche Unternehmen wie Adressh\u00e4ndler und Auskunfteien, die zwar Deine Daten haben, von denen Du aber noch nie etwas geh\u00f6rt hast.\n\nZum Gl\u00fcck musst Du Dich nicht damit abfinden, \u201edass das halt so ist\u201c. Denn Du hast ein Recht auf Datenschutz! Wenn Unternehmen, Beh\u00f6rden und andere Organisationen Deine personenbezogenen Daten nutzen wollen, m\u00fcssen sie sich dabei an die Datenschutz-Grundverordnung (DSGVO) halten. Damit Du die Kontrolle \u00fcber Deine Daten behalten kannst, gew\u00e4hrt Dir die DSGVO eine Reihe von Rechten, die Du den Organisationen gegen\u00fcber kostenlos geltendmachen darfst: Das Recht auf Auskunft dar\u00fcber, welche Daten zu Dir verarbeitet werden, einschlie\u00dflich einer Kopie dieser Daten, das Recht auf Berichtigung unrichtiger Daten zu Dir, das Recht auf L\u00f6schung Deiner Daten unter bestimmten Umst\u00e4nden, und das Recht auf Werbewiderspruch.\n\nWir sind ein gemeinn\u00fctziger Verein, der daran arbeitet, diese Rechte allen Menschen zug\u00e4nglich zu machen. Daf\u00fcr betreiben wir vor allem die Webseite Datenanfragen.de, die Dich durch den gesamten Anfragenprozess leitet und am Ende den Anfragentext generiert, den Du nur noch an die entsprechenden Organisationen abschicken musst.\n\nIn diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu machen und mehr dar\u00fcber zu erfahren, wer welche Daten zu Dir hat. Dazu erkl\u00e4ren wir Dir n\u00e4her, was es mit Deinen Datenschutzrechten und unseren Werkzeugen auf sich hat und stellen dann gemeinsam Anfragen. Keine Sorge: Du brauchst daf\u00fcr keine technischen oder rechtlichen Vorkenntnisse.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a0a635be-c3e5-57c3-b90d-984a266fa825",
+      "name": "Lorenz",
+      "public_name": "Lorenz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0a635be-c3e5-57c3-b90d-984a266fa825"
+    },
+    {
+      "guid": "a96aa350-8c36-5b97-99e7-bcc440f38b7f",
+      "name": "Benni",
+      "public_name": "Benni",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a96aa350-8c36-5b97-99e7-bcc440f38b7f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/datenschutzrechte-zum-mitmachen-dsgvo-anfragen-ste",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/BTCAAA/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/BTCAAA/feedback/"
+}

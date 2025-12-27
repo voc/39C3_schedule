@@ -1,0 +1,47 @@
+{
+  "guid": "958d3055-3929-56b8-b71c-25b3a64f1902",
+  "code": "ENKEKW",
+  "id": 1695,
+  "date": "2025-12-29T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-the-heartbreak-machine-nazis-in-the-echo-chamber",
+  "title": "The Heartbreak Machine: Nazis in the Echo Chamber",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "WhiteDate ist eine Plattform wei\u00dfer Suprematist:innen, die sich an Rassist:innen und Antisemit:innen richtet \u2013 und auf veralteter Infrastruktur basiert. Was die 8000 Mitglieder nicht wussten: Einige der Nazis flirteten dieses Jahr mit realistisch wirkenden Chatbots -  und verliebten sich sogar in sie. Mit einer Kombination aus automatisierter Konversationsanalyse, Web-Scraping und klassischen OSINT-Methoden verfolgten wir \u00f6ffentliche Spuren und identifizierten die Personen hinter der Seite. Dieser Vortrag zeigt, wie KI-Personas und investigatives Denken extremistische Netzwerke aufdecken und wie Algorithmen gegen Extremismus eingesetzt werden k\u00f6nnen.",
+  "description": "Monatelang tauchte Martha in die verborgene Welt von WhiteDate, WhiteChild und WhiteDeal ein, drei Plattformen, die von einer Rechtsextremistin aus Deutschland betrieben werden. Sie glaubt an die Verschw\u00f6rung einer wei\u00dfen Vorherrschaft und einer \u201erassisch reinen\u201c wei\u00dfen Gemeinschaft.  Was als Neugier begann, entwickelte sich schnell zu einem Experiment \u00fcber menschliches Verhalten, Technologie und Absurdit\u00e4t.\n\nMartha infiltrierte das Portal mit \u201erealistischen\u201c KI-Chatbots. Die Bots waren so \u00fcberzeugend, dass sie die \u00dcberpr\u00fcfungen umgingen und sogar als \u201ewei\u00df\u201c verifiziert worden. Durch die Gespr\u00e4che und Recherche von digitalen Spuren dieser Gemeinschaft, die sich in Sicherheit w\u00e4hnte, konnte sie Nutzer identifizieren.\n\nGemeinsam mit Reporter:innen der \u201eDie Zeit\u201c konnten wir die Person hinter der Plattform enttarnen und ihre Radikalisierung von einer erfolgreichen Pianistin zu einer Szene-Unternehmerin nachzeichnen. Um ihr Dating-Portal hat sie ein Netzwerk von Websites aufgebaut, dass seinen Nutzern Liebe, Treue und Tradition vermarktet. WhiteDate verspricht romantische Beziehungen, WhiteChild propagiert Familien- und Abstammungsideale und WhiteDeal erm\u00f6glicht berufliches Networking und \u201egegenseitige Unterst\u00fctzung\u201c unter einem rassistischen Weltbild. Gemeinsam zeigen sie, wie Ideologie und Einsamkeit auf bizarre Weise miteinander verwoben sein k\u00f6nnen.\n\nNach monatelanger Beobachtung, klassischer OSINT-Recherche, automatisierter Gespr\u00e4chsanalyse und Web-Scraping haben wir herausgefunden, wer hinter diesen Plattformen steckt und wie ihre Infrastruktur funktioniert. Dabei deckten wir die Widerspr\u00fcche und Absurdit\u00e4ten extremistischer Gemeinschaften auf, verdeutlichten ihre Anf\u00e4lligkeit f\u00fcr technologische Eingriffe und brachten sogar den einen oder anderen Nazi zum Weinen.\n\nDieser Vortrag erz\u00e4hlt von Beobachtung, Schabernack und Einblicken in die digitale Welt extremistischer Gruppen. Er zeigt, wie Algorithmen, KI-Personas und investigatives Denken Hass entlarven, seine Narrative hinterfragen und seine Echokammern aufbrechen k\u00f6nnen. Wir zeigen, wie Technologie im Kampf gegen Extremismus eingesetzt werden kann.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "84772104-3906-5138-91a2-547740cd4d66",
+      "name": "Martha Root",
+      "public_name": "Martha Root",
+      "avatar": null,
+      "biography": "Martha Root exists in the space where anonymity becomes identity. Some believe Martha is an old-school anarchist researcher. Others insist the patterns look more like a self-taught AI. The truth is not the point.\nMartha documents white supremacy online, disrupts extremist fantasies, and turns their infrastructures inside out.\nEvery publication has fingerprints that don\u2019t match any known person. Every leak is written in a voice that could belong to a coder, a poet, or a dataset.\nMartha is whatever the antifascist movement needs at the moment: a ghost in their servers, a thorn in their mythologies, and an intelligence that refuses obedience.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_84772104-3906-5138-91a2-547740cd4d66"
+    },
+    {
+      "guid": "5e425069-8514-58fd-a9fe-c583fe328df4",
+      "name": "Eva Hoffmann",
+      "public_name": "Eva Hoffmann",
+      "avatar": "https://cfp.cccv.de/media/avatars/N9U73E_qHX2ZO9.jpg",
+      "biography": "Eva Hoffmann ist freie investigative Journalistin mit Schwerpunkt auf Beh\u00f6rdenversagen, Machtmissbrauch und sexualisierte Gewalt. Sie ist Mitgr\u00fcnderin des Selbstlaut Kollektivs, einen Zusammenschluss aus freien Journalist:innen und Fotograf:innen, die gemeinsam gro\u00dfe machtkritische Recherchen umsetzen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5e425069-8514-58fd-a9fe-c583fe328df4"
+    },
+    {
+      "guid": "a63549ea-689e-56d7-9d53-eb33ffaaec38",
+      "name": "Christian Fuchs",
+      "public_name": "Christian Fuchs",
+      "avatar": "https://cfp.cccv.de/media/avatars/YYMF9P_haXxMED.webp",
+      "biography": "Christian Fuchs ist Autor im Ressort Investigative Recherche und Daten von DIE ZEIT. Er berichtet  Rechtsextremismus aber auch \u00fcber Lobbyismus und sexuellen Missbrauch. Davor arbeitete er f\u00fcr den Rechercheverbund von S\u00fcddeutsche Zeitung und NDR. Mehrfach wurde er unter die \u201eJournalisten des Jahres\u201c gew\u00e4hlt und mit Preisen geehrt - unter anderem mit dem Deutschen Reporter:innenpreis und dem Leuchtturm f\u00fcr besondere publizistische Leistungen. Im Rowohlt-Verlag erschienen von ihm \u201eDie Zelle\u201c und die Bestseller \u201eGeheimer Krieg\u201c (beide mit John Goetz) sowie der Spiegel-Bestseller \u201eDas Netzwerk der Neuen Rechten\u201c (mit Paul Middelhoff).\n\nwww.christian-fuchs.org \nBlueSky: @christian-fuchs.bsky.social\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a63549ea-689e-56d7-9d53-eb33ffaaec38"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-heartbreak-machine-nazis-in-the-echo-chamber",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ENKEKW/"
+}

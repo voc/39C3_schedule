@@ -1,0 +1,31 @@
+{
+  "guid": "6938a1f1-4ee3-5fca-ae37-d59274e529de",
+  "code": "37CQQE",
+  "id": 2042,
+  "date": "2025-12-28T23:55:00+01:00",
+  "start": "23:55",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-code-to-craft-procedural-generation-for-the-physical-world",
+  "title": "Code to Craft: Procedural Generation for the Physical World",
+  "subtitle": null,
+  "language": "en",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "abstract": "Join bleeptrack for a deep dive into the fascinating world of procedural generation beyond the screen. From stickers and paper lanterns to PCBs, furniture, and even physical procedural generators, this talk explores the challenges and creative possibilities of bringing generative projects into tangible form.",
+  "description": "In this talk, I will share practical insights from developing procedural generation tools for physical objects: ranging from stickers and paper lanterns to printed circuit boards and even furniture. I will outline key challenges and considerations when generating designs for fabrication tools such as laser cutters or pen plotters, as well as how to adapt procedural systems so they can be reproduced by a wide audience (not everyone has access to CNC machines or industrial equipment, sadly!).\n\nBeyond technical considerations, I aim to encourage attendees to translate their own generative ideas into tangible artifacts and to foster a culture of open-sourcing and knowledge sharing within the community.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "2a4b20d1-6933-5af1-aa03-3b47be40806d",
+      "name": "bleeptrack",
+      "public_name": "bleeptrack",
+      "avatar": "https://cfp.cccv.de/media/avatars/SJKJXL_R5Chkoy.JPG",
+      "biography": "bleeptrack is an award-winning artist and creative technologist. She completed her Master's degree in Media Informatics at the University of Ulm in 2017 and is currently doing her doctorate in Machine Learning and Computational Creativity. Her artistic focus is on generative art, AI/machine learning and digital fabrication.  She is particularly interested in the transfer of digital art into physical objects made from a wide range of materials, as well as the free and open-source publication of her art projects.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_2a4b20d1-6933-5af1-aa03-3b47be40806d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/code-to-craft-procedural-generation-for-the-physical-world",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/37CQQE/"
+}

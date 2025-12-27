@@ -1,0 +1,32 @@
+{
+  "guid": "211742d8-ca97-5e1b-9162-0cd13afc9f72",
+  "code": "MTZ3G7",
+  "id": 2496,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-fimi-nush",
+  "title": "Fimi & Nush",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Fimi&Nush",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/MTZ3G7/IMG_2183_PwZE_i0x8SWq.webp",
+  "persons": [
+    {
+      "guid": "f108dc3b-253f-5eba-99a5-c75c5ba122a9",
+      "name": "Hanni",
+      "public_name": "Hanni",
+      "avatar": null,
+      "biography": "<4\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f108dc3b-253f-5eba-99a5-c75c5ba122a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fimi-nush",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/MTZ3G7/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/MTZ3G7/feedback/"
+}

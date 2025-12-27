@@ -1,0 +1,38 @@
+{
+  "guid": "8ac82d03-a4e1-4b89-aae5-afde47a75dbd",
+  "code": null,
+  "id": 882034,
+  "date": "2025-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:25",
+  "room": "Komonin",
+  "slug": "39c3-se-habla-espanol",
+  "title": "Se habla espa\u00f1ol",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Un espacio para reunir a la comunidad de habla hispana en el 39c3. La idea es presentarnos brevemente (\u00bfde d\u00f3nde vienes? \u00bfen qu\u00e9 andas?), platicar y hacer comunidad. El idioma principal ser\u00e1 espa\u00f1ol pero el espacio es abierto y flexible. Sin formalidades ni l\u00e1minas, solo personas.\n\nA space to bring together the Spanish-speaking community at the 39c3.\nThe idea is to briefly introduce ourselves (where are you from? what are you working on?), chat, and build community. Spanish will be the main language but the space is open and flexible. No formalities or slides, just people.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d6233919-216c-44a4-ae30-2dc8ffa1a753",
+      "name": "KarlaBago",
+      "public_name": "KarlaBago",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/karlabago"
+    },
+    {
+      "guid": "f2d614c2-c28c-4d32-86cf-d30d47681c39",
+      "name": "manuelrabade",
+      "public_name": "manuelrabade",
+      "avatar": "https://cfp.cccv.de/media/avatars/HUZ3XF_YAff8Nj.jpeg",
+      "biography": "Computer Engineer from Mexico City. Works in software and explores hardware and radio communications for fun. Actively collaborates with Mexican tech, open-source, and hacking communities to build spaces to learn, share, and experiment together.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/manuelrabade"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/se-habla-espanol",
+  "links": []
+}

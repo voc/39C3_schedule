@@ -1,0 +1,31 @@
+{
+  "guid": "66debe2d-84ca-5350-95af-7d1af9de73af",
+  "code": null,
+  "id": 300082,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "CDC Circle",
+  "slug": "39c3-radicle-setup-and-introduction",
+  "title": "Radicle: Setup and Introduction",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "[Radicle](https://radicle.xyz/) is an open source, peer-to-peer code collaboration stack built on Git. Unlike centralized code hosting platforms, such as GitHub or GitLab, there is no single entity controlling the network. Repositories are replicated across peers in a decentralized manner, and users retain sovereignty over their data and workflow.\r\n\r\n*Free your code!*",
+  "description": "Attend this workshop if you would like to try out Radicle. We'll set it up, and learn how to replicate a Git repository of your choice on the network. Further, learn how to use Radicle Patches and Radicle Issues for collaboration.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/TXTPLK/radicle_mvRS2xu_yTrnGwu.svg",
+  "persons": [
+    {
+      "guid": "7e57dfc9-efea-5ad6-96c5-8f8425e1a616",
+      "name": "Lorenz Leutgeb",
+      "public_name": "Lorenz Leutgeb",
+      "avatar": "https://pretalx.riat.at/media/avatars/magritte-eye_-centered_GEn6PXF.jpg",
+      "biography": "Contributor to Radicle. See [lorenz.leutgeb.xyz](https://lorenz.leutgeb.xyz)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7e57dfc9-efea-5ad6-96c5-8f8425e1a616"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/radicle-setup-and-introduction",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/TXTPLK/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "54421289-8b44-5d6e-bc13-9f85da609f50",
+  "code": null,
+  "id": 100435,
+  "date": "2025-12-28T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-openstreetmap-meetup",
+  "title": "OpenStreetMap Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Ob langj\u00e4hriges Community-Mitglied, Mapper-Neuling oder einfach nur neugierig \u2013 komm vorbei, teile deine Erfahrungen und lass dich von der Begeisterung f\u00fcr OpenStreetMap anstecken!",
+  "description": "Die OpenStreetMap-Community l\u00e4dt alle Mitglieder sowie Interessierte herzlich zu einem Meetup auf dem 38C3 ein!\n\nDies ist die perfekte Gelegenheit, um:\n- Gleichgesinnte aus der Community kennenzulernen\n- spannende Projekte und Ideen auszutauschen\n- \u00fcber die Zukunft von OpenStreetMap und aktuelle Entwicklungen zu diskutieren\n\nEgal, ob du aktiver Mapper bist, neue Technologien rund um OSM spannend findest oder einfach nur neugierig bist \u2013 wir freuen uns auf dich!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "cc13c73f-c449-57d7-8e6c-6664e4233d5b",
+      "name": "Marc",
+      "public_name": "Marc",
+      "avatar": null,
+      "biography": "Marc ist in der OpenStreetMap-Community vor allem als Organisator des OSM-Stammtischs Dortmund und als Mapper aktiv, organisiert Mapping-Partys, Workshops und Events.\n### Projekte\n- **WissensWert**: das Projekt \"Luftbilder f\u00fcr OpenStreetMap\"\n- **WeeklyOSM**: Initiierte und steuerte fr\u00fche Wochennotizen (ab 2010)\n- **FOSSGIS Konfernzen**: Im Organisationsteam der j\u00e4hrlichen Fossgis Konfernz\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cc13c73f-c449-57d7-8e6c-6664e4233d5b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openstreetmap-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/GBY79R/",
+  "do_not_record": true
+}

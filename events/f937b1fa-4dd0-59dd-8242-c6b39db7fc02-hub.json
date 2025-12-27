@@ -1,0 +1,32 @@
+{
+  "guid": "f937b1fa-4dd0-59dd-8242-c6b39db7fc02",
+  "code": "VERP9U",
+  "id": 937140,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "02:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-flinta-singstar",
+  "title": "FLINTA-Singstar [FLINTA* only]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Evening Event (open end)",
+  "abstract": "DE: Offene Singstar-Runde f\u00fcr alle FLINTA-personen.\r\nEN: Open Singstar-Session for all FLINTA-people.\r\n\r\nEvery taste of music is welcome!",
+  "description": "*English below*\n\nDE: Offene Singstar-Runde f\u00fcr alle FLINTA-personen.\n\nNach dem vielen lieben Feedback der letzten Jahre, bringen wir unsere Singstar-Session wieder zur\u00fcck.\n4 Mikrophone, Musik f\u00fcr jeden Geschmack und hoffentlich ganz viele von euch!\n\nKeine Sorge, wenn genug mitmachen, muss sich niemand selbst h\u00f6ren. ;)\nJeder Musikgeschmack ist willkommen! Egal ob du gerne Anime Titelsongs, Metalcore oder Schlager h\u00f6rst, wir haben f\u00fcr alle was dabei. Ja, nat\u00fcrlich kannst du auch einfach ABBA singen.\n\n\nEN: Open Singstar-Session for all FLINTA-people.\n\nAfter all the lovely feedback from the last years, we are bringing back our Singstar-Session!\n4 microphones, music for every taste and hopefully a lot of you!\n\nDon't worry, if enough people join, nobody needs to hear themselves. ;)\nEvery taste of music is welcome! No matter if your jam are Anime-Openings, Metalcore or Schlager, we got you covered. Yes of course we also have ABBA.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a6ab66b3-507e-57c0-9c5b-574167c640c6",
+      "name": "Drakulix",
+      "public_name": "Drakulix",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/3YWBCK_pjAqNDq.jpg",
+      "biography": "Robot catgirl-thingy linux desktop witch. \ud83e\ude84\n\nLang: DE / EN\nPronouns: EN: it/its | DE: es/ihr\n\nFedi: @drakulix@dreampi.es\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a6ab66b3-507e-57c0-9c5b-574167c640c6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/flinta-singstar",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/VERP9U/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/VERP9U/feedback/"
+}

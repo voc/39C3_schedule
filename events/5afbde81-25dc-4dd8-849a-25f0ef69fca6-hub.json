@@ -1,0 +1,30 @@
+{
+  "guid": "5afbde81-25dc-4dd8-849a-25f0ef69fca6",
+  "code": null,
+  "id": 581254,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-share-your-citizen-science-projects-pets-and-paths",
+  "title": "Share Your Citizen Science: Projects, Pets, and Paths for Collaboration ( Is This Citizen Science \u2014 and Do You Want Anything from ECSA?)",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Citizen science can mean many things: DIY measurements, community research, data activism, social experiments, artistic inquiry, or collective knowledge work. At CCC, many such projects exist \u2014 often without ever using the label \u201ccitizen science\u201d.\nThis session follows a \u201cshow your pet\u201d format. Participants are invited to bring and briefly present their own projects, tools, experiments, or unfinished ideas and share:\nwhat the project does\n\n\nwho participates\n\n\nhow (or if) it serves a community\n\n\nwhether calling it \u201ccitizen science\u201d helps or gets in the way\n\n\nProjects do not need to be finished, funded, successful, or formally recognised. Critical, messy, and experimental work is explicitly welcome.\nAlongside peer exchange, the session creates space to explore if and how collaboration with the wider citizen science community \u2014 including ECSA \u2014 could be useful:\nWhat kinds of support would actually help these projects?\n\n\nWhere does institutional collaboration feel helpful \u2014 or harmful?\n\n\nWhat would make collaboration worth the effort?\n\n\nThe goal is not recruitment or alignment, but to understand what collaboration should look like from the project side, if at all.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5a80181f-4196-486a-8019-292a551c2b92",
+      "name": "katy13",
+      "public_name": "katy13",
+      "avatar": null,
+      "biography": "Connect with me: https://mastodon.social/@kaitiwu\nGet to know more about the European Citizen Science Association (ECSA):\n- https://www.ecsa.ngo/\n- https://mastodon.social/@ECSA\n  Learn how to initiate your own Citizen Science Project: https://moodle.citizenscience.eu/\n  Learn more about the RIECS-Concept Project: https://cordis.europa.eu/project/id/101188210/de\n  Connect with the RIECS-Concept Project: https://mastodon.social/@riecs_concept\n  Sign up to be interviewed and shape the concept of Research Infrastructure for Excellent Citizen Science for Europe\n- https://forms.gle/uVpB2uL6j8eufdZVA\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/katy13"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/share-your-citizen-science-projects-pets-and-paths",
+  "links": []
+}

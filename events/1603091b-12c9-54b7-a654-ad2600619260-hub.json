@@ -1,0 +1,32 @@
+{
+  "guid": "1603091b-12c9-54b7-a654-ad2600619260",
+  "code": "JMG833",
+  "id": 2507,
+  "date": "2025-12-29T01:00:00+01:00",
+  "start": "01:00",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-lina-nele-peng",
+  "title": "Lina & Nele & Peng",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Nele, Peng and Lina are set to create a mesmerizing experience on the chillfloor 3c39, blending their unique artistic visions into a cohesive musical journey.Lina, with her innate talent and meticulous attention to detail, weaves ethereal melodies, esoteric rhythms, and wavey melancholy into a rich narrative. As an experienced curator of sound and atmosphere, she infuses her sets with her personal journey and history, selecting tracks that evoke deep emotions and resonate with her favorites.Nele and Peng complement Lina's artistry with their exceptional taste and ability to craft transcendental musical experiences. Each of them brings their unique flair, having proven their skills in various venues, including the renowned Kraniche bei den Elbbr\u00fccken.Together, this trio invites the audience to immerse themselves in a harmonious blend of sound, encouraging exploration of consciousness and connection with the ineffable beauty of music and place.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/JMG833/FLORA-Image_Ed_lB0Tj2J.jpg",
+  "persons": [
+    {
+      "guid": "e1488a58-c98f-52dc-a318-f5eca56f66c6",
+      "name": "Lina & Nele & Peng",
+      "public_name": "Lina & Nele & Peng",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_e1488a58-c98f-52dc-a318-f5eca56f66c6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lina-nele-peng",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JMG833/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/JMG833/feedback/"
+}

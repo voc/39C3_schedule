@@ -1,0 +1,32 @@
+{
+  "guid": "15e448a3-4c54-5739-8c1c-9907bc528834",
+  "code": "CJ3DTJ",
+  "id": 2571,
+  "date": "2025-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "Vorgl\u00fchmarkt",
+  "slug": "39c3-stornoline",
+  "title": "stornoline",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "service for dance trips\r\n\u23f0\u2728\ud83d\udcab\u23f0\u2728\ud83d\udcab\u23f0\u2728\ud83d\udcab\u23f0\u2728\ud83d\udcab\r\nzocke f\u00fcr euch housy rave essentials mit nostalgischen vocals und acid lines & mache sachen bei @diskobabel \ud83d\udc95 und @entropiefestival \u26a1\ufe0f",
+  "description": "... find me here (:\n\nhttps://soundcloud.com/stornoline\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/CJ3DTJ/new_pic2_Crpn_xw36XK7.webp",
+  "persons": [
+    {
+      "guid": "f083d34a-a5d1-5156-9341-f4df5aa4777b",
+      "name": "Sassi",
+      "public_name": "Sassi",
+      "avatar": "https://cfp.cccv.de/media/avatars/MZRTM3_EqYqvDD.jpeg",
+      "biography": "...member of *Stra\u00dfen aus Zucker*\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f083d34a-a5d1-5156-9341-f4df5aa4777b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/stornoline",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/CJ3DTJ/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/CJ3DTJ/feedback/"
+}

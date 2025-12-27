@@ -1,0 +1,30 @@
+{
+  "guid": "c4cee171-6cc2-4992-ac11-31b650a27adf",
+  "code": null,
+  "id": 417162,
+  "date": "2025-12-27T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-39c3-schedule-app-users-meetup",
+  "title": "39C3 Schedule App users meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "# About\n- In this session you can talk to the maintainer of the Congress app (for Android) in person.\n- Bring **your questions and feedback**. Feel free to send a private message (*@tbsprs@chaos.social*) before.\n- Existing issues are collected in the [GitHub repository](https://github.com/EventFahrplan/EventFahrplan/issues).\n\n# Languages\n- I am able to talk both English and German.\n\n# Not a workshop\n- This will **not** be a workshop format to set up the project nor to program together.\n\n# Links\n- [Project website](https://eventfahrplan.eu)\n- [Source code repository](https://github.com/EventFahrplan/EventFahrplan/issues)\n- [Translation platform](https://crowdin.com/project/eventfahrplan)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8154fac2-c5fb-44a8-9865-cc4aff54c236",
+      "name": "tbsprs (he/his)",
+      "public_name": "tbsprs (he/his)",
+      "avatar": null,
+      "biography": "Maintainer of the 39C3 Schedule app.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/tbsprs"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/39c3-schedule-app-users-meetup",
+  "links": []
+}

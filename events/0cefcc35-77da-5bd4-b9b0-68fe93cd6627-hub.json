@@ -1,0 +1,31 @@
+{
+  "guid": "0cefcc35-77da-5bd4-b9b0-68fe93cd6627",
+  "code": null,
+  "id": 200510,
+  "date": "2025-12-27T13:45:00+01:00",
+  "start": "13:45",
+  "duration": "00:45",
+  "room": "Free Knowledge Habitat",
+  "slug": "39c3-wikimedia-commons-mehr-als-nur-bilder-fur-wikipedi",
+  "title": "Wikimedia Commons: Mehr als nur Bilder f\u00fcr Wikipedia - Eine Einf\u00fchrung in das Projekt",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Wikimedia Commons ist das Medienarchiv des Wikimedia-Universums. Es ist dabei mehr als nur eine Ablage f\u00fcr Bilder in Wikipedia-Artikeln. Ich gebe eine kurze Einf\u00fchrung in die Funktionsweise des Projekts und wie man es f\u00fcr eigene Projekte nutzen oder dazu beitragen kann.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9",
+      "name": "GPSLeo",
+      "public_name": "GPSLeo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7c405e02-3ec1-5f0c-8d9f-13c53a4c98a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wikimedia-commons-mehr-als-nur-bilder-fur-wikipedi",
+  "links": [],
+  "origin_url": "https://pretalx.wikimedia.de/39c3-2025/talk/RRB8VF/"
+}

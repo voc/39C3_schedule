@@ -1,0 +1,32 @@
+{
+  "guid": "c4c637c6-f2b2-5d39-bab3-e3be60a55b19",
+  "code": "78Y9EN",
+  "id": 1618,
+  "date": "2025-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-katja-ruge",
+  "title": "Katja Rugeb",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "\u201ePlanetary Visions\u201c with Katja Ruge (Can Love Be Synth/Synthesizerstudio HH, Electric Lights/Planetarium HH)\r\n\r\nKatja Ruge\u2019s DJ sets are a seamless fusion of Italo, New Wave, Cosmic Sounds, 80s, Dark Disco, and Electro.",
+  "description": "Katja Ruge\u2019s DJ sets are a seamless fusion of Italo, New Wave, Cosmic Sounds, 80s, Dark Disco, and Electro. With deep musical knowledge and an intuitive sense of the crowd, she effortlessly adapts to both club environments and more intimate settings. She has played at renowned venues such as Golden Pudel Club, Else Berlin, S\u00fcdpol, U&G, as well as various events, gallery openings, and private parties.\n\nEnd of 2023, Katja launched the DJ & live set series \u201cElectric Lights \u2013 Women in Electronic Music\u201d at Planetarium Hamburg. Her first guests included Helena Hauff and DJ MELL G. The event\u2019s Berlin premiere at Zeiss-Gro\u00dfplanetarium was a double sell-out in February 2025, featuring a live performance by JakoJako.\nhttps://www.katjaruge.de/music\nhttps://on.soundcloud.com/wBwr2Idellv6QTvJwV\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/78Y9EN/Katja_Ruge_fYDPUKd.jpg",
+  "persons": [
+    {
+      "guid": "664a5204-225d-5630-8119-970df7cb78e1",
+      "name": "Katja Ruge",
+      "public_name": "Katja Ruge",
+      "avatar": "https://cfp.cccv.de/media/avatars/LZRTEM_l4NiGQ9.jpg",
+      "biography": "For Katja Ruge \u2013 photographer, DJ, and music producer \u2013 photography, music, portraiture, and pop culture are inseparably connected.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_664a5204-225d-5630-8119-970df7cb78e1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/katja-ruge",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/78Y9EN/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/78Y9EN/feedback/"
+}

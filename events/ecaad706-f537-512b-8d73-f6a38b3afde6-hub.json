@@ -1,0 +1,31 @@
+{
+  "guid": "ecaad706-f537-512b-8d73-f6a38b3afde6",
+  "code": null,
+  "id": 300094,
+  "date": "2025-12-30T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-mutual-vend-decentralized-coop-vending-machine",
+  "title": "Mutual Vend - decentralized coop vending machine",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Mutual-vend.com - smallest self contained coop decentrally owned and operated infra",
+  "description": "Come learn about how digital ledgers and peer to peer vending machines challenge existing labor rights, profit margins , and finance legalities!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6699c423-7d39-5a9d-a836-b0391e728b7e",
+      "name": "Ron Turetzky",
+      "public_name": "Ron Turetzky",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6699c423-7d39-5a9d-a836-b0391e728b7e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mutual-vend-decentralized-coop-vending-machine",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/V9CPMV/"
+}

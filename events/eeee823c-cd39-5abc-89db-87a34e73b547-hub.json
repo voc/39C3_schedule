@@ -1,0 +1,40 @@
+{
+  "guid": "eeee823c-cd39-5abc-89db-87a34e73b547",
+  "code": null,
+  "id": 100450,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-p4p-meet-greet",
+  "title": "P4P Meet & Greet",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 110 Minutes",
+  "abstract": "This is a meet-and-greet for Peer-4-Peer projects (local-first, P2P, OSS and offline-first). Join to say hello to old and new peers and catch the latest gossip of the networks.\r\n\r\nThe beginning will be a free-flowing hang out with origami & tea during followed by a mini workshop where participants get to know each other and the latest updates in the scene.",
+  "description": "Image is revised through color change and added text. Original image source is CC-2.0-Generic via https://commons.wikimedia.org/wiki/File:Rhizomorph_(5211991289).jpg\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/CNZ9AP/P4P-Meetup_rcTKZJY.png",
+  "persons": [
+    {
+      "guid": "3f3fe3ec-0df6-5257-8536-ccbcaecfb214",
+      "name": "Mathias Jud",
+      "public_name": "Mathias Jud",
+      "avatar": null,
+      "biography": "Mathias develops since over 25 years open-source projects. He created the OSINT project Zone*Interdite, developed censorship detection and circumvention software, as well as resilient communication tools. He is the project manager of  the off-the-grid P2P mesh communication messenger qaul.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f3fe3ec-0df6-5257-8536-ccbcaecfb214"
+    },
+    {
+      "guid": "ae04dd5b-4ce6-5e2e-b3ac-d9b1050cf7a9",
+      "name": "zelf",
+      "public_name": "zelf",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/blurred_version_PZjmuUg.png",
+      "biography": "Hello, I'm Zenna!\n\nOriginally from Scuttlebutt, I have now set out to explore the sea of distributed (p2p), local-fist and offline-first through research, collectively referred to as P4P. As part of this initiative I recently launched the www.p4p.wiki where I, and whomever would like to, can document P4P projects. Read my masters thesis on the topic here: https://works.hcommons.org/records/r486j-3cs81\n\nFind me on mastodon: \n@zelf@sunbeam.city\n\nWrite me on signal @zelf.46 or DeltaChat (ask afk)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ae04dd5b-4ce6-5e2e-b3ac-d9b1050cf7a9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/p4p-meet-greet",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/CNZ9AP/",
+  "do_not_record": true
+}

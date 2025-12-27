@@ -1,0 +1,31 @@
+{
+  "guid": "b774ae35-a6be-509f-808a-2e4aeb71df6f",
+  "code": null,
+  "id": 300061,
+  "date": "2025-12-27T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-openpgp-2025-zero-hero",
+  "title": "OpenPGP 2025: Zero \u2192 Hero",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Learn modern OpenPGP with the new RFC 9580 and Sequoia\u2019s sq CLI. In two hours you\u2019ll generate a v6 certificate, create a revocation cert, and practice daily ops: encrypt/decrypt, sign/verify, and publish via WKD/keyservers. We\u2019ll cover Web-of-Trust basics (link vs vouch, trusted introducers, approvals) and note a GnuPG/v4 compatibility path. Optional: quick smart-card demo.\r\n\r\nBring: laptop with terminal, email address; Sequoia sq preferred.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33103f3d-49ef-5310-9599-1479b3330e16",
+      "name": "darko",
+      "public_name": "darko",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_33103f3d-49ef-5310-9599-1479b3330e16"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/openpgp-2025-zero-hero",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/FGHX77/"
+}

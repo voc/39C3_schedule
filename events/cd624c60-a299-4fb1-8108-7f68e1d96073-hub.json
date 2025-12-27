@@ -1,0 +1,30 @@
+{
+  "guid": "cd624c60-a299-4fb1-8108-7f68e1d96073",
+  "code": null,
+  "id": 624602,
+  "date": "2025-12-30T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-relation-anarchy-and-solo-poly-meet-up_d41j",
+  "title": "Relation Anarchy and Solo-Poly meet-up.",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Abstract: Meet up for those identifying as solo-poly or relationship anarchist, to meet and share experiences.\n\nDescription: A meetup for those who identify as Relationship Anarchist or Solo Poly, we like to share experiences and thoughts that we run into within these contexts.\n\nIf you identify as a Relationship anarchist or as Solo Polo, even if you're not in such a relationship now or have been. We want to share out experiences and thoughts on the topic, but it's not an introduction\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9186ce57-1308-4c60-af4a-d1374ea9fba6",
+      "name": "catileptic (they/she)",
+      "public_name": "catileptic (they/she)",
+      "avatar": null,
+      "biography": "Catileptic (Alex \u0218tef\u0103nescu) moves slow and fixes things.\n\nThey blog (rarely, and mostly long-form) at https://catileptic.tech/ .\n\nThey contribute to the development, maintenance and deployment of OpenAleph, a FOSS tool for investigative journalists and researchers. They do advocacy for digital rights, in Romania and the wider EU context, with Asocia\u021bia pentru Tehnologie \u0219i Internet (https://apti.ro).\n\nThey are profoundly interested in (and sometimes horrified by) how technology shapes the way we connect, imagine and prefigurate the world.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/catileptic"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/relation-anarchy-and-solo-poly-meet-up_d41j",
+  "links": []
+}

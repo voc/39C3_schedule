@@ -1,0 +1,36 @@
+{
+  "guid": "7f6e6dff-5f85-5c03-8f07-373b3acce367",
+  "code": "ZZZHYE",
+  "id": 2123,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/ZZZHYE/ki-im-krieg-lavender-CC_BY-SA_Palestinia_5jrIfPt.jpg",
+  "date": "2025-12-29T14:45:00+01:00",
+  "start": "14:45",
+  "duration": "01:00",
+  "room": "Ground",
+  "slug": "39c3-2123-programmierte-kriegsverbrechen-uber-ki-systeme-im-kriegseinsatz-in-gaza-und-warum-it-fachleute-sich-dazu-auern-mussen",
+  "url": "https://cfp.cccv.de/39c3/talk/ZZZHYE/",
+  "title": "Programmierte Kriegsverbrechen? \u00dcber KI-Systeme im Kriegseinsatz in Gaza und warum IT-Fachleute sich dazu \u00e4u\u00dfern m\u00fcssen",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Die automatisierten Zielsysteme des israelischen Milit\u00e4rs zeigen gut, wie KI-baserte Kriegsautomatisierung aktuell aussieht, was daran falsch l\u00e4uft und warum wir Techies uns einmischen m\u00fcssen",
+  "description": "Das Thema \u201eKI in der Milit\u00e4rtechnik\u201c und die Beziehung zwischen Mensch und Maschine ist seit Jahrzehnten ein Thema in der Friedensbewegung, der Konfliktforschung, der Philosophie, den Sozialwissenschaften und den kritischen Data & Algorithm Studies. Doch in den letzten Jahren wurden Waffensysteme mit KI-Komponenten entwickelt und auch praktisch in bewaffneten Konflikten eingesetzt. Dabei reicht die Anwendung von Drohnensteuerung \u00fcber optische Zielerfassung bis hin zur logistischen Zielauswahl. Am Beispiel KI-gest\u00fctzter Zielwahlsysteme, die vom israelischen Milit\u00e4r seit Mai 2021 und insbesondere jetzt im Genozid in Gaza eingesetzt werden, k\u00f6nnen die aktuellen technischen Entwicklungen aufgezeigt und analysiert werden. Im Fokus dieses Talks stehen vier KI-unterst\u00fctzte Systeme: Das System Gospel zur milit\u00e4rischen Bewertung von Geb\u00e4uden, das System Lavender zur milit\u00e4rischen Bewertung von Personen, das System Where's Daddy? zur Zeitplanung von Angriffen und ein experimentelles System auf Basis gro\u00dfer Sprachmodelle zur Erkennung milit\u00e4risch relevanter Nachrichten in pal\u00e4stinensischen Kommunikationsdaten.\r\n\r\nAuf Basis der Aussagen von Whistleblower:innen des israelischen Milit\u00e4rs und Angestellten beteiligter Unternehmen wie Amazon, Google oder Microsoft sowie internen Dokumenten, die durch investigative Recherchen von mehreren internationalen Teams von Journalist:innen ver\u00f6ffentlicht wurden, k\u00f6nnen die Systeme und Designentscheidungen technisch detailliert beschrieben, kritisch analysiert sowie die milit\u00e4rischen und gesellschaftlichen Implikationen herausgearbeitet und diskutiert werden. Dabei entstehen auch Fragen bez\u00fcglich Verantwortungsverlagerung durch KI, Umgehung des V\u00f6lkerrechts sowie die grunds\u00e4tzliche Rolle von automatisierter Kriegsf\u00fchrung.\r\n\r\nAm Schluss geht der Vortrag noch auf die Verantwortung von IT-Fachleuten ein, die ja das Wissen und Verst\u00e4ndnis dieser Systeme mitbringen und daher \u00fcberhaupt erst problematisieren k\u00f6nnen, wenn Systeme erweiterte oder g\u00e4nzlich andere Funktionen erf\u00fcllen, als \u00f6ffentlich und politisch oft kommuniziert und diskutiert wird. \u00dcberlegungen zu Handlungsoptionen und Auswegen leiten zuletzt die Diskussion ein.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "BTRVPF",
+      "name": "Rainer Rehak",
+      "avatar": "https://cfp.cccv.de/media/avatars/WI_Dach_Rehak_only_GTf2OQ0.jpg",
+      "biography": "Rainer Rehak ist wissenschaftlicher Mitarbeiter am Weizenbaum-Institut f\u00fcr die vernetzte Gesellschaft, wissenschaftlicher Mitarbeiter am Wissenschaftszentrum Berlin f\u00fcr Sozialforschung (WZB), Ko-Vorsitz des Forums InformatikerInnen f\u00fcr Frieden und gesellschaftliche Verantwortung (FIfF) und promoviert aktuell an der TU Berlin zu systemischer IT-Sicherheit und gesellschaftlichem Datenschutz.\r\n\r\nEr studierte Informatik und Philosophie in Berlin und Hong Kong und besch\u00e4ftigt sich seit \u00fcber 15 Jahren mit den Implikationen der Computerisierung der Gesellschaft. Seine Forschungsfelder sind Technikfolgenabsch\u00e4tzung, staatliches Hacking, Informatik und Ethik, Technikfiktionen sowie die Implikationen und Grenzen von KI-Systemen.",
+      "public_name": "Rainer Rehak",
+      "guid": "c2c27483-6215-5cac-b7c9-1474a2dbb02b",
+      "url": "https://cfp.cccv.de/39c3/speaker/BTRVPF/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/ZZZHYE/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ZZZHYE/",
+  "attachments": []
+}

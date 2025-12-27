@@ -1,0 +1,21 @@
+{
+  "guid": "b0afa21a-c71c-4069-b461-c497f9c2cf3e",
+  "code": null,
+  "id": 21714,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:30",
+  "room": "Call for Art: Workshopspace 1",
+  "slug": "39c3-post-platform-digital-publishing_s7hy",
+  "title": "Post-Platform Digital Publishing",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Workshop mit Well Gedacht Publishing\r\n\r\nTAG 1: 20:30 - 22:00\r\nTAG 2: 20:00 - 21:30\r\nTAG 4: 11:30 - 13:00",
+  "description": "In this workshop, we will engage with digital publishing methods that operate independently of big tech platforms and products. We will build our own RSS files for personal websites, blogs and discuss pirate publishing forms, both online and offline.\n\nWe will present the idea of the PPDP-PRINTER, a DIY device currently under development that combines web2print scripts with a simple server and local online publishing/broadcasting capabilities. The printer converts files, prints via its dot-matrix printer, creates RSS feeds, and serves them online. Our aim with the PPDP-PRINTER is to create an all-in-one material manifestation of our resource collection Post-Platform Digital Publishing Toolkit\n\n\nLink: [https://publishing.wellgedacht.com/](https://publishing.wellgedacht.com/)\nmastodon: [@wellgedachtpublishing@post.lurk.org](https://post.lurk.org/@wellgedachtpublishing)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9730b4d1ef11/Post-Platform_Digital_Publishing_Fadi_Houmani.jpeg",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/post-platform-digital-publishing_s7hy",
+  "links": []
+}

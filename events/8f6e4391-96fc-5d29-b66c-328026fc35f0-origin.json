@@ -1,0 +1,45 @@
+{
+  "guid": "8f6e4391-96fc-5d29-b66c-328026fc35f0",
+  "code": "UJA9AF",
+  "id": 2235,
+  "logo": null,
+  "date": "2025-12-27T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2235-endlich-maschinenlesbare-urteile-open-access-fur-juristen",
+  "url": "https://cfp.cccv.de/39c3/talk/UJA9AF/",
+  "title": "Endlich maschinenlesbare Urteile! Open access f\u00fcr Juristen",
+  "subtitle": "",
+  "track": "Science",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Zur \u00dcberraschung Vieler sind Juristen Wissenschaftler, die nach wissenschaftlichen Ma\u00dfst\u00e4ben arbeiten sollten und ihre Schrifts\u00e4tze und Urteile auch nach stringenten wissenschaftlichen Kriterien gestalten und untereinander diskutieren sollten. Doch nur in einigen Rechtsgebieten funktioniert dies.\r\n\r\nWie jede Wissenschaft ist auch die Rechtswissenschaft nur so gut wie das ihr zugrundeliegende Quellenmaterial \u2013 in diesem Fall sind das meist Urteile. Empirische Untersuchungen \u00fcber diese Daten sind nur m\u00f6glich, wenn sie der Forschung auch zur Verf\u00fcgung stehen. Doch wissenschaftliche Arbeit im juristischen Feld ist aktuell nicht wirklich m\u00f6glich, da die wenigsten Urteile ver\u00f6ffentlicht werden, da sich die Gerichte meist vor der dadurch anfallenden Arbeit scheuen. Wir betrachten, warum dies Grunds\u00e4tze der Rechtsstaatlichkeit infrage stellt und warum Player aus der Wirtschaft mehr \u00fcber deutsche Rechtsprechung wissen, als unsere Gerichte \u2013 und wie sie das zu Geld machen.",
+  "description": "Es ist tats\u00e4chlich ein ernsthaftes und reales wissenschaftliches und gesellschaftliches Problem, wenn Urteile hinter den wurmstichigen Aktenschr\u00e4nken der Amtstuben weggeschlossen werden. Wir belegen das anhand einiger besonders hahneb\u00fcchener Zitate aus aktuellen und nicht mehr \u00e4nderbaren Urteilen aus der Praxis.\r\n\r\nWir erarbeiten aktuell Strategien, wie man das Rechtssystem power-cyclen kann, um Urteile in ihrer Gesamtheit, und damit die faktisch gesprochene Rechtslage in Deutschland wieder zug\u00e4nglich werden. Als positiver Nebeneffekt der Verf\u00fcgbarkeit von Urteilen kann Zivilgesellschaft und die Politik auch selber souver\u00e4n \u00fcberpr\u00fcfen, ob unsere Richter das Recht typischerweise auch wirklich im Sinne der Legislative anwenden \u2013 keiner kann es aktuell wissen, wie k\u00f6nnen nur hoffen ...",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "QDBTNR",
+      "name": "Beata Hubrig",
+      "avatar": null,
+      "biography": "Bea ist Rechtsanw\u00e4ltin und engagiert sich seit eineinhalb Jahrzehnten f\u00fcr die Rechte von Anschlussinhabern. Sie bringt dadurch einen sehr tiefen Einblick in die Praxis mit.",
+      "public_name": "Beata Hubrig",
+      "guid": "517ae0f4-28f4-5169-9e72-30da3f91fe76",
+      "url": "https://cfp.cccv.de/39c3/speaker/QDBTNR/"
+    },
+    {
+      "code": "ZN9GT7",
+      "name": "Nuri Khadem-Al-Charieh",
+      "avatar": "https://cfp.cccv.de/media/avatars/ZN9GT7_4igpVS8.jpg",
+      "biography": "Nuri ist Rechtsanwalt, arbeitet hauptberuflich in der Digitalisierungsabteilung einer deutschen Gro\u00dfkanzlei und hat \u00fcber ein Jahrzehnt im IT-Support und als Sys-Admin gearbeitet. Er bildet dar\u00fcberhinaus Jurastudenten in technischem Allgemein- und Spezialwissen aus.",
+      "public_name": "Nuri Khadem-Al-Charieh",
+      "guid": "1621a5f6-4709-5441-80c1-13662d0062b0",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZN9GT7/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/UJA9AF/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/UJA9AF/",
+  "attachments": []
+}

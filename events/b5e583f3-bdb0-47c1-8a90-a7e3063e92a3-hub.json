@@ -1,0 +1,30 @@
+{
+  "guid": "b5e583f3-bdb0-47c1-8a90-a7e3063e92a3",
+  "code": null,
+  "id": 558330,
+  "date": "2025-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-renewable-power-cycles-patching-parlamentarische-d",
+  "title": "Renewable Power Cycles - Patching Democracy",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "How can we work together to improve political decision-making processes in the long term? What do you want from democracy?\n\nMotivation:\nWhile our democracy can be shaped by the people as they wish on paper, the population seems to be largely dissatisfied with political actions:\n- The handling of many crises appears to be inadequate\n- Urgent problems seem to be postponed\n- Democratic participation seems tedious and ineffective\n\nWe would like to work together to find ways to improve, that can be implemented within the framework of our existing political system.\n\nProcedure:\n- 15 min. presentation on motivation and information\n- 35 min. bug fixing - Moderated discussion round to jointly develop solutions\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e428376e-81a5-4961-8396-ffb7586e955d",
+      "name": "htext",
+      "public_name": "htext",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/htext"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/renewable-power-cycles-patching-parlamentarische-d",
+  "links": []
+}

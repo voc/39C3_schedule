@@ -1,0 +1,31 @@
+{
+  "guid": "f1e6f4e2-875f-573c-9e68-8dfd52e29225",
+  "code": "ATYLN9",
+  "id": 1687,
+  "date": "2025-12-30T00:15:00+01:00",
+  "start": "00:15",
+  "duration": "00:40",
+  "room": "Zero",
+  "slug": "39c3-spectre-in-the-real-world-leaking-your-private-data-from-the-cloud-with-cpu-vulnerabilities",
+  "title": "Spectre in the real world: Leaking your private data from the cloud with CPU vulnerabilities",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Transient execution CPU vulnerabilities, like Spectre, have been making headlines since 2018. However, their most common critique is that these types of vulnerabilities are not really practical. Even though it is cool to leak `/etc/shadow` with a CPU bug, it has limited real-world impact. In this talk, we take Spectre out for a walk and let it see the clouds, by leaking memory across virtual machine boundaries at a public cloud provider, bypassing mitigations against these types of attacks. Our report was awarded with a $151,515 bug bounty, Google Cloud's highest bounty yet.",
+  "description": "Seven years ago, Spectre and Meltdown were announced. These two vulnerabilities showed that instructions executed by the CPU might accidentally access secret data. This secret data can contain files cached from disk, cryptographic keys, private information, or anything else that might be stored in memory. An attacker can use Spectre to learn the value of that secret data, even though the attacker is not supposed to have access to it.\n\nEven though this sounds problematic, there is a reason why these type of vulnerabilities haven't had a significant real-world impact. Mitigations make it much harder to pull off, and an attacker needs a form of remote code execution anyway to trigger the relevant CPU instructions. If an attacker can already execute arbitrary code, then Spectre is probably not what you should be worried about. For regular users, these CPU vulnerabilities are likely not that much of a threat.\n\nHowever, that is not the case for public cloud providers. Their business model is to provide *remote code execution as a service*, and to rent out shared hardware resources as efficiently as possible. Customers run their system in an seemingly isolated virtual machine on top of shared physical hardware. Because customers can run anything they want on these systems, public cloud providers must treat these workloads as untrusted. They have to assume the worst case scenario, i.e. that an attacker is deliberately trying violate the confidentiality, integrity or availability of their systems, and, by extension, their customers' systems. For transient execution vulnerabilities like Spectre, that means that they enable all reasonable mitigations, and some more.\n\nIn this talk, we show that transient execution attacks can be used on real-world systems, despite the deployed software mitigations. We demonstrate this by silently leaking secret data from another virtual machine at a major global cloud provider, defeating virtual machine isolation without leaving a trace. Additionally, we'll discuss our coordinated disclosure process, the currently deployed mitigations and how future mitigations could address the issue.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9e0ac2a9-1719-503b-a174-ba007e957ca3",
+      "name": "Thijs Raymakers",
+      "public_name": "Thijs Raymakers",
+      "avatar": null,
+      "biography": "Hacker from Amsterdam. Likes x86, C, Rust and hacker jeopardy.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9e0ac2a9-1719-503b-a174-ba007e957ca3"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/spectre-in-the-real-world-leaking-your-private-data-from-the-cloud-with-cpu-vulnerabilities",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ATYLN9/"
+}

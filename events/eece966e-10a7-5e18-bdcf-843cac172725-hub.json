@@ -1,0 +1,31 @@
+{
+  "guid": "eece966e-10a7-5e18-bdcf-843cac172725",
+  "code": null,
+  "id": 100427,
+  "date": "2025-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-fsfe-meetup-at-bits-baume-habitat",
+  "title": "FSFE meetup at Bits & B\u00e4ume Habitat",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "You are a FSFE volunteer or you would like to know more about the Free Software Foundation Europe? Then this is the place to be. \r\n\r\nWe will be discussing current activities, future activities, and what will be happening next. You are welcome to join us for some food and drinks while sharing your ideas and learning all about the FSFE and its current activities.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5f7ecbd8-6f6f-573b-8519-242ab484d22e",
+      "name": "Bonnie",
+      "public_name": "Bonnie",
+      "avatar": "https://cfp.cccv.de/media/avatars/NAYM8A_XqdDXgI.png",
+      "biography": "Bonnie Mehring has been politically active since 20 years now and has always believed in the chance to better the future for everybody. Technology and especially Free Software  has brought her into the Chaos. Since the past 12 years she has brought her political and technological interest's together.\nThrough Free Software, she has not only acquired extensive knowledge about computers and technology but has also forged connections with others. She thoroughly enjoys participating in various Free Software conferences and events, where she relishes the opportunity to connect with individuals from the Free Software community. It is of utmost importance for Bonnie that inclusive and welcoming Free Software communities are established, allowing everyone to engage and learn.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5f7ecbd8-6f6f-573b-8519-242ab484d22e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fsfe-meetup-at-bits-baume-habitat",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/DEP8BQ/"
+}

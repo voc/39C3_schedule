@@ -1,0 +1,32 @@
+{
+  "guid": "726489b8-72a8-5db6-9cfc-d1a3790a15d6",
+  "code": null,
+  "id": 100424,
+  "date": "2025-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-vernetzungstreffen-orr",
+  "title": "Vernetzungstreffen \u00d6RR",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Dies Treffen soll Mitarbeitende des \u00d6ffentlich-Rechtlichen-Rundfunk, die sich im Chaos bewegen, die M\u00f6glichkeit zum Kennenlernen und Austauschen geben.",
+  "description": "Du arbeitetest im \u00d6ffentlich-Rechtlichen-Rundfunk und bist auf dem Congress? Dann haben wir etwas gemeinsam. Lasst uns treffen & kennenlernen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a0487042-240c-57d1-89c8-7473c98d89df",
+      "name": "benny",
+      "public_name": "benny",
+      "avatar": null,
+      "biography": "Bin f\u00fcr den \u00d6RR t\u00e4tig und finde den Austausch zwischen \u00d6RR <-> Chaos spannend.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a0487042-240c-57d1-89c8-7473c98d89df"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/vernetzungstreffen-orr",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/79FNMH/",
+  "do_not_record": true
+}

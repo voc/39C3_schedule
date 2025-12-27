@@ -1,0 +1,30 @@
+{
+  "guid": "afaa65b4-c641-46a1-a242-cde020d2ae55",
+  "code": null,
+  "id": 654641,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Fediverse shared table",
+  "slug": "39c3-peertube-meetup",
+  "title": "PeerTube-Meet-Up: f\u00fcr alle, die Instanzen selbst betreiben",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Wir wollen uns austauschen, um langfristig stabile PeerTube-Instanzen selber zu betreiben.",
+  "description": "What challenges arise when operating your own Peertube instance?\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/c007c235460f/Unbenannt.jpg",
+  "persons": [
+    {
+      "guid": "a5f5fb69-71d8-409a-ab5b-791293e3d02c",
+      "name": "MoniKa (c4E) (she/her)",
+      "public_name": "MoniKa (c4E) (she/her)",
+      "avatar": null,
+      "biography": "cyber4EDU-Assembly\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/monika_c4e"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/peertube-meetup",
+  "links": []
+}

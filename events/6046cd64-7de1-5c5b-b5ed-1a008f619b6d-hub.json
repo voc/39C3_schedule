@@ -1,0 +1,32 @@
+{
+  "guid": "6046cd64-7de1-5c5b-b5ed-1a008f619b6d",
+  "code": "7TUUQ9",
+  "id": 2475,
+  "date": "2025-12-27T23:30:00+01:00",
+  "start": "23:30",
+  "duration": "03:00",
+  "room": "Chill Floor",
+  "slug": "39c3-dj-sloush-zarrt",
+  "title": "Dj Sloush + Zarrt",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "The berlin based artist duo is working under different alias solo, in duos or\r\ncollectives since 2011.\r\nThey are sound artists, DJs, part of Cashmere Radio (Berlin), curators, event\r\norganizers, performers and multimedia artists.\r\n\u201cDj Sloush aka Spitz + Zarrt aka Fellmaus will make you happy. There\u2019s gonna be\r\nthese sounds coming from the speakers, new otherworldly ones mixed with\r\nseemingly familiar yet undiscovered natural feeling waves of moods, or maybe hot\r\nand twirling rapid fire bass jumping trippin balls ones.\r\nEither way they\u2019ll provide you with a guaranteed enjoyment of the infinite kind.\u201d",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/7TUUQ9/Bildschirmfoto_RK14Zdj.png",
+  "persons": [
+    {
+      "guid": "8fa4c270-1d7e-58f4-bede-462ae685653a",
+      "name": "Dj Sloush aka Spitz + Zarrt",
+      "public_name": "Dj Sloush aka Spitz + Zarrt",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8fa4c270-1d7e-58f4-bede-462ae685653a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/dj-sloush-zarrt",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7TUUQ9/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/7TUUQ9/feedback/"
+}

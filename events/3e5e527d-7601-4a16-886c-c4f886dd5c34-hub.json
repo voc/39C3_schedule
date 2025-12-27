@@ -1,0 +1,38 @@
+{
+  "guid": "3e5e527d-7601-4a16-886c-c4f886dd5c34",
+  "code": null,
+  "id": 355277,
+  "date": "2025-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "Komonin",
+  "slug": "39c3-repairable-device-meeting-all-creatures-welcome",
+  "title": "Fairphone Meetup (all creatures welcome)",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We look forward to seeing all users, interested parties, and other beings! We ourselves are Fairphone Angels and will be bringing Fairphone 3, Fairphone 4, and Fairphone 6 along for you to look at and, of course, open up. Feel free to bring other devices too! We will be meeting in a relaxed atmosphere to exchange ideas; there is no planned program. In addition, various custom ROMs will certainly be represented. We welcome any further input! Of course, all creatures are welcome!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5b4b626d-5fc6-4b0c-b5d2-6f70c27f5d2c",
+      "name": "Dia (she/her)",
+      "public_name": "Dia (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/dia"
+    },
+    {
+      "guid": "e66fb4f6-9a5e-4163-9392-edae5ecd4aac",
+      "name": "t_aus_m (they/them, er/ihm)",
+      "public_name": "t_aus_m (they/them, er/ihm)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/t_aus_m"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/repairable-device-meeting-all-creatures-welcome",
+  "links": []
+}

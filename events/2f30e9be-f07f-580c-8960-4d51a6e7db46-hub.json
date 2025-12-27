@@ -1,0 +1,32 @@
+{
+  "guid": "2f30e9be-f07f-580c-8960-4d51a6e7db46",
+  "code": "XURTWT",
+  "id": 2484,
+  "date": "2025-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "02:00",
+  "room": "Chill Floor",
+  "slug": "39c3-felix-kubin",
+  "title": "Felix Kubin",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Felix Kubin, funkenspr\u00fchender Spannungs- und Weltenwandler aus Hamburg, Verachter der\r\nN\u00fcchternheit, lenkt die musikalische Kompassnagel Richtung Stolperdisko, Art Pop und \u201egute\r\nNervmusik\u201c. Das Tanzbein zappelt, aber die Beine laufen in verschiedene Richtungen, denn sie\r\nhaben sich noch nicht synchronisiert. Hier erklingen Songs am Rande des\r\nNervenzusammenbruchs, \"Musik f\u00fcr junge Leute\" und alle, die nicht sterben wollen. Vor allem\r\nhaben es ihm die obskuren Musikversuche der Heimstudios vergangener Fostex-Generationen\r\nangetan, die Art Brut und ihre Einf\u00e4rbungen durch billige, leicht zu demolierende Technologien.\r\nFelix Kubins musikalische Adoleszenz wurde durch eine Zeit gepr\u00e4gt, in der sich die Szenen der\r\nKunst und Musik stark durchdrangen und Songtitel wie \"Die Gesunden kommen\", \"Adrenalin\r\nl\u00e4sst das Blut kochen\" und \"Hosen, die nicht aneinander passen\" kein Stirnrunzeln\r\nverursachten. Eine Zeit also, in der sich die Popmusik weit aus dem Fenster lehnte und die Luft\r\neiner fremden, seltsamen Welt atmete.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/XURTWT/Kubin_King_in__HaBQHb1.JPG",
+  "persons": [
+    {
+      "guid": "5168c850-a92c-55a4-8f2d-8257207e45bf",
+      "name": "Felix Kubin",
+      "public_name": "Felix Kubin",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5168c850-a92c-55a4-8f2d-8257207e45bf"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/felix-kubin",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/XURTWT/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/XURTWT/feedback/"
+}

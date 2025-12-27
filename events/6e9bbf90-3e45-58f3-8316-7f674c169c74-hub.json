@@ -1,0 +1,32 @@
+{
+  "guid": "6e9bbf90-3e45-58f3-8316-7f674c169c74",
+  "code": "MUHPC3",
+  "id": 2464,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:30",
+  "room": "Chill Floor",
+  "slug": "39c3-bushfya",
+  "title": "bushfya",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "For the Love of Music. Nothing else.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "00be9c3d-c9b8-5334-96e2-d5ea64ea5478",
+      "name": "bushfya",
+      "public_name": "bushfya",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_00be9c3d-c9b8-5334-96e2-d5ea64ea5478"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bushfya",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/MUHPC3/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/MUHPC3/feedback/"
+}

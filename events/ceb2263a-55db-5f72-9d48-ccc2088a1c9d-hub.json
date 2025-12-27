@@ -1,0 +1,31 @@
+{
+  "guid": "ceb2263a-55db-5f72-9d48-ccc2088a1c9d",
+  "code": null,
+  "id": 300099,
+  "date": "2025-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-on-the-limits-of-decentralization",
+  "title": "On the Limits of Decentralization",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "A collaborative dialogue to examine and unsettle the philosophical foundations of decentralization. What do we actually mean when we speak of decentralization, and what forms of order, asymmetry or coordination quietly sustain it? Where does decentralization end and centralization begin, and is this opposition as clear as it appears? Beyond familiar binaries such as order and chaos, what assumptions are embedded in the formal systems, protocols and narratives we rely on? What do participants experience when engaging with institutions, infrastructures or rulesets, and what recedes into the background as those systems operate? Through a self-reflective and performative inquiry, this dialogue explores decentralization not as a moral absolute but as a situated and contested design space shaped as much by what it excludes as by what it enables.",
+  "description": "In its iterative, by now familiar format, the workshop opens with a short framing by the facilitator, introducing the inquiry and reflecting on the asymmetry of facilitation itself and its relevance to decentralization. Participants then break into smaller groups to explore the questions raised, with room for divergence, contestation and parallel lines of inquiry. The format remains intentionally open to shifts in attention, authority and coordination as the session unfolds. We reconvene toward the end to share reflections, tensions and unresolved questions rather than to converge on a single conclusion. The workshop invites participants to engage not only with ideas of decentralization but with how those ideas are enacted, sustained or resisted in practice.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0d897ee6-d63c-5708-83c0-f5a5e7d0c352",
+      "name": "Ome",
+      "public_name": "Ome",
+      "avatar": "https://pretalx.riat.at/media/avatars/ab5589a036c1e14dc96a2ebd4089b588_usnwMg7.jpg",
+      "biography": "Software engineer by day. Philosopher and artist by night.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0d897ee6-d63c-5708-83c0-f5a5e7d0c352"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/on-the-limits-of-decentralization",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/WWSYUL/"
+}

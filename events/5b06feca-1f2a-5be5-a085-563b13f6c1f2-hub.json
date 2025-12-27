@@ -1,0 +1,40 @@
+{
+  "guid": "5b06feca-1f2a-5be5-a085-563b13f6c1f2",
+  "code": "MT9RWD",
+  "id": 83824,
+  "date": "2025-12-29T19:45:00+01:00",
+  "start": "19:45",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-akronymisierbar-061",
+  "title": "Akronymisierbar - 061",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Direkt im Anschluss an das erfolgreiche Panel bei den Datenspuren reden \r\nKilian und Hendrik und G\u00e4ste auf dem Congress \u00fcber ihre highlights und Projekte.",
+  "description": "",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/MT9RWD/cover_U4WJLBq.png",
+  "persons": [
+    {
+      "guid": "b992587c-de87-53e9-8bf7-c41af3456c74",
+      "name": "Hendrik",
+      "public_name": "Hendrik",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/C3SQYD_5e7DzKO.png",
+      "biography": "Co-Host von Akronymisierbar\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_b992587c-de87-53e9-8bf7-c41af3456c74"
+    },
+    {
+      "guid": "1a2d8594-e57f-5882-bbdb-df627b84d775",
+      "name": "KI-lian",
+      "public_name": "KI-lian",
+      "avatar": "https://cfp.cccv.de/media/avatars/E3JQXV_yG9xqFM.jpg",
+      "biography": "Offiziell zertifizierter Maschinentherapeut\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1a2d8594-e57f-5882-bbdb-df627b84d775"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/akronymisierbar-061",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/MT9RWD/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/MT9RWD/feedback/"
+}

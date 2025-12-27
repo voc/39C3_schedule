@@ -1,0 +1,33 @@
+{
+  "guid": "3b893e0c-c1a1-533b-a7e1-9ca2eb50ca27",
+  "code": "CMBEQQ",
+  "id": 2414,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-antifaschistischer-akkordeon-punk-grolen-gegen-rec",
+  "title": "Antifaschistischer Akkordeon-Punk - Gr\u00f6len gegen Rechts",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Klassiker des antifaschistischen Deutschpunk-Liedguts \u2013 von Die \u00c4rzte \u00fcber Die Toten Hosen bis WIZO und Terrorgruppe \u2013 neu interpretiert auf dem Akkordeon.\r\nLaut, links und garantiert mitgr\u00f6ltauglich.",
+  "description": "Begleitet von harmonischen Akkordeonkl\u00e4ngen stimmen wir gemeinsam antifaschistische Klassiker des deutschen Punks an, um sie stilgerecht zusammen zu gr\u00f6len. Auf dem Programm stehen Songs von WIZO, Die \u00c4rzte, Terrorgruppe und Die Toten Hosen. Es ist die perfekte Gelegenheit, sich im Kreise Gleichgesinnter den Frust \u00fcber den Rechtsruck der Gesellschaft von der Seele zu schreien. Textsicherheit ist nicht n\u00f6tig, f\u00fcr Spickzettel ist gesorgt.\n\nDer Akkordeonspieler Pianostein machte nicht nur durch zahlreiche Gastauftritte bei Bands wie Die Toten Hosen, Sondaschule, Dritte Wahl oder Rogers von sich reden \u2013 sondern vor allem durch seine legend\u00e4ren Klo-Konzerte bei deren Shows. Ganz nach dem Motto: Wo Menschen zusammenkommen und eine Haltung teilen, reicht ein Akkordeon, um alle zum Gr\u00f6len zu bringen und den Moment unvergesslich zu machen.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/CMBEQQ/8469_477643595645502_1328_VjbJkhF.webp",
+  "persons": [
+    {
+      "guid": "8d1ac69e-640b-5098-b11a-d3f76796679b",
+      "name": "Pianostein",
+      "public_name": "Pianostein",
+      "avatar": "https://cfp.cccv.de/media/avatars/XAWGMS_5RfpFye.jpg",
+      "biography": "Nicht nur durch seine zahlreichen Gastauftritte bei Bands wie Die Toten Hosen, Sondaschule, Dritte Wahl, Rogers und vielen anderen machte der K\u00fcnstler Pianostein von sich reden \u2013 sondern vor allem durch seine legend\u00e4ren Klo-Konzerte im Rahmen ihrer Shows.\nGanz nach dem Motto: Wo Menschen sich versammeln und eine Haltung teilen, reicht ein Akkordeon, um sie zum Gr\u00f6len zu bringen und den Moment unvergesslich zu machen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8d1ac69e-640b-5098-b11a-d3f76796679b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/antifaschistischer-akkordeon-punk-grolen-gegen-rec",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/CMBEQQ/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/CMBEQQ/feedback/",
+  "do_not_record": true
+}

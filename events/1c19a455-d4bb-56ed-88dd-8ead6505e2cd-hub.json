@@ -1,0 +1,32 @@
+{
+  "guid": "1c19a455-d4bb-56ed-88dd-8ead6505e2cd",
+  "code": "8LG39N",
+  "id": 1890,
+  "date": "2025-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:59",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-syncing-visuals-and-stage-lights-against-the-beat-",
+  "title": "Syncing visuals and stage lights against the beat of live music: an introduction",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Most clubs and concerts have predefined light and visuals, and often they are generic and not synced to the beat of the music. \r\nToday we will show you that it's actually possible to sync visual effects to the beat of live music recorded from the microphone, and it's pretty easy!\r\nAimed at beginners.",
+  "description": "We will teach people how to set up and use TouchDesigner to perform audio analysis and how to draw basic effects and light shows that respond to the beat of the input audio. \nIf you want to follow along, please come with  TouchDesigner preinstalled (the free version is perfectly fine). Recommended on Windows or Mac, but with enough pain it can run under Wine as well.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9ef179da-dc86-5b02-a231-353fe964e2e9",
+      "name": "Luca Di Bartolomeo (cyanpencil)",
+      "public_name": "Luca Di Bartolomeo (cyanpencil)",
+      "avatar": "https://cfp.cccv.de/media/avatars/VWTJFD_Mt8MayH.png",
+      "biography": "PhD in software security at EPFL. \nVery unhealthy hardcore addicition to CTF (both playing and organizing), slowly recovering now but the damage has already been done. \nPassionate about techno and the demoscene.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9ef179da-dc86-5b02-a231-353fe964e2e9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/syncing-visuals-and-stage-lights-against-the-beat-",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8LG39N/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/8LG39N/feedback/"
+}

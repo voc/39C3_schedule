@@ -1,0 +1,40 @@
+{
+  "guid": "7cfa48af-7421-5a63-9e8c-24360f0c2132",
+  "code": null,
+  "id": 100436,
+  "date": "2025-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-zwischen-assistenz-und-ki-selbst-kontrolle-generat",
+  "title": "Zwischen Assistenz und KI-(Selbst)-Kontrolle: Generative KI im Berufsfeld Softwareentwicklung",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Wie ver\u00e4ndert generative KI den Beruf des Programmierens, und was passiert, wenn Entwickler:innen KI-Systeme nicht nur als Werkzeug, sondern als Orientierungssystem, Feedbackgeber oder Management-Ersatz nutzen? Unser Vortrag beleuchtet diese Frage anhand einer sozialwissenschaftlichen Analyse von Reddit-Diskussionen, in denen Softwareentwickler:innen offen \u00fcber ihre Erfahrungen mit generativer KI im Arbeitsalltag sprechen. Wir zeigen aus unseren Erhebungen: Generative KI wird nicht nur als Code-Assistent, sondern zunehmend als strukturierende Instanz genutzt; eine selbstgew\u00e4hlte Feedbackinstanz, die auf der einen Seite Autonomie verspricht und andererseits zugleich neue Abh\u00e4ngigkeiten schafft. In unserem Workshop  wollen wir gemeinsam dar\u00fcber sprechen, was diese Gegens\u00e4tze f\u00fcr uns in der Praxis bedeuten.",
+  "description": "Die Softwareentwicklung gilt als Berufsfeld mit hohem Ma\u00df an Autonomie, kollaborativem Wissensaustausch und einer stark community-getriebenen Lernkultur. Mit dem Einzug generativer KI ver\u00e4ndern sich diese Strukturen grundlegend. Der spontane Austausch unter Kolleg:innen oder auf Foren wie Stack Overflow wird zunehmend durch den Dialog mit dem ChatBot ersetzt. In unserem Vortrag m\u00f6chten wir die Konsequenzen daraus beleuchten. Zuerst stellen wir drei zentrale Ergebnisse unserer empirischen Forschung vor und werden diese anschlie\u00dfend analysieren und vor dem Hintergrund arbeitssoziologischer Annahmen diskutieren.\n\nUnsere Studie basiert auf einer digital-ethnografischen Analyse von Diskussionsbeitr\u00e4gen auf Reddit, in denen sich Softwareentwickler:innen offen \u00fcber ihre Erfahrungen mit generativer KI austauschen. Daraus k\u00f6nnen wir zeigen, dass Entwickler:innen KI-Systeme in drei Rollen verorten:\n\nKI als Werkzeug:\nDie KI wird gezielt eingesetzt, um klar abgegrenzte Aufgaben zu erledigen. Ziel und Vorgehen stehen fest, die Kontrolle \u00fcber Prozess und Ergebnis liegt vollst\u00e4ndig bei dem Nutzenden.\n\n\nKI als Assistenz:\nDie KI unterst\u00fctzt als dialogisches Gegen\u00fcber. Sie kann Ideen liefern und Alternativen vorschlagen, aber Auswahl, Bewertung und Einordnung der Inhalte bleiben beim Menschen.\n\n\nKI als Proxy-Management:\nDie Entwickler:in weist der KI bewusst eine leitende Rolle zu und \u00fcbertr\u00e4gt ihr die Steuerung und Bewertung des eigenen Arbeitsprozesses.\n\nGerade in dieser letzten Form zeigt sich ein spannendes Ph\u00e4nomen: KI als Feedbackinstanz ohne soziale Interaktion. Kein Gatekeeping auf Stack Overflow, kein \u201eWie, das wei\u00dft du nicht?\u201c, keine Unsicherheiten vor Kolleg:innen zugeben und keine endlosen Google-Suchen, die ins Leere f\u00fchren. Stattdessen ein vermeintlich privater und immer verf\u00fcgbarer SafeSpace, in dem Unwissenheit nicht offenbart oder verurteilt wird \u2013 und man immer eine Antwort bekommt. Viele beschreiben das als Gewinn an Autonomie. Andere berichten jedoch vom Gegenteil: Von wachsender Isolation, schleichendem Kompetenzverlust und einer neuen Form von Abh\u00e4ngigkeit.\nDiese Ambivalenz verstehen wir als Spannungsfeld zwischen technikvermittelter Selbsterm\u00e4chtigung und Kontrolle. Aus der Perspektive der Professionssoziologie \u2013 in Anlehnung an Andrew Abbotts The System of Professions (1988) \u2013 werden berufliche Zust\u00e4ndigkeiten (\u201ejurisdictions\u201c) stets neu ausgehandelt. Dabei spielen technologische Entwicklungen eine zentrale Rolle, weil sie bestimmen, welches Wissen als Expertise gilt und wer es beanspruchen kann. F\u00fcr die Zukunft der Softwareentwicklung bedeutet dies vielleicht: Weg vom kollektiven Wissensaustausch hin zu einer individualisierten Praxis.\n\nIn unserem Workshop m\u00f6chten wir mit euch diese Dynamiken zwischen Autonomie und Abh\u00e4ngigkeit hinterfragen und diskutieren. Begegnet uns hier eine neue Form von KI-(Selbst)-Kontrolle, jenseits klassischer Hierarchien? Und welche Folgen bedeutet das f\u00fcr unser Selbstverst\u00e4ndnis, Lernprozesse und die soziale Verankerung professioneller Programmierarbeit?\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/SJ3UFJ/dev_exp_QhO9FTQ.jpg",
+  "persons": [
+    {
+      "guid": "cb3fbacd-ac2c-5ab8-97b8-d7b3f5a79933",
+      "name": "Marlene Kulla",
+      "public_name": "Marlene Kulla",
+      "avatar": null,
+      "biography": "Technik- und Arbeitssoziologin am Weizenbauminstitut\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_cb3fbacd-ac2c-5ab8-97b8-d7b3f5a79933"
+    },
+    {
+      "guid": "de903f63-6cf1-5b25-8063-679758c4e8ef",
+      "name": "Ann Katzinski",
+      "public_name": "Ann Katzinski",
+      "avatar": null,
+      "biography": "Ich bin wissenschaftliche Mitarbeiterin am WZB und erforsche im Projekt \u201eGenerative KI in der Arbeitswelt\u201c, wie Tools wie Cursor die Arbeit von Programmierer:innen transformieren \u2013 von neuen Chancen bis zu tiefgreifenden Umbr\u00fcchen. Als Sozialwissenschaftlerin m\u00f6chte ich in Forschung und Praxis Themen auf den Punkt bringen, die unsere Zukunft gestalten. Wissenschaft raus aus dem Elfenbeinturm, hinein in den gesellschaftlichen Dialog.\n\nLasst uns also gemeinsam dar\u00fcber sprechen, was generative KI f\u00fcr die Arbeitswelt, die Gesellschaft und nicht zuletzt f\u00fcr uns alle bedeutet \u2013 von Codezeilen bis zu gro\u00dfen Visionen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_de903f63-6cf1-5b25-8063-679758c4e8ef"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/zwischen-assistenz-und-ki-selbst-kontrolle-generat",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/SJ3UFJ/",
+  "do_not_record": true
+}

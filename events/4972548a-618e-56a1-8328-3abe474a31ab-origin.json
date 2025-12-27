@@ -1,0 +1,45 @@
+{
+  "guid": "4972548a-618e-56a1-8328-3abe474a31ab",
+  "code": "MFKMWA",
+  "id": 1882,
+  "logo": null,
+  "date": "2025-12-30T00:15:00+01:00",
+  "start": "00:15",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1882-verschlusselung-brechen-durch-physischen-zugriff-smartphone-beschlagnahme-durch-polizei",
+  "url": "https://cfp.cccv.de/39c3/talk/MFKMWA/",
+  "title": "Verschl\u00fcsselung brechen durch physischen Zugriff - Smartphone Beschlagnahme durch Polizei",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Eine zwar profane Methode der \u00dcberwachung, die Polizeibeh\u00f6rden in Deutschland jedoch hunderttausendfach anwenden, ist das Auslesen von Daten beschlagnahmter Smartphones und Computer. Dazu nutzt die Polizei Sicherheitsl\u00fccken der Ger\u00e4te mithilfe forensischer Software von Herstellern wie Cellebrite oder Magnet aus. Die Verfassungsm\u00e4\u00dfigkeit der Rechtsgrundlagen ist zweifelhaft. Im Vortrag werden anhand aktueller F\u00e4lle technische und juristische Hintergr\u00fcnde er\u00f6rtert.",
+  "description": "Staatstrojaner, Chat-Kontrolle, Wanzen. Die Mittel staatlicher \u00dcberwachung sind vielf\u00e4ltig und teilweise technisch sehr komplex. Dabei ist es leicht, den \u00dcberblick zu verlieren. Ein relativ profanes Mittel, das Polizeibeh\u00f6rden in Deutschland hunderttausendfach anwenden, ist die Beschlagnahme von Smartphones und Laptops sowie das Auslesen ihrer Daten. Genaue Statistiken gibt es nicht. Es d\u00fcrften jedoch mehr F\u00e4lle sein als bei der einfachen Telekommunikations\u00fcberwachung. Allein in Sachsen-Anhalt waren es innerhalb von f\u00fcnf Jahren 13.000 Smartphones. \r\n\r\nAuch bei leichten Straftaten und Ordnungswidrigkeiten beschlagnahmt die Polizei regelm\u00e4\u00dfig Datentr\u00e4ger - insbesondere Smartphones und Laptops - etwa beim Verdacht einer Beleidigung oder bei der Handynutzung im Stra\u00dfenverkehr. Oft werden auch Hausdurchsuchungen durchgef\u00fchrt und dabei alle technischen Ger\u00e4te beschlagnahmt und durchsucht. Die Verfassungsm\u00e4\u00dfigkeit dieser polizeilichen Praxis ist sehr zweifelhaft. Das Bundesinnenministerium plante in der letzten Legislatur sogar, die Kompetenzen der Polizei auszuweiten wodurch auch heimliche Hausdurchsuchungen m\u00f6glich werden sollten. Damit k\u00f6nnte die Polizei heimlich Staatrojaner installieren oder sog. Evil-Maid-Angriffe vorbereiten. Die Strafverfolgungsbeh\u00f6rden st\u00fctzen sich auf die Beschlagnahmevorschriften der \u00a7\u00a7 94 ff. Strafprozessordnung, die seit 1877 im Wesentlichen unver\u00e4ndert geblieben sind und in ihrem Wortlaut weder die M\u00f6glichkeit eines Datenzugriffs noch die Modalit\u00e4ten und Grenzen einer Datenauswertung regeln. Auch wird die Ma\u00dfnahme nicht auf Straftaten einer gewissen Schwere begrenzt und es fehlen Vorgaben zum Schutz besonders sensibler Daten, die etwa in den Kernbereich der pers\u00f6nlichen Lebensf\u00fchrung fallen. Im Rahmen einer Durchsuchung erm\u00f6glicht es der \u00a7\u00a7 110 Strafprozessordnung eine vorl\u00e4ufige Sicherung und Durchsicht der Speichermedien. Auch diese Vorschrift reicht nicht aus, um Grundrechte angemessen zu sch\u00fctzen, da mit der kompletten Ausforschung des gesamten Datenbestandes ein gravierender Grundrechtseingriff in die Privatsph\u00e4re der Betroffenen verbunden ist und gesetzlich keine angemessenen Grenzen gesetzt werden.\r\n\r\nGerade auf Smartphones befinden sich oft h\u00f6chstpers\u00f6nliche Daten wie Chats mit der Familie oder dem*der Partner*in, Fotos, Kontakte, Standortdaten und Dating-Apps. Dar\u00fcber hinaus sind die Ger\u00e4te regelm\u00e4\u00dfig mit Cloud-Diensten und anderen Datentr\u00e4gern verbunden. Auf all diese Daten k\u00f6nnen Polizeibeh\u00f6rden dann zugreifen.\r\nM\u00f6glich wird das durch Software von Firmen wie Cellebrite, MSAB oder Magnet. Diese nutzen Sicherheitsl\u00fccken aus, um die Verschl\u00fcsselung von Smartphones zu knacken. Wie auch bei Sicherheitsl\u00fccken f\u00fcr Staatstrojaner sind die Sicherheitsl\u00fccken, die diese Firmen ausnutzen, den Herstellern nicht bekannt. Damit unterst\u00fctzen deutsche Beh\u00f6rden ein System, dass die Ger\u00e4te aller unsicher macht. Auch die Bitlocker-Verschl\u00fcsselung von Windows-Computern l\u00e4sst sich oft umgehen. Dies erm\u00f6glicht den Strafverfolgungsbeh\u00f6rden den freien und unbeschr\u00e4nkten Zugang zu allen pers\u00f6nlichen Daten, ohne angemessene gesetzliche oder gerichtliche Kontrolle und \u00dcberpr\u00fcfung. Auch f\u00fcr die betroffenen Personen wird nicht erkennbar, in welchem Ausma\u00df Daten durchsucht und ausgewertet wurden. Im Vortrag wird der aktuelle Stand und die Probleme von Verschl\u00fcsselung von Windows und Linux Computern sowie Android und iOS Smartphones erl\u00e4utert. \r\n\r\nAm Beispiel des Journalisten Hendrik Torners, dessen Smartphone beschlagnahmt wurde, nachdem er eine polizeiliche Ma\u00dfnahme nach einer Klimademonstration beobachtet hatte und nun im Rahmen einer Verfassungsbeschwerde dagegen vorgeht, sowie weiterer \u00f6ffentlich diskutierter F\u00e4lle wie #Pimmelgate besprechen die Vortragenden die technischen und juristischen Hintergr\u00fcnde.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "AJYJMH",
+      "name": "Davy Wang",
+      "avatar": "https://cfp.cccv.de/media/avatars/AJYJMH_choWj6R.jpg",
+      "biography": "Davy Wang ist Volljurist und Verfahrenskoordinator bei der Gesellschaft f\u00fcr Freiheitsrechte. Er arbeitet zu digitalen Freiheitsrechten und Plattformregulierung. Ein Schwerpunkt seiner Arbeit ist die Unterst\u00fctzung von rechtlichen Verfahren in den Bereichen staatliche \u00dcberwachung und Datensammlung, digitale Teilhabe, Nutzer*innenrechten auf Online-Plattformen und die wirksame Durchsetzung von KI-Regulierung.",
+      "public_name": "Davy Wang",
+      "guid": "a2b08034-91a1-55d9-ad4d-d19c1b7fccff",
+      "url": "https://cfp.cccv.de/39c3/speaker/AJYJMH/"
+    },
+    {
+      "code": "E9WZVS",
+      "name": "Viktor Schl\u00fcter",
+      "avatar": null,
+      "biography": null,
+      "public_name": "Viktor Schl\u00fcter",
+      "guid": "878c9dd0-6965-5723-a325-ad8bb7d08be0",
+      "url": "https://cfp.cccv.de/39c3/speaker/E9WZVS/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/MFKMWA/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/MFKMWA/",
+  "attachments": []
+}

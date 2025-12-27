@@ -1,0 +1,54 @@
+{
+  "guid": "184bb132-6a17-5aa5-9ebe-08b1d5e3a767",
+  "code": "TYX9VG",
+  "id": 1456,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/TYX9VG/IMG_9887_j2MEwqX.jpg",
+  "date": "2025-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-1456-digitale-inklusion-wie-wir-digitale-barrierefreiheit-fur-alle-erreichen-konnen",
+  "url": "https://cfp.cccv.de/39c3/talk/TYX9VG/",
+  "title": "Digitale Inklusion: Wie wir digitale Barrierefreiheit f\u00fcr alle erreichen k\u00f6nnen",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "K\u00f6nntest du jetzt noch sagen, was du heute online gemacht hast? F\u00fcr viele ist das Internet so selbstverst\u00e4ndlich, dass sie es kaum noch merken, wenn sie es benutzen. Dennoch sind viele Menschen unfreiwillig aus der digitalen Welt ausgeschlossen. Wie k\u00f6nnte das Internet f\u00fcr alle nutzbar werden?",
+  "description": "F\u00fcr viele Menschen ist es selbstverst\u00e4ndlich, online unterwegs zu sein. Dennoch sind weiterhin viele Menschen mit Beeintr\u00e4chtigung online ausgeschlossen. Seit Juni 2025 sind durch das Barrierefreiheitsst\u00e4rkungsgesetz ist digitale Barrierefreiheit f\u00fcr Unternehmen verpflichtend. Damit ist digitale Barrierefreiheit von einer Option zu einem Recht geworden. Trotz der gesetzlichen Vorgaben scheitert die digitale Barrierefreiheit in der Praxis h\u00e4ufig an der fehlenden Expertise von Verantwortlichen. Wir m\u00f6chten aus drei Perspektiven auf Barrierefreiheit in der digitalen Welt schauen:\r\n\r\nLena M\u00fcller ist Entwicklerin und f\u00fcr die barrierefreie Gestaltung von Inhalten verantwortlich. Kathrin Klapper promoviert und nutzt in ihrem Alltag zum Sprechen einen Sprachcomputer mit Augensteuerung. Und Jakob Sponholz setzt sich in seiner Forschung mit der Frage auseinander, wie digitale Medien zur Inklusion beitragen k\u00f6nnen.\r\n\r\nWir m\u00f6chten zun\u00e4chst einen Einblick in die Mechanismen geben, die digitale Inklusion verhindern - sowohl theoretisch als auch praktisch. Anschlie\u00dfend m\u00f6chten wir anhand von einfachen Beispielen zeigen, dass der Einstieg in die Gestaltung von barrierefreien Inhalten eigentlich gar nicht so schwer ist und es sich lohnt, einfach anzufangen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "7UJZXT",
+      "name": "Jakob Sponholz",
+      "avatar": "https://cfp.cccv.de/media/avatars/7UJZXT_cep1qIw.jpg",
+      "biography": "Jakob Sponholz ist wissenschaftlicher Mitarbeiter am Department Heilp\u00e4dagogik und Rehabilitation der Universit\u00e4t zu K\u00f6ln. Seine Arbeits- und Forschungsschwerpunkte liegen in den Bereichen digitale Teilhabe, inklusive Medienbildung dem Einsatz digitaler Medien in sonderp\u00e4dagogischen Kontexten \u2013 sowohl durch Sch\u00fcler:innen als auch durch Lehrkr\u00e4fte. Au\u00dferdem forscht er zu digitaler Barrierefreiheit, der Entwicklung Asstistive Technologien aus dem 3D-Drucker und dem Einsatz K\u00fcnstlicher Intelligenz in inklusiven Bildungsprozessen.",
+      "public_name": "Jakob Sponholz",
+      "guid": "7b10030b-28d1-5716-a54f-10d9bfa6daef",
+      "url": "https://cfp.cccv.de/39c3/speaker/7UJZXT/"
+    },
+    {
+      "code": "LLHWJT",
+      "name": "Kathrin Klapper",
+      "avatar": "https://cfp.cccv.de/media/avatars/LLHWJT_aca7bMU.jpg",
+      "biography": "Kathrin Klapper ist Wissenschaftliche Mitarbeiterin der Universit\u00e4t zu K\u00f6ln und forscht zu kommunikativer Teilhabe von unterst\u00fctzt kommunizierender Menschen. Als selbst unterst\u00fctzt kommunizierende Frau h\u00e4lt sie Vortr\u00e4ge und Seminare, verkn\u00fcpft darin ihre eigenen Erfahrungen mit Fachwissen und setzt sich in Politik und Gesellschaft daf\u00fcr ein, dass Unterst\u00fctzte Kommunikation in der \u00d6ffentlichkeit bekannter wird.",
+      "public_name": "Kathrin Klapper",
+      "guid": "04e8658b-c2eb-5941-9619-956005287fa1",
+      "url": "https://cfp.cccv.de/39c3/speaker/LLHWJT/"
+    },
+    {
+      "code": "83NG7W",
+      "name": "Lena Christina M\u00fcller",
+      "avatar": "https://cfp.cccv.de/media/avatars/83NG7W_TembRQC.jpeg",
+      "biography": "In her work as a IT-solution architect and coordinator for software solutions, Lena focuses on the sustainability and reusability of software modules at Siemens. Her mission is to advance the accessible design of web applications.",
+      "public_name": "Lena Christina M\u00fcller",
+      "guid": "0ebea638-a19a-57d1-b0c4-a44e518b7139",
+      "url": "https://cfp.cccv.de/39c3/speaker/83NG7W/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/TYX9VG/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/TYX9VG/",
+  "attachments": []
+}

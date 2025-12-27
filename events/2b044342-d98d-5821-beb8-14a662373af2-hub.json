@@ -1,0 +1,47 @@
+{
+  "guid": "2b044342-d98d-5821-beb8-14a662373af2",
+  "code": "P9ZQZD",
+  "id": 1700,
+  "date": "2025-12-27T21:45:00+01:00",
+  "start": "21:45",
+  "duration": "01:00",
+  "room": "Fuse",
+  "slug": "39c3-dngerouslink-a-deep-dive-into-whatsapp-0-click-exploits-on-ios-and-samsung-devices",
+  "title": "DNGerousLINK: A Deep Dive into WhatsApp 0-Click Exploits on iOS and Samsung Devices",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "The spyware attack targeting WhatsApp, disclosed in August as an in-the-wild exploit, garnered significant attention. By simply knowing a victim's phone number, an attacker could launch a remote, zero-interaction attack against the WhatsApp application on Apple devices, including iPhones, iPads, and Macs. Subsequent reports indicated that WhatsApp on Samsung devices was also targeted by similar exploits.\r\nIn this presentation, we will share our in-depth analysis of this attack, deconstructing the 0-click exploit chain built upon two core vulnerabilities: CVE-2025-55177 and CVE-2025-43300. We will demonstrate how attackers chained these vulnerabilities to remotely compromise WhatsApp and the underlying iOS system without any user interaction or awareness. Following our analysis, we successfully reproduced the exploit chain and constructed an effective PoC capable of simultaneously crashing the target application on iPhones, iPads, and Macs. Finally, we will present our analysis of related vulnerabilities affecting Samsung devices (such as CVE-2025-21043) and share how this investigation led us to discover additional, previously unknown 0-day vulnerabilities.",
+  "description": "In August 2025, it attracted significant attention when Apple patched CVE-2025-43300, a vulnerability reportedly exploited in-the-wild to execute \"extremely sophisticated attack against specific targeted individuals\u201d. A week later, WhatsApp issued a security advisory, revealing the fix for a critical vulnerability, CVE-2025-55177, which was also exploited in-the-wild. Strong evidence indicated that these two vulnerabilities were chained together, enabling attackers to deliver a malicious exploit via WhatsApp to steal data from a user's Apple device, all without any user interaction.\n\nTo deconstruct this critical and stealthy in-the-wild 0-click exploit chain, we will detail our findings in several parts:\n1. WhatsApp 0-Click Attack Vector (CVE-2025-55177). We will describe the 0-click attack surface we identified within WhatsApp. We will detail the flaws in WhatsApp's message handling logic for \"linked devices,\" which stemmed from insufficient validation, and demonstrate how an attacker could craft malicious protocol messages to trigger the vulnerable code path.\n2. iOS Image Parsing Vulnerability (CVE-2025-43300). The initial exploit allows an attacker to force the target's WhatsApp to load arbitrary web content. We will then explain how the attacker leverages this by embedding a malicious DNG image within a webpage to trigger a vulnerability in the iOS image parsing library. We will analyze how the RawCamera framework handles the parsing of DNG images, and pinpoint the resulting OOB vulnerability.\n3. Rebuilding the Chain: From Vulnerability to PoC. In addition, we will then walk through our process of chaining these two vulnerabilities, constructing a functional Proof-of-Concept (PoC) that can simultaneously crash the WhatsApp application on target iPhones, iPads, and Macs.\n\nBeyond Apple: The Samsung Connection (CVE-2025-21043). Samsung's September security bulletin patched CVE-2025-21043, an out-of-bounds write vulnerability in an image parsing library reported by the Meta and WhatsApp security teams. This vulnerability was also confirmed to be exploited in-the-wild. While an official WhatsApp exploit chain for Samsung devices has not been publicly detailed, we will disclose our findings on this related attack. Finally, we will share some unexpected findings from our investigation, including the discovery of several additional, previously undisclosed 0-day vulnerabilities.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "895e9b97-11f8-54b9-a26c-ddbec0c912c7",
+      "name": "Zhongrui Li",
+      "public_name": "Zhongrui Li",
+      "avatar": "https://cfp.cccv.de/media/avatars/Q3PTTN_H1gz8JP.webp",
+      "biography": "Zhongrui Li (@0xalbanis) is a security researcher from DARKNAVY. He specializes in iOS security and AI-powered security research. He is passionate about hunting for zero-day exploits and analyzing in-the-wild exploited vulnerabilities. He has won two DEF CON CTF as a member of CTF team A\\*0\\*E and Katzebin. He has presented at security conferences such as deepsec.cc and TheSAScon.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_895e9b97-11f8-54b9-a26c-ddbec0c912c7"
+    },
+    {
+      "guid": "f89c6bc6-d169-5c93-af1e-106dbbe47705",
+      "name": "Yizhe Zhuang",
+      "public_name": "Yizhe Zhuang",
+      "avatar": "https://cfp.cccv.de/media/avatars/HK3HME_7XuNTa6.webp",
+      "biography": "Yizhe Zhuang is a security researcher at DARKNAVY, specializing in browser and kernel security. He is passionate about hunting for zero-days. He is a core member of CTF team 0ops. He has presented at security conferences such as GeekCon.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f89c6bc6-d169-5c93-af1e-106dbbe47705"
+    },
+    {
+      "guid": "ac4d2a55-b3a1-5d6e-ba65-daef8bb43b51",
+      "name": "Kira Chen",
+      "public_name": "Kira Chen",
+      "avatar": "https://cfp.cccv.de/media/avatars/L9SSYB_48206hi.jpeg",
+      "biography": "Kira (Xingyu) Chen is a senior security researcher at DARKNAVY. He has successfully compromised different targets across various fields. He achieved RCE on Samsung baseband and Google Chrome, as well as performed VM escapes in popular virtualization software such as QEMU, VirtualBox, and VMware Workstation. In addition, he actively participates in CTF competitions as a core member of the champion team AAA & A*0*E in DEFCON CTFs. He has spoken at several international security conferences like Black Hat USA, OffensiveCon, Zer0Con, and GeekCon Shanghai & Singapore.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ac4d2a55-b3a1-5d6e-ba65-daef8bb43b51"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/dngerouslink-a-deep-dive-into-whatsapp-0-click-exploits-on-ios-and-samsung-devices",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/P9ZQZD/"
+}

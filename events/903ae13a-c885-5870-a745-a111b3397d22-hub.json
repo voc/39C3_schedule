@@ -1,0 +1,56 @@
+{
+  "guid": "903ae13a-c885-5870-a745-a111b3397d22",
+  "code": "89TKXV",
+  "id": 83817,
+  "date": "2025-12-28T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:45",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-netzpolitikorg-offon-off-the-record-live",
+  "title": "netzpolitik.org Off/On: Off The Record live",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne",
+  "abstract": "Bei \"Off The Record\" nehmen wir euch mit in den Maschinenraum von netzpolitik.org. Einmal im Monat geben Redakteur:innen und andere Team-Mitglieder Einblicke in ihre Arbeit. Bei dieser Live-Ausgabe zum Abschluss des Jahres wollen wir hinter die Kulissen einiger gro\u00dfe Recherchen blicken: Es geht um Spionage-Apps und Datenh\u00e4ndler, eine mysteri\u00f6se Schallwaffe und die T\u00fccken der Verwaltungsdigitalisierung.",
+  "description": "In \"Off/On\", dem Podcast von netzpolitik.org, wechseln sich zwei Formate ab: Bei \"Off The Record\" geht es ab in den Maschinenraum von netzpolitik.org: Wir erz\u00e4hlen, wie unsere Recherchen entstehen, und machen transparent, wie wir arbeiten. Bei \"On The Record\" interviewen wir Menschen, die unsere digitale Gesellschaft pr\u00e4gen.\n\nBei dieser Live-Ausgabe von \"Off The Record\" spricht Ingo Dachwitz mit Chris K\u00f6ver, Markus Reuter und Esther Mehnhard \u00fcber ihre Recherchen des Jahres. Wie sind sie bei der Recherche vorgegangen? Welche Hindernisse mussten sie \u00fcberwinden? Wie verpackt man komplexe Sachverhalten am besten? Und was haben die Recherchen ausgel\u00f6st?\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f19f8817-e80d-5c5f-af0d-63d95f3626f4",
+      "name": "Ingo Dachwitz",
+      "public_name": "Ingo Dachwitz",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/8JJ8C8_KNNk5qb.jpg",
+      "biography": "Ingo ist Journalist und Kommunikationswissenschaftler. Seit 2016 ist er Redakteur bei netzpolitik.org und u.a. Ko-Host des Podcasts Off/On. F\u00fcr den Podcast \"Systemeinstellungen\" erhielt er mit Kolleg:innen einen Grimme-Online-Award und den Rainer-Reichert-Preis zum Tag der Pressefreiheit.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_f19f8817-e80d-5c5f-af0d-63d95f3626f4"
+    },
+    {
+      "guid": "44aea00d-f936-58cf-9c21-9476d81485d3",
+      "name": "Esther Menhard",
+      "public_name": "Esther Menhard",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_44aea00d-f936-58cf-9c21-9476d81485d3"
+    },
+    {
+      "guid": "52d341b7-8417-5093-959e-496c9f529196",
+      "name": "Markus Reuter",
+      "public_name": "Markus Reuter",
+      "avatar": "https://cfp.cccv.de/media/avatars/BRHKC9_4b5hIB1.webp",
+      "biography": "Markus Reuter researches and writes about digital policy and surveillance at netzpolitik.org. He also covers topics such as the police, fundamental rights and civil liberties, protests, and social movements. Over the past four years, he has written more than 200 articles on chat monitoring and has followed the surveillance project from its inception to the present day.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_52d341b7-8417-5093-959e-496c9f529196"
+    },
+    {
+      "guid": "97db3d0e-3789-5fa9-abdd-c0e04ee0af50",
+      "name": "Chris K\u00f6ver",
+      "public_name": "Chris K\u00f6ver",
+      "avatar": "https://cfp.cccv.de/media/avatars/Portrat_400x400_ahqbjj8.jpg",
+      "biography": "Chris K\u00f6ver schreibt \u00fcber Migrationskontrolle, \u00dcberwachung, digitale Gewalt und Jugendschutz. Seit 2018 bei netzpolitik.org. Hat in L\u00fcneburg und Toronto Kulturwissenschaften studiert und bei Zeit Online mit dem Schreiben begonnen, sp\u00e4ter das Missy Magazine mitgegr\u00fcndet. Recherche-Anregungen und Hinweise gerne per Mail an chris@netzpolitik.org oder via Signal (ckoever.24).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_97db3d0e-3789-5fa9-abdd-c0e04ee0af50"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/netzpolitikorg-offon-off-the-record-live",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/89TKXV/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/89TKXV/feedback/"
+}

@@ -1,0 +1,30 @@
+{
+  "guid": "4e30dafe-2356-492d-870f-41f6018eb6b4",
+  "code": null,
+  "id": 430235,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "02:00",
+  "room": "OGM Workshop Space",
+  "slug": "39c3-mesh-radio-workshop",
+  "title": "Building Autonomy: Mesh Radio Hardware Workshop",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "Der Workshop vermittelt den vollst\u00e4ndigen Aufbau eines nRF52-basierten Mesh-Nodes, wobei Teilnehmer durch L\u00f6ten, LoRa-Integration und Firmware-Installation die technischen Grundlagen verteilter Funknetze praktisch nachvollziehen.",
+  "description": "### Building Autonomy: Mesh Radio Hardware Workshop\n\nDecentralized communication infrastructures require more than finished devices: understanding the hardware level enables critical engagement with proprietary designs and creates autonomy beyond commercial dependencies. The workshop covers complete assembly of an nRF52-based mesh node in Heltec form-factor, where participants gain practical comprehension of decentralized radio network architecture through soldering components, integrating LoRa modules, and installing firmware. Critical decentralization means not merely using distributed networks but mastering their technical foundations: building custom boards reveals trade-offs between energy efficiency, range, and cost, enables design adaptation to specific requirements, and develops capabilities for repairing and modifying existing infrastructure. Control over hardware design and firmware variants dissolves dependence on manufacturer decisions and permits experimental topologies that commercial solutions cannot accommodate. The workshop targets advanced participants with mesh operation experience, as technical fundamentals are prerequisite knowledge.\n\n**Prerequisites:** Operational experience with mesh nodes (advanced)  \n**Materials:** PCB kits available, pricing announced by [@jitter](https://events.ccc.de/congress/2025/hub/user/jitter)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d97e2ed23f72/signal-2025-12-26-053730.jpg",
+  "persons": [
+    {
+      "guid": "ad85ee22-57ae-4bf7-ae9f-0d0c32b2ece3",
+      "name": "jitter (this,that)",
+      "public_name": "jitter (this,that)",
+      "avatar": null,
+      "biography": "without a good buffer jitter can be lost in time and may require assistance to get the clock right. thank you!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/jitter"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/mesh-radio-workshop",
+  "links": []
+}

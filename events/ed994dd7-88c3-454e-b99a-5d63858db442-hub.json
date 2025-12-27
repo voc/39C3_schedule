@@ -1,0 +1,30 @@
+{
+  "guid": "ed994dd7-88c3-454e-b99a-5d63858db442",
+  "code": null,
+  "id": 994788,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-teilchendetektor-im-keller-ich-habs-gemacht-die-th",
+  "title": "Teilchendetektor im Keller? Ich hab's gemacht! Die Theorie und der Bau einer Funkenkammer",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Myonen-Detektion mit einer Funkenkammer. Wie funktioniert das eigentlich?\n\nMyonen sind Teilchen, die Elektronen sehr \u00e4hnlich sind, nur deutlich schwerer. Sie entstehen in der kosmischen Hintergrundstrahlung und treffen st\u00e4ndig auf die Erde. Eine praktische Eigenschaft dieser Teilchen ist, dass sie beim Durchqueren von Materie, Molek\u00fcle ionisieren. Auf ihrem Weg hinterlassen sie also Spuren aus freien Elektronen.\n\nIn einer Funkenkammer macht man sich genau diesen Effekt zunutze: Zwischen zwei Elektroden liegt ein starkes elektrisches Feld an. Wenn ein vorbeifliegendes Myon ein Gas ionisiert, werden die frei gewordenen Elektronen im Feld beschleunigt und l\u00f6sen einen sichtbaren Funken aus. So wird die unsichtbare Spur des Myons kurzzeitig sichtbar.\n\nWie kann man wissen, ob das detektierte Teilchen ein Myon ist? Welche technischen Herausforderungen gibt es? Wie n\u00fctzlich ist eine Funkenkammer heutzutage noch? Inwiefern gibt es \u00dcberschneidungen mit Teilchendetektoren am DESY oder CERN? Das alles versuche ich zu beantworten.\n\nBeim 38c3 habe ich bereits einen Vortrag mit dem Titel \u201eEinf\u00fchrung in die Teilchenphysik\u201c gehalten. Seitdem habe ich viel dazugelernt und freue mich darauf, dieses Wissen mit euch zu teilen, mit euch in den Austausch zu gehen und euch auf meinem Weg zur angehenden Teilchenphysikerin mitzunehmen.\n\nDer Vortrag ist f\u00fcr alle Lebewesen gedacht. Egal ob ihr Vorwissen mitbringt oder nicht.\n\nIch freue mich auf euer Kommen!\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "30be0e3c-ba86-4f6b-8850-58567d18835c",
+      "name": "roso",
+      "public_name": "roso",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/roso"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/teilchendetektor-im-keller-ich-habs-gemacht-die-th",
+  "links": []
+}

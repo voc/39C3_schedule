@@ -1,0 +1,31 @@
+{
+  "guid": "7eb651d6-d6c2-5c72-be0c-6fd8caf919c6",
+  "code": null,
+  "id": 300098,
+  "date": "2025-12-30T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:15",
+  "room": "CDC Triangle",
+  "slug": "39c3-nextgraph-demo-local-first-e2ee-rdf-graph-db-and-a",
+  "title": "NextGraph Demo: Local First, E2EE, RDF graph DB, and a Reactive ORM SDK",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "[NextGraph](https://nextgraph.org/) is a framework aimed at making live collaboration, offline support, end to end encryption, and application interoperability easy.\r\n\r\nIn this demo, I will walk you through the basics of NextGraph and our new TypeScript SDK.\r\n\r\nThe new TypeScript SDK turns RDF graph database records into ordinary, typed objects with instant two\u2011way binding. By proxying those objects and emitting signals, the SDK provides a framework\u2011agnostic reactive layer that integrates cleanly with React, Vue, and Svelte.\r\n\r\n**You will** get a short introduction to NextGraph, RDF (a graph data format designed for interoperability), and a live demo walking through a simple property change, showing how a mutation is instantly persisted to the database, syncronized, and reflected in UI components across React, Vue, and Svelte.",
+  "description": "",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/QTQHYH/a7c8b107494862a5a52734575d6aafd3_1KlsQga.png",
+  "persons": [
+    {
+      "guid": "7241747c-e6e3-5ed4-811c-384cf864fa1a",
+      "name": "Laurin Weger",
+      "public_name": "Laurin Weger",
+      "avatar": "https://pretalx.riat.at/media/avatars/2025-12_Richi_Dach_cropped_JgECXDV.jpg",
+      "biography": "Laurin is a full-stack developer and likes working on decentralized technologies. His interests lie in application interoperability, [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework), and local-first.\n\nApart from contributing to NextGraph, Laurin works on [ActivityPods](https://activitypods.org/), a framework to create decentralized social apps based on [Activity*Pub*](https://en.wikipedia.org/wiki/Fediverse) and [Solid](https://solidproject.org/).\n\nLaurin is involved with climate and social activism. Apart from that, he is interested in Science, Technology, and Society. He is based in Graz where he studies Computational Social Systems.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7241747c-e6e3-5ed4-811c-384cf864fa1a"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/nextgraph-demo-local-first-e2ee-rdf-graph-db-and-a",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/QTQHYH/"
+}

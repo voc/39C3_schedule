@@ -1,0 +1,30 @@
+{
+  "guid": "de6afcb7-d286-46d7-becb-72191a45fed6",
+  "code": null,
+  "id": 672864,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:30",
+  "room": "Komonin",
+  "slug": "39c3-drone-cymatics-sound-jam",
+  "title": "How to setup a chatmail relay server, optimized for Delta Chat",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "With Signal, Whatsapp, and other centralized messengers suddenly running their servers in an authoritarian territory, we need a decentralized alternative. Delta Chat apps work with most e-mail servers but chatmail servers are more secure, faster and easy to setup, and have become the primary choice for new users. Learn how to host chatmail, and help creating the resilient chatmail server network for a shattered world!",
+  "description": "You don't need expensive hardware to run a chatmail server - a cheap VPS or raspberry pi can support hundreds of users. All storage is temporary, as Delta Chat stores messages only on end devices. This makes chatmail tremendously easy to get started with - bring your child and learn together.\n\nTo setup a chatmail server, you need:\n- SSH root access to a server, with a public IP address, and a domain (we will bring some for the workshop)\n- basic command line knowledge\n\nSo come as you are, and join this chat group to get started: https://i.delta.chat/#AB68F428FCEF88D32B46189314FDBB18B2789654&a=groupedit%40nine.testrun.org&g=39c3%20chatmail%20relay%20workshop&x=zIwlF9uvvoxzDLo2GBFRRm2l&i=vcZd2RULjs39Vl-Fs2L-ZfIT&s=oUmgp0IBDyBnI7dTslH3CK37\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "1aca2dbc-b6e4-4287-ac3c-cef60b9af8bb",
+      "name": "Nami (they/them)",
+      "public_name": "Nami (they/them)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/missytake"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/drone-cymatics-sound-jam",
+  "links": []
+}

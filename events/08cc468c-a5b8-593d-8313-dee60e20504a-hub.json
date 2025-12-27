@@ -1,0 +1,32 @@
+{
+  "guid": "08cc468c-a5b8-593d-8313-dee60e20504a",
+  "code": "GEYDMW",
+  "id": 84685,
+  "date": "2025-12-28T13:45:00+01:00",
+  "start": "13:45",
+  "duration": "01:30",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-git-quellcode-verwalten-fur-anfangerinnen",
+  "title": "Git - Quellcode verwalten f\u00fcr Anf\u00e4nger*innen [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop long",
+  "abstract": "Wir schauen uns gemeinsam an, wie wir mit git den Quellcode von unseren Projekten verwalten k\u00f6nnen. Wir installieren Git, lernen den Umgang mit Git auf der Kommandozeile kennen und erarbeiten uns dabei relevante Begriffe wie \u201cCommit\u201d und \u201cRepository\u201d.",
+  "description": "Was ist eigentlich Git und wie kann Git mir helfen, den \u00dcberblick \u00fcber \u00c4nderungen an meinem Code zu behalten? Dieser Workshop bietet eine Einf\u00fchrung in die Quellcode-Verwaltung mit Git f\u00fcr absolute Anf\u00e4nger*innen.\n\nGemeinsam werden wir...\n- \u00fcberlegen, wof\u00fcr wir Git \u00fcberhaupt brauchen und womit Git uns helfen kann.\n- Git installieren.\n- ein \"Repository\" anlegen.\n- lernen, was eigentlich alle diese Begriffe wie \"Repository\" und \"Commit\" meinen.\n- Dateien in einem Projekt versionieren.\n- uns den \u00c4nderungsverlauf von einem Projekt anschauen.\n- verschiedene Versionen einer Datei zusammenf\u00fchren.\n\n**Anmeldung zum Workshop:** Wenn du am Workshop teilnehmen m\u00f6chtest, registriere dich bitte am Haecksen-Helpdesk. Es gibt insgesamt 30 Pl\u00e4tze.\n\n**Material:** Zum Mitmachen bitte einen (idealerweise aufgeladenen) Laptop mit Internetzugang mitbringen.\n\nPS: F\u00fcr die Teilnahme sind keine Programmierkenntnisse erforderlich. Git wird meist f\u00fcr die Verwaltung von Quellcode verwendet, kann aber auch zur Verwaltung anderer Textdateien verwendet werden.\n\nPPS: Wir arbeiten mit Git auf der Kommandozeile. Ich versuche dies so zu gestalten, dass auch Kommandozeilen-Neulinge ohne Vorkenntnisse gut mitkommen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8be117ec-1df7-5656-8909-ee0378ab4827",
+      "name": "Anne-Victoria Meyer (sie/ihr)",
+      "public_name": "Anne-Victoria Meyer (sie/ihr)",
+      "avatar": null,
+      "biography": "Informatikerin und Ausbilderin f\u00fcr Fachinformatik-Azubis.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8be117ec-1df7-5656-8909-ee0378ab4827"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/git-quellcode-verwalten-fur-anfangerinnen",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GEYDMW/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/GEYDMW/feedback/"
+}

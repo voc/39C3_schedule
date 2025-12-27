@@ -1,0 +1,38 @@
+{
+  "guid": "aaff4a4b-ff95-45f9-85ec-6e8e2bd129d6",
+  "code": null,
+  "id": 449545,
+  "date": "2025-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:30",
+  "room": "Hardware Hacking Area -- Front-middle",
+  "slug": "39c3-39c3-led-badge-smd-for-beginners-day-2",
+  "title": "39C3 LED badge -- SMD for Beginners (Day 2)",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "**39C3 LED badge -- SMD for Beginners**  \r\n\r\nThe 39C3 LED badge contains 42 LEDs that blink under control of of a pre-programmed 4 cent microcontroller. When the badge is alone, the LEDs will blink randomly. When it is among friends (when there are other badges nearby), it will display a chaser pattern. \r\n\r\nIn this workshop you will learn how to solder Surface Mounted Devices using a normal soldering iron.\r\n\r\nSuitable for beginners. Under 16s only with responsible adult supervision.",
+  "description": "### 39C3 LED badge -- SMD for Beginners\n\n![39C3 LED badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/b/7dccaedbb7ec/39C3badge.png)\n\nSurface Mounted Devices (SMDs) are small compared to Through Hole (TH) electronic components, and have the reputation of being difficult to work with as a hobyist: Difficult to see and handle, when you sneeze, you loose them and you can not easily use them on 2.54mm raster prototyping boards.\n\nSMD components are designed to be used in a reflow soldering process where tiny dots of solder paste are applied to a Printed Circuit Board (PCB), after which the SMD components are \"Picked and Placed\" on the PCB, after which the whole PCB is heated to the melting point of the solder (\"reflowing\"), actually completing the  electrical connections.\n\nThis workshop is aimed at showing you that the reputation of being difficult to work with is a bit undeserved, and that you can also work with SMDs using just a  regular soldering iron: With some simple tricks and a suitable selection of components (not the smallest possible), the vast majority of people can successfully complete this project.\n\nBeing able to solder SMD projects using just a simple soldering iron will also help you develop some skills that are useful if you  need to do \"rework\" on reflow soldering projects. Reflow soldering is also not difficult to do as a hobbyist, but requires a few more tools like a stencil to apply solder paste and either an oven or a hot plate to do the reflowing. It is, however, much quicker than soldering the parts one by one, and can yield more professional looking, cleaner, solder joints.\n\nThe project is an electronic name-badge - You should write your name (or nick) on it and wear it. It contains 42 LEDs, a microcontroller, some support components and an InfraRed transmitter and receiver that allow it to communicate with other badges. When the badge detects the presence of other badges (\"friends\") nearby, it will change its behaviour. It will not only interact with other 39C3 LED badges, but also with TBD badges - come visit the TBD assembly at komona or https://tbd.camp\n\n![TBD badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d619de5f1be1/tbdbadge.png)\n\n### Costs\nThis workshop is donation based. Materials costs are 2 euro per badge. Donations will go towards 1) covering costs of the badges, 2) covering costs of running the hardware hacking area in general, 3) covering costs of organizing TBD (see the TBD assembly at komona or https://tbd.camp)\n\n### Registration\nThe number of participants per session is limited. First come, first served. Either get a participation voucher beforehand or show up early (there may be places left).\nThere will be *numbered* paper vouchers available for each session some time in advance of each session. If you get a voucher and do not show up *before* the designated starting time, someone else may take your spot. Please don't take multiple vouchers and don't take  vouchers if you don't actually plan to participate.\n\n### Getting a kit\nKits are part of the workshop and not for sale separately. You can, however easily source your own PCBs and parts and make kits yourself because the design is  MIT licensed open source.\n\n### Links\nUnder construction: https://hackwinkel.nl/39C3\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+      "name": "Mitch (he/him)",
+      "public_name": "Mitch (he/him)",
+      "avatar": null,
+      "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+    },
+    {
+      "guid": "8215e424-1229-4bc5-8b8a-c16362b47fa9",
+      "name": "the0 (he his him)",
+      "public_name": "the0 (he his him)",
+      "avatar": null,
+      "biography": "organizer of electronics-related workshops at camps, hacker spaces & congress\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/the0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/39c3-led-badge-smd-for-beginners-day-2",
+  "links": []
+}

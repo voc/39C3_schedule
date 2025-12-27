@@ -1,0 +1,21 @@
+{
+  "guid": "1e037c37-1841-4474-8118-1c144a4cc40d",
+  "code": null,
+  "id": 103737,
+  "date": "2025-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:55",
+  "room": "SoS Saal 6",
+  "slug": "39c3-poc-intro",
+  "title": "POC Introduction",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "Introduction for Eventphone Angels",
+  "description": "",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/poc-intro",
+  "links": []
+}

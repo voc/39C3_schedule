@@ -1,0 +1,31 @@
+{
+  "guid": "0786f21f-55be-5ebb-9030-a88b82004d83",
+  "code": null,
+  "id": 100445,
+  "date": "2025-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-running-a-ngo-empowered-by-with-software-freedom",
+  "title": "Running a NGO empowered by with Software Freedom",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Can organisations with limited resources be digitally sovereign and still provide modern services? It is not trivial, but the FSFE proves it's possible. In this workshop we want to share our story and hear from you how you are running your NGO on FreeSoftware.",
+  "description": "Since its founding more than 20 years ago, the FSFE has been pursuing this way. Right from the start, we have relied on Free Software although it sometimes meant not being able to use and offer trendy services. Also, given the limited resources, we constantly have to choose between useful features and maintainability.\n\nAnd still, neither is our infrastructure perfect nor is it 1:1 transferable to other organisations. But we think it's important that organisations exchange their experiences and learning, especially when it's about something as important as software freedom.\n\nYou can find a deep dive of the FSFE IT infrastructure in [our news article from 2021](https://fsfe.org/news/2021/news-20211203-01.html)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "35bfc217-276d-598f-b5c2-4a084b134df6",
+      "name": "Tobias",
+      "public_name": "Tobias",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/Southpark-Tobias-FSFE_z1p2YKU.png",
+      "biography": "FLOSS Enthusiast from Berlin, Fediverse Ambassador, working for the FSFE\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_35bfc217-276d-598f-b5c2-4a084b134df6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/running-a-ngo-empowered-by-with-software-freedom",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/KFTFX9/"
+}

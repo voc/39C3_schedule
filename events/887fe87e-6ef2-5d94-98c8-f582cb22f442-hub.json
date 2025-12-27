@@ -1,0 +1,39 @@
+{
+  "guid": "887fe87e-6ef2-5d94-98c8-f582cb22f442",
+  "code": "LYE33R",
+  "id": 1491,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
+  "title": "Bluetooth Headphone Jacking: A Key to Your Phone",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Bluetooth headphones and earbuds are everywhere, and we were wondering what attackers could abuse them for. Sure, they can probably do things like finding out what the person is currently listening to. But what else? During our research we discovered three vulnerabilities (CVE-2025-20700, CVE-2025-20701, CVE-2025-20702) in popular Bluetooth audio chips developed by Airoha. These chips are used by many popular device manufacturers in numerous Bluetooth headphones and earbuds.\r\n\r\nThe identified vulnerabilities may allow a complete device compromise. We demonstrate the immediate impact using a pair of current-generation headphones. We also demonstrate how a compromised Bluetooth peripheral can be abused to attack paired devices, like smartphones, due to their trust relationship with the peripheral.\r\n\r\nThis presentation will give an overview over the vulnerabilities and a demonstration and discussion of their impact. We also generalize these findings and discuss the impact of compromised Bluetooth peripherals in general. At the end, we briefly discuss the difficulties in the disclosure and patching process. Along with the talk, we will release tooling for users to check whether their devices are affected and for other researchers to continue looking into Airoha-based devices.\r\n\r\nExamples of affected vendors and devices are Sony (e.g., WH1000-XM5, WH1000-XM6, WF-1000XM5), Marshall (e.g. Major V, Minor IV), Beyerdynamic (e.g. AMIRON 300), or Jabra (e.g. Elite 8 Active).",
+  "description": "Airoha is a vendor that, amongst other things, builds Bluetooth SoCs and offers reference designs and implementations incorporating these chips. They have become a large supplier in the Bluetooth audio space, especially in the area of True Wireless Stereo (TWS) earbuds. Several reputable headphone and earbud vendors have built products based on Airoha\u2019s SoCs and reference implementations using Airoha\u2019s Software Development Kit (SDK).\n\nDuring our Bluetooth Auracast research we stumbled upon a pair of these headphones. During the process of obtaining the firmware for further research we initially discovered the powerful custom Bluetooth protocol called *RACE*. The protocol provides functionality to take full control of headphones. Data can be written to and read from the device's flash and RAM.\n\nThe goal of this presentation is twofold. Firstly, we want to inform about the vulnerabilities. It is important that headphone users are aware of the issues. In our opinion, some of the device manufacturers have done a bad job of informing their users about the potential threats and the available security updates. We also want to provide the technical details to understand the issues and enable other researchers to continue working with the platform. With the protocol it is possible to read and write firmware. This opens up the possibility to patch and potentially customize the firmware.\n\nSecondly, we want to discuss the general implications of compromising Bluetooth peripherals. As smart phones are becoming increasingly secure, the focus for attackers might shift to other devices in the environment of the smart phone. For example, when the Bluetooth Link Key, that authenticates a Bluetooth connection between the smart phone and the peripheral is stolen, an attacker might be able to impersonate the peripheral and gain its capabilities.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ba81933f-41f6-598c-907a-0c5f5ee60e9d",
+      "name": "Dennis Heinze",
+      "public_name": "Dennis Heinze",
+      "avatar": "https://cfp.cccv.de/media/avatars/CF83N8_NvVaqfy.webp",
+      "biography": "Dennis Heinze is a Senior Security Researcher and Penetration Tester at ERNW Enno Rey Netzwerke GmbH. He earned his Master\u2019s degree in IT-Security at TU Darmstadt with a focus on network and system security. In the past, he published research on the Bluetooth technology in the Apple ecosystem with on the analysis and security of Bluetooth protocol implementations. Other work included the research into the security properties of Bluetooth Auracast. In his work at ERNW, the focus of his work is on pentesting mobile and embedded devices as well as their communication and back end systems.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ba81933f-41f6-598c-907a-0c5f5ee60e9d"
+    },
+    {
+      "guid": "1de6f679-94d6-5f3f-b648-f663d79c5332",
+      "name": "Frieder Steinmetz",
+      "public_name": "Frieder Steinmetz",
+      "avatar": null,
+      "biography": "Frieder Steinmetz works as Senior Security Analyst at ERNW Enno Rey Netzwerke GmbH. He earned his Master\u2019s degree on the security of embedded and cyber-physical devices from the Technical University of Hamburg. He has a background in cryptography, published work on the security of encrypted messaging protocols and malicious USB devices and Bluetooth security. His work focuses on pentesting embedded devices, as well as their back-end communication and infrastructure. He regularly gives Trainings on subjects such as IoT, RFID/NFC Hacking, web application pentesting and communications security.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1de6f679-94d6-5f3f-b648-f663d79c5332"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/bluetooth-headphone-jacking-a-key-to-your-phone",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/LYE33R/"
+}

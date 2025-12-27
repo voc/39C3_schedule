@@ -1,0 +1,32 @@
+{
+  "guid": "3b9c342e-a492-54c3-9867-817750ffad38",
+  "code": "RH7KUV",
+  "id": 2510,
+  "date": "2025-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-ninsn",
+  "title": "Ninsn",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Soundcloud:\r\nhttps://soundcloud.com/ninsnberlin",
+  "description": "Ninsn has been active in Berlin's club and festival scene for over nine years. She moved to Berlin over 11 years ago and hasn't regretted it for a second. For many years, she has been involved in collectives and Disko Babel e. V. \u2013 from event planning and stage construction to DJing, which she has been actively pursuing for six years. Ninsn is a member of jonny kn\u00fcppel and the Kopf\u00fcber Kollektiv.\nMusically, she moves between trippy minimal house and rich tech house. In her sets, powerful, deep bass meets a house atmosphere \u2013 never below 130 bpm.\nIn addition, her heart beats for hypnotic techno, garage, breakbeats, hip-hop, ambient, acoustic music and punk rock, among other things. And she actually believes that there is good music to be found in every genre.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/RH7KUV/Ninsn_Shoot_I_YZ2lTZM.webp",
+  "persons": [
+    {
+      "guid": "ea43a787-216e-5e4c-a6c4-59fca2a945b0",
+      "name": "Nina",
+      "public_name": "Nina",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ea43a787-216e-5e4c-a6c4-59fca2a945b0"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ninsn",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/RH7KUV/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/RH7KUV/feedback/"
+}

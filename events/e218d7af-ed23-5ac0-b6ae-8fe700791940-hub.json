@@ -1,0 +1,32 @@
+{
+  "guid": "e218d7af-ed23-5ac0-b6ae-8fe700791940",
+  "code": "DVTJBS",
+  "id": 218723,
+  "date": "2025-12-28T11:15:00+01:00",
+  "start": "11:15",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-workshop-network-security-darknet",
+  "title": "Workshop Network-Security + \"Darknet\" [FLINTA* only]",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "We all have heard about the darknet - but how to navigate to and through it? How to start with the TOR-Browser?  \r\n\r\nWe all heard about vulnerabilities - but how do Hackers use these?",
+  "description": "***FLINTA*-only***\nThis one-hour workshop focuses on the secure and responsible use of offensive security tools. We'll take a practical look at Metasploit, Torify, and related tools to understand how to test attack surfaces while maintaining privacy and anonymity.\n\nTogether, we'll discuss setting up a small test environment, routing traffic through Tor and proxy chains, and discuss the limits of technical anonymization\u2014including legal and ethical aspects.\n\nObjective:\nYou'll learn how to use Metasploit securely in a lab setup, what Torify can do, and where caution is advised.\n\nLevel: Intermediate (basic knowledge of Linux and networking recommended)\nDuration: Approx. 1 hour\nWhat to bring: Laptop with Linux (VM is acceptable), Metasploit, and Tor tools\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "37d66f24-3150-5a02-91de-5dbc98bac48b",
+      "name": "Clandestine",
+      "public_name": "Clandestine",
+      "avatar": null,
+      "biography": "Some years IT-Security-Experience\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_37d66f24-3150-5a02-91de-5dbc98bac48b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/workshop-network-security-darknet",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/DVTJBS/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/DVTJBS/feedback/"
+}

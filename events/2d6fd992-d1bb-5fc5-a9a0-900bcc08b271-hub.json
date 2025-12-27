@@ -1,0 +1,39 @@
+{
+  "guid": "2d6fd992-d1bb-5fc5-a9a0-900bcc08b271",
+  "code": null,
+  "id": 100446,
+  "date": "2025-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-how-can-academic-research-and-activism-in-sar-inte",
+  "title": "(How) Can academic research and activism in SAR interact in solidarity?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Let's snack and chat! We want to invite you to collectively reflect the relationship between activism and academic research with us. \r\n\r\nAs hegemonic and intersectionally discriminatory institutions, universities re-produce global structures of domination and oppression. And regularly, insights from activism inspire academia rather than vice versa. Still, research is a relevant module to understand and meaningfully participate in the world around us. But the line between research and activism becomes blurred anyway. Activists are researchers and researchers are activists, participating in both worlds, oftentimes trying to bring them together. Here, long-term research projects that illuminate specific processes in-depth tend to collide with the rather short-term struggles of activism that need immediate responses to current issues. Therefore, we want to elaborate with you: (How) Can academic research and activism in SAR interact in solidarity?\r\n\r\nIn our own roles as researchers and activists, we appreciate both forms of working and knowledge-producing and are well aware of challenges and difficulties. Together with you, we want to discuss all these challenges and difficulties - but also work out and underline potentials! \r\n\r\nWe organized a workshop like this already at the SAR-Camp in September in Biesenthal. We invite people to newly join in and to follow-up. If you like to, bring some snacks or your breakfast, lunch, dinner, ... The format is meant to be low-key and comfortable!",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3dcd3060-4329-5171-b45e-b526e49f80e4",
+      "name": "I.",
+      "public_name": "I.",
+      "avatar": null,
+      "biography": "Located in between research and activism, Isi and Andi deal with border technologies and the external border of the EU.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3dcd3060-4329-5171-b45e-b526e49f80e4"
+    },
+    {
+      "guid": "51b3cce8-bff8-5158-9c57-8d0cefa995f4",
+      "name": "Andreas Stoiber",
+      "public_name": "Andreas Stoiber",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_51b3cce8-bff8-5158-9c57-8d0cefa995f4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-can-academic-research-and-activism-in-sar-inte",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/SNNHQH/"
+}

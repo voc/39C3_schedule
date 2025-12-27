@@ -1,0 +1,30 @@
+{
+  "guid": "604a28a9-3d16-4687-b507-14f9910c52a7",
+  "code": null,
+  "id": 604289,
+  "date": "2025-12-28T00:30:00+01:00",
+  "start": "00:30",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-how-does-vc-funding-actually-work-actually",
+  "title": "How does VC funding work, actually?",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "You probably have heard of \"Venture Capital\" - the mysterious infinite source of money that powers the startups of Sillicon Valley (and beyond), that powers the \"AI revolution\" and \"crypto revolution.\" You even might have heard names like YCombinator and a16z, or terms like \"Unicorn\", \"PMF\" and \"TAM\".\n\nBut where does that money come from? How can you get it? And why do people continue to give money to startups, despite 90% of them returning 0 money?\n\nEven among IT nerds, VC is often seen as something vague and mysterious - despite it shaping the world of technology since the early 2000s. Some people get money, some don't - with little rhyme or reason.\n\nThis is a small talk of someone who actively participated in the VC ecosystem. The primary goal isn't to bash or praise that industry (though it deserves a lot of bashing), but to shine a light on how it works under the hood.\n\nNote: this is an adapted version of a short lecture I gave at the Mega-Knowledgecamp (Hacksaar 2025)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "70c4c211-e9fd-41f1-8bd9-32be7561399e",
+      "name": "aricake",
+      "public_name": "aricake",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/aricake"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-does-vc-funding-actually-work-actually",
+  "links": []
+}

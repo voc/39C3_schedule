@@ -1,0 +1,31 @@
+{
+  "guid": "b76f1718-fbb1-5dfc-90ee-d6fd8b961d3c",
+  "code": null,
+  "id": 300075,
+  "date": "2025-12-28T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-iroh-p2p-chat-over-gossip",
+  "title": "iroh p2p chat over gossip",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "In this workshop we'll look at how iroh establishes p2p QUIC connections. Using holepunching to create direct connections where possible. Then we'll build on top of this by using the gossip protocol to build a group chat.",
+  "description": "iroh is a library to establish direct connections between two peers. The workshop will start with an overview of how iroh works and what it provides. After this we'll explore establishing connections between two endpoints before progressing to using a gossip protocol to send messages to multiple peers. At the end we should have a simplistic group chat application.\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/SKBRPH/iroh-wordmark-purple_eeOv4Y2.svg",
+  "persons": [
+    {
+      "guid": "1746a13e-4248-595c-9663-c25a7d57d8c4",
+      "name": "Floris Bruynooghe",
+      "public_name": "Floris Bruynooghe",
+      "avatar": null,
+      "biography": "Floris is a software engineer at number 0 where he builds networking\nprotocols in Rust to support user agency. Previously he's been an SRE\nand Python developer.\n\nWhen not creating software Floris can be found in the mountains,\nclimbing, ski touring or paragliding.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1746a13e-4248-595c-9663-c25a7d57d8c4"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/iroh-p2p-chat-over-gossip",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/SKBRPH/"
+}

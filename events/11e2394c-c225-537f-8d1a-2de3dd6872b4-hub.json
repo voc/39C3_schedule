@@ -1,0 +1,31 @@
+{
+  "guid": "11e2394c-c225-537f-8d1a-2de3dd6872b4",
+  "code": null,
+  "id": 300080,
+  "date": "2025-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-sockstrace-preventing-proxy-leaks-in-your-applicat",
+  "title": "SocksTrace: Preventing Proxy Leaks in Your Applications",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "When building privacy-sensitive applications, we often rely on proxies like Tor to ensure that no direct connections escape the intended anonymity network. However, verifying that every part of an application reliably goes through the proxy is surprisingly difficult. Even a single syscall escaping the proxy path can quietly deanonymize a user.\r\n\r\nSocksTrace is a lightweight proxy-leak detection tool that traces network-related syscalls and validates whether they correctly route through the configured proxy.\r\n\r\nIn this talk, I\u2019ll show how SocksTrace works under the hood, what kinds of leaks it can catch, and why syscall-level inspection is essential for high-assurance privacy tools. I\u2019ll also walk through real-world findings: during our testing, we identified previously unknown proxy leaks in major browsers including Firefox and Brave, one of which resulted in a confirmed bug bounty. These results highlight how subtle proxy routing mistakes can occur even in widely-used, privacy-oriented software.",
+  "description": "SocksTrace is a Linux-based proxy leak detector and traffic proxifier built on seccomp-notify. By intercepting network syscalls directly in the kernel, it provides runtime-agnostic visibility and enforcement that works even for statically linked binaries and modern browsers.\n\nThe talk showcases real WebRTC-related proxy leaks discovered using SocksTrace, explains shortcomings of traditional tools, and demonstrates transparent SOCKSification, DNS enforcement, and safe handling of applications that launch their own Tor instances. We conclude with practical use cases and future directions for syscall-level network containment.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "5d6611a3-2c64-59f2-ab36-e034823e0fb1",
+      "name": "Robert Mindo",
+      "public_name": "Robert Mindo",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5d6611a3-2c64-59f2-ab36-e034823e0fb1"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sockstrace-preventing-proxy-leaks-in-your-applicat",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/AEQPXC/"
+}

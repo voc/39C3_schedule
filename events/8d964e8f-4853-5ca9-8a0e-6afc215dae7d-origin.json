@@ -1,0 +1,45 @@
+{
+  "guid": "8d964e8f-4853-5ca9-8a0e-6afc215dae7d",
+  "code": "38XZPY",
+  "id": 1527,
+  "logo": null,
+  "date": "2025-12-30T13:50:00+01:00",
+  "start": "13:50",
+  "duration": "00:40",
+  "room": "Ground",
+  "slug": "39c3-1527-von-groschen-und-spurlos-gnu-taler-auch-auf-eurem-event",
+  "url": "https://cfp.cccv.de/39c3/talk/38XZPY/",
+  "title": "Von Groschen und SpurLos - GNU Taler auch auf eurem Event!",
+  "subtitle": "",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Willkommen in der Zukunft: Beim LUG Camp in Wipperf\u00fcrth und bei den Datenspuren in Dresden wurde digital bezahlt - mit GNU Taler als Event-Bezahlsystem. Noch einfacher als Bargeld, billiger als Kartenzahlung und ohne Eingriff in die Privatsph\u00e4re der Besucher*innen. Wir zeigen euch, wie auch ihr das bei eurer n\u00e4chsten (Chaos-)Veranstaltung anbieten k\u00f6nnt!",
+  "description": "Anonymes Bezahlen ganz ohne Bargeld? Digitales Bezahlen ohne Geb\u00fchren auf jede einzelne Transaktion? Keine zentrale Datensammelei bei US-amerikanischen Zahlungsanbietern, und trotzdem keine Blockchain?\r\n\r\nGeht nicht? Geht doch! Schon auf mehreren Veranstaltungen wurde [GNU Taler](https://www.taler.net/) erfolgreich als lokales Event-Bezahlsystem eingesetzt: S\u00e4mtliche Zahlungen beim [LUG Camp 2024](https://lugcamp.wuplug.org/) wurden dank GNU Taler ausschlie\u00dflich digital durchgef\u00fchrt. Ebenso wurde mehr als ein Viertel des Umsatzes bei den [Datenspuren 2025](https://datenspuren.de/2025/) mit GNU Taler digital abgewickelt.\r\n\r\nW\u00e4hrend die GLS Bank im Rahmen des EU-gef\u00f6rderten Projekts NGI Taler ein [deutschlandweites Angebot](https://www.gls.de/taler) vorbereitet, hatten unsere Besucher*innen bereits jetzt die Gelegenheit, anonymes digitales Bezahlen in der echten Welt zu testen. Das positive Feedback und der reibungslose Ablauf haben uns gezeigt: GNU Taler ist einsatzbereit und kommt in der Community super an!\r\n\r\nDeshalb wollen wir unsere Erfahrungen mit GNU Taler als Eventbezahlsystem gerne an Orgateams von anderen (Chaos-)Veranstaltungen weitergeben. Nach einer Einf\u00fchrung zur Funktionsweise von GNU Taler berichten wir von der praktischen Umsetzung beim LUGCamp und bei den Datenspuren und geben Tipps f\u00fcr alle, die GNU Taler auch bei ihrem n\u00e4chsten Event anbieten wollen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "ZUWEJ3",
+      "name": "Mikolai G\u00fctschow",
+      "avatar": "https://cfp.cccv.de/media/avatars/apb-small_QG7LJXG.jpg",
+      "biography": "Free Software advocate working at TU Dresden on [Taler](https://www.taler.net/de/) and [RIOT](https://www.riot-os.org/).",
+      "public_name": "Mikolai G\u00fctschow",
+      "guid": "f3ce80c8-347b-543d-b6b5-02e5894c9229",
+      "url": "https://cfp.cccv.de/39c3/speaker/ZUWEJ3/"
+    },
+    {
+      "code": "MQHCXN",
+      "name": "signum",
+      "avatar": null,
+      "biography": "Als Enthusiast freier Software war ich ma\u00dfgeblich an der Nutzung von GNU Taler auf dem LugCamp 2024 (lugcamp.org), einem 4-t\u00e4gigen Camp aller deutschsprachigen Linux User Groups, beteiligt. Wir wollten m\u00f6glichst viele Komponenten nutzen, auf Praxistauglichkeit testen und durch die anwesenden Freaks stressen lassen.",
+      "public_name": "signum",
+      "guid": "ebbc4bec-bb98-5b23-9040-67e862abb711",
+      "url": "https://cfp.cccv.de/39c3/speaker/MQHCXN/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/38XZPY/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/38XZPY/",
+  "attachments": []
+}

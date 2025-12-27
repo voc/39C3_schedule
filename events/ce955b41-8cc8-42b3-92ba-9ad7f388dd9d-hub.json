@@ -1,0 +1,38 @@
+{
+  "guid": "ce955b41-8cc8-42b3-92ba-9ad7f388dd9d",
+  "code": null,
+  "id": 955418,
+  "date": "2025-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:20",
+  "room": "SoS Stage H",
+  "slug": "39c3-queering-and-imploding-drone-usage-at-eu-borders",
+  "title": "Queering (and Imploding) Drone Usage at EU Borders",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "These days, the EU border regimes are at the same time increasingly digitalized and repressive. Border \"security\" and surveillance experience a revival fuelled by technological development and the authoritarian as well as right-wing political turn. Both the EU and Frontex invest billions in border surveillance and research on border technologies trying to to formulate how (border) technologies such as drones are to be used in the future. Simultaneously and despite increasing criminalisation, border activists are working on tech-from-below-drones to safe lives, support people on the move in distress and campaign for a future where freedom of movement is in fact everybody's right.\n\nIn an interactive workshop, we want to investigate the usage of drones at the EU extrenal borders. Most border technologies are developed and deployed by abled-bodied white cis-endo men. By putting our heads together, we want to queer these drones collectively:\n- How can we get from re-action to action?\n- Where are blind spots? Which perspectives are missing?\n- What should be made visible, what might better stay invisible?\n- What does queering of (border) technology mean? How can a queering of border technologies look like?\n\nPlease note:\n* This workshop will be held in English.\n  *No prior knowledge on drones or EU border politics required.\n* Trigger Warning: We are focussing on border technologies, but related issues such as flight, violence or specific politics *might* come up in group work or disuccions. Please take care of yourself :-)\n* Age is a fluid concept, but to make it graspable: The participation in the workshop might be more fulfulling if you are 16 years or older. But: Read the description, check the trigger warning and then decide on your own.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "a78aecf6-474f-4a6e-9196-6a9adeae289c",
+      "name": "isenguard",
+      "public_name": "isenguard",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/isenguard"
+    },
+    {
+      "guid": "2705f5a7-f8b1-4f45-b013-3ac74d024982",
+      "name": "@ndi",
+      "public_name": "@ndi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/ndi"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/queering-and-imploding-drone-usage-at-eu-borders",
+  "links": []
+}

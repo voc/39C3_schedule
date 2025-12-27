@@ -1,0 +1,32 @@
+{
+  "guid": "576aa455-dbcc-589a-b93f-d79eed627169",
+  "code": "X3PXLD",
+  "id": 576455,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Stonewall IO (Saal Y 06)",
+  "slug": "39c3-vereinskrams-bei-den-haecksen",
+  "title": "Vereinskrams bei den Haecksen [all creatures welcome]",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Interessierte Personen, interessierte Haecksen, Haecksen mit Schwerpunkt #vereinigkeiten sowie der Haecksen-Vorstand finden sich zusammen und sprechen \u00fcber Prozesse, Abl\u00e4ufe, W\u00f6rter und alles was mit der Vereinsarbeit bei den Haecksen zu tun hat.",
+  "description": "Wir laden euch zu einem entspannten Austausch \u00fcber die Formalia und Pseudo-Formalia in Vereinen und spezifisch dem Haecksen-Verein ein. Es wird am Anfang eine kurze Einf\u00fchrung geben, danach besprechen wir im Austausch die mitgebrachten Fragen und Anregungen. Der Schwerpunkt wird dabei auf die Projektarbeit bei den Haecksen legen und wie das Werkzeug \"Verein\" f\u00fcr diese zu benutzen ist.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "94223332-c8a6-58f4-8ddc-2ab4c0a24c51",
+      "name": "melzai",
+      "public_name": "melzai",
+      "avatar": null,
+      "biography": "Vorstand Haecksen\n\nehemals Schiedsstelle CCC e.V.\nehemals Vorstand CCCHH e.V.\n\nmacht komplizierte Dinge in der Pharmaforschungsinformatik\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_94223332-c8a6-58f4-8ddc-2ab4c0a24c51"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/vereinskrams-bei-den-haecksen",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/X3PXLD/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/X3PXLD/feedback/"
+}

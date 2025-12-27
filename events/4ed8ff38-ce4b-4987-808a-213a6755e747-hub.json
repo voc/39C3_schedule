@@ -1,0 +1,30 @@
+{
+  "guid": "4ed8ff38-ce4b-4987-808a-213a6755e747",
+  "code": null,
+  "id": 483844,
+  "date": "2025-12-28T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-cybersecurity-marchen-neues-aus-nerdistan",
+  "title": "Cybersecurity M\u00e4rchen \u2013 Neues aus Nerdistan",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "The reading will be held in German.\n\nI\u2019m mitBen, and for over 25 years, I\u2019ve been working as a Cybersecurity expert to make the world a safer place. As a speaker, I\u2019m here today to take you on a journey where classic fairy tales like The Seven Little Goats and Puss in Boots are brought into the digital realm. In \"Cybersecurity M\u00e4rchen \u2013 Neues aus Nerdistan\", I\u2019ll teach you the fundamentals of IT security in a fun and nerdy way \u2013 all without the dry theory.\n\nImagine this: the seven little goats need to protect themselves from a hacking wolf. Puss in Boots becomes a cybersecurity pro and shows us how he defends his system with clever tricks. In these and many other stories, I\u2019ll take you on an adventure where you\u2019ll learn important security lessons \u2013 all wrapped up in fairy tales you\u2019ve never heard before.\n\nWith my 25 years of experience in cybersecurity and as an experienced speaker, I will provide you with everything you need to know about digital security. It\u2019s not just about making complex topics understandable \u2013 it\u2019s about getting you excited for the digital world, with a pinch of humor and fantasy.\n\nI\u2019m also working on organizing an XXL Night Session, where we can dive even deeper into the mysteries of cybersecurity. In this special extended session, you\u2019ll get even more fairy tales, plenty of stories from last year, and expanded insights into the world of digital security \u2013 guaranteed to be thrilling and educational.\n\nMissed the session or want to have more cyber. Find the XXL session:\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/cybersecurity-marchen-xxl-neues-und-altes-aus-nerd\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d087f294-dc7d-452f-bb19-9b95c3742ff4",
+      "name": "mitBen (He,him,he-man)",
+      "public_name": "mitBen (He,him,he-man)",
+      "avatar": null,
+      "biography": "With over 25 years of experience in cybersecurity, I focus on making digital safety easy to understand and engaging. As a speaker, I blend technical expertise with creativity, using stories and analogies to explain complex security topics. My goal is to help people navigate the digital world more safely, with a bit of humor along the way.\n\nCheck out my SOS session:\nhttps://events.ccc.de/congress/2025/hub/de/event/detail/cybersecurity-marchen-neues-aus-nerdistan\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/mitben"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cybersecurity-marchen-neues-aus-nerdistan",
+  "links": []
+}

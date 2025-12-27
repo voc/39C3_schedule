@@ -1,0 +1,30 @@
+{
+  "guid": "a448d75a-088a-428e-825e-94f9763d8506",
+  "code": null,
+  "id": 448750,
+  "date": "2025-12-28T10:30:00+01:00",
+  "start": "10:30",
+  "duration": "00:25",
+  "room": "SoS Stage H",
+  "slug": "39c3-trans-treff",
+  "title": "Trans* Treff",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Meetup for trans and non binary peoples. There is no agenda, just a chance to meetup other people and maybe Blahajs :3\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "4b0611d7-8c55-4b18-837c-e50ad920a3ee",
+      "name": "Varia (Sie/Dey/En)",
+      "public_name": "Varia (Sie/Dey/En)",
+      "avatar": null,
+      "biography": "Cudly enby foxgirl and web dev. Find me on the Fediverse [@varia@waldbewohner.eu](https://waldbewohner.eu/@varia) or Matrix [@varia:waldbewohner.eu](https://matrix.to/#/@varia:waldbewohner.eu)\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/varia"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trans-treff",
+  "links": []
+}

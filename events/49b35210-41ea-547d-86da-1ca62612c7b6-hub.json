@@ -1,0 +1,63 @@
+{
+  "guid": "49b35210-41ea-547d-86da-1ca62612c7b6",
+  "code": "7AA9FV",
+  "id": 2397,
+  "date": "2025-12-28T16:35:00+01:00",
+  "start": "16:35",
+  "duration": "01:40",
+  "room": "One",
+  "slug": "39c3-ccc-jahresruckblick",
+  "title": "CCC-Jahresr\u00fcckblick",
+  "subtitle": null,
+  "language": "de",
+  "track": "CCC & Community",
+  "type": "Talk",
+  "abstract": "Das war nicht das Jahr 2025, das wir bestellt hatten.",
+  "description": "2025 war ein gutes Jahr f\u00fcr Exploits, kein gutes Jahr f\u00fcr die Freiheit und ein herausragendes f\u00fcr schlechte Ideen. Regierungen k\u00e4mpften weiter f\u00fcr Massen\u00fcberwachung, nat\u00fcrlich mit KI-Unterst\u00fctzung\u2122. Kriege wurden weiter \u201edigitalisiert\u201c, Chatkontrolle als Kinderschutz verkauft, Waffensysteme haben inzwischen mehr Autonomie als die meisten B\u00fcrger*innen und k\u00fcnstliche Intelligenz l\u00f6st endlich alle Probleme \u2013 vor allem die, die bisher niemand hatte.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/7AA9FV/Sterntastatur_b09fvBS_bTzYiGV_ab20Ner_hdByi2G.webp",
+  "persons": [
+    {
+      "guid": "79aa12ea-2d29-5df7-972b-1124a48a838b",
+      "name": "Constanze Kurz",
+      "public_name": "Constanze Kurz",
+      "avatar": "https://cfp.cccv.de/media/avatars/ich-7-2_8SjCXsu.jpg",
+      "biography": "Constanze Kurz ist promovierte Informatikerin und ehrenamtlich Sprecherin des Chaos Computer Clubs. Sie schreibt bei netzpolitik.org \u00fcber Technik und Gesellschaft. Sie war technische Sachverst\u00e4ndige beim Bundesverfassungsgericht bei den Verfassungsbeschwerden gegen Wahlcomputer, die Vorratsdatenspeicherung, das BKA-Gesetz, das BND-Gesetz, Staatstrojaner sowie automatisierte Datenanalyse bei der Polizei (Palantir).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_79aa12ea-2d29-5df7-972b-1124a48a838b"
+    },
+    {
+      "guid": "6ffd6316-c9a4-59ee-8ccb-e0bbf7be8af9",
+      "name": "khaleesi",
+      "public_name": "khaleesi",
+      "avatar": "https://cfp.cccv.de/media/avatars/H9GEPE_SrtQiP3.jpg",
+      "biography": "khaleesi ist eine der Sprecherinnen des Chaos Computer Clubs. Sie ist Informatikerin und arbeitet im Bereich IT-Sicherheit. Seit 2022 ist sie federf\u00fchrend im Kampf gegen die geplante Chatkontrolle.\nIn ihrem gemeinsamen Podcast, \u201eDicke Bretter\u201c mit Constanze Kurz und Elisa Lindinger, erkl\u00e4rt sie wie Gesetzgebungsprozesse in der Praxis funktionieren und schaut zur\u00fcck auf bereits verhandelte digitalpolitische Themen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6ffd6316-c9a4-59ee-8ccb-e0bbf7be8af9"
+    },
+    {
+      "guid": "28182b9c-4562-51fc-8f55-be8df5971eb3",
+      "name": "Matthias Marx",
+      "public_name": "Matthias Marx",
+      "avatar": "https://cfp.cccv.de/media/avatars/LPFEDA_mRCsHkm.jpeg",
+      "biography": "Matthias fand [seine biometrischen Daten in einer US-amerikanischen Gesichtersuchmaschine](https://www.wired.com/story/clearview-face-search-engine-gdpr/), [in Afghanistan genutzte Biometrie-Ger\u00e4te bei Ebay](https://interaktiv.br.de/biometrie-afghanistan/) und [Fotos aus einer BKA-Fahnungsdatenbank bei Fraunhofer](https://netzpolitik.org/2024/gesichtserkennung-bka-nutzte-fotos-aus-fahndungsdatenbank-fuer-software-tests/).\n\nEr [betreibt Tor-Exits](https://metrics.torproject.org/rs.html#search/artikel10), [schaut in technisch langweilige Datenlecks](https://marx.wtf/tag/leakvent/) und [stolperte versehentlich in ein gro\u00dfes Fakeshop-Netzwerk](https://media.ccc.de/v/38c3-fake-shops-von-der-stange-bogusbazaar).\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_28182b9c-4562-51fc-8f55-be8df5971eb3"
+    },
+    {
+      "guid": "6647ec2f-3df1-5ed3-9b3d-58ef78a4b107",
+      "name": "Linus Neumann",
+      "public_name": "Linus Neumann",
+      "avatar": null,
+      "biography": "Linus Neumann ist ein Sprecher des Chaos Computer Clubs.\n\nEr verteidigt digitale Grundrechte gegen staatliche und private \u00dcberwachung.\nAnsonsten macht er IT-Sicherheitssysteme karp0tt.\n\nIm Podcast \u201eLogbuch:Netzpolitik\u201c kommentiert Linus gemeinsam mit Tim Pritlove w\u00f6chentlich aktuelle politische und technische Entwicklungen im Bereich Netzpolitik und IT-Sicherheit \u2013 meistens kritisch, und fast immer humorvoll.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6647ec2f-3df1-5ed3-9b3d-58ef78a4b107"
+    },
+    {
+      "guid": "13031aac-6e5b-5166-89f7-c56c7bdba1c7",
+      "name": "erdgeist",
+      "public_name": "erdgeist",
+      "avatar": "https://cfp.cccv.de/media/avatars/Dirk_QW8E006.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_13031aac-6e5b-5166-89f7-c56c7bdba1c7"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/ccc-jahresruckblick",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/7AA9FV/"
+}

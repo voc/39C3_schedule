@@ -1,0 +1,31 @@
+{
+  "guid": "0f4c34f1-54f0-5abf-90f7-08e307c9009c",
+  "code": null,
+  "id": 100448,
+  "date": "2025-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-dn42freifunk-multicast-routingpeering-worksho_m0ab",
+  "title": "dn42/Freifunk multicast routing/peering workshop",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 110 Minutes",
+  "abstract": "Let's start to make our hackspaces and community networks multicast interconnected!",
+  "description": "Multicast allows to send information, for example audio or video streams, sensor data or service discovery messages, to many interested recipients with minimal overhead, without the need of a central, beefy server. A perfect fit with a decentral network like [dn42](https://dn42.dev/) or [Freifunk](https://freifunk.net/)?\n\nThe fundamental standards for multicast aren't new but usable, \"bugfree\" implementations have been rare in the past. And multicast is typically not available on common consumer internet connections.\n\nThe former has changed though, great progress was made in OpenSource software, including Freifunk firmwares and mesh routing protocols, in recent years. Allowing us to experiment with this and potentially making it available to and from a wider, public, distributed audience and providers.\n\nTo really unfold the potential of multicast and to tackle the chicken & egg problem it will be crucial to establish a multicast topology with a wide reach. So let's start with making our hackspaces and community networks multicast interconnected!\n\n---\n\nThis session will kick off with a small presentation on IPv6 multicast routing. Followed by a practical, hands-on workshop to set up IPv6 multicast peerings based on PIM-SD ([RFC7761](https://www.rfc-editor.org/rfc/rfc7761)) over dn42. While the presented tooling will focus on [bird](https://bird.network.cz/) with a dedicated [BGP](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) multicast channel + [pim6sd](https://github.com/troglobit/pim6sd) experimentation and discussion on other tools (maybe [FRR](https://frrouting.org/)?) and approaches will be highly encouraged.\n\nPrerequisites: For the workshop part you should have a dn42 node or other BGP enabled router set up and connected beforehand and should have some experience with IPv6 unicast routing. Also feel free to stop by in the [#dn42-multicast](https://events.ccc.de/congress/2025/hub/tag/dn42-multicast) IRC channel on [HackInt](https://hackint.org/) in advance. Having some more \"beta testers\" and potential people to onboard others during the session would be appreciated :-).\n\nIf you are a commercial ISP or research institute with potential multicast peering opportunities for our community networks then we would also be very interested to hear from you.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "238a9740-210b-507d-a430-a774d64a2007",
+      "name": "Linus L\u00fcssing",
+      "public_name": "Linus L\u00fcssing",
+      "avatar": null,
+      "biography": "Linus L\u00fcssing, aka. T_X, has been working on getting decentral layer 2 community mesh networks, like Freifunk, multicast enabled and scalable: By adding features and bugfixes to projects like the [B.A.T.M.A.N. Advanced](https://www.open-mesh.org/projects/open-mesh/wiki) mesh routing protocol, the [Linux bridge](https://www.kernel.org/doc/html/latest/networking/bridge.html#multicast) and the [Gluon mesh firmware framework](https://github.com/freifunk-gluon/gluon/). One of his next adventure is to get hackspaces and community networks interconnected via multicast, with tools like [pim6sd](https://github.com/troglobit/pim6sd), to leverage the true potential of multicast.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_238a9740-210b-507d-a430-a774d64a2007"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/dn42freifunk-multicast-routingpeering-worksho_m0ab",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/GGVFEK/"
+}

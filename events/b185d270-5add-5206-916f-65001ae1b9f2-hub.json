@@ -1,0 +1,32 @@
+{
+  "guid": "b185d270-5add-5206-916f-65001ae1b9f2",
+  "code": null,
+  "id": 100422,
+  "date": "2025-12-27T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-freifunk-und-gluon-meetup",
+  "title": "Freifunk und Gluon Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 110 Minutes",
+  "abstract": "Auch dieses Jahr wollen sich die auf dem Congress anwesenden Entwicklerinnen und Anwenderinnen zu aktuellen Freifunk und Gluon Themen austauschen\r\n\r\nLink zum Pad: https://md.darmstadt.ccc.de/freifunk-meetup-39c3#",
+  "description": "Auch dieses Jahr wollen sich die auf dem Congress anwesenden Entwicklerinnen und Anwenderinnen zu aktuellen Freifunk und Gluon Themen austauschen\n\nLink zum Pad: https://md.darmstadt.ccc.de/freifunk-meetup-39c3#\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "eecd87e8-7143-5a93-b182-2b1b37134bfe",
+      "name": "skorpy",
+      "public_name": "skorpy",
+      "avatar": null,
+      "biography": "skorpy is a multifaceted Internet plumber and advocate for scalable network engineering.\n\nWith a burning passion for simplicity, IPv6, and performance, skorpy operates autonomous systems for science, communities and sometimes money.\n\nBeyond the digital realm, skorpy is a dedicated firefighter and Techno lover.\n\n - Matrix: @skorpy:entropia.de\n - Mastodon: https://chaos.social/@skorpy\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_eecd87e8-7143-5a93-b182-2b1b37134bfe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/freifunk-und-gluon-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/3VFMWL/",
+  "do_not_record": true
+}

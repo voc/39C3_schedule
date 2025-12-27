@@ -1,0 +1,36 @@
+{
+  "guid": "dcf9ec1c-9755-5757-8f1d-91ec6e0f0661",
+  "code": "VLFQSQ",
+  "id": 2407,
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/VLFQSQ/Screenshot_2025-10-24_at_11.03.09_6fQCU_P6bpBXP.webp",
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-2407-the-museum-of-care-open-source-survival-kit-collection",
+  "url": "https://cfp.cccv.de/39c3/talk/VLFQSQ/",
+  "title": "The Museum of Care: Open-Source Survival Kit Collection",
+  "subtitle": "",
+  "track": "Art & Beauty",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The Survival Kit Collection, launched by the David\u202fGraeber Institute, brings together collectives to develop \u201csocial technologies\u201d for survival\u2014spirulina farms, self\u2011replicating 3D printers, modular housing, and low\u2011cost water and solar solutions. By starting a conversation about open source technologies, the project aims to re-imagine technology on the basis of care to address today\u2019s ecological and social crises. In 2019, together with David Graeber, we held the first workshop about the Museum of Care at CCC to reimagine the relation between freedom, technology and value. Over these 6 years, the Museum of Care has grown into a gathering place alive with ideas and resources curated by people from around the world. In our talk, we want to report on the work we have done at the museum.",
+  "description": "We believe that humanity lives in a world of abundance, we already have the technologies for everyone to have enough of everything. All that remains is to change the values of our society. For this we need a Museum (of Care), because Museums are one of the key places that create, distribute and preserve social values.\r\n\r\nWhat will be at the session:\r\nWe'll tell in more detail about the concept of the Museum of Care on abandoned ships (of which, according to Maritime Foundation data, there are more than 4,500 in the world). We'll talk about the halls of our museum: the Hall of Giants and other ideas. We'll show videos and photographs from real projects \u2014 spirulina farms, self-replicating 3D printers \u2014 that we are in the process of setting up in Saint Vincent (Caribbean), as an example of how our museum will not only be proud that its exhibits spread around the world and return to it in modified form, but also that someday the entire Museum itself may be honored to be copied. We'll tell how the Museum of Care differs from ordinary museums: there is no permanent collection here, no fixed place, all projects are created to leave and multiply somewhere else.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "NJF3ZF",
+      "name": "Nika Dubrovsky",
+      "avatar": "https://cfp.cccv.de/media/avatars/NJF3ZF_wdRwQ4b.jpg",
+      "biography": "Nika Dubrovsky is an artist, author, and co-founder of the David Graeber Institute and the Museum of Care. Her latest book was published by MIT Press in 2024 and has been translated into several languages.\r\nThe David Graeber Institute carries forward David\u2019s work exploring radical alternatives to capitalism through research, activism, and public engagement. The Institute creates space for collaborative projects reimagining care, community, and social change.",
+      "public_name": "Nika Dubrovsky",
+      "guid": "f6d875c1-1cd4-5e0b-87dd-bd5eca9f8616",
+      "url": "https://cfp.cccv.de/39c3/speaker/NJF3ZF/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/VLFQSQ/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/VLFQSQ/",
+  "attachments": []
+}

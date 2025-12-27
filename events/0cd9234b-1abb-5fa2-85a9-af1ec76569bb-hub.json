@@ -1,0 +1,32 @@
+{
+  "guid": "0cd9234b-1abb-5fa2-85a9-af1ec76569bb",
+  "code": "9P8YNR",
+  "id": 1460,
+  "date": "2025-12-30T12:50:00+01:00",
+  "start": "12:50",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-security-of-cardiac-implantable-electronic-devices",
+  "title": "Security of Cardiac Implantable Electronic Devices",
+  "subtitle": null,
+  "language": "en",
+  "track": "Security",
+  "type": "Talk",
+  "abstract": "Cardiac Implantable Electronic Devices (CIED), such as cardiac pacemakers and defibrillators, are a fairly niche target for security researchers, in part due to a lack of manufacturer cooperation and device accessibility. This talk aims to provide insights into the challenges in device development and methods with which to research device security. Data accessibility to patients will be touched upon.",
+  "description": "CIEDs may adversely affect patients implanted with such devices should their security be compromised. Although some efforts to secure these devices can be noted, it has quite often been lacking and may thus enable patient harm or data confidentiality compromise by malicious actors. Given the vast consequences of security vulnerabilities within this industry, the author aims to provide insight into the challenges associated with designing security architectures for such platforms, as well as possible methodology of researching these devices safely even when lacking manufacturer cooperation and access to device programmers.\n\nData collected by CIEDs and transmitted through remote monitoring is an additional concern for patients. Whilst research has shown that most manufacturers do respond in a timely and comprehensive fashion to GDPR requests, immediate data access is not yet possible and requires the patient to reach out to their doctors to obtain the requisite (event) data. A proposed solution is presented on how a patient communicator may be designed to allow patients interested in their autonomy to perform limited device interrogation in a safe and secure manner.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ccfcadec-fb46-51ef-9d5c-553fc4938158",
+      "name": "dilucide",
+      "public_name": "dilucide",
+      "avatar": null,
+      "biography": "The author wishes to not publicly disclose information.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_ccfcadec-fb46-51ef-9d5c-553fc4938158"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/security-of-cardiac-implantable-electronic-devices",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/9P8YNR/",
+  "do_not_record": true
+}

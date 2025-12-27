@@ -1,0 +1,33 @@
+{
+  "guid": "f86df794-1ab2-5bd6-bbf0-906f94303240",
+  "code": "SJUNJC",
+  "id": 2418,
+  "date": "2025-12-29T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:30",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-inpunkto",
+  "title": "inPunkto",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "Schrammelpunk aus Hamburg",
+  "description": "InPunkto ist eine vierk\u00f6pfige Punkband aus Hamburg. Angefangen hat alles vor \u00fcber zehn Jahren im Proberaum der TUHH als spontane Idee. Nach einigen Wechseln in der Anfangszeit stehen wir seit Jahren in fester Besetzung auf der B\u00fchne. Unsere Songs sind mal ernst, mal humorvoll, aber immer direkt. Wer Perfektion sucht, ist hier falsch, aber Energie und gute Laune bringen wir mit.\n",
+  "logo": "https://cfp.cccv.de/media/39c3-call-for-punk/submissions/SJUNJC/1000052358_0TSOzZW_5GOAIwW.webp",
+  "persons": [
+    {
+      "guid": "466d3316-43b5-5583-bba4-34b3714fcff7",
+      "name": "Takakalle",
+      "public_name": "Takakalle",
+      "avatar": "https://cfp.cccv.de/media/avatars/FW3ZL3_Agj9IGH.jpg",
+      "biography": "Schrammelpunker aus Hamburg\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_466d3316-43b5-5583-bba4-34b3714fcff7"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/inpunkto",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/SJUNJC/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/SJUNJC/feedback/",
+  "do_not_record": true
+}

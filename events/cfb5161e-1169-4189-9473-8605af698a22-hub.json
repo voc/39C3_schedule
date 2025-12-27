@@ -1,0 +1,38 @@
+{
+  "guid": "cfb5161e-1169-4189-9473-8605af698a22",
+  "code": null,
+  "id": 516111,
+  "date": "2025-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:20",
+  "room": "SoS Saal 6",
+  "slug": "39c3-international-and-french-sign-language-an-introduc",
+  "title": "\ud83d\ude4a Introduction to International Sign at 39C3 \ud83d\ude49",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Chaos Communication Congress (C3) is a major annual gathering for people passionate about technology, cybersecurity, free culture, and creativity. Since 1984, it has taken place in Germany and initially used mostly German, then English to facilitate international communication.\n\nToday, thanks to International Sign (IS), everyone\u2014deaf or hearing\u2014can fully participate. IS makes exchanges open, accessible, and equal, allowing people to overcome language barriers and collaborate easily.\n\nDid you know there are over 300 sign languages in the world, some existing for more than 5,000 years? IS has been used for several decades by the World Federation of the Deaf (WFD) and the Deaflympics Games (ICSD). Traditionally, these organizations imposed a hierarchy, but today IS allows a holarchy, where everyone has a place and communication is shared and equal.\n\nA big question arises: why choose English instead of International Sign? English was adopted to facilitate communication among hearing participants worldwide. But International Sign allows us to connect deaf and hearing people in a more universal way, opening a space for equal sharing and helping to prevent ignorance about deaf cultures and their languages.\n\nAt 39C3, IS helps connect diverse cultures: hack, free, maker, and deaf, fostering creativity, collaboration, and innovation.\n\nOur project, Nest of Sign Language at House of Tea, offers workshops where participants can practice International Sign (IS), German Sign Language (DGS), Austrian Sign Language (OGS), French Sign Language (LSF), British Sign Language (BSL), American Sign Language (ASL), and more, as well as create, share, and connect in a friendly and inspiring environment. Some IS interpreters are certified, but will they be present at 40C3? Conferences and workshops become opportunities to learn, share, and dream together, regardless of language or background.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "73ea01ae-68a5-429d-bc94-c39cd4cd18c3",
+      "name": "seejayer (\ud83d\ude4a\ud83d\ude49 \ud83d\udcf5 7880)",
+      "public_name": "seejayer (\ud83d\ude4a\ud83d\ude49 \ud83d\udcf5 7880)",
+      "avatar": null,
+      "biography": "Born deaf, he studied in bilingual schools alongside both deaf and hearing students, first in Paris and later in Toulouse, capital of sign language. Every Wednesday, his parents enrolled him in activities that allowed him to play with other children, helping him explore the hearing world and build self-confidence. These experiences also taught him interdependence and personal freedom. Today, he is recognized as an active member of the free software community and works as a popular educator in sign language, fostering connections between deaf and hearing people. Since 2010, he has co-organized Hackerspace Festival in Toulouse and contributed to improving accessibility for deaf participants. While CCC has not yet reached the same level of accessibility development as Toulouse, capital of sign language, he has gained substantial experience in this field.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/seejayer"
+    },
+    {
+      "guid": "30539765-bd71-44f2-b388-d01442d43d19",
+      "name": "Snoopy3109",
+      "public_name": "Snoopy3109",
+      "avatar": null,
+      "biography": "I'm just a libre software enthusiate. I'm part of the french kittens collective and moderate several communities in the fediverse on the software Piefed.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/snoopy3109"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/international-and-french-sign-language-an-introduc",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "468e3540-c221-5f83-b0a4-ed7848d2a034",
+  "code": "WFN3YL",
+  "id": 2478,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Chill Floor",
+  "slug": "39c3-the-uncontrolled-manifold-dancing-with-sympoetic-m",
+  "title": "The Uncontrolled Manifold : dancing with sympoetic machines",
+  "subtitle": null,
+  "language": "de",
+  "track": "Live Performance",
+  "type": "live performance",
+  "abstract": "The Uncontrolled Manifold works with electronics and machines that possess autonomy and obstinacy. These machines are brought into interaction with each other, creating danceable polyrhythms and, at the same time, a fascinating shadow play, because the machines are mounted on an overhead projector and their interaction is projected. Analog oscillators generate self-organizing coordination dynamics and organic patterns, while motors strike rubber strings producing deep, resonant bass sounds reminiscent of shamanic drumming. Supported by the visuals spectators may feel like being dragged into the vortex of a living clock, compelled to join the performance through movement and dance.",
+  "description": "",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/WFN3YL/ucm_s_OFhcyxn_C5E0M1B.jpg",
+  "persons": [
+    {
+      "guid": "1bccecf4-1a3f-52d0-a585-fc89afdbec49",
+      "name": "Christian Faubel",
+      "public_name": "Christian Faubel",
+      "avatar": "https://cfp.cccv.de/media/avatars/JQ3Q3A_gZ7E3H6.jpeg",
+      "biography": "Christian Faubel is an interdisciplinary scientist and artist. He holds a doctorate in electrical engineering and conducted research at the Institute for Neuroinformatics from 2002 to 2012. From 2012 to 2018, he worked as an artist, researcher, and teacher at the Academy of Media Arts Cologne. Since 2020, he has held a professorship for Smart Connected Products at the Technical University of Cologne, where he teaches in the Code & Context bachelor's program. In 2002, he founded derstrudel, a collective dedicated to promoting a relaxed approach to electronics and robotics. Since 2002, he has given more than 50 workshops on building simple analog robots at international venues and festivals. In his artworks, installations, workshops, and performances, he attempts to convey insights into theoretical concepts such as self-organization, emergence, and embodiment along an aesthetic dimension. He sees his artworks, workshops, and performances in the tradition of philosophical toys, as they combine the communication of scientific concepts with pleasure and amusement.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1bccecf4-1a3f-52d0-a585-fc89afdbec49"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/the-uncontrolled-manifold-dancing-with-sympoetic-m",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WFN3YL/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/WFN3YL/feedback/"
+}

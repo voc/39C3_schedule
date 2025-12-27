@@ -1,0 +1,45 @@
+{
+  "guid": "d4b2186b-a1a9-521e-ac91-5dfe6deb2782",
+  "code": "ZCN7PG",
+  "id": 1509,
+  "logo": null,
+  "date": "2025-12-28T21:05:00+01:00",
+  "start": "21:05",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-1509-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft",
+  "url": "https://cfp.cccv.de/39c3/talk/ZCN7PG/",
+  "title": "Power Cycles statt Burnout \u2013 Wie Einflussnahme nicht verpufft",
+  "subtitle": "",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Zwischen offenen Briefen, Massenmails, Petitionen und Kaffee trinken : Zwei Ex-Insiderinnen aus dem  Digitalausschuss und Bundestag erz\u00e4hlen, wie politische Einflussnahme wirklich funktioniert. Ein ehrlicher Blick hinter die Kulissen parlamentarischer Entscheidungsfindung \u2013 mit praktischen Tipps, wie die Zivilgesellschaft ihre Energie dort einsetzt, wo sie wirklich Wirkung entfaltet.",
+  "description": "Ziel des Talks ist es, ein realistisches Bild davon zu vermitteln, wie parlamentarische Entscheidungsfindung funktioniert \u2013 und praktische Hinweise zu geben, wie man Einfluss nehmen kann, ohne dabei Ressourcen zu verschwenden.\r\n\r\nWie bringt man politische Prozesse in Bewegung? Was passiert eigentlich mit einer Mail, wenn sie an einen Abgeordneten geht? Und wie unterscheidet sich konstruktive Interessenvertretung von \u00fcbergriffigem Lobbyismus?\r\n\r\nIn diesem Talk berichten Anna Kassautzki (Mitglied des Bundestags von 2021 bis 2025, stellvertretende Vorsitzende des Digitalausschusses 20. LP) und Rahel Becker (ehemalige wissenschaftliche Mitarbeiterin Digitales) aus der Innenperspektive parlamentarischer Arbeit.\r\n\r\nChatkontrolle, Data Act, Recht auf Open Data, DSGVO, es gab viel zu verhandeln in der letzten Legislaturperiode. Anna und Rahel waren mittendrin und geben einen Einblick in die hektische -  teils absurde Kommunikation mit Interessenvertretungen. Dabei liegt der Fokus immer auf der Frage: Welche Strategien braucht es, damit zivilgesellschaftliche Arbeit nicht verpufft?\r\n\r\nZugleich geht es um die strukturellen Fragen:\r\nWo sind die Flaschenh\u00e4lse f\u00fcr politischen Fortschritt? Wie priorisieren Abgeordnete in einem \u00fcberf\u00fcllten Kalender? Und welche Hebel kann die (digitale) Zivilgesellschaft sinnvoll nutzen, um Geh\u00f6r zu finden?\r\n\r\nDenn gerade in Zeiten massiver digitalpolitischer Herausforderungen ist informierte, strategische Beteiligung notwendiger denn je. Ein Vortrag f\u00fcr alle, die sich in politische Prozesse einmischen wollen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "PSFAGM",
+      "name": "Rahel Becker",
+      "avatar": "https://cfp.cccv.de/media/avatars/PSFAGM_VEn2Dqx.jpeg",
+      "biography": "Rahel Becker, eigentlich Quanti-Soziologin by Training und Data Scientist in real life, hat von 2022 bis 2025 als wissenschaftliche Mitarbeiterin f\u00fcr Anna Kassautzki, stellv. Vorsitzende im Digitalausschuss im Bundestag gearbeitet. Schwerpunktthemen: Datenschutz, Open Data, Open Source und Chatkontrolle. \r\nAktuell: Open to work!\r\nZudem hat sie CorrelAid e.V. in verschiedensten Rollen seit 2015 mit aufgebaut, als Mitglied des ehrenamtlichen Core-Teams, Ethikkommission zur Bewertung von Datenprojekten in der Zivilgesellschaft, 2023/2024 und aktuell stellv. Vorstandsvorsitz.",
+      "public_name": "Rahel Becker",
+      "guid": "0ad1bb9c-0312-5b1f-bf44-1e5cd63eedfe",
+      "url": "https://cfp.cccv.de/39c3/speaker/PSFAGM/"
+    },
+    {
+      "code": "MQTCMD",
+      "name": "Anna Kassautzki",
+      "avatar": null,
+      "biography": "Anna Kassautzki war von 2021 bis 2025 Mitglied des Deutschen Bundestags f\u00fcr die SPD und eine der profiliertesten j\u00fcngeren Stimmen in der Digitalpolitik. Als stellvertretende Vorsitzende des Digitalausschusses und stellvertretende digitalpolitische Sprecherin ihrer Fraktion arbeitete sie an Themen wie Datenschutz, Open Source und der Abwehr \u00fcbergriffiger \u00dcberwachungsgesetze wie der Chatkontrolle. Dabei war ihr stets ein enger Austausch mit der (digitalen) Zivilgesellschaft wichtig.",
+      "public_name": "Anna Kassautzki",
+      "guid": "0a0a7fae-e731-5403-a9c8-d918ad16d29e",
+      "url": "https://cfp.cccv.de/39c3/speaker/MQTCMD/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/ZCN7PG/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ZCN7PG/",
+  "attachments": []
+}

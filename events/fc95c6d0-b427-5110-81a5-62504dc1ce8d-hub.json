@@ -1,0 +1,31 @@
+{
+  "guid": "fc95c6d0-b427-5110-81a5-62504dc1ce8d",
+  "code": null,
+  "id": 300133,
+  "date": "2025-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-breaking-into-wireless-smart-homes-z-wave-example",
+  "title": "Breaking into Wireless Smart Homes, Z-Wave example",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "This talk will cover Z-Wave (an a bit of Zigbee and Matter) security mechanisms as well as different attack vectors on a Z-Wave network and describe how the protocol evolved to mitigate those threats. Many smart homes are still vulnerable to the described attacks.",
+  "description": "You will learn:\n- security mechanisms and algorithms used in modern IoT smart home and smart building protocols and how they evolved,\n- various ways to break existing Z-Wave networks (DDOS or key stealing during inclusion),\n- new features in Z-Wave and Z-Wave Long Range protocol closing the described holes,\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6d1aec0d-88ff-562e-8c62-d001b58f9e40",
+      "name": "PoltoS",
+      "public_name": "PoltoS",
+      "avatar": null,
+      "biography": "Developing Z-Wave and other IoT controllers and devices for 17 years, I'm an active member of the Z-Wave Alliance open standard organization and chief of controller solutions at Trident IoT.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6d1aec0d-88ff-562e-8c62-d001b58f9e40"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/breaking-into-wireless-smart-homes-z-wave-example",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/7EKHXA/"
+}

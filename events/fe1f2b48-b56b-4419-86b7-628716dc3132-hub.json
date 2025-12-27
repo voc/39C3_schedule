@@ -1,0 +1,30 @@
+{
+  "guid": "fe1f2b48-b56b-4419-86b7-628716dc3132",
+  "code": null,
+  "id": 124856,
+  "date": "2025-12-28T14:30:00+01:00",
+  "start": "14:30",
+  "duration": "01:00",
+  "room": "House of Tea",
+  "slug": "39c3-archipel-a-local-delay-tolerant-network-for-humans",
+  "title": "Archipel: A local Delay Tolerant Network for humans",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Come drink some tea and learn about how a slower internet can help empower people and maybe fight capitalism a bit more. Maybe with help of Delay Tolerant Networks, Bundle Protocol and Archipel.",
+  "description": "Delay Tolerant networks are special kinds of network that allow messages to be transmitted with a (very) long delay. This is achieved by storing data along routing path, on each node. Archipel is an experimental implementation of Bundle Protocol focused on creating a more human network and reducing ecological footprint of network infrastructures.\n\nThis meetup is a conversation to present and talk about Delay Tolerant Networks and Archipel. We'll take some tea and talk about how a slower internet can help empower people and maybe fight capitalism a bit more.\n\nLearn more about Archipel on https://archipelproject.net/\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "f03392c0-0f51-43fb-91d9-67ab9d99f994",
+      "name": "kiwi",
+      "public_name": "kiwi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/kiwi"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/archipel-a-local-delay-tolerant-network-for-humans",
+  "links": []
+}

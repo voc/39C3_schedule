@@ -1,0 +1,30 @@
+{
+  "guid": "dfa6ea5f-5da5-43a8-b66e-82af906f274d",
+  "code": null,
+  "id": 655543,
+  "date": "2025-12-27T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "00:25",
+  "room": "SoS Lecture E",
+  "slug": "39c3-hacking-medical-research-for-a-better-transition",
+  "title": "hacking medical research for a better transition -- war stories from the backrooms of estrannai.se & co",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "While medical institutions struggle to fill trans people's needs for a medical transition, an increasing number of trans people resort to managing their hormonal transition on their own. Alongside this, the DIY community has amassed a large amount of both theoretical and applied medical knowledge, matching and sometimes even surpassing researchers in the field.\n\nIn this talk, I will point out what's right and wrong with institutionalized trans research, give insights into the DIY communities' pragmatic approach to community healthcare and show what we're doing to turn lay expertise and even anecdotes into evidence-based medical research -- all without a doctor involved. \"all creatures welcome\" -- all necessary science-prerequisites are included along the way.\n\n---\n\nIf you enjoyed this talk (or not), or if you missed it (or not) -- I will do a speedrun attempt of presenting the same material in under 4.5 minutes on Day 4:\n[https://events.ccc.de/congress/2025/hub/en/event/detail/speedrun-hacking-medical-research-in-under-45-minu](https://events.ccc.de/congress/2025/hub/en/event/detail/speedrun-hacking-medical-research-in-under-45-minu)\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "47cdb37f-30fc-428c-8f5f-a0de9cb4eb18",
+      "name": "ShadowCone (she/her)",
+      "public_name": "ShadowCone (she/her)",
+      "avatar": null,
+      "biography": "Signal: ShadowCone.99\nDECT 5733\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/shadowcone"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hacking-medical-research-for-a-better-transition",
+  "links": []
+}

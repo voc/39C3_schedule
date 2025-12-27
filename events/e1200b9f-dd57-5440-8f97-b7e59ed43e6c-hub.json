@@ -1,0 +1,31 @@
+{
+  "guid": "e1200b9f-dd57-5440-8f97-b7e59ed43e6c",
+  "code": null,
+  "id": 100425,
+  "date": "2025-12-29T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-sorten-zuchten-fur-dummies_ea33",
+  "title": "Sorten z\u00fcchten f\u00fcr Dummies",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Meetup 50 Minutes",
+  "abstract": "Gemeinsam entwickeln wir genetischen Code. An einem konkreten Beispiel steigt ihr selbst in die Tomatenzucht ein. Inklusive Saatgut.",
+  "description": "Du hast zwei Pflanzen gekreuzt. Ihre Nachkommen sind wundersch\u00f6n. In der n\u00e4chsten Generation scheint der Zauber kaputt, nur wenige Exemplare besitzen das sch\u00f6ne Merkmal. Was ist passiert? Und wie kann daraus eine stabile, sch\u00f6ne Sorte entstehen?\n\nVererbung kann stark vereinfacht mit den Mendelschen Regeln erkl\u00e4rt werden, die du wahrscheinlich aus dem Bio-Unterricht kennst. Um Gem\u00fcsesorten zu z\u00fcchten, reichen sie aus:\n\nF1 hei\u00dft 1. Kindgeneration. Wenn du zwei samenfeste Sorten gekreuzt hast, mischen die Merkmale der Elternpflanzen sich gleichm\u00e4\u00dfig. In unserem Beispiel kreuzten sich eine rote und eine gefleckte Tomatensorte zu einer Generation mit rot-violett gestreiften Fr\u00fcchten.\n\nF2 hei\u00dft 2. Kindgeneration. Die Merkmale \"mendeln sich aus\", jede Pflanze wird anders bunte Fr\u00fcchte tragen. Samen von der F2-Generation bekommst du gratis in diesem Workshop.\n\nZ\u00fcchtung hei\u00dft, diese zu selektieren, bis das Streifenmuster nach Jahren samenfest wird. S\u00e4e mehrere K\u00f6rner, ernte viele Tomaten - sammle ausschlie\u00dflich Saatgut von den Rot-Violetten!\n",
+  "logo": "https://pretalx.freifunktag.de/media/39c3-bub-workshops-2025/submissions/99X7KF/Workshop_20250802_135028_jPGtY01.jpg",
+  "persons": [
+    {
+      "guid": "1eedb6bc-56b0-5bc2-a7e0-9946b373f763",
+      "name": "Coco",
+      "public_name": "Coco",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/Heckenbraunelle_Profilbild_wUqMdlP.jpg",
+      "biography": "Coco kommt aus Hannover, macht was mit Software und was mit Natur.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_1eedb6bc-56b0-5bc2-a7e0-9946b373f763"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/sorten-zuchten-fur-dummies_ea33",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/99X7KF/"
+}

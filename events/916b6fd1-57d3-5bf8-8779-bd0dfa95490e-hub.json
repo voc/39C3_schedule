@@ -1,0 +1,39 @@
+{
+  "guid": "916b6fd1-57d3-5bf8-8779-bd0dfa95490e",
+  "code": "UFKXBZ",
+  "id": 2527,
+  "date": "2025-12-30T04:00:00+01:00",
+  "start": "04:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-gwen-wayne",
+  "title": "Gwen Wayne",
+  "subtitle": null,
+  "language": "de",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "Ey chill mal!!Nix da!!!\r\nDenn manche m\u00f6gen's hei\u00df, und manche m\u00f6gen's nice.......und Shitstormtechno verliert NIE seine hotte credibility!\r\nLass dich \u00fcberraschen! \r\nN\u00b4abend",
+  "description": "Gwen Wayne's Shitstormtechno. Das genre hat sie selbst erfunden, cause she can.\nMusikalisch schwer einzuordnen, aber ordentlich dampf und bass hat jedes Set.\nZwischen techhouse, UK Garage und Breaks ist f\u00fcr jeden was zum wackeln dabei.\nUnd zum Schluss kann jeder sagen: \n\"In my heart and in the Rest of my Brain, there will be always a Part of Gwen Wayne\".\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/UFKXBZ/Gwen-09.11.25_ODxaQ66.webp",
+  "persons": [
+    {
+      "guid": "87e2de66-42f1-511b-bfb0-10cf72822aee",
+      "name": "Unnamed user",
+      "public_name": "Unnamed user",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_87e2de66-42f1-511b-bfb0-10cf72822aee"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/gwen-wayne",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UFKXBZ/",
+  "attachments": [
+    {
+      "url": "/media/39c3-chaos-computer-music-club/submissions/UFKXBZ/resources/Gwen_uOINWRg.jpg",
+      "type": "related",
+      "title": "Bild Gwen wayne option 2"
+    }
+  ],
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/UFKXBZ/feedback/"
+}

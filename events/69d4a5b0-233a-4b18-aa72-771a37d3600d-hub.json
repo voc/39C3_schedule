@@ -1,0 +1,30 @@
+{
+  "guid": "69d4a5b0-233a-4b18-aa72-771a37d3600d",
+  "code": null,
+  "id": 694502,
+  "date": "2025-12-29T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:50",
+  "room": "SoS Lecture E",
+  "slug": "39c3-a-decentralized-social-layer-for-the-web-meeting-p",
+  "title": "A Decentralized Social Layer for the Web - Meeting People on All Pages",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "There is a virtual world that we visit every day. It has billions of inhabitants and billions of places. But, whenever we go, there is nobody. Just the messages they left. We read our daily online newspapers while many are doing the same. We are browsing the same content - but we are still alone. If only we could see the other people browsing the same content at the same time. They might be interested in the same things right now.\n\nImagine the real world without all the people on the streets. Streets and places, shops, caf\u00e9s, libraries, deFV\nvoid of people. That's the Internet, the Web as it currently exists. Always has been like that and we got used to it. But we wanted more. We wanted social interactions. We got Social Networks and they turned into meme feeds and brain rot. That's not what we asked for.\n\nWe asked for people, real people. And they are already there. What if we  make them visible to each other? Then, ad-hoc communities can form directly at the content. Communities of like-minded people, interested in the same things.\n\nAll we need is a federated social layer that cannot be owned, because it is decentralized as the Web itself. An infrastructure of some existing chat protocol in the spirit of the Fediverse or XMPP.\n\nA new way to communicate everywhere, not just in Social Media silos, not after giving up your profile. We want to talk to the people we meet wherever we go. We want to reclaim the Web.\n\nHere is how we do it\n\nCreating a decentralized social layer independent of Social Media silos.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "33966605-2f0b-4c4d-b56e-d1956f5953af",
+      "name": "Wolfspelz",
+      "public_name": "Wolfspelz",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/wolfspelz"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/a-decentralized-social-layer-for-the-web-meeting-p",
+  "links": []
+}

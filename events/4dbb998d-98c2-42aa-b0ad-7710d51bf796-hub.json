@@ -1,0 +1,21 @@
+{
+  "guid": "4dbb998d-98c2-42aa-b0ad-7710d51bf796",
+  "code": null,
+  "id": 499898,
+  "date": "2025-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "Hardware Hacking Area -- Front",
+  "slug": "39c3-learn-to-solder-with-the-i-can-solder-badge-kit",
+  "title": "Learn to Solder with the \"I Can Solder\" Badge kit",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "Anyone can learn to solder! It is useful and fun. This workshop is for kids of all ages (and anyone of any age). We will learn this wonderful skill by making a blinky-badge kit, so you can wear blinky-lights wherever you go.",
+  "description": "Learn to solder by making a cool badge that you can wear, and have blinky-lights wherever you go.\n\nThe **[\"I Can Solder!\" Badge kit](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)** is a very simple [open hardware](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2) kit that anyone can use for learning to solder.\n\n_This workshop is for_ **total newbies** _to learn to solder.  All ages._\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac10**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n**Workshop Itinerary**:\n* Brief overview of electronics\n* The background of soldering, so you will solder well for the rest of your life\n* Step by step instructions for soldering your \"I Can Solder!\" Badge kit\n* Wear Blinky-Lights wherever you go\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[\"I Can Solder\" Badge kit webpage](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)  \n[\"I Can Solder\" Badge kit Github page](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2)\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ea0e69a6de87/learn-to-solder-with-the-i-can-solder-badge-kit.banner.jpg",
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/learn-to-solder-with-the-i-can-solder-badge-kit",
+  "links": []
+}

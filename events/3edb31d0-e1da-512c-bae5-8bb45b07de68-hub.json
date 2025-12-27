@@ -1,0 +1,39 @@
+{
+  "guid": "3edb31d0-e1da-512c-bae5-8bb45b07de68",
+  "code": null,
+  "id": 100434,
+  "date": "2025-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-fiff-meetup",
+  "title": "FIfF Meetup",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "Triff das Forum InformatikerInnen f\u00fcr Frieden und gesellschaftliche Verantwortung. Wir sind ein Zusammenschluss engagiert-kritischer Fachleuten aus Wissenschaft und Praxis der Informati(onstechni)k",
+  "description": "Das FIfF ist ein Zusammenschluss von engagiert-kritischen Fachleuten aus Wissenschaft und Praxis der Informati(onstechni)k. Wir denken \u00fcber die Konsequenzen unserer Arbeit nach, warnen vor sch\u00e4dlichen Entwicklungen und bringen eigene konstruktive Vorstellungen ein. Wir beraten Politik und Medien, publizieren eine eigene Zeitschrift und organisieren Konferenzen, Vortr\u00e4ge und Demonstrationen. Das FIfF ist in Regionalgruppen organisiert und wurde 1984 gegr\u00fcndet.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "aacad21d-44ff-5b15-9c3a-6678c39e3c0f",
+      "name": "keldo",
+      "public_name": "keldo",
+      "avatar": null,
+      "biography": "Keldo besch\u00e4ftigt sich mit Nachhaltigkeit, mit speziellem Fokus auf IT. Er ist deshalb seit einigen Jahren bei Bits und B\u00e4ume und im Forum InformatikerInnen f\u00fcr Frieden und Gesellschaftliche Verantwortung aktiv.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_aacad21d-44ff-5b15-9c3a-6678c39e3c0f"
+    },
+    {
+      "guid": "08eeb93b-4e8b-5e66-bd02-7524a93c92f9",
+      "name": "benks",
+      "public_name": "benks",
+      "avatar": null,
+      "biography": "FIfF Berlin\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_08eeb93b-4e8b-5e66-bd02-7524a93c92f9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/fiff-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/TMSHBS/"
+}

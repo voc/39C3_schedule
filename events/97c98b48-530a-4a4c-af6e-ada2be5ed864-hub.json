@@ -1,0 +1,38 @@
+{
+  "guid": "97c98b48-530a-4a4c-af6e-ada2be5ed864",
+  "code": null,
+  "id": 979848,
+  "date": "2025-12-29T00:30:00+01:00",
+  "start": "00:30",
+  "duration": "00:50",
+  "room": "SoS Workshop D",
+  "slug": "39c3-malware-analysis-and-binary-triage",
+  "title": "Malware Analysis and Binary Triage",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "Malware Analysis and Binary Triage hands-on workshop/meetup.\n\nSince the time at the congress is short a bit preparation can help you to speed up getting started and will improve your overall experience.\n\nPlease bring a laptop with reasonable specs, ideally with:\n* VirtualBox\n* a Windows VM with disabled MS Defender\n* installed Flare-VM (https[:]//github[.]com/mandiant/flare-vm)\n* installed IDA-Free (https[:]//hex-rays[.]com/ida-free), Ghidra and cutter (https[:]//cutter[.]re/)\n\nMake sure to create a first snapshot, before and after installing the FlareVM toolset.\n\nNo prerequisites are required - everyone is welcome from complete beginners to those with some experience.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8c589bfd-ae52-4260-ac7b-d80cf5d0ffd3",
+      "name": "fxb",
+      "public_name": "fxb",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/fxb"
+    },
+    {
+      "guid": "dca4ed2a-a971-4e09-992b-e258124d27ce",
+      "name": "deadrabbit",
+      "public_name": "deadrabbit",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/deadrabbit"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/malware-analysis-and-binary-triage",
+  "links": []
+}

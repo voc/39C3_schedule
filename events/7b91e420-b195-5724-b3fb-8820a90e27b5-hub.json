@@ -1,0 +1,40 @@
+{
+  "guid": "7b91e420-b195-5724-b3fb-8820a90e27b5",
+  "code": "LGYBLJ",
+  "id": 83792,
+  "date": "2025-12-29T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-wisspod-jahresrckblick-2025-oder-ki-in-der-wissenschaft",
+  "title": "\u200bWissPod Jahresr\u00fcckblick 2025 oder: KI in der Wissenschaft!?",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Wie die letzten Jahre gute Tradition geworden ist, blicken Melanie Bartos und Bernd Rupp zur\u00fcck auf das wissenschaftspodcasts.de-Jahr 2025 und sprechen \u00fcber die Perspektiven, die sich f\u00fcr das Wissenschaftspodcast-Jahr 2026 abzeichnen.\r\nDabei beleuchten wir die Herausforderungen bei der Kuration, die Anmeldezahlen neuer Wissenschaftspodcasts, die Weiterentwicklung der Website sowie den Aufbau und die Betreuung der WissPod-Community. Diese umfasst inzwischen rund 420 Wissenschaftspodcasts mit insgesamt \u00fcber 33.000 Episoden.  2025 wurde erstmalig ein Podcast-Adventskalender mit 24 kuratierten Spezial-Podcast-Episoden aufgesetzt.\r\n\r\nWie die letzten Jahre reden wir aber auch \u00fcber ein Thema, das die Wissenschaft aber auch die Wissensvermittlung oder Wissenschaftskommunikation beeinflusst.  Dieses Jahr geht es dabei um KI in der Wissenschaft.  Wir blicken auf Chancen und Risiken: In der individuellen Perspektive der einzelnen Wissenschaftler*innen ergeben sich oft gro\u00dfe M\u00f6glichkeiten zur Beschleunigung der eigenen Arbeit.  Dabei geht man aber leicht eine Beziehung mit gro\u00dfen Tech-Konzernen mit unklaren Interessen und Zielen ein. Daraus ergibt sich der Bedarf einer Wahrheitsschutz-Gesamtrechnung f\u00fcr eine Wissenschaft in der KI fl\u00e4chendeckend eingesetzt wird.",
+  "description": "Mit unseren G\u00e4sten sprechen wir \u00fcber Podcasts in der Wissen{schaft}skommunikation, \u00fcber Ziele und Kriterien \u2013 und dar\u00fcber wie KI die Wissenschaft ver\u00e4ndert.\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/LGYBLJ/logo-wisspod-dunkel_s0nNNRr.png",
+  "persons": [
+    {
+      "guid": "7fe16ccc-9087-5803-9a69-06a08f8ba2a8",
+      "name": "Bernd Rupp",
+      "public_name": "Bernd Rupp",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/pic_shot_1487077954641_P8nhiWB.png",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_7fe16ccc-9087-5803-9a69-06a08f8ba2a8"
+    },
+    {
+      "guid": "13554796-8b3b-59a5-8fb9-fa2df96cd141",
+      "name": "Melanie Bartos",
+      "public_name": "Melanie Bartos",
+      "avatar": "https://pretalx.c3voc.de/media/avatars/melanie_red_iQhybkH.jpg",
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_13554796-8b3b-59a5-8fb9-fa2df96cd141"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/wisspod-jahresrckblick-2025-oder-ki-in-der-wissenschaft",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LGYBLJ/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LGYBLJ/feedback/"
+}

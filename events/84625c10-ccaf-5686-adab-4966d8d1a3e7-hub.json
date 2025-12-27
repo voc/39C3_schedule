@@ -1,0 +1,32 @@
+{
+  "guid": "84625c10-ccaf-5686-adab-4966d8d1a3e7",
+  "code": null,
+  "id": 100460,
+  "date": "2025-12-29T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-un-hacking-digital-sovereignty",
+  "title": "(Un-)Hacking Digital Sovereignty",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "As members of the Switzerland Chapter of the Internet Society we would like to bring together activists, NGOs, and businesses who strive to make our communities, states, and supranational institutions truly digitally sovereign, i.e.: As (collaborative but independent) actors connected by distributed networks powered by free software enabling the free exchange of information over open data formats.\r\n\r\nGiven that those who dislike this vision have deep pockets, excellent contacts to politicians, and marketing teams who try to give \"digital sovereignty\" a very different meaning from how we understand it (\"buy European\"), we as a community should\r\n\r\na) network to get to know the other actors who are working on this topic and be more effective **together**,\r\nb) understand what is going on elsewhere in Europe, and \r\nc) exchange news, ideas, challenges, successes and failures in influencing policy so that other activists can learn from them.\r\n\r\nCryptpad document for the session: https://cryptpad.fr/code/#/2/code/edit/9Xjq3o+57GnYbmNmGWY2fxCv/",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9a1ee328-944d-5000-a7cd-41137df13f47",
+      "name": "Alex",
+      "public_name": "Alex",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9a1ee328-944d-5000-a7cd-41137df13f47"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/un-hacking-digital-sovereignty",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/3NNWJF/",
+  "do_not_record": true
+}

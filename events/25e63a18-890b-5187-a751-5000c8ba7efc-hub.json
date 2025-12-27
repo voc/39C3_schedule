@@ -1,0 +1,31 @@
+{
+  "guid": "25e63a18-890b-5187-a751-5000c8ba7efc",
+  "code": null,
+  "id": 300066,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-be-bop-ethical-commerce-without-the-middlemen",
+  "title": "be-BOP: Ethical Commerce, Without the Middlemen",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "[be-BOP](https://be-bop.io/) is free and open-source software for **autonomous commerce**. It\u2019s an all-in-one, batteries-included solution built for merchants, not engineers. It lets communities run markets without accounts, tracking, or gatekeepers. From shops to restaurants, ticketing to peer-funding \u2014 all self-hosted. Adoption grows among merchants and creators seeking real independence.\r\n\r\nNext steps: **multitenant** for specialization, **cross be-BOP** for **federation**. We\u2019re building the foundations of a free, federated economy.",
+  "description": "**be-BOP is free and open-source software for sovereign commerce.**\n\nIt\u2019s built on a simple belief: merchants and communities should own the tools they depend on. We design technology that respects privacy, rejects dark patterns, and removes the need for accounts or intermediaries. Our vision is trade without platforms, data brokers, or gatekeepers \u2014 commerce as a public good, not a private empire.\n\nUnlike fragmented \u201cself-commerce\u201d tools, **be-BOP is a complete, batteries-included stack**. It supports e-commerce, point-of-sale, restaurant systems, ticketing, peer-funding, and subscriptions \u2014 all self-hosted, interoperable, and designed for real-world merchants. It aims for the reliability of a platform, without the capture of one.\n\nAdoption grows from the edges: merchants and cooperatives seeking independence, and creators tired of surrendering revenue to platforms. In **Goma**, communities use be-BOP to organize resources and stabilize local economies under pressure. Elsewhere, artists use it to sustain open culture without permission or lock-in.\n\nThe roadmap pushes beyond software. **Multitenant be-BOP** will enable domain-specific ecosystems \u2014 tailor-made for farmers\u2019 markets, repair collectives, or independent venues \u2014 while **cross be-BOP** will link autonomous nodes into a federation of mutual visibility. Together they answer the twin failures of centralized commerce: loss of agency and isolation.\n\nbe-BOP aspires to be more than a toolchain. It\u2019s an experiment in rebuilding economic infrastructure on open terms \u2014 a foundation for **free, federated, and sustainable digital economies** that can\u2019t be quietly \u201censhittified.\u201d\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "da7c5487-3102-555f-a50a-3c5dacaaf7e8",
+      "name": "Roos",
+      "public_name": "Roos",
+      "avatar": "https://pretalx.riat.at/media/avatars/1660857523729_DGRhA1c.jpg",
+      "biography": "I'm a technologist passionate about FOSS, functional programming, decentralized systems, and embedded technologies.\n\nI'm actively developing practical applications on top of Bitcoin and decentralized finance, with a focus on solving real-world problems. I'm also open to exploring and supporting technologies that align with this goal.\n\nI'm always curious about how systems are built\u2014from overall design down to the implementation details. My experience includes Haskell, Nix, Rust, Android development, blockchain integration, microservices orchestration, and infrastructure operations. I'm also interested embedded and low-power technologies like ESP32s, FPGAs, and LoRa.\n\nIn my free time, I contribute to open source projects like Nixpkgs, support efforts to grow blockchain adoption, and study the RF environment around me.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_da7c5487-3102-555f-a50a-3c5dacaaf7e8"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/be-bop-ethical-commerce-without-the-middlemen",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/ZGADCJ/"
+}

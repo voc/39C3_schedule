@@ -1,0 +1,30 @@
+{
+  "guid": "9fd15cab-c9bd-44a9-8b00-99503380ada4",
+  "code": null,
+  "id": 915944,
+  "date": "2025-12-28T01:30:00+01:00",
+  "start": "01:30",
+  "duration": "00:25",
+  "room": "SoS Saal 6",
+  "slug": "39c3-hold-my-passkey-the-passwordless-future-not-happen",
+  "title": "Hold my passkey! The passwordless future (not) happening",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "We all struggle with lots of passwords, often forgotten, reused or leaked. Passkeys promise to free us from both the hassle and the breaches. But will they solve authentication, or are they failed by design? A deep\u2011dive into convenience, control, and everything between.\n\nPasskeys are designed to replace passwords. All you need is your phone or hardware token, meaning you have to remember only one password at most. But isn't that the promise of password managers? Although they fulfil a similar role, password managers usually use classic passwords, making them seem like an interim solution on the way to more secure authentication. Wouldn't it be great to get rid of passwords once and for all and switch to passkeys?\n\nWhile passkeys promise a passwordless future, the reality is far more complex. User reluctance, questionable usability and corporate interests are making the case for passkeys increasingly difficult. So let's delve into whether passkeys do make sense from the perspective of both professional and regular users.\n\nThis talk is not a technical deep dive into passkeys, but rather addresses the issues of IT management & IAM and whether secure \"passwordless\" auth can work in the real world. The aim is not to give a bureaucratic or opinionated talk, but to open a discussion about enshittification and whether auth (doesn't) work(s) for both regular and pro users.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "e89abfe6-a111-41cd-b034-8adeb74e93cc",
+      "name": "Haris",
+      "public_name": "Haris",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/haris"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hold-my-passkey-the-passwordless-future-not-happen",
+  "links": []
+}

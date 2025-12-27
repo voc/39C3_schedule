@@ -1,0 +1,30 @@
+{
+  "guid": "eaa40e9f-9b30-4a77-b3ba-ecba932e8b05",
+  "code": null,
+  "id": 409930,
+  "date": "2025-12-28T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "00:40",
+  "room": "Workshoparea Chaos Mauldasch",
+  "slug": "39c3-glasfaser-spleiworkshop-junghackerinnentag-edition",
+  "title": "Glasfaser-Splei\u00dfworkshop (Junghacker:innentag-Edition)",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "Du wolltest schon immer mal wissen, wie eine Glasfaser aufgebaut ist und miteinander verbunden wird? Dann bist du hier richtig. Dieser Slot ist exklusiv f\u00fcr JHT-Teilnehmende (Junghacker:innen-Tag).",
+  "description": "Zun\u00e4chst erh\u00e4ltst du eine kurze generelle Erkl\u00e4rung, wie ein Splice funktioniert, auf was es dabei ankommt und was noch rings rum passiert. Anschlie\u00dfend kannst du das Glasfasersplei\u00dfen selbst ausprobieren. Du solltest grunds\u00e4tzliches Interesse f\u00fcr die Thematik, ein wenig Geduld und ein ruhiges H\u00e4ndchen mitbringen.\n\nSplei\u00dfen bezeichnet den Vorgang, durch den Faser-Enden einer Glasfaserkabel miteinander verbunden werden. Bei Singlemode-Glasfasern betr\u00e4gt der Kerndurchmesser der eigentlichen Glasfaser 9\u00b5m und ist damit kleiner als ein menschliches Haar.\n\nWICHTIG!!!\n- Dieser Slot ist exklusiv f\u00fcr den Junghacker:innen-Tag. Weitere Slots auch bei der Selfnet-Assembly (gleiches Cluster)\n- Es gibt nur wenige Pl\u00e4tze. First come, first serve.\n",
+  "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e4cbf5a93362/2df7df2d-d39f-4d09-bf2c-3356e2d26c78.jpg",
+  "persons": [
+    {
+      "guid": "9e828258-a007-45ee-a0c1-b4816baa02e1",
+      "name": "Patrick",
+      "public_name": "Patrick",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/paddy"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/glasfaser-spleiworkshop-junghackerinnentag-edition",
+  "links": []
+}

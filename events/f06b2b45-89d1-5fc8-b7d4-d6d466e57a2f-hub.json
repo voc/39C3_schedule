@@ -1,0 +1,39 @@
+{
+  "guid": "f06b2b45-89d1-5fc8-b7d4-d6d466e57a2f",
+  "code": null,
+  "id": 300063,
+  "date": "2025-12-29T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "02:00",
+  "room": "CDC Triangle",
+  "slug": "39c3-occlumask-demo-brainstorming-session",
+  "title": "Occlumask Demo & Brainstorming Session",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Workshop",
+  "abstract": "Come and experience Occlumask in action! We want to make sure Occlumask can stand up to whatever situations you might find yourself in. Enter your own text and see if Occlumask can tell whether you're doxing yourself, and suggest what kinds of information Occlumask should be able to detect and notify you of.",
+  "description": "Occlumask still has a long development ahead of it, and we want Occlumask to be as comprehensive as possible when it comes to detecting potential content-based data-leaks. In this workshop, we will be demoing a prototype of Occlumask for you to try. Alongside this, we will be asking how you would likely be using Occlumask, and what you think Occlumask should do for you.\n\nCome if you have ideas on:\n* What information do you consider important/sensitive?\n* What kinds of situations should Occlumask be able to handle?\n",
+  "logo": "https://pretalx.riat.at/media/39c3/submissions/MWLGQW/namecoin-coin_PWGCffn.svg",
+  "persons": [
+    {
+      "guid": "98767aec-fbd5-587c-b1f8-41b20d795e67",
+      "name": "Jeremy Rand",
+      "public_name": "Jeremy Rand",
+      "avatar": "https://pretalx.riat.at/media/avatars/JeremyAvatar-500px_RXU9ww2.jpg",
+      "biography": "I'm the Lead Application Engineer at Namecoin. I work on Namecoin's TLS and Tor interoperability, among other things.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_98767aec-fbd5-587c-b1f8-41b20d795e67"
+    },
+    {
+      "guid": "3f137516-11ff-5f5e-98c7-974636e98d3d",
+      "name": "Alice Margatroid",
+      "public_name": "Alice Margatroid",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3f137516-11ff-5f5e-98c7-974636e98d3d"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/occlumask-demo-brainstorming-session",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/MWLGQW/"
+}

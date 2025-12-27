@@ -1,0 +1,54 @@
+{
+  "guid": "e6837a00-672c-532b-9bfa-319453667c03",
+  "code": "DD3S7F",
+  "id": 1760,
+  "logo": null,
+  "date": "2025-12-28T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-1760-skynet-starter-kit-from-embodied-ai-jailbreak-to-remote-takeover-of-humanoid-robots",
+  "url": "https://cfp.cccv.de/39c3/talk/DD3S7F/",
+  "title": "Skynet Starter Kit: From Embodied AI Jailbreak to Remote Takeover of Humanoid Robots",
+  "subtitle": "",
+  "track": "Security",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "We present a comprehensive security assessment of Unitree's robotic ecosystem. We identified and exploited multiple security flaws across multiple communication channels, including Bluetooth, LoRa radio, WebRTC, and cloud management services. Besides pwning multiple traditional binary or web vulnerabilities, we also exploit the embodied AI agent in the robots, performing prompt injection and achieve root-level remote code execution. Furthermore, we leverage a flaw in cloud management services to take over any Unitree G1 robot connected to the Internet. By deobfuscating and patching the customized, VM-based obfuscated binaries, we successfully unlocked forbidden robotic movements restricted by the vendor firmware on consumer models such as the G1 AIR. We hope our findings could offer a roadmap for manufacturers to strengthen robotic designs, while arming researchers and consumers with critical knowledge to assess security in next-generation robotic systems.",
+  "description": "Unitree is among the highest-volume makers of commercial robots, and their newest humanoid platforms ship with multiple control stacks and on-device AI agents. If the widespread, intrusive presence of these robots in our lives is inevitable, should we take the initiative to ensure they are completely under our control? What paths might attackers use to compromise these robots, and to what extent could they threaten the physical world?\r\n\r\nIn this talk, we first map the complete attack surface\u00a0of Unitree humanoids, covering hardware interfaces,\u00a0near-field radios and\u00a0Internet-accessible channels. We demonstrate how a local attacker can hijack a robot by exploiting vulnerabilities in short-range radio communications (Bluetooth, LoRa) and local Wi-Fi. We also present a fun exploit of the embodied AI in the humanoid: With a single spoken/text sentence, we jailbreak the on-device LLM Agent and pivot to\u00a0root-priviledged remote code execution. Combined with a flaw in the cloud management service, this forms a full path to gain complete control over any Unitree robot connected to the Internet, obtaining root shell, camera livestreaming, and speaker control.\r\n\r\nTo achieve this, we combined hardware inspection, firmware extraction, software-defined radio tooling, and\u00a0deobfuscation of customized, VM-based protected binaries. This reverse engineering breakthrough also allowed us to understand the overall control logic, patch decision points, and\u00a0unlock advanced robotic movements that were deliberately disabled on consumer models like G1 AIR. \r\n\r\nTakeaways.\u00a0Modern humanoids are networked, AI-powered cyber-physical systems; weaknesses across radios, cloud services, and on-device agents could allow attackers to remotely hijack robot operations, extract sensitive data or camera livestreams, or even weaponize the physical capabilities. As robotics continue their transition from controlled environments to everyday applications, our work highlights the urgent need for security-by-design in this emerging technology landscape.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "code": "CBAQFY",
+      "name": "Shipei Qu",
+      "avatar": "https://cfp.cccv.de/media/avatars/CBAQFY_izzawA5.jpg",
+      "biography": "Shipei Qu (@itewqq) is a security researcher at DARKNAVY focusing on embedded systems, reverse engineering, side-channel attacks, and cryptography. He earned his Ph.D. from Shanghai Jiao Tong University in 2025 and was previously a member of the 0ops CTF team. His research has been featured at academic conferences including CHES and DAC, and he has identified zero-day vulnerabilities in targets spanning consumer IoT devices to the Linux kernel.",
+      "public_name": "Shipei Qu",
+      "guid": "57038be6-a793-5933-9b01-a7e91a1640ff",
+      "url": "https://cfp.cccv.de/39c3/speaker/CBAQFY/"
+    },
+    {
+      "code": "SRFW9W",
+      "name": "Zikai Xu",
+      "avatar": null,
+      "biography": "a postgraduate student in the Fluctlight Security Lab of Zhejiang University and a security researcher intern at DARKNAVY, focusing on mobile security and embedded system security. He is also a CTF Player in AAA and Katzebin.",
+      "public_name": "Zikai Xu",
+      "guid": "be8aaea3-6c0c-5520-9819-bd4425ae31a3",
+      "url": "https://cfp.cccv.de/39c3/speaker/SRFW9W/"
+    },
+    {
+      "code": "QAS7TC",
+      "name": "Xuangan Xiao",
+      "avatar": null,
+      "biography": "Xuangan Xiao is a security researcher at DARKNAVY, with interests in mobile security and system security. Previously, he was a member of the CTF team 0ops and won DEFCON CTF in 2021 and 2022 with the united team A*0*E and Katzebin. He has discovered multiple vulnerabilities in mobile devices, IoT systems, and vehicles, and has published several papers at academic conferences such as IEEE S&P.",
+      "public_name": "Xuangan Xiao",
+      "guid": "98e9f07f-26cd-52aa-bf57-f6a2035486ac",
+      "url": "https://cfp.cccv.de/39c3/speaker/QAS7TC/"
+    }
+  ],
+  "links": [],
+  "feedback_url": "https://cfp.cccv.de/39c3/talk/DD3S7F/feedback/",
+  "origin_url": "https://cfp.cccv.de/39c3/talk/DD3S7F/",
+  "attachments": []
+}

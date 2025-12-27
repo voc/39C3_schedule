@@ -1,0 +1,31 @@
+{
+  "guid": "4d3e036a-e73c-5246-aa7a-a62ee609db12",
+  "code": null,
+  "id": 300088,
+  "date": "2025-12-29T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:30",
+  "room": "CDC Triangle",
+  "slug": "39c3-applying-cryptoanarchy-in-individual-and-communal-",
+  "title": "Applying cryptoanarchy in individual and communal sovereignty",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Talk",
+  "abstract": "Proprietary tech from corporations and surveillance from governments never been more pervasive and it's becoming impossible to deflect it's patterns of control. Refuse the captured system and opt out into the parallel one, embracing FOSS, decentralization and freedom. Let's explore technologies we can use as an actual tools without serving third parties, building independent community coordination and distributed systems that cannot be controlled. Join us to share your stack and tips on surviving without proprietary technologies, banks and big brothers as an individual and a hackerspace.",
+  "description": "",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "47e240e5-cdbf-5dba-bfc1-1948b3ad600b",
+      "name": "Mario",
+      "public_name": "Mario",
+      "avatar": "https://pretalx.riat.at/media/avatars/3FeDe54c_400x400_4gWRoPF.jpg",
+      "biography": "Ethereum Foundation researcher, founder of Bordel Hackerspace in Prague. A hacker active in decentralized systems, hardware and art (proofof.cat), embracing FOSS and living 5+ years unbanked.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_47e240e5-cdbf-5dba-bfc1-1948b3ad600b"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/applying-cryptoanarchy-in-individual-and-communal-",
+  "links": [],
+  "origin_url": "https://pretalx.riat.at/39c3/talk/XPN8AE/"
+}

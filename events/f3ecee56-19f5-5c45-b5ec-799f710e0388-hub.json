@@ -1,0 +1,31 @@
+{
+  "guid": "f3ecee56-19f5-5c45-b5ec-799f710e0388",
+  "code": "VQQYUT",
+  "id": 1357,
+  "date": "2025-12-28T20:10:00+01:00",
+  "start": "20:10",
+  "duration": "00:40",
+  "room": "Fuse",
+  "slug": "39c3-trump-government-demands-access-to-european-police-databases-and-biometrics",
+  "title": "Trump government demands access to European police databases and biometrics",
+  "subtitle": null,
+  "language": "en",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "The USA is demanding from all 43 countries in the \"Visa Waiver Programme\" (VWP), which enables visa-free travel, to conclude an \"Enhanced Border Security Partnership\" (EBSP). This is intended to grant US authorities direct access to police databases in these - mostly European - countries containing fingerprints, facial images and other personal data. Anyone who refuses this forced \"border partnership\" faces exclusion from the visa-free travel programme.",
+  "description": "The US demand is unprecedented: even EU member states do not grant each other such extensive direct database access \u2013 normally the exchange takes place via the \"hit/no-hit principle\" with a subsequent request for further data. This is how it works, for example, in the Pr\u00fcm Treaty among all Schengen states, which has so far covered fingerprints and DNA data and is now also being extended to facial images.\n\nThe EBSP could practically affect anyone who falls under the jurisdiction of border authorities: from passport controls to deportation proceedings. Under the US autocrat Donald Trump, this is a particular problem, as his militia-like immigration authority ICE is already using data from various sources to brutally persecute migrants \u2013 direct access to police data from VWP partners could massively strengthen this surveillance apparatus. Germany alone might give access to facial images of 5.5 million people and fingerprints of a similar dimension.\n\nThe USA has already tightened the Visa Waiver Programme several times, for instance in 2006 through the introduction of biometric passports and in 2008 through the ESTA pre-registration requirement. In addition, there were bilateral agreements for the exchange of fingerprints and DNA profiles \u2013 however, these may only be transmitted in individual cases involving serious crime.\n\nExisting treaties such as the EU-US Police Framework Agreement are not applicable to the \"Enhanced Border Security Partnership\", as it applies exclusively to law enforcement purposes. It is also questionable how the planned data transfer is supposed to be compatible with the strict data protection rules of the GDPR. The EU Commission therefore wants to negotiate a framework agreement on the EBSP that would apply to all member states. Time is running short: the US government has set VWP states a deadline of 31 December 2026. Some already agreed on a bilateral level.\n",
+  "logo": "https://cfp.cccv.de/media/39c3/submissions/VQQYUT/APC-kiosks_JmiOVk8.jpg",
+  "persons": [
+    {
+      "guid": "c81bab40-cfd0-5dad-87c6-831f214277ca",
+      "name": "Matthias Monroy",
+      "public_name": "Matthias Monroy",
+      "avatar": "https://cfp.cccv.de/media/avatars/ZUBL3F_1SsqBV0.jpg",
+      "biography": "Editor of civil rights journal B\u00fcrgerrechte & Polizei/CILIP and nd.Der Tag.\n\nFocussing on policing in the European Union, migration control, satellite intelligence, drones, internet monitoring, surveillance and interception technologies and other police gadgets. Publishing in left-wing newspapers and online-media.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c81bab40-cfd0-5dad-87c6-831f214277ca"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/trump-government-demands-access-to-european-police-databases-and-biometrics",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/VQQYUT/"
+}

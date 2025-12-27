@@ -1,0 +1,23 @@
+{
+  "guid": "1b3a10df-9883-590b-bd19-2312d28e2362",
+  "code": "LXE8T3",
+  "id": 110644,
+  "date": "2025-12-28T16:30:00+01:00",
+  "start": "16:30",
+  "duration": "00:45",
+  "room": "Sendezentrum Podcast-Tisch",
+  "slug": "39c3-studio-drolf",
+  "title": "Studio Dr\u00f6lf",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Podcast-Tisch",
+  "abstract": "Podcast-Aufzeichnung des Studio Dr\u00f6lf",
+  "description": "",
+  "logo": null,
+  "persons": [],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/studio-drolf",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LXE8T3/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/LXE8T3/feedback/"
+}

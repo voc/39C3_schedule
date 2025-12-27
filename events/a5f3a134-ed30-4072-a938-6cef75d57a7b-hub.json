@@ -1,0 +1,30 @@
+{
+  "guid": "a5f3a134-ed30-4072-a938-6cef75d57a7b",
+  "code": null,
+  "id": 531343,
+  "date": "2025-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "01:20",
+  "room": "SoS Lecture E",
+  "slug": "39c3-pudding-mit-stabchen",
+  "title": "Pudding mit St\u00e4bchen essen",
+  "subtitle": null,
+  "language": null,
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "You bring the pudding  \nWe bring the chopsticks\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "b6e3f437-2eb7-4bda-836c-284f35decc83",
+      "name": "skorpy (she/her)",
+      "public_name": "skorpy (she/her)",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/skorpy"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/pudding-mit-stabchen",
+  "links": []
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "ed1dac93-70f6-5e45-9bbb-f995407f5e00",
+  "code": "GEK9WY",
+  "id": 1607,
+  "date": "2025-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "02:00",
+  "room": "Chaos Computer Music Club",
+  "slug": "39c3-hitstorm-aka-the-jakob-sister-b2b-raverpik",
+  "title": "Hitstorm aka The Jakob Sister b2b RaverPik",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "This DJ Team the combines all the Sachsentrance craziness :D since both DJs run the Sachsentrance Label and organize their famous events, widely known for their ecstatic vibes. It's pure Joy!",
+  "description": "The whole Sachsentrance vibe packed in one DJ Team. With their energizing DJ presence, they always bring the dancefloor on fire. The music they play is mostly produced in the 90s and 2000s ranging from popular rave hymns to underground techno and trance tracks. Over the years they gathered a huge treasure of hits. They love to surprise with unconventional tracks and unexpected genre cuts - you will never know what comes next. However, one thing is for sure: it's gonna be a banger!\n",
+  "logo": "https://cfp.cccv.de/media/39c3-chaos-computer-music-club/submissions/GEK9WY/IMG_3169_bcSHALC.JPEG",
+  "persons": [
+    {
+      "guid": "5600babf-a670-5f34-a7bd-da47f7472669",
+      "name": "RaverPik",
+      "public_name": "RaverPik",
+      "avatar": "https://cfp.cccv.de/media/avatars/CT97ZF_aZBELh0.jpeg",
+      "biography": "RaverPik steht f\u00fcr unkonventionelles, aber maximales Entertainment und ist bekannt f\u00fcr seine mitrei\u00dfende, kraftvolle Musik.\nMit seiner energiegeladenen DJ-Pr\u00e4senz bringt er jeden Dancefloor zuverl\u00e4ssig zum kochen. Seine Sets bestehen \u00fcberwiegend aus Tracks der 90er- und 2000er-Jahre, von bekannten Rave-Hymnen bis hin zu Underground-Techno- und Trance-Tracks. \u00dcber die Jahre hat er ein sehr umfangreiches Repertoir an Hits gesammelt.\nRaverPik liebt es, mit ungew\u00f6hnlichen Tracks und \u00fcberraschenden Genre-Wechseln zu spielen. Immer f\u00fcr eine \u00dcberraschung gut!\nEines ist jedoch sicher: Banger!\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_5600babf-a670-5f34-a7bd-da47f7472669"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/hitstorm-aka-the-jakob-sister-b2b-raverpik",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GEK9WY/",
+  "feedback_url": "https://cfp.cccv.de/39c3-chaos-computer-music-club/talk/GEK9WY/feedback/"
+}

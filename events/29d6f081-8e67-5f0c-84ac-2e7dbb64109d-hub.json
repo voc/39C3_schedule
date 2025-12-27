@@ -1,0 +1,33 @@
+{
+  "guid": "29d6f081-8e67-5f0c-84ac-2e7dbb64109d",
+  "code": "ZER37T",
+  "id": 2437,
+  "date": "2025-12-28T15:20:00+01:00",
+  "start": "15:20",
+  "duration": "00:15",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-infrastruktur-fur-aktivistis",
+  "title": "Infrastruktur f\u00fcr Aktivistis",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Antifa Lightning Talk",
+  "abstract": "Aktivistis haben das Problem, dass sie sich Haupts\u00e4chlich um ihre Aktion k\u00fcmmern wollen. Da bleibt oft keine Zeit zu entscheiden, wie eine sichere Infrastruktur gestaltet werden kann. Ich m\u00f6chte einmal vorstellen, was unsere Gruppe als Idee hat um dieses Problem zu l\u00f6sen.  Der Code hierf\u00fcr ist noch nicht fertig, das ist eine Konzept vorstellung.",
+  "description": "Aktivistis haben das Problem, dass sie sich Haupts\u00e4chlich um ihre Aktion k\u00fcmmern wollen. Da bleibt oft keine Zeit zu entscheiden, wie eine sichere Infrastruktur gestaltet werden kann. Ich m\u00f6chte einmal vorstellen, was unsere Gruppe als Idee hat um dieses Problem zu l\u00f6sen.\n\nHierf\u00fcr haben wir ein Programm geplant, welches einen Kubernetescluster zusammen stellt und diesen Korrekt einstellt. Zus\u00e4tzlich soll es eine Oberfl\u00e4che geben um sich Applikationen dazu zu buchen.\n\nHier wird erstmal nur ein Konzept vorgestellt um auch Personen zu finden die hier mitarbeiten m\u00f6chten.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "d4cfa9aa-1d5c-5994-a311-42abed295cc9",
+      "name": "w1ntermute",
+      "public_name": "w1ntermute",
+      "avatar": null,
+      "biography": "Ich bin aktiv im CCCHH und habe Workshops f\u00fcr Aktivists gemacht f\u00fcr sichere Handys und IT-Ger\u00e4te.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_d4cfa9aa-1d5c-5994-a311-42abed295cc9"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/infrastruktur-fur-aktivistis",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/ZER37T/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/ZER37T/feedback/",
+  "do_not_record": true
+}

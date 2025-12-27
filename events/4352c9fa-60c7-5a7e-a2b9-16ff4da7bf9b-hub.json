@@ -1,0 +1,31 @@
+{
+  "guid": "4352c9fa-60c7-5a7e-a2b9-16ff4da7bf9b",
+  "code": null,
+  "id": 100432,
+  "date": "2025-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-einstieg-in-josm-fur-fortgeschrittene-openstreetma",
+  "title": "Einstieg in JOSM f\u00fcr fortgeschrittene OpenStreetMapper",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "In dieser Session werde ich den OpenStreetMap-Editor JOSM vorgestellen, eine Java-Applikation f\u00fcr das fortgeschrittene Bearbeiten von OpenStreetMap-Daten. Anders als der Online-Editor iD sind auch gr\u00f6\u00dfere Datenmengen und Relationen mit JOSM bearbeitbar.\r\n\r\nDer Workshop richtet sich an Leute, die schon einmal zu OpenStreetMap beigetragen haben und Relationen und gr\u00f6\u00dfere Objekte (z.B. Landnutzungsfl\u00e4chen) bearbeiten m\u00f6chten.",
+  "description": "In dieser Session werde ich den OpenStreetMap-Editor JOSM vorgestellen, eine Java-Applikation f\u00fcr das fortgeschrittene Bearbeiten von OpenStreetMap-Daten. Anders als der Online-Editor iD auf der OpenStreetMap-Website sind auch gr\u00f6\u00dfere Datenmengen mit JOSM bearbeitbar. Die Anwendung kann mit Plugins, eigenen Tagging-Vorlagen und Kartenstilen an die eigenen Bed\u00fcrfnisse angepasst werden.\n\nDie Session richtet sich an Interessierte, die schon einmal zu OpenStreetMap beigetragen haben und tiefer einsteigen m\u00f6chten oder Relationen und gr\u00f6\u00dfere Objekte (z.B. Landnutzungsfl\u00e4chen) bearbeiten m\u00f6chten.\n\nDer Workshop richtet sich an Leute, die schon einmal OpenStreetMap-Daten bearbeitet haben.\n\nUm zu OpenStreetMap beizutragen, ist ein Benutzerkonto erforderlich. Bitte legt es vor der Session an. Bitte installiert euch JOSM vor der Session (z.B. aus den Paketquellen eurer Linux-Distribution). Achtet bei der Nutzung der Paketquellen eurer Distribution darauf, dass es sich um Version 18678 oder neuer handelt. Andernfalls k\u00f6nnt ihr damit keine \u00c4nderungen hochladen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "c765c9b7-5796-5a74-b77c-2ee51c7ce423",
+      "name": "Nakaner",
+      "public_name": "Nakaner",
+      "avatar": null,
+      "biography": "OpenStreetMap contributor and software developer since 2011\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_c765c9b7-5796-5a74-b77c-2ee51c7ce423"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/einstieg-in-josm-fur-fortgeschrittene-openstreetma",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/DAXETE/"
+}

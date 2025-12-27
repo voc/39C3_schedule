@@ -1,0 +1,39 @@
+{
+  "guid": "9296cd85-f869-5687-94cb-e87d805249a2",
+  "code": "Y9EJFV",
+  "id": 1377,
+  "date": "2025-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "One",
+  "slug": "39c3-episode-ii-der-rat-schlagt-zuruck",
+  "title": "Chatkontrolle - Ctrl+Alt+Delete",
+  "subtitle": null,
+  "language": "de",
+  "track": "Ethics, Society & Politics",
+  "type": "Talk",
+  "abstract": "Seit jetzt schon vier Jahren droht aus der EU die Chatkontrolle. In Deutschland ist das Thema nach den Protesten im Oktober aktueller denn je - und sogar Jens Spahn und Rainer Wendt sind pl\u00f6tzlich gegen diese Form der \u00dcberwachung. In diesem Vortrag schauen wir zur\u00fcck und erkl\u00e4ren was, vor allem im Hintergrund, passiert ist. Wir nehmen die Position der Bundesregierung genau unter die Lupe und werfen einen Blick auf die Schritte, die auf EU-Ebene vor uns liegen.",
+  "description": "Die Chatkontrolle liest sich mehr wie eine tragische Kom\u00f6die, als ein Gesetzgebungsverfahren. Nach dem dramaturgischen R\u00fcckblick auf dem 37C3 wird es nun Zeit einen Blick auf die Seite der Rebellen zu werfen. \nMarkus Reuter und khaleesi haben den Gesetzgebungsprozess rund um die Chatkontrolle von Anfang an eng begleitet, er aus der der journalistischen, sie aus der Policy-Perspektive. \nNach den ersten Jahren mit gro\u00dfen Rummel und Hollywoodstars ist es nach den EU-Wahlen doch etwas ruhig geworden. Doch die Gefahr ist nicht vom Tisch:\n\nZwar steht die Position des EU-Parlaments gegen die Chatkontrolle - aber wie sicher sie wirklich ist, ist unklar.\nDerzeit h\u00e4ngt alles am Rat: Es gab sehr positive Vorschl\u00e4ge (polnische Ratspr\u00e4sidentschaft) und negative Vorschl\u00e4ge (d\u00e4nische Ratspr\u00e4sidentschaft) - doch einigen k\u00f6nnen sich die L\u00e4nder nicht und eine Mehrheit will die Chatkontrolle, kann sich aber nicht durchsetzen.\n\nUnd auch in Deutschland hat die Chatkontrolle den ganz gro\u00dfen Sprung in die \u00d6ffentlichkeit geschafft und die Gegner:innen einen Etappensieg errungen. Was dieser Erfolg mit der Arbeit der letzten vier Jahre zu tun hat und warum auch in Deutschland noch nichts in trockenen T\u00fcchern ist, erz\u00e4hlen wir in diesem Talk.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "6ffd6316-c9a4-59ee-8ccb-e0bbf7be8af9",
+      "name": "khaleesi",
+      "public_name": "khaleesi",
+      "avatar": "https://cfp.cccv.de/media/avatars/H9GEPE_SrtQiP3.jpg",
+      "biography": "khaleesi ist eine der Sprecherinnen des Chaos Computer Clubs. Sie ist Informatikerin und arbeitet im Bereich IT-Sicherheit. Seit 2022 ist sie federf\u00fchrend im Kampf gegen die geplante Chatkontrolle.\nIn ihrem gemeinsamen Podcast, \u201eDicke Bretter\u201c mit Constanze Kurz und Elisa Lindinger, erkl\u00e4rt sie wie Gesetzgebungsprozesse in der Praxis funktionieren und schaut zur\u00fcck auf bereits verhandelte digitalpolitische Themen.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_6ffd6316-c9a4-59ee-8ccb-e0bbf7be8af9"
+    },
+    {
+      "guid": "52d341b7-8417-5093-959e-496c9f529196",
+      "name": "Markus Reuter",
+      "public_name": "Markus Reuter",
+      "avatar": "https://cfp.cccv.de/media/avatars/BRHKC9_4b5hIB1.webp",
+      "biography": "Markus Reuter researches and writes about digital policy and surveillance at netzpolitik.org. He also covers topics such as the police, fundamental rights and civil liberties, protests, and social movements. Over the past four years, he has written more than 200 articles on chat monitoring and has followed the surveillance project from its inception to the present day.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_52d341b7-8417-5093-959e-496c9f529196"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/episode-ii-der-rat-schlagt-zuruck",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/Y9EJFV/"
+}

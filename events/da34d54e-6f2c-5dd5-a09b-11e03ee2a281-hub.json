@@ -1,0 +1,32 @@
+{
+  "guid": "da34d54e-6f2c-5dd5-a09b-11e03ee2a281",
+  "code": "TFEDKN",
+  "id": 400012,
+  "date": "2025-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "FNF Assembly",
+  "slug": "39c3-widerspruch-gegen-die-elektronische-patienten_kos9",
+  "title": "Widerspruch gegen die elektronische Patientenakte - jetzt gleich hier erledigen",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Help desk",
+  "abstract": "Bei uns kannst Du sehr einfach Deiner ePA widersprechen. Hierf\u00fcr haben wir f\u00fcr Dich ein Formular vorbereitet, dass Du ausf\u00fcllst, wir schicken das dann an Deine Krankenkasse. \r\nDas geht auch au\u00dferhalb unserer \"Sprechzeiten\", komm einfach jederzeit vorbei, auch wenn wir nicht da sind liegt eine Anleitung aus wie das funktioniert.\r\nDar\u00fcber hinaus bieten wir noch andere Widerspr\u00fcche und Ausk\u00fcnfte an.",
+  "description": "Als gesetzlich Versicherter hast Du Anfang 2025 eine ePA erhalten, in der fortan alle Deine Behandlungsdaten (Diagnosen, Medikamente, Zahnbehandlungen, ...) protokolliert werden. Wir raten zum Widerspruch und helfen gerne dabei und stehen f\u00fcr Fragen zur Verf\u00fcgung.\n\nDar\u00fcber hinaus bieten wir Widerspruchsformulare gegen das Durchsuchen Deiner Abrechnungsdaten durch die Krankenkassen an. Damit will die Krankenkasse auf Basis Deiner pers\u00f6nlichen Daten ein sog. Risikoprofil f\u00fcr Dich erstellen.\n\nAu\u00dferhalb unserer \"Sprechzeiten\" findest Du an unserem Stand eine Anleitung, die Dir zeigt wie Du Deiner ePA widersprechen kannst.\n\nAlternativ kannst Du auch unseren Widerspruchsgenerator daf\u00fcr nutzen, den Du auf unserer Webseite 'https://widerspruch-epa.de' findest.\n\nZus\u00e4tzlich kannst Du auch eine Auskunft bei Deiner Krankenasse zu allen dort vorliegenden Daten von Dir machen.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "0393f5c1-0680-5062-b5d8-5bc994f335d6",
+      "name": "flysch",
+      "public_name": "flysch",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_0393f5c1-0680-5062-b5d8-5bc994f335d6"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/widerspruch-gegen-die-elektronische-patienten_kos9",
+  "links": [],
+  "origin_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/TFEDKN/",
+  "feedback_url": "https://fnf-39c3-pretalx.my-server.in/fnf-at-39c3-2025/talk/TFEDKN/feedback/"
+}

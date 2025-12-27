@@ -1,0 +1,30 @@
+{
+  "guid": "7d5b6bf5-b24f-4ca3-aa1c-589d8c8f99c5",
+  "code": null,
+  "id": 756524,
+  "date": "2025-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:55",
+  "room": "Fediverse shared table",
+  "slug": "39c3-was-hat-das-fediverse-eigentlich-zu-bieten-wenn-da",
+  "title": "Was hat das Fediverse eigentlich zu bieten wenn Datenschutz und Digitale Souver\u00e4nit\u00e4t egal sind?",
+  "subtitle": null,
+  "language": "de, en",
+  "track": null,
+  "type": "other",
+  "abstract": "Wenn wir (ich?) \u00fcber das Fediverse sprechen, dann ist es meist ein Ort in dem Datenschutz und Digitale Souver\u00e4nit\u00e4t wichtig sind. Was hat das Fediverse Menschen zu bieten f\u00fcr die diese Aspekte mehr oder minder egal sind?",
+  "description": "In this workshop I want to work together with you on the question - what does the Fediverse offer for people not interested to run their own server or which software the software running on the server is written in. What makes the Fediverse interesting for people outside of our bubble. The results of the workshop will be published so that all ambassadors of the Fediverse can use them afterwards in their work promoting the Fediverse.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9fa3325b-54b7-4d13-b24a-c83574c89075",
+      "name": "bAvatar",
+      "public_name": "bAvatar",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/bavatar"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/was-hat-das-fediverse-eigentlich-zu-bieten-wenn-da",
+  "links": []
+}

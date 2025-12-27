@@ -1,0 +1,31 @@
+{
+  "guid": "c8fe18e8-6cd5-5354-aad7-1a51e64fd529",
+  "code": "ASKJYB",
+  "id": 1874,
+  "date": "2025-12-28T15:40:00+01:00",
+  "start": "15:40",
+  "duration": "00:40",
+  "room": "One",
+  "slug": "39c3-cracking-open-what-makes-apple-s-low-latency-wifi-so-fast",
+  "title": "Cracking open what makes Apple's Low-Latency WiFi so fast",
+  "subtitle": null,
+  "language": "en",
+  "track": "Hardware",
+  "type": "Talk",
+  "abstract": "This talk presents Apple's link-layer protocol Low-Latency WiFi and how it achieves its real-time capabilities to enable Continuity features like Sidecar Display and Continuity Camera. We make more kernel logging available on iOS and build a log aggregator that combines and aligns system- and network-level log sources from iOS and macOS.",
+  "description": "Apple's Continuity features make up a big part of their walled garden. From AirDrop and Handoff to AirPlay, they all connect macOS and iOS devices wirelessly. In recent years, security researchers have opened up several of these features showing that the Apple ecosystem is technically compatible with third-party devices.\n\nIn this talk, we present the internal workings of Low-Latency WiFi (LLW) \u2013 Apple's link-layer protocol for several real-time Continuity features like Continuity Camera and Sidecar Display. We talk about the concepts behind LLW, how it achieves its low-latency requirement and how we got there in the reverse engineering process.\n\nWe also present the tooling we built to enable more kernel-level tracing and logging on iOS through a reimplementation of cctool from macOS and the source code of trace that was buried deep inside of Apple\u2019s open-source repository system_cmds. We build a log aggregator that combines various kernel- and user-space traces, log messages and pcap files from both iOS and macOS into a single file and finally investigate the network stack on Apple platforms that is implemented in both user- and kernel space. There we find interesting configuration values of LLW that make it the go-to link-layer protocol for Apple's proprietary real-time Continuity applications.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "9febe2c1-d2fa-554b-bac7-e4c65ec33635",
+      "name": "Henri J\u00e4ger",
+      "public_name": "Henri J\u00e4ger",
+      "avatar": "https://cfp.cccv.de/media/avatars/XKA3CV_JTc5Klb.jpg",
+      "biography": "Master student in Cybersecurity and member of Jiska Classen\u2019s research group with a focus on wireless technologies in Apple\u2019s walled garden.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_9febe2c1-d2fa-554b-bac7-e4c65ec33635"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/cracking-open-what-makes-apple-s-low-latency-wifi-so-fast",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3/talk/ASKJYB/"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "c99513e3-06f5-5b86-86be-37e239db92fb",
+  "code": "KCVEJK",
+  "id": 83758,
+  "date": "2025-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:30",
+  "room": "Sendezentrum B\u00fchne (Saal X 07)",
+  "slug": "39c3-denkangebot-rainer-mhlhoff-ber-ki-und-autoritre-sehnschte-im-silicon-valley",
+  "title": "Denkangebot: Rainer M\u00fchlhoff \u00fcber KI und autorit\u00e4re Sehns\u00fcchte im Silicon Valley",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Live-Podcast B\u00fchne (lang)",
+  "abstract": "Der Hype um k\u00fcnstliche Intelligenz ist allgegenw\u00e4rtig. Selbst Donald Trump postet KI-generierte Videos, in denen er sich wahlweise als Rockstar oder Kampfjetpilot inszeniert. Elon Musk prahlte \u00f6ffentlich damit, dass in seinem \"Department of Goverment Efficiency\" der soziale Kahlschlag mit Unterst\u00fctzung K\u00fcnstlicher Intelligenz vorangetrieben wird. Und Peter Thiel meint allen ernstes, KI-Regulierung und das Erscheinen des Antichristen gingen Hand in Hand. M\u00fcssen wir uns Sorgen machen?",
+  "description": "Rainer M\u00fchlhoff ist Professor f\u00fcr Ethik und kritische Theorien der K\u00fcnstlichen Intelligenz an der Universit\u00e4t Osnabr\u00fcck. In seinem k\u00fcrzlich erschienen Buch \"K\u00fcnstliche Intelligenz und der neue Faschismus\" setzt er sich kritisch mit dem KI-Hype auseinander. Und er erkl\u00e4rt, welche toxischen Ideologien zentraler Akteure aus dem Silicon Valley Menschen empf\u00e4nglich f\u00fcr autorit\u00e4re Gesellschaftsbilder machen.\n\nWir sprechen \u00fcber die Zyklen von KI-Hypes, das problematische Narrativ vom \"B\u00fcrokratieabbau durch AI\" und die Funktion apokalyptischer Zukunftsvisionen. Vor allem aber will ich von Rainer wissen: Welche Bedeutung haben bei dieser Debatte die in Teilen des Silicon Valley einflussreichen ideologischen Str\u00f6mungen \u2013 von radikalem Cyberlibertarismus \u00fcber Longtermismus bis hin zum \"Dark Enlightment\"?\n",
+  "logo": "https://pretalx.c3voc.de/media/39c3-sendezentrum/submissions/KCVEJK/denkangebot_cover_3000px_9IwopQx.jpg",
+  "persons": [
+    {
+      "guid": "a8991e85-b553-5ed0-bc66-c219d3d8ba2f",
+      "name": "Katharina Nocun",
+      "public_name": "Katharina Nocun",
+      "avatar": "https://cfp.cccv.de/media/avatars/HR8WJ8_r7IGrTs.jpg",
+      "biography": "Katharina Nocun ist Publizistin und Politik- und Wirtschaftswissenschaftlerin. In ihrer Arbeit setzt sie sich vor allem mit dem Spannungsfeld Digitalisierung und Demokratie auseinander. Ihr Podcast Denkangebot war 2020 f\u00fcr den Grimme Online Award nominiert. Ihr erstes Buch \"Die Daten, die ich rief\" (2018) behandelt das Thema Digitalisierung und Demokratie. 2020 erschien der Bestseller \"Fake Facts \u2013 Wie Verschw\u00f6rungstheorien unser Denken bestimmen\" (gemeinsam wie alle nachfolgenden mit Pia Lamberty). 2021 folgte \"True Facts \u2013 was gegen Verschw\u00f6rungserz\u00e4hlungen wirklich hilft\" und 2022 \"Gef\u00e4hrlicher Glaube \u2013 Die radikale Gedankenwelt der Esoterik\". F\u00fcr ihre publizistische T\u00e4tigkeit wurde Nocun 2017 mit dem Marburger Leuchtfeuer und 2023 mit dem Madsack Award ausgezeichnet.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_a8991e85-b553-5ed0-bc66-c219d3d8ba2f"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/denkangebot-rainer-mhlhoff-ber-ki-und-autoritre-sehnschte-im-silicon-valley",
+  "links": [],
+  "origin_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/KCVEJK/",
+  "feedback_url": "https://pretalx.c3voc.de/39c3-sendezentrum/talk/KCVEJK/feedback/"
+}

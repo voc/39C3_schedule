@@ -1,0 +1,31 @@
+{
+  "guid": "29b66d3b-53ed-5610-aab7-54074e3c3275",
+  "code": null,
+  "id": 100421,
+  "date": "2025-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:50",
+  "room": "Bits&B\u00e4ume Workshop Area",
+  "slug": "39c3-25-jahre-freifunk-2027-als-festjahr",
+  "title": "25 Jahre Freifunk - 2027 als Festjahr?",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "Workshop 50 Minutes",
+  "abstract": "2027 wird Freifunk 25 Jahre alt. Lasst uns gemeinsam \u00fcberlegen, wie wir das feiern k\u00f6nnen.",
+  "description": "Einige erste Ideen:\n* Dezentrale Veranstaltungen\n* 1-2 gr\u00f6\u00dfere Sachen mit internationaler Beteiligung\n* Werbung und Pressearbeit\n* Weggef\u00e4hrten aus den Anfangszeiten aktivieren.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "8e904239-b684-5bc1-8fa9-2fbe3c7d6f22",
+      "name": "Andi Br\u00e4u",
+      "public_name": "Andi Br\u00e4u",
+      "avatar": "https://pretalx.freifunktag.de/media/avatars/hacker-1024_oUOxCxd.jpeg",
+      "biography": "Freifunker seit 2006\nSoftwareentwickler\nVorstand\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8e904239-b684-5bc1-8fa9-2fbe3c7d6f22"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/25-jahre-freifunk-2027-als-festjahr",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/J93HPG/"
+}

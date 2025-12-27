@@ -1,0 +1,32 @@
+{
+  "guid": "f1d95e56-3fa1-5712-80fb-c4e923085095",
+  "code": null,
+  "id": 100423,
+  "date": "2025-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:50",
+  "room": "Bits&B\u00e4ume Living Room",
+  "slug": "39c3-autonomous-system-as-owner-operator-meetup",
+  "title": "Autonomous System (AS) (Owner &) Operator Meetup",
+  "subtitle": null,
+  "language": "en",
+  "track": null,
+  "type": "Meetup 110 Minutes",
+  "abstract": "If you run an AS, lets meetup.",
+  "description": "After the successful first run last year, let's meet again\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "eecd87e8-7143-5a93-b182-2b1b37134bfe",
+      "name": "skorpy",
+      "public_name": "skorpy",
+      "avatar": null,
+      "biography": "skorpy is a multifaceted Internet plumber and advocate for scalable network engineering.\n\nWith a burning passion for simplicity, IPv6, and performance, skorpy operates autonomous systems for science, communities and sometimes money.\n\nBeyond the digital realm, skorpy is a dedicated firefighter and Techno lover.\n\n - Matrix: @skorpy:entropia.de\n - Mastodon: https://chaos.social/@skorpy\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_eecd87e8-7143-5a93-b182-2b1b37134bfe"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/autonomous-system-as-owner-operator-meetup",
+  "links": [],
+  "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/PJYHVJ/",
+  "do_not_record": true
+}

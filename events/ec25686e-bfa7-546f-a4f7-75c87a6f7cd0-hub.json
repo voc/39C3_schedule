@@ -1,0 +1,33 @@
+{
+  "guid": "ec25686e-bfa7-546f-a4f7-75c87a6f7cd0",
+  "code": "DCJTXB",
+  "id": 2422,
+  "date": "2025-12-27T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "01:00",
+  "room": "Am Sp\u00e4tverkauf",
+  "slug": "39c3-stormoment",
+  "title": "St\u00f6rmoment",
+  "subtitle": null,
+  "language": "en",
+  "track": "DJ-Set",
+  "type": "DJ Set",
+  "abstract": "All styles Punk from hc, grunge and garage to indie, pop and post, female fronted only.",
+  "description": "You can look at the state of society and be scared. It's fair to be scared, it's fair to feel pessimism. \nBut.\nListen to Punk music. Punk's hopeful. Punk is never pretending that things are great. But the message, the verve, the rythm and everything behind punk music is: Fuck this, fight back!\n\n\nHere's a mix with some bands I like:\nhttps://soundcloud.com/klingtjut/stoer\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "3ad085c3-b631-5f36-b94c-b1ce9e03fafb",
+      "name": "Vale",
+      "public_name": "Vale",
+      "avatar": null,
+      "biography": "Amateur light&sound guy.\nSt\u00f6rmoment, Klingtjut Festival, R\u00f6hre.\nI like punk music.\n",
+      "url": "https://events.ccc.de/congress/2025/hub/user/speaker_3ad085c3-b631-5f36-b94c-b1ce9e03fafb"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/stormoment",
+  "links": [],
+  "origin_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/DCJTXB/",
+  "feedback_url": "https://cfp.cccv.de/39c3-call-for-punk/talk/DCJTXB/feedback/",
+  "do_not_record": true
+}

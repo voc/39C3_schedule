@@ -1,0 +1,30 @@
+{
+  "guid": "dae23004-37c6-4dab-8ea8-cf4356d409c2",
+  "code": null,
+  "id": 230043,
+  "date": "2025-12-27T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-c-code-testing-pass-fail-or-segfault",
+  "title": "C Code Testing. Let's talk about it!",
+  "subtitle": null,
+  "language": "en, de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "PASS, FAIL, or SEGFAULT?\nI am curious how other people test their software, particularly C software.\n\nDo you test at all?\nHow do you do it?\nDo you have any hacks to prevent you from shooting yourself in the foot?\nLet's share your experiences!\n\nTo break the ice and get the conversation started, I will give a short talk about my journey through the testing jungle.\nAnd then let's have an open discussion where you can talk about your testing approach. It would be awesome if you could show us a test you wrote.\n\nEveryone is welcome, especially if you're just curious. No testing or C experience is necessary. This is a great place to ask questions and learn from the workflows of others.\n\nYou can contact me (Dominik) via email: 39C3@dominikloidolt.at\n\nSee you.\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "faca0ed8-f6ec-4011-b87b-12ccc4454263",
+      "name": "Loidi",
+      "public_name": "Loidi",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/loidi"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/c-code-testing-pass-fail-or-segfault",
+  "links": []
+}

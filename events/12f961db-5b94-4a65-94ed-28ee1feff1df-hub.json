@@ -1,0 +1,30 @@
+{
+  "guid": "12f961db-5b94-4a65-94ed-28ee1feff1df",
+  "code": null,
+  "id": 129615,
+  "date": "2025-12-30T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:50",
+  "room": "SoS Saal 6",
+  "slug": "39c3-lesezeichen-2-das-javascript-schlagt-zuruck",
+  "title": "\ud83d\udcd1 Lesezeichen 2: Das JavaScript schl\u00e4gt zur\u00fcck \ud83d\udc7e",
+  "subtitle": null,
+  "language": "de",
+  "track": null,
+  "type": "other",
+  "abstract": "",
+  "description": "What if your browser bookmarks didn't just save an address, but unlocked a whole arsenal of features? I'll show you how to unleash the power of the modern web directly from your bookmarks bar with bookmarklets. Whether it's webcam access, clipboard hacks, full-screen action or spontaneous library reloading, this talk is a firework display for anyone who loves JavaScript and wants to push boundaries. There are also tips on minification, troubleshooting, and even creating blobs and playing sounds. Nerdy, practical, surprising \u2013 a must for web tinkerers and JavaScript Jedis \ud83e\udd77\n\nSome of the bookmarklets: https://hackmd.io/MhSV_LgMT96Wb4A8D_tajg?view\n",
+  "logo": null,
+  "persons": [
+    {
+      "guid": "ffc167ec-5ca8-4017-8153-cb6eb3f837bd",
+      "name": "Birdy1976",
+      "public_name": "Birdy1976",
+      "avatar": null,
+      "biography": null,
+      "url": "https://events.ccc.de/congress/2025/hub/user/birdy1976"
+    }
+  ],
+  "url": "https://events.ccc.de/congress/2025/hub/event/detail/lesezeichen-2-das-javascript-schlagt-zuruck",
+  "links": []
+}
