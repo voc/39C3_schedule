@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>1.1 2025-12-27 20:20</version>
+  <version>1.1 2025-12-27 20:23</version>
   <conference>
     <acronym>39c3</acronym>
     <title>39th Chaos Communications Congress - Himmel</title>
@@ -4888,7 +4888,7 @@ Dieser Vortrag lädt euch ein, in die eisigen Welten des arktischen Ozeans einzu
         <logo/>
         <persons>
           <person guid="5280fd21-88f5-5ea5-adba-a31d4c90bacd">Svea Windwehr</person>
-          <person guid="dc5eeab0-8aed-5f6b-af58-6526414c6b55">Chloé Berthélémy</person>
+          <person guid="dc5eeab0-8aed-5f6b-af58-6526414c6b55">Chloé Bérthélémy</person>
         </persons>
         <url>https://events.ccc.de/congress/2025/hub/event/detail/the-last-of-us-fighting-the-eu-surveillance-law-apocalypse</url>
         <links/>
