@@ -5,7 +5,7 @@
       "name": "voc/schedule/39C3",
       "version": "6a9d9"
     },
-    "version": "1.1 2025-12-27 20:16",
+    "version": "1.1 2025-12-27 20:20",
     "base_url": "https://events.ccc.de/congress/2025/hub/",
     "conference": {
       "acronym": "39c3",
@@ -517,9 +517,9 @@
           }
         },
         {
-          "name": "Hardware Hacking Area -- Front",
-          "slug": "hardware-hacking-area-right-front",
-          "guid": "24bda89e-2bc4-471b-8870-eccacf62ef3b",
+          "name": "Hardware Hacking Area -- Rear-middle",
+          "slug": "hardware-hacking-area-left-rear",
+          "guid": "9825112f-e46b-49b0-9c86-b791f7a3ec90",
           "type": "workshop",
           "stream_id": null,
           "capacity": 25,
@@ -533,9 +533,9 @@
           }
         },
         {
-          "name": "Hardware Hacking Area -- Rear-middle",
-          "slug": "hardware-hacking-area-left-rear",
-          "guid": "9825112f-e46b-49b0-9c86-b791f7a3ec90",
+          "name": "Hardware Hacking Area -- Front",
+          "slug": "hardware-hacking-area-right-front",
+          "guid": "24bda89e-2bc4-471b-8870-eccacf62ef3b",
           "type": "workshop",
           "stream_id": null,
           "capacity": 25,
@@ -5852,10 +5852,10 @@
                 "persons": [
                   {
                     "guid": "8b1554a7-c8da-547b-b4e6-b03138e36416",
-                    "name": "Bettina Louis",
-                    "public_name": "Bettina Louis",
-                    "avatar": "https://cfp.cccv.de/media/avatars/RNUJTV_xdswJtP.jpeg",
-                    "biography": "Bettina Louis has been an engineer for energy and process technology for 20 years and a teacher at a technical school for almost as long. Now retired, Bettina is dedicated to support the End Of 10 campaign by organizing install events in Berlin.\n",
+                    "name": "belobe",
+                    "public_name": "belobe",
+                    "avatar": "https://pretalx.c3voc.de/media/avatars/CSXKLA_L9srgui.jpg",
+                    "biography": "Haeckse aus Berlin, endof10-Kampagne, im Ruhestand (Ingenieurin und Lehrerin).\n",
                     "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8b1554a7-c8da-547b-b4e6-b03138e36416"
                   }
                 ],
@@ -7719,6 +7719,68 @@
                 "links": []
               }
             ],
+            "Hardware Hacking Area -- Rear-middle": [
+              {
+                "guid": "f3e74754-e457-44ed-b49b-7344c127014d",
+                "code": null,
+                "id": 374754,
+                "date": "2025-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Rear-middle",
+                "slug": "39c3-stonehenge-weird-soldering-challenge",
+                "title": "Stonehenge Cursed Soldering Challenge",
+                "subtitle": null,
+                "language": "en, de",
+                "track": null,
+                "type": "other",
+                "abstract": "Stonehenge Cursed Soldering Challenge",
+                "description": "**Stonehenge Cursed Soldering Challenge**\n\n**Materials costs**:  \n\u20ac10\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n * Test and Increase your soldering skills with this challenge in the shape of Stonehenge.\n * Prior soldering experience helps, but is not mandatory\n  * The components are mounted in an unorthodox way making this a unique challenge\n  * Kit includes\n      *  Empty PCB\n      * All the parts needed for assemly\n       * A 3D-printed multipurpose base\n           * Nice base to display the finished board\n           * Store components during assembly\n           * Protect the finished board for transport by placing it upside down\n  * The board features a `CH32V203` microcontroller which can easily be programmed without extra tools\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n* [https://gitlab.ccc.ac/cpresser/stonehenge](https://gitlab.ccc.ac/cpresser/stonehenge)\n* [https://gitlab.ccc.ac/cpresser/stonehenge-firmware](https://gitlab.ccc.ac/cpresser/stonehenge-firmware)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f41fbaa2e861/stonehenge.png",
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/stonehenge-weird-soldering-challenge",
+                "links": []
+              },
+              {
+                "guid": "2ead2222-1ae7-4d71-93ad-f0640e4e39b1",
+                "code": null,
+                "id": 222221,
+                "date": "2025-12-27T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Rear-middle",
+                "slug": "39c3-light-and-sound-badge-making-choice-of-2-kits",
+                "title": "Light and Sound Badge-Making (choice of 2 kits)",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Light and Sound Badge-Making (choice of 2 kits)",
+                "description": "**Light and Sound Badge-Making (choice of 2 kits)**\n\n**Materials costs**:  \n\u20ac25\n\n**Taught by** fablab|nk.\n\n**Workshop Itinerary**:  \nChoose to build one of two badge-kits: a drawable-reusable LED convention badge (1 hour, beginner skill level) or a beam-catching light-to-sound synthesiser badge (2 hours, intermediate skill level)\n\nAbout the SynthLab \u201cBeam-Catcher\u201d Badge:\nA special-edition light-to-sound synthesiser badge based on Dylan B's open-source Beam Catcher project. Wave a DIY photoresistive probe over 6 tunable LED\u2019s to amplify light frequencies and create your own drone-tones. \u2018Break-out\u2019 your badge and power it with a 9V battery or leave it intact and use it as your first Eurorack synth module (see it in action in our DIY rack at our assembly!). This project comes out of our weekly SynthLab audio hardware meetups at fablab|nk and is designed to be a first-introduction kit to DIY synthesiser building for new visitors :)\n\nAbout the Mechmon Drawable Convention Badge:\nCreate your own unique, reusable convention badge! This fun hands-on project lets you solder a 555-timer based LED badge that blinks and shows off your style. The screenprinted avatar area can be drawn on with a whiteboard marker, then easily erased to design new faces or characters again and again. Perfect for makers and convention-goers alike, this workshop combines creativity, electronics, and personalization\u2014so you can stand out with a badge that\u2019s truly one of a kind at 39C3 and your next event\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[SynthLab \u201eBeam-Catcher\u201c-Badge](https://github.com/fablabnk/SynthLabBadge)  \n[Inspiration](https://loess-labs.net/inst/beam/)  \n[Mechmon Drawable Convention Badge](https://github.com/fablabnk/MechMonBadge)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e707c4f11ad8/SynthLabBadge.jpg",
+                "persons": [
+                  {
+                    "guid": "4f53b348-fefe-48c9-80ac-3036f3d246d3",
+                    "name": "graham42",
+                    "public_name": "graham42",
+                    "avatar": null,
+                    "biography": null,
+                    "url": "https://events.ccc.de/congress/2025/hub/user/graham42"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/light-and-sound-badge-making-choice-of-2-kits",
+                "links": []
+              }
+            ],
             "Hardware Hacking Area -- Front": [
               {
                 "guid": "63919432-22f9-40e7-9b12-99597b524340",
@@ -7808,68 +7870,6 @@
                   }
                 ],
                 "url": "https://events.ccc.de/congress/2025/hub/event/detail/noisio-attiny-punk-console",
-                "links": []
-              }
-            ],
-            "Hardware Hacking Area -- Rear-middle": [
-              {
-                "guid": "f3e74754-e457-44ed-b49b-7344c127014d",
-                "code": null,
-                "id": 374754,
-                "date": "2025-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Rear-middle",
-                "slug": "39c3-stonehenge-weird-soldering-challenge",
-                "title": "Stonehenge Cursed Soldering Challenge",
-                "subtitle": null,
-                "language": "en, de",
-                "track": null,
-                "type": "other",
-                "abstract": "Stonehenge Cursed Soldering Challenge",
-                "description": "**Stonehenge Cursed Soldering Challenge**\n\n**Materials costs**:  \n\u20ac10\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n * Test and Increase your soldering skills with this challenge in the shape of Stonehenge.\n * Prior soldering experience helps, but is not mandatory\n  * The components are mounted in an unorthodox way making this a unique challenge\n  * Kit includes\n      *  Empty PCB\n      * All the parts needed for assemly\n       * A 3D-printed multipurpose base\n           * Nice base to display the finished board\n           * Store components during assembly\n           * Protect the finished board for transport by placing it upside down\n  * The board features a `CH32V203` microcontroller which can easily be programmed without extra tools\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n* [https://gitlab.ccc.ac/cpresser/stonehenge](https://gitlab.ccc.ac/cpresser/stonehenge)\n* [https://gitlab.ccc.ac/cpresser/stonehenge-firmware](https://gitlab.ccc.ac/cpresser/stonehenge-firmware)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f41fbaa2e861/stonehenge.png",
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/stonehenge-weird-soldering-challenge",
-                "links": []
-              },
-              {
-                "guid": "2ead2222-1ae7-4d71-93ad-f0640e4e39b1",
-                "code": null,
-                "id": 222221,
-                "date": "2025-12-27T21:30:00+01:00",
-                "start": "21:30",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Rear-middle",
-                "slug": "39c3-light-and-sound-badge-making-choice-of-2-kits",
-                "title": "Light and Sound Badge-Making (choice of 2 kits)",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Light and Sound Badge-Making (choice of 2 kits)",
-                "description": "**Light and Sound Badge-Making (choice of 2 kits)**\n\n**Materials costs**:  \n\u20ac25\n\n**Taught by** fablab|nk.\n\n**Workshop Itinerary**:  \nChoose to build one of two badge-kits: a drawable-reusable LED convention badge (1 hour, beginner skill level) or a beam-catching light-to-sound synthesiser badge (2 hours, intermediate skill level)\n\nAbout the SynthLab \u201cBeam-Catcher\u201d Badge:\nA special-edition light-to-sound synthesiser badge based on Dylan B's open-source Beam Catcher project. Wave a DIY photoresistive probe over 6 tunable LED\u2019s to amplify light frequencies and create your own drone-tones. \u2018Break-out\u2019 your badge and power it with a 9V battery or leave it intact and use it as your first Eurorack synth module (see it in action in our DIY rack at our assembly!). This project comes out of our weekly SynthLab audio hardware meetups at fablab|nk and is designed to be a first-introduction kit to DIY synthesiser building for new visitors :)\n\nAbout the Mechmon Drawable Convention Badge:\nCreate your own unique, reusable convention badge! This fun hands-on project lets you solder a 555-timer based LED badge that blinks and shows off your style. The screenprinted avatar area can be drawn on with a whiteboard marker, then easily erased to design new faces or characters again and again. Perfect for makers and convention-goers alike, this workshop combines creativity, electronics, and personalization\u2014so you can stand out with a badge that\u2019s truly one of a kind at 39C3 and your next event\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[SynthLab \u201eBeam-Catcher\u201c-Badge](https://github.com/fablabnk/SynthLabBadge)  \n[Inspiration](https://loess-labs.net/inst/beam/)  \n[Mechmon Drawable Convention Badge](https://github.com/fablabnk/MechMonBadge)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/e707c4f11ad8/SynthLabBadge.jpg",
-                "persons": [
-                  {
-                    "guid": "4f53b348-fefe-48c9-80ac-3036f3d246d3",
-                    "name": "graham42",
-                    "public_name": "graham42",
-                    "avatar": null,
-                    "biography": null,
-                    "url": "https://events.ccc.de/congress/2025/hub/user/graham42"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/light-and-sound-badge-making-choice-of-2-kits",
                 "links": []
               }
             ],
@@ -15980,131 +15980,6 @@
                 "links": []
               }
             ],
-            "Hardware Hacking Area -- Front": [
-              {
-                "guid": "45332ebc-2be3-4405-ae2e-e7f985a16c7a",
-                "code": null,
-                "id": 453322,
-                "date": "2025-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-surface-mount-electronics-assembly-for-terrified-b",
-                "title": "CANCELLED! Surface Mount Electronics Assembly for Terrified Beginners (Day 2)",
-                "subtitle": null,
-                "language": "en, de",
-                "track": null,
-                "type": "other",
-                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
-                "description": "Unfortunately this event is cancelled\n",
-                "logo": null,
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrified-b",
-                "links": []
-              },
-              {
-                "guid": "810e6683-87bb-4f68-a857-f8a601b432dd",
-                "code": null,
-                "id": 810668,
-                "date": "2025-12-28T13:30:00+01:00",
-                "start": "13:30",
-                "duration": "03:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-arduino-for-total-newbies-workshop",
-                "title": "Arduino For Total Newbies workshop",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Learn Arduino using TV-B-Gone as an example project. You've probably heard lots about Arduino. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a TV-B-Gone remote control out of an Arduino you can take home with you.",
-                "description": "**[Arduino](http://arduino.cc/)** is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that experienced expert geeks can use it for their projects as well.\n\nThis workshop is easy enough for _**total newbies**_ to **learn all you need to know to get going on an Arduino.**\n\nParticipants will make their own Arduino clone, and set it up on solderless breadboards to make their own [TV-B-Gone](http://www.tvbgone.com) remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac40** (useful for making many different cool projects).\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop page:**  \n[Arduino For Total Newbies workshop page](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)\n\n**Workshop Itinerary**:\n* Intro to Arduino\n* Very short lesson to learn everything you need to know about electronics!\n* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* Then we will each make our own Arduino clone from a kit.\n* Now that we each have our own Arduino board, we will set up the free and open-source *Arduino software* on our laptops (if you bring one) -- Windows, Linux, and MacOS are all fine!\n* And then its time to make something and learn how easy it is to use Arduino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your Arduino clone board. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.\n* Target practice is available all over the world after the workshop.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Arduino For Total Newbies workshop webpage](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/b59a25ed000c/arduino-for-total-newbies-workshop.banner.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/arduino-for-total-newbies-workshop",
-                "links": []
-              },
-              {
-                "guid": "83890a4e-980e-4eb3-8594-0ec9a942cd62",
-                "code": null,
-                "id": 838904,
-                "date": "2025-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-iot-with-arduino-cloud-beginner-friendly-workshop",
-                "title": "IoT with Arduino Cloud: Beginner-Friendly Workshop",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "A hands-on introduction to IoT using Arduino Cloud. You\u2019ll solder and wire sensors, program an ESP32, connect it to WiFi, and build a simple online dashboard to view live temperature, humidity, and air pressure data.",
-                "description": "# IoT with Arduino Cloud: Beginner-Friendly Workshop\n\nJoin us for a 2-hour, hands-on workshop that introduces you to the Internet of Things (IoT) using Arduino Cloud. This beginner-friendly session will show you how to connect a device to WiFi, visualise sensor data in real time, and manage your device remotely.\n\n## Arduino Cloud\n[Arduino Cloud](https://cloud.arduino.cc/) is an online platform for connecting compatible boards to the Internet, building dashboards, and viewing your sensor data from anywhere. You\u2019ll use it to get an ESP32 online and streaming live environmental readings.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll solder, wire, and program sensors on an ESP32. You\u2019ll connect your device to Arduino Cloud, set up a simple dashboard, and monitor temperature, humidity, and air pressure online. You\u2019ll also display readings locally on a small screen.\n\n## Materials\nYou\u2019ll work with:\n- Two ESP32 boards\n- A BME280 sensor for temperature, humidity, and air pressure\n- A small screen to display data locally\n\n## Requirements\n- A laptop\n- Install the [Arduino Cloud Agent](https://cloud.arduino.cc/download-agent/)\n- A USB-C data cable (limited number available to buy on the day)\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac25** for a kit to take home.\n\n## Instructions\n[Link to slides](https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing)\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/fbe9727b1ca3/ArduinoIOT.jpg",
-                "persons": [
-                  {
-                    "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
-                    "name": "tdr112 (he/him)",
-                    "public_name": "tdr112 (he/him)",
-                    "avatar": null,
-                    "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop",
-                "links": []
-              },
-              {
-                "guid": "7a165d8e-0cc3-4849-8304-3782df242214",
-                "code": null,
-                "id": 716580,
-                "date": "2025-12-28T20:30:00+01:00",
-                "start": "20:30",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-emf-explorer-badge-electromagnetic-discorvery_wakl",
-                "title": "EMF Explorer Badge Electromagnetic Discovery workshop (Day 2)",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Ever wonder about the invisible world of electromagnetic fields around you? In this beginner-friendly hands-on workshop, you\u2019ll build your own EMF Explorer Badge from a kit, learn about different electromagnetic frequency bands, and walk away ready to explore the unseen frequencies that surround our daily lives.",
-                "description": "### EMF Explorer Badge Soldering Workshop\n\nIn this hands-on build-and-explore workshop, participants assemble their own **[EMF Explorer Badge](https://emfexplorer.space)** using guided soldering instruction, learn the science of electromagnetic frequency bands, and plug in headphones to *listen* to the invisible world around them. Every participant takes home their own exploration kit: badge + headphones, ready for EMF exploring with an illuminated badge that can be used at night for visibility and bling.\n\n---\n\n##### Material Costs\n\u20ac20 - \u20ac30\n\n---\n\n##### Workshop Itinerary\n- **Welcome + Electronics and Soldering Info** We will show you how to solder. Anyone who can safely hold a soldering iron can do it! It is actually a very easy skill to learn. It is also very useful.\n- **EMF Explanation and Badge Creation Overview** Learn about what EMF is, where it comes from, and how the badge works.\n- **Badge Assembly** Get to soldering! We will be available to help you along the way.\n- **Check your work, and power up your badge!**\n- **Wrap-Up + Q&A**\n- **Live Exploration!** You are surrounded by interesting electronics at 39C3. Go exploring! What new sounds do you hear? Some of the most unassuming electronics can make the most interesting sounds.\n\n---\n\n##### Registration Info\nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First-come, first-served.\n- **Age:** anyone who can safely hold a soldering iron\n- **Experience level:** No prior soldering experience required\n- **Take-home:** Your assembled badge + headphones included\n\n---\n\n##### Links\n[EmfExplorer.Space](https://emfexplorer.space)\n\n---\n\n##### Instructor Notes\nThis is a **beginner-first hardware workshop**. The goal is skill building, curiosity, and real-world electronics exploration. The badge is both a tool and a conversation piece: it senses EMF, plays it through audio, and glows for visibility and bling.\n\n---\n\n##### Taught by **[Drc3p0](https://links.darcyneal.com)**\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "3d0fe097-fdd8-47a2-a721-e2c276b917b3",
-                    "name": "Drc3p0 (they/them)",
-                    "public_name": "Drc3p0 (they/them)",
-                    "avatar": null,
-                    "biography": "Darcy Neal is an interactive audio-visual hardware designer & educator with 15+ years in production, from gallery installations to educational electronics. Former academic makerspace director and crowdfunding campaign manager. Teaching large-scale soldering workshops at maker events worldwide.\nLearn more at (Links.DarcyNeal.com)[https://links.darcyneal.com]\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/drc3p0"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/emf-explorer-badge-electromagnetic-discorvery_wakl",
-                "links": []
-              },
-              {
-                "guid": "ee302bdb-3e3e-4c4e-981b-df131b1493c5",
-                "code": null,
-                "id": 302334,
-                "date": "2025-12-28T23:00:00+01:00",
-                "start": "23:00",
-                "duration": "01:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-led-strips-everywhere-for-everyone-workshop",
-                "title": "LED Strips Everywhere for Everyone! workshop",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Learn how to program LED strips. It's super easy and fun to make your life trippy and beautiful. For total beginners.",
-                "description": "Learn how to light up LED strips with a cheap Arduino, and make your life trippy and beautiful! For total beginners -- no knowledge needed at all.\n\nLED strips have become really inexpensive. And many people have created easy methods of controlling the color and brightness of individual LEDs in LED strips. This workshop will show you one easy and fun way to control LED strips, and to make them do what you want. I'll show you everything you need to know to use existing Arduino programs -- and how to hack Arduino programs -- to control the colors in your world with LED strips.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac20**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._  \n[Arduino software](https://www.arduino.cc/en/Main/Software)\n\n**Workshop Itinerary**:\n* Intro to Red-Green-Blue (RGB) LEDs\n* Brief intro to Arduino\n* How to use an Arduino to control an LED strip\n* Some demos of programs you can download\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[LED Strips Everywhere for Everyone! workshop webpage](https://cornfieldelectronics.com/cfe/projects.php#ledstrips)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f20dbf8dfaa7/led-strips-everywhere-for-everyone-workshop.banner.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/led-strips-everywhere-for-everyone-workshop",
-                "links": []
-              }
-            ],
             "Hardware Hacking Area -- Rear": [
               {
                 "guid": "f438c615-13cb-42a8-8f0a-1732e072d6b9",
@@ -16294,6 +16169,131 @@
                 "links": []
               }
             ],
+            "Hardware Hacking Area -- Front": [
+              {
+                "guid": "45332ebc-2be3-4405-ae2e-e7f985a16c7a",
+                "code": null,
+                "id": 453322,
+                "date": "2025-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-surface-mount-electronics-assembly-for-terrified-b",
+                "title": "CANCELLED! Surface Mount Electronics Assembly for Terrified Beginners (Day 2)",
+                "subtitle": null,
+                "language": "en, de",
+                "track": null,
+                "type": "other",
+                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
+                "description": "Unfortunately this event is cancelled\n",
+                "logo": null,
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrified-b",
+                "links": []
+              },
+              {
+                "guid": "810e6683-87bb-4f68-a857-f8a601b432dd",
+                "code": null,
+                "id": 810668,
+                "date": "2025-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "03:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-arduino-for-total-newbies-workshop",
+                "title": "Arduino For Total Newbies workshop",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Learn Arduino using TV-B-Gone as an example project. You've probably heard lots about Arduino. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a TV-B-Gone remote control out of an Arduino you can take home with you.",
+                "description": "**[Arduino](http://arduino.cc/)** is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that experienced expert geeks can use it for their projects as well.\n\nThis workshop is easy enough for _**total newbies**_ to **learn all you need to know to get going on an Arduino.**\n\nParticipants will make their own Arduino clone, and set it up on solderless breadboards to make their own [TV-B-Gone](http://www.tvbgone.com) remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac40** (useful for making many different cool projects).\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop page:**  \n[Arduino For Total Newbies workshop page](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)\n\n**Workshop Itinerary**:\n* Intro to Arduino\n* Very short lesson to learn everything you need to know about electronics!\n* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* Then we will each make our own Arduino clone from a kit.\n* Now that we each have our own Arduino board, we will set up the free and open-source *Arduino software* on our laptops (if you bring one) -- Windows, Linux, and MacOS are all fine!\n* And then its time to make something and learn how easy it is to use Arduino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your Arduino clone board. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.\n* Target practice is available all over the world after the workshop.\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Arduino For Total Newbies workshop webpage](http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/b59a25ed000c/arduino-for-total-newbies-workshop.banner.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/arduino-for-total-newbies-workshop",
+                "links": []
+              },
+              {
+                "guid": "83890a4e-980e-4eb3-8594-0ec9a942cd62",
+                "code": null,
+                "id": 838904,
+                "date": "2025-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-iot-with-arduino-cloud-beginner-friendly-workshop",
+                "title": "IoT with Arduino Cloud: Beginner-Friendly Workshop",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "A hands-on introduction to IoT using Arduino Cloud. You\u2019ll solder and wire sensors, program an ESP32, connect it to WiFi, and build a simple online dashboard to view live temperature, humidity, and air pressure data.",
+                "description": "# IoT with Arduino Cloud: Beginner-Friendly Workshop\n\nJoin us for a 2-hour, hands-on workshop that introduces you to the Internet of Things (IoT) using Arduino Cloud. This beginner-friendly session will show you how to connect a device to WiFi, visualise sensor data in real time, and manage your device remotely.\n\n## Arduino Cloud\n[Arduino Cloud](https://cloud.arduino.cc/) is an online platform for connecting compatible boards to the Internet, building dashboards, and viewing your sensor data from anywhere. You\u2019ll use it to get an ESP32 online and streaming live environmental readings.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll solder, wire, and program sensors on an ESP32. You\u2019ll connect your device to Arduino Cloud, set up a simple dashboard, and monitor temperature, humidity, and air pressure online. You\u2019ll also display readings locally on a small screen.\n\n## Materials\nYou\u2019ll work with:\n- Two ESP32 boards\n- A BME280 sensor for temperature, humidity, and air pressure\n- A small screen to display data locally\n\n## Requirements\n- A laptop\n- Install the [Arduino Cloud Agent](https://cloud.arduino.cc/download-agent/)\n- A USB-C data cable (limited number available to buy on the day)\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac25** for a kit to take home.\n\n## Instructions\n[Link to slides](https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing)\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/fbe9727b1ca3/ArduinoIOT.jpg",
+                "persons": [
+                  {
+                    "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
+                    "name": "tdr112 (he/him)",
+                    "public_name": "tdr112 (he/him)",
+                    "avatar": null,
+                    "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop",
+                "links": []
+              },
+              {
+                "guid": "7a165d8e-0cc3-4849-8304-3782df242214",
+                "code": null,
+                "id": 716580,
+                "date": "2025-12-28T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-emf-explorer-badge-electromagnetic-discorvery_wakl",
+                "title": "EMF Explorer Badge Electromagnetic Discovery workshop (Day 2)",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Ever wonder about the invisible world of electromagnetic fields around you? In this beginner-friendly hands-on workshop, you\u2019ll build your own EMF Explorer Badge from a kit, learn about different electromagnetic frequency bands, and walk away ready to explore the unseen frequencies that surround our daily lives.",
+                "description": "### EMF Explorer Badge Soldering Workshop\n\nIn this hands-on build-and-explore workshop, participants assemble their own **[EMF Explorer Badge](https://emfexplorer.space)** using guided soldering instruction, learn the science of electromagnetic frequency bands, and plug in headphones to *listen* to the invisible world around them. Every participant takes home their own exploration kit: badge + headphones, ready for EMF exploring with an illuminated badge that can be used at night for visibility and bling.\n\n---\n\n##### Material Costs\n\u20ac20 - \u20ac30\n\n---\n\n##### Workshop Itinerary\n- **Welcome + Electronics and Soldering Info** We will show you how to solder. Anyone who can safely hold a soldering iron can do it! It is actually a very easy skill to learn. It is also very useful.\n- **EMF Explanation and Badge Creation Overview** Learn about what EMF is, where it comes from, and how the badge works.\n- **Badge Assembly** Get to soldering! We will be available to help you along the way.\n- **Check your work, and power up your badge!**\n- **Wrap-Up + Q&A**\n- **Live Exploration!** You are surrounded by interesting electronics at 39C3. Go exploring! What new sounds do you hear? Some of the most unassuming electronics can make the most interesting sounds.\n\n---\n\n##### Registration Info\nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First-come, first-served.\n- **Age:** anyone who can safely hold a soldering iron\n- **Experience level:** No prior soldering experience required\n- **Take-home:** Your assembled badge + headphones included\n\n---\n\n##### Links\n[EmfExplorer.Space](https://emfexplorer.space)\n\n---\n\n##### Instructor Notes\nThis is a **beginner-first hardware workshop**. The goal is skill building, curiosity, and real-world electronics exploration. The badge is both a tool and a conversation piece: it senses EMF, plays it through audio, and glows for visibility and bling.\n\n---\n\n##### Taught by **[Drc3p0](https://links.darcyneal.com)**\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "3d0fe097-fdd8-47a2-a721-e2c276b917b3",
+                    "name": "Drc3p0 (they/them)",
+                    "public_name": "Drc3p0 (they/them)",
+                    "avatar": null,
+                    "biography": "Darcy Neal is an interactive audio-visual hardware designer & educator with 15+ years in production, from gallery installations to educational electronics. Former academic makerspace director and crowdfunding campaign manager. Teaching large-scale soldering workshops at maker events worldwide.\nLearn more at (Links.DarcyNeal.com)[https://links.darcyneal.com]\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/drc3p0"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/emf-explorer-badge-electromagnetic-discorvery_wakl",
+                "links": []
+              },
+              {
+                "guid": "ee302bdb-3e3e-4c4e-981b-df131b1493c5",
+                "code": null,
+                "id": 302334,
+                "date": "2025-12-28T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-led-strips-everywhere-for-everyone-workshop",
+                "title": "LED Strips Everywhere for Everyone! workshop",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Learn how to program LED strips. It's super easy and fun to make your life trippy and beautiful. For total beginners.",
+                "description": "Learn how to light up LED strips with a cheap Arduino, and make your life trippy and beautiful! For total beginners -- no knowledge needed at all.\n\nLED strips have become really inexpensive. And many people have created easy methods of controlling the color and brightness of individual LEDs in LED strips. This workshop will show you one easy and fun way to control LED strips, and to make them do what you want. I'll show you everything you need to know to use existing Arduino programs -- and how to hack Arduino programs -- to control the colors in your world with LED strips.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac20**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._  \n[Arduino software](https://www.arduino.cc/en/Main/Software)\n\n**Workshop Itinerary**:\n* Intro to Red-Green-Blue (RGB) LEDs\n* Brief intro to Arduino\n* How to use an Arduino to control an LED strip\n* Some demos of programs you can download\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[LED Strips Everywhere for Everyone! workshop webpage](https://cornfieldelectronics.com/cfe/projects.php#ledstrips)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f20dbf8dfaa7/led-strips-everywhere-for-everyone-workshop.banner.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/led-strips-everywhere-for-everyone-workshop",
+                "links": []
+              }
+            ],
             "Hardware Hacking Area -- Rear-middle": [
               {
                 "guid": "78e9dd70-6a4c-47cc-a62a-31370dfb48aa",
@@ -16355,92 +16355,6 @@
                   }
                 ],
                 "url": "https://events.ccc.de/congress/2025/hub/event/detail/cozy-crafting-session",
-                "links": []
-              }
-            ],
-            "Call for Art: Workshopspace 1": [
-              {
-                "guid": "0534fc6a-67c0-460a-91d7-33ed74bc4965",
-                "code": null,
-                "id": 53466,
-                "date": "2025-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "01:00",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-empower-your-non-tech-community",
-                "title": "Empower your non-tech community!",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Workshop with Anna Maria\r\n\r\n* DAY 2: 12:00 - 13:00\r\n* DAY 4: 14:00 - 15:00",
-                "description": "Starting from the assumption that, as those privileged with knowledge and experience in technology, we are obliged to share it with people who don\u2019t have such competencies. Strengthening non-tech communities is essential for our collective well-being. What is the minimum level of tech education that everyone engaged in class struggle should acquire? Do we have the tools to protect non-tech people in our environment beyond the hackerspaces communities? How to build horizontal safe-spaces, secure infrastructures to educate others and which tools and techniques are the most effective for education?\n\nLet's have a discussion and create ready to use solutions.\n\n\nLink: [https://sanma.cargo.site/](https://sanma.cargo.site/)\n",
-                "logo": null,
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/empower-your-non-tech-community",
-                "links": []
-              },
-              {
-                "guid": "354e52a8-c9d3-477c-b94e-b43715c8f3e7",
-                "code": null,
-                "id": 354528,
-                "date": "2025-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-pixelprinting-with-bricks_hdlc",
-                "title": "Pixelprint:ing with bricks",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Workshop with pixelprint\r\n\r\nDAY 1: 14:30 - 16:30\r\nDAY 2: 14:00 - 16:00\r\nDAY 3: 14:00 - 16:00",
-                "description": "We print with building block tiles, also known as Lego Dots\u2122, on paper.\nThere will be a short introduction to the printing technique and how to create the printing plates.\nWe print using the primary colors and can mix any other color as needed.\nWhat makes Lego Dots\u2122 exciting is that you are bound to a grid \u2013 in this case, 8\u00d78 units. The tiles come in different shapes: circles, squares, quarter circles, and many more. Have a look at the\u00a0gallery to see some examples.\nWe print using a press from the\u00a0Open Press Project.\nThe print size is limited to 7\u00d77 cm due to the press we are using.\nIt is a \u201cjump-in\u201d workshop with no registration required \u2013 when one person leaves, the next can join in.\n\n\nLink: [https://pxlprnt.de](https://pxlprnt.de)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/da04044dad9a/Pixelprint_ing_with_bricks_Klemmbausteine_Alain_Wohlfarth.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/pixelprinting-with-bricks_hdlc",
-                "links": []
-              },
-              {
-                "guid": "acac5430-b6e9-40b9-a2f7-7e4fa6de00ce",
-                "code": null,
-                "id": 543069,
-                "date": "2025-12-28T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "01:30",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-how-to-break-your-face-keeping-up-with-the-ar_ni66",
-                "title": "HOW TO BREAK YOUR FACE: Keeping up with the arms race of anti-surveillance recognition tactics.",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Workshop with Anna Maria & Michelle Tylicki\r\n\r\nDAY 1: 18:00 - 19:30\r\nDAY 2: 17:30 - 19:00\r\nDAY 3: 20:30 - 22:00",
-                "description": "Facial recognition systems are rapidly advancing - fusing infrared, facial geometry, gait, and metadata into oppressive infrastructures of racist policing and surveillance capitalism. At the same time, artists, activists and everyday citizens are developing creative ways to interfere, confuse, and disappear from automated identification.\n\nWorkshop 1: Break Your Face\nHands-on demonstration of Dazzle anti-surveillance makeup techniques. Live-testing our work to understand machine vision -and how to break it.\n\nWorkshop 2 + 3: Zine-making\nStarting with a discussion of creative anti-surveillance tactics, we then combine the workshop participants' knowledge and experience to co-creating a zine.\n\nInfo:\u00a0We will be using easily available live face filters on\u00a0smart phones\u00a0(instagram/snapchat/tiktok). Participants can use their own phones. The data is not uploaded or saved anywhere.\n\n\nLinks:\n[www.michelletylicki.info/](www.michelletylicki.info/)\n[www.sanma.cargo.site/](www.sanma.cargo.site/)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f2ae8506535c/HOW_TO_BRAK_YOUR_FACE__c_Anna_Maria_reshaped.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-break-your-face-keeping-up-with-the-ar_ni66",
-                "links": []
-              },
-              {
-                "guid": "b0afa21a-c71c-4069-b461-c497f9c2cf3e",
-                "code": null,
-                "id": 21714,
-                "date": "2025-12-28T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "01:30",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-post-platform-digital-publishing_s7hy",
-                "title": "Post-Platform Digital Publishing",
-                "subtitle": null,
-                "language": null,
-                "track": null,
-                "type": "other",
-                "abstract": "Workshop mit Well Gedacht Publishing\r\n\r\nTAG 1: 20:30 - 22:00\r\nTAG 2: 20:00 - 21:30\r\nTAG 4: 11:30 - 13:00",
-                "description": "In this workshop, we will engage with digital publishing methods that operate independently of big tech platforms and products. We will build our own RSS files for personal websites, blogs and discuss pirate publishing forms, both online and offline.\n\nWe will present the idea of the PPDP-PRINTER, a DIY device currently under development that combines web2print scripts with a simple server and local online publishing/broadcasting capabilities. The printer converts files, prints via its dot-matrix printer, creates RSS feeds, and serves them online. Our aim with the PPDP-PRINTER is to create an all-in-one material manifestation of our resource collection Post-Platform Digital Publishing Toolkit\n\n\nLink: [https://publishing.wellgedacht.com/](https://publishing.wellgedacht.com/)\nmastodon: [@wellgedachtpublishing@post.lurk.org](https://post.lurk.org/@wellgedachtpublishing)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9730b4d1ef11/Post-Platform_Digital_Publishing_Fadi_Houmani.jpeg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/post-platform-digital-publishing_s7hy",
                 "links": []
               }
             ],
@@ -16676,6 +16590,92 @@
                 "links": [],
                 "origin_url": "https://pretalx.chaos.jetzt/jugend/talk/LUUTY3/",
                 "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/LUUTY3/feedback/"
+              }
+            ],
+            "Call for Art: Workshopspace 1": [
+              {
+                "guid": "0534fc6a-67c0-460a-91d7-33ed74bc4965",
+                "code": null,
+                "id": 53466,
+                "date": "2025-12-28T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-empower-your-non-tech-community",
+                "title": "Empower your non-tech community!",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop with Anna Maria\r\n\r\n* DAY 2: 12:00 - 13:00\r\n* DAY 4: 14:00 - 15:00",
+                "description": "Starting from the assumption that, as those privileged with knowledge and experience in technology, we are obliged to share it with people who don\u2019t have such competencies. Strengthening non-tech communities is essential for our collective well-being. What is the minimum level of tech education that everyone engaged in class struggle should acquire? Do we have the tools to protect non-tech people in our environment beyond the hackerspaces communities? How to build horizontal safe-spaces, secure infrastructures to educate others and which tools and techniques are the most effective for education?\n\nLet's have a discussion and create ready to use solutions.\n\n\nLink: [https://sanma.cargo.site/](https://sanma.cargo.site/)\n",
+                "logo": null,
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/empower-your-non-tech-community",
+                "links": []
+              },
+              {
+                "guid": "354e52a8-c9d3-477c-b94e-b43715c8f3e7",
+                "code": null,
+                "id": 354528,
+                "date": "2025-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-pixelprinting-with-bricks_hdlc",
+                "title": "Pixelprint:ing with bricks",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop with pixelprint\r\n\r\nDAY 1: 14:30 - 16:30\r\nDAY 2: 14:00 - 16:00\r\nDAY 3: 14:00 - 16:00",
+                "description": "We print with building block tiles, also known as Lego Dots\u2122, on paper.\nThere will be a short introduction to the printing technique and how to create the printing plates.\nWe print using the primary colors and can mix any other color as needed.\nWhat makes Lego Dots\u2122 exciting is that you are bound to a grid \u2013 in this case, 8\u00d78 units. The tiles come in different shapes: circles, squares, quarter circles, and many more. Have a look at the\u00a0gallery to see some examples.\nWe print using a press from the\u00a0Open Press Project.\nThe print size is limited to 7\u00d77 cm due to the press we are using.\nIt is a \u201cjump-in\u201d workshop with no registration required \u2013 when one person leaves, the next can join in.\n\n\nLink: [https://pxlprnt.de](https://pxlprnt.de)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/da04044dad9a/Pixelprint_ing_with_bricks_Klemmbausteine_Alain_Wohlfarth.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/pixelprinting-with-bricks_hdlc",
+                "links": []
+              },
+              {
+                "guid": "acac5430-b6e9-40b9-a2f7-7e4fa6de00ce",
+                "code": null,
+                "id": 543069,
+                "date": "2025-12-28T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:30",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-how-to-break-your-face-keeping-up-with-the-ar_ni66",
+                "title": "HOW TO BREAK YOUR FACE: Keeping up with the arms race of anti-surveillance recognition tactics.",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop with Anna Maria & Michelle Tylicki\r\n\r\nDAY 1: 18:00 - 19:30\r\nDAY 2: 17:30 - 19:00\r\nDAY 3: 20:30 - 22:00",
+                "description": "Facial recognition systems are rapidly advancing - fusing infrared, facial geometry, gait, and metadata into oppressive infrastructures of racist policing and surveillance capitalism. At the same time, artists, activists and everyday citizens are developing creative ways to interfere, confuse, and disappear from automated identification.\n\nWorkshop 1: Break Your Face\nHands-on demonstration of Dazzle anti-surveillance makeup techniques. Live-testing our work to understand machine vision -and how to break it.\n\nWorkshop 2 + 3: Zine-making\nStarting with a discussion of creative anti-surveillance tactics, we then combine the workshop participants' knowledge and experience to co-creating a zine.\n\nInfo:\u00a0We will be using easily available live face filters on\u00a0smart phones\u00a0(instagram/snapchat/tiktok). Participants can use their own phones. The data is not uploaded or saved anywhere.\n\n\nLinks:\n[www.michelletylicki.info/](www.michelletylicki.info/)\n[www.sanma.cargo.site/](www.sanma.cargo.site/)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/f2ae8506535c/HOW_TO_BRAK_YOUR_FACE__c_Anna_Maria_reshaped.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-break-your-face-keeping-up-with-the-ar_ni66",
+                "links": []
+              },
+              {
+                "guid": "b0afa21a-c71c-4069-b461-c497f9c2cf3e",
+                "code": null,
+                "id": 21714,
+                "date": "2025-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:30",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-post-platform-digital-publishing_s7hy",
+                "title": "Post-Platform Digital Publishing",
+                "subtitle": null,
+                "language": null,
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop mit Well Gedacht Publishing\r\n\r\nTAG 1: 20:30 - 22:00\r\nTAG 2: 20:00 - 21:30\r\nTAG 4: 11:30 - 13:00",
+                "description": "In this workshop, we will engage with digital publishing methods that operate independently of big tech platforms and products. We will build our own RSS files for personal websites, blogs and discuss pirate publishing forms, both online and offline.\n\nWe will present the idea of the PPDP-PRINTER, a DIY device currently under development that combines web2print scripts with a simple server and local online publishing/broadcasting capabilities. The printer converts files, prints via its dot-matrix printer, creates RSS feeds, and serves them online. Our aim with the PPDP-PRINTER is to create an all-in-one material manifestation of our resource collection Post-Platform Digital Publishing Toolkit\n\n\nLink: [https://publishing.wellgedacht.com/](https://publishing.wellgedacht.com/)\nmastodon: [@wellgedachtpublishing@post.lurk.org](https://post.lurk.org/@wellgedachtpublishing)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/9730b4d1ef11/Post-Platform_Digital_Publishing_Fadi_Houmani.jpeg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/post-platform-digital-publishing_s7hy",
+                "links": []
               }
             ],
             "Call for Art: Workshopspace 2": [
@@ -17592,6 +17592,89 @@
                 "links": []
               }
             ],
+            "Kidspace - Basteltische": [
+              {
+                "guid": "3354df70-61f8-4709-b5ea-9c04a12e311e",
+                "code": null,
+                "id": 335470,
+                "date": "2025-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:30",
+                "room": "Kidspace - Basteltische",
+                "slug": "39c3-bugelperlen-aber-anders",
+                "title": "B\u00fcgelperlen ... aber anders",
+                "subtitle": null,
+                "language": "de, en",
+                "track": null,
+                "type": "other",
+                "abstract": "F\u00fcr B\u00fcgelperlen braucht es nicht unbedingt ein B\u00fcgeleisen.",
+                "description": "Normally, you'd use a pegboard and an iron for fuse beads.\n\nBut you can also do it without... all you need is a needle and thread, and you can make bracelets or coasters.\n\nWant to know how? Come by, let me show you, and get started yourself.\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
+                    "name": "elzbeth",
+                    "public_name": "elzbeth",
+                    "avatar": null,
+                    "biography": "You can find me in Kidspace.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/bugelperlen-aber-anders",
+                "links": []
+              },
+              {
+                "guid": "dd541986-d614-41fb-95a5-36b89f58e710",
+                "code": null,
+                "id": 541986,
+                "date": "2025-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:00",
+                "room": "Kidspace - Basteltische",
+                "slug": "39c3-drehmeierbasteln",
+                "title": "Drehmeierbasteln",
+                "subtitle": null,
+                "language": "de, en",
+                "track": null,
+                "type": "other",
+                "abstract": "https://drehmeier.de\r\nhttps://codeberg.org/fly_it/whizwheel/",
+                "description": "Build your own little calculation tool. You can multiply and convert units. A \"whiz wheel\" is a circular sliderule, still used in aviation nowadays. Kids from the age of 10-16 years.\n",
+                "logo": null,
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/drehmeierbasteln",
+                "links": []
+              },
+              {
+                "guid": "c9ce2b53-638b-46e8-abec-d3a81b0e0518",
+                "code": null,
+                "id": 925363,
+                "date": "2025-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:30",
+                "room": "Kidspace - Basteltische",
+                "slug": "39c3-nerds-spielen-spiele-tag-2",
+                "title": "Nerds spielen Spiele - Tag 2",
+                "subtitle": null,
+                "language": "de, en",
+                "track": null,
+                "type": "other",
+                "abstract": "Nerds spielen Spiele",
+                "description": "Du hast gerade nichts zu tun, brauchst eine kleine Entspannungszeit oder suchst einfach ein wenig Spa\u00df mit anderen? Spiel doch einfach mit! Jeder ist willkommen! Denn was tun Nerds, wenn sie gerade nichts hacken? Sie spielen Spiele!\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "3654176b-6de7-4bac-b711-eab2976f092e",
+                    "name": "monsterchen",
+                    "public_name": "monsterchen",
+                    "avatar": null,
+                    "biography": null,
+                    "url": "https://events.ccc.de/congress/2025/hub/user/monsterchen"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/nerds-spielen-spiele-tag-2",
+                "links": []
+              }
+            ],
             "Fediverse shared table": [
               {
                 "guid": "f918a611-f6cb-4a48-ae93-511e119eedce",
@@ -17714,121 +17797,6 @@
                 "links": []
               }
             ],
-            "Kidspace - Basteltische": [
-              {
-                "guid": "3354df70-61f8-4709-b5ea-9c04a12e311e",
-                "code": null,
-                "id": 335470,
-                "date": "2025-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "01:30",
-                "room": "Kidspace - Basteltische",
-                "slug": "39c3-bugelperlen-aber-anders",
-                "title": "B\u00fcgelperlen ... aber anders",
-                "subtitle": null,
-                "language": "de, en",
-                "track": null,
-                "type": "other",
-                "abstract": "F\u00fcr B\u00fcgelperlen braucht es nicht unbedingt ein B\u00fcgeleisen.",
-                "description": "Normally, you'd use a pegboard and an iron for fuse beads.\n\nBut you can also do it without... all you need is a needle and thread, and you can make bracelets or coasters.\n\nWant to know how? Come by, let me show you, and get started yourself.\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
-                    "name": "elzbeth",
-                    "public_name": "elzbeth",
-                    "avatar": null,
-                    "biography": "You can find me in Kidspace.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/bugelperlen-aber-anders",
-                "links": []
-              },
-              {
-                "guid": "dd541986-d614-41fb-95a5-36b89f58e710",
-                "code": null,
-                "id": 541986,
-                "date": "2025-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "01:00",
-                "room": "Kidspace - Basteltische",
-                "slug": "39c3-drehmeierbasteln",
-                "title": "Drehmeierbasteln",
-                "subtitle": null,
-                "language": "de, en",
-                "track": null,
-                "type": "other",
-                "abstract": "https://drehmeier.de\r\nhttps://codeberg.org/fly_it/whizwheel/",
-                "description": "Build your own little calculation tool. You can multiply and convert units. A \"whiz wheel\" is a circular sliderule, still used in aviation nowadays. Kids from the age of 10-16 years.\n",
-                "logo": null,
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/drehmeierbasteln",
-                "links": []
-              },
-              {
-                "guid": "c9ce2b53-638b-46e8-abec-d3a81b0e0518",
-                "code": null,
-                "id": 925363,
-                "date": "2025-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:30",
-                "room": "Kidspace - Basteltische",
-                "slug": "39c3-nerds-spielen-spiele-tag-2",
-                "title": "Nerds spielen Spiele - Tag 2",
-                "subtitle": null,
-                "language": "de, en",
-                "track": null,
-                "type": "other",
-                "abstract": "Nerds spielen Spiele",
-                "description": "Du hast gerade nichts zu tun, brauchst eine kleine Entspannungszeit oder suchst einfach ein wenig Spa\u00df mit anderen? Spiel doch einfach mit! Jeder ist willkommen! Denn was tun Nerds, wenn sie gerade nichts hacken? Sie spielen Spiele!\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "3654176b-6de7-4bac-b711-eab2976f092e",
-                    "name": "monsterchen",
-                    "public_name": "monsterchen",
-                    "avatar": null,
-                    "biography": null,
-                    "url": "https://events.ccc.de/congress/2025/hub/user/monsterchen"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/nerds-spielen-spiele-tag-2",
-                "links": []
-              }
-            ],
-            "c4E-Roundtable": [
-              {
-                "guid": "34c3a81d-61fd-4cf5-b16b-519a1f5e0315",
-                "code": null,
-                "id": 343816,
-                "date": "2025-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "00:40",
-                "room": "c4E-Roundtable",
-                "slug": "39c3-naturlich-bin-ich-18-wo-stehen-wir-beim-thema-alte",
-                "title": "Nat\u00fcrlich bin ich 18! - Wo stehen wir beim Thema Alterspr\u00fcfungen im Netz?",
-                "subtitle": null,
-                "language": "de",
-                "track": null,
-                "type": "other",
-                "abstract": "Does the Internet need to be age aware? \r\nEin kurzes Update dar\u00fcber, was im letzten Jahr auf der politischen B\u00fchne passiert ist und eine anschlie\u00dfende offene Diskussion dar\u00fcber, wie es weitergehen kann.",
-                "description": "We usually encounter age verification checks online on pornography sites, gambling sites, or when we buy tobacco or alcohol online. There is much debate about whether this tool should also be used on other platforms. We usually encounter age verification checks online on pornography sites, gambling sites, or when we buy tobacco or alcohol online. There is much debate about whether this tool should also be used on other platforms. Following the social media ban in Australia and the Online Safety Act in the UK, the EU is also discussing a social media ban. I will give a short introduction to the political developments of the last year and then look forward to an open discussion. \nWhat does the expansion of age verification on the internet mean for you? \nIn which Areas can age verification make sense? Or can it? \nHow can age verification be designed technically? What are the pros and cons?\nWhat risks and opportunities are not discussed enough in current debate?\n\n(This discussion is a loose follow-up to the 38C3 Talk \"Nat\u00fcrlich bin ich 18! Alterspr\u00fcfungen im Netz\" - You don't need to have seen the talk to participate here!)\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "0934e483-7c74-4086-ba9e-c69ff936a90a",
-                    "name": "asypsilon (sie/ihr)",
-                    "public_name": "asypsilon (sie/ihr)",
-                    "avatar": null,
-                    "biography": null,
-                    "url": "https://events.ccc.de/congress/2025/hub/user/asypsilon"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/naturlich-bin-ich-18-wo-stehen-wir-beim-thema-alte",
-                "links": []
-              }
-            ],
             "Haecksen-Assembly": [
               {
                 "guid": "eaf95299-2918-59d4-a479-0d2f5460d73b",
@@ -17868,6 +17836,38 @@
                   }
                 ],
                 "feedback_url": "https://pretalx.c3voc.de/39c3-haecksen-workshops-2025/talk/7AH7RL/feedback/"
+              }
+            ],
+            "c4E-Roundtable": [
+              {
+                "guid": "34c3a81d-61fd-4cf5-b16b-519a1f5e0315",
+                "code": null,
+                "id": 343816,
+                "date": "2025-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:40",
+                "room": "c4E-Roundtable",
+                "slug": "39c3-naturlich-bin-ich-18-wo-stehen-wir-beim-thema-alte",
+                "title": "Nat\u00fcrlich bin ich 18! - Wo stehen wir beim Thema Alterspr\u00fcfungen im Netz?",
+                "subtitle": null,
+                "language": "de",
+                "track": null,
+                "type": "other",
+                "abstract": "Does the Internet need to be age aware? \r\nEin kurzes Update dar\u00fcber, was im letzten Jahr auf der politischen B\u00fchne passiert ist und eine anschlie\u00dfende offene Diskussion dar\u00fcber, wie es weitergehen kann.",
+                "description": "We usually encounter age verification checks online on pornography sites, gambling sites, or when we buy tobacco or alcohol online. There is much debate about whether this tool should also be used on other platforms. We usually encounter age verification checks online on pornography sites, gambling sites, or when we buy tobacco or alcohol online. There is much debate about whether this tool should also be used on other platforms. Following the social media ban in Australia and the Online Safety Act in the UK, the EU is also discussing a social media ban. I will give a short introduction to the political developments of the last year and then look forward to an open discussion. \nWhat does the expansion of age verification on the internet mean for you? \nIn which Areas can age verification make sense? Or can it? \nHow can age verification be designed technically? What are the pros and cons?\nWhat risks and opportunities are not discussed enough in current debate?\n\n(This discussion is a loose follow-up to the 38C3 Talk \"Nat\u00fcrlich bin ich 18! Alterspr\u00fcfungen im Netz\" - You don't need to have seen the talk to participate here!)\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "0934e483-7c74-4086-ba9e-c69ff936a90a",
+                    "name": "asypsilon (sie/ihr)",
+                    "public_name": "asypsilon (sie/ihr)",
+                    "avatar": null,
+                    "biography": null,
+                    "url": "https://events.ccc.de/congress/2025/hub/user/asypsilon"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/naturlich-bin-ich-18-wo-stehen-wir-beim-thema-alte",
+                "links": []
               }
             ],
             "DigiGes shared table": [
@@ -24780,170 +24780,6 @@
                 "links": []
               }
             ],
-            "Hardware Hacking Area -- Front": [
-              {
-                "guid": "ec8bcbfd-2b93-4566-b7e6-62ed25442465",
-                "code": null,
-                "id": 829345,
-                "date": "2025-12-29T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-surface-mount-electronics-assembly-for-terrif_qfvy",
-                "title": "Surface Mount Electronics Assembly for Terrified Beginners (Day 3)",
-                "subtitle": null,
-                "language": "en, de",
-                "track": null,
-                "type": "other",
-                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
-                "description": "**Surface Mount Electronics Assembly for Terrified Beginners**\n\nIn this workshop, we will learn to handle the tiniest electronic components, which are used to make modern electronic devices. We will cheat the same way the electronics industry does, and learn the techniques of stencil paste printing and reflow soldering. You will learn a technique that stops your hands from shaking, so you can very very precisely place microscopic parts. We will make an electronic cat that purrs if you handle it correctly. No prior experience or knowledge of anything electronic needed. Caffeine use is not recommended immediately before. All tools are provided.  Takes around 2 hours.\n\n**Materials costs**:  \n20\u20ac if you want to make a board, free to observe.\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nSign up on the paper sheet at the Hardware Hacking Area.\n\n**Links**:\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrif_qfvy",
-                "links": []
-              },
-              {
-                "guid": "3ff1e245-fe19-4666-babd-444fa384f1af",
-                "code": null,
-                "id": 312451,
-                "date": "2025-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-music-generation-for-newbies-learn-to-solder-_hipp",
-                "title": "Music Generation for Newbies / Learn to Solder workshop -- ArduTouch music synthesizer",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Anyone can learn to solder! And anyone can learn to make music, sound (and noise!) with computer chips! All participants will easily learn all of this by making an ArduTouch music synthesizer from a kit. For total beginners.",
-                "description": "**Learn to solder** by making a way-cool, powerful music synthesizer, and  \n**learn how to make cool music, sound, (and noise!) with computer chips**  \n(The fancy word for making sound with a computer chip is *Digital Signal Processing* or *DSP*).\n\n**[ArduTouch](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)** is an open hardware **Ardu**ino-compatible music synthesizer kit with a built-in **Touch** Keyboard, and with built-in speaker/amplifier. It is a really nice performing musical instrument.\n\nThis workshop is for **total newbies** to learn to solder.  \nThis workshop is for **total newbies** to make their own ArduTouch music synthesizer and learn to make music, sound (and noise!) with computer chips. Attendees take their completed synthesizer home at the end of the workshop.\n\nThe ArduTouch comes pre-programmed with a way cool synthesizer. And I will show you how to re-program it with other way cool (and totally different) synthesizers, and how to make your own synthesizers.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have ArduTouch kits for **\u20ac35**.  \n*Optional*: USB-Serial Cable for re-programming ArduTouch (and many other projects): **5 \u20ac**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop Itinerary**:\n* Intro to music synthesis\n* Basics of making sound with computer chips (Digital Signal Processing)\n* Basics of using an Arduino\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your ArduTouch music synthesizer to make lots of cool music, sounds, (and noise!)\n\n**Registration**:   \n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.**\n\n**Links**:  \n[ArduTouch music synthesizer kit webpage](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[ArduTouch Github page](https://github.com/maltman23/ArduTouch)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/c14f2071e5a2/music-generation-for-newbies-learn-to-solder-_hipp.banner.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/music-generation-for-newbies-learn-to-solder-_hipp",
-                "links": []
-              },
-              {
-                "guid": "86c8a0f9-dfe8-4e68-b128-06528188e60c",
-                "code": null,
-                "id": 868098,
-                "date": "2025-12-29T16:30:00+01:00",
-                "start": "16:30",
-                "duration": "01:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-build-your-own-air-quality-sensor",
-                "title": "Build Your Own Air Quality Sensor",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "A beginner-friendly, hands-on workshop where you build a working particulate matter air quality sensor using off-the-shelf parts. Learn the basics of IoT environmental monitoring and share your data online with Sensor.Community.",
-                "description": "# Build Your Own Air Quality Sensor\n\nAir pollution affects many people\u2019s daily lives, not only those living near industrial centres. In Ireland, official air quality monitoring relies on a limited number of sensors, so local and short-term pollution sources can be missed. In this 90-minute, hands-on workshop, you\u2019ll build your own particulate matter (PM2.5) air quality sensor using a kit of off-the-shelf parts, then connect it to the Internet so you can view and share the data.\n\n## Sensor.Community\n[Sensor.Community](https://sensor.community/) is an open, global citizen science network where people build low-cost sensors and share environmental data. Once your device is online, it can publish readings so you can track trends over time and compare data across different locations.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll assemble a working PM2.5 air quality sensor and get it online. We\u2019ll cover the basics of IoT devices, local data collection, and how to publish readings to Sensor.Community. You\u2019ll also learn what the numbers mean, what these sensors are good for, and where their limits are.\n\n## Materials\nYou\u2019ll work with:\n- ESP8266 board\n- SDS011 particulate matter sensor (PM2.5 and PM10)\n- BME280 sensor (temperature, humidity, air pressure)\n- USB cable\n- Jumper wires\n- Plastic tube (air inlet)\n\n## Requirements\n- A device with a web browser and WiFi, such as a phone or laptop\n- All setup is browser-based, no software install needed\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac60** for a kit to take home.\n\n## Instructions\nSetup steps and links will be shared on the day.\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/7992037e6eb0/PXL_20241116_112343300.jpg",
-                "persons": [
-                  {
-                    "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
-                    "name": "tdr112 (he/him)",
-                    "public_name": "tdr112 (he/him)",
-                    "avatar": null,
-                    "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-air-quality-sensor",
-                "links": []
-              },
-              {
-                "guid": "4dbb998d-98c2-42aa-b0ad-7710d51bf796",
-                "code": null,
-                "id": 499898,
-                "date": "2025-12-29T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "01:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-learn-to-solder-with-the-i-can-solder-badge-kit",
-                "title": "Learn to Solder with the \"I Can Solder\" Badge kit",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Anyone can learn to solder! It is useful and fun. This workshop is for kids of all ages (and anyone of any age). We will learn this wonderful skill by making a blinky-badge kit, so you can wear blinky-lights wherever you go.",
-                "description": "Learn to solder by making a cool badge that you can wear, and have blinky-lights wherever you go.\n\nThe **[\"I Can Solder!\" Badge kit](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)** is a very simple [open hardware](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2) kit that anyone can use for learning to solder.\n\n_This workshop is for_ **total newbies** _to learn to solder.  All ages._\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac10**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n**Workshop Itinerary**:\n* Brief overview of electronics\n* The background of soldering, so you will solder well for the rest of your life\n* Step by step instructions for soldering your \"I Can Solder!\" Badge kit\n* Wear Blinky-Lights wherever you go\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[\"I Can Solder\" Badge kit webpage](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)  \n[\"I Can Solder\" Badge kit Github page](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ea0e69a6de87/learn-to-solder-with-the-i-can-solder-badge-kit.banner.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/learn-to-solder-with-the-i-can-solder-badge-kit",
-                "links": []
-              },
-              {
-                "guid": "0de08bee-f6b7-4fc4-81f2-c86360097fb9",
-                "code": null,
-                "id": 8674,
-                "date": "2025-12-29T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-emf-explorer-badge-electromagnetic-discorvery_98x2",
-                "title": "EMF Explorer Badge Electromagnetic Discovery workshop (Day 3)",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Ever wonder about the invisible world of electromagnetic fields around you? In this beginner-friendly hands-on workshop, you\u2019ll build your own EMF Explorer Badge from a kit, learn about different electromagnetic frequency bands, and walk away ready to explore the unseen frequencies that surround our daily lives.",
-                "description": "### EMF Explorer Badge Soldering Workshop\n\nIn this hands-on build-and-explore workshop, participants assemble their own **[EMF Explorer Badge](https://emfexplorer.space)** using guided soldering instruction, learn the science of electromagnetic frequency bands, and plug in headphones to *listen* to the invisible world around them. Every participant takes home their own exploration kit: badge + headphones, ready for EMF exploring with an illuminated badge that can be used at night for visibility and bling.\n\n---\n\n##### Material Costs\n\u20ac20 - \u20ac30\n\n---\n\n##### Workshop Itinerary\n- **Welcome + Electronics and Soldering Info** We will show you how to solder. Anyone who can safely hold a soldering iron can do it! It is actually a very easy skill to learn. It is also very useful.\n- **EMF Explanation and Badge Creation Overview** Learn about what EMF is, where it comes from, and how the badge works.\n- **Badge Assembly** Get to soldering! We will be available to help you along the way.\n- **Check your work, and power up your badge!**\n- **Wrap-Up + Q&A**\n- **Live Exploration!** You are surrounded by interesting electronics at 39C3. Go exploring! What new sounds do you hear? Some of the most unassuming electronics can make the most interesting sounds.\n\n---\n\n##### Registration Info\nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First-come, first-served.\n- **Age:** anyone who can safely hold a soldering iron\n- **Experience level:** No prior soldering experience required\n- **Take-home:** Your assembled badge + headphones included\n\n---\n\n##### Links\n[EmfExplorer.Space](https://emfexplorer.space)\n\n---\n\n##### Instructor Notes\nThis is a **beginner-first hardware workshop**. The goal is skill building, curiosity, and real-world electronics exploration. The badge is both a tool and a conversation piece: it senses EMF, plays it through audio, and glows for visibility and bling.\n\n---\n\n##### Taught by **[Drc3p0](https://links.darcyneal.com)**\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "3d0fe097-fdd8-47a2-a721-e2c276b917b3",
-                    "name": "Drc3p0 (they/them)",
-                    "public_name": "Drc3p0 (they/them)",
-                    "avatar": null,
-                    "biography": "Darcy Neal is an interactive audio-visual hardware designer & educator with 15+ years in production, from gallery installations to educational electronics. Former academic makerspace director and crowdfunding campaign manager. Teaching large-scale soldering workshops at maker events worldwide.\nLearn more at (Links.DarcyNeal.com)[https://links.darcyneal.com]\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/drc3p0"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/emf-explorer-badge-electromagnetic-discorvery_98x2",
-                "links": []
-              },
-              {
-                "guid": "5bb2abd5-e968-4db6-98c5-d1a5cc707c70",
-                "code": null,
-                "id": 525968,
-                "date": "2025-12-29T22:30:00+01:00",
-                "start": "22:30",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-synth-meetup",
-                "title": "Synth Meetup",
-                "subtitle": null,
-                "language": "en, de",
-                "track": null,
-                "type": "other",
-                "abstract": "Music Synthesizer Meetup -- demo, look, jam, hangout",
-                "description": "Get together and geek out over music synthesizers, music synthesis, making sound, and creating music. Hardware, software - anything goes! All are welcome to come and talk synths, play synths, share projects, learn, and share. Some attendees have made their own synths at workshops at HOPE_16 -- please bring them! Please feel free to bring any synth or sound-making device. Everyone welcome - no need to bring anything but your interest in music, sound, and noise!\n\n**Registration**:  \nNo registration -- please show up at the Hardware Hacking Area and join us!\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/37a87a983e12/500px-SynthCollage.jpg",
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/synth-meetup",
-                "links": []
-              }
-            ],
             "Hardware Hacking Area -- Front-middle": [
               {
                 "guid": "a47bb589-980f-4c6f-98de-972c93969a42",
@@ -25190,6 +25026,170 @@
                 "links": []
               }
             ],
+            "Hardware Hacking Area -- Front": [
+              {
+                "guid": "ec8bcbfd-2b93-4566-b7e6-62ed25442465",
+                "code": null,
+                "id": 829345,
+                "date": "2025-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-surface-mount-electronics-assembly-for-terrif_qfvy",
+                "title": "Surface Mount Electronics Assembly for Terrified Beginners (Day 3)",
+                "subtitle": null,
+                "language": "en, de",
+                "track": null,
+                "type": "other",
+                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
+                "description": "**Surface Mount Electronics Assembly for Terrified Beginners**\n\nIn this workshop, we will learn to handle the tiniest electronic components, which are used to make modern electronic devices. We will cheat the same way the electronics industry does, and learn the techniques of stencil paste printing and reflow soldering. You will learn a technique that stops your hands from shaking, so you can very very precisely place microscopic parts. We will make an electronic cat that purrs if you handle it correctly. No prior experience or knowledge of anything electronic needed. Caffeine use is not recommended immediately before. All tools are provided.  Takes around 2 hours.\n\n**Materials costs**:  \n20\u20ac if you want to make a board, free to observe.\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nSign up on the paper sheet at the Hardware Hacking Area.\n\n**Links**:\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrif_qfvy",
+                "links": []
+              },
+              {
+                "guid": "3ff1e245-fe19-4666-babd-444fa384f1af",
+                "code": null,
+                "id": 312451,
+                "date": "2025-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-music-generation-for-newbies-learn-to-solder-_hipp",
+                "title": "Music Generation for Newbies / Learn to Solder workshop -- ArduTouch music synthesizer",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Anyone can learn to solder! And anyone can learn to make music, sound (and noise!) with computer chips! All participants will easily learn all of this by making an ArduTouch music synthesizer from a kit. For total beginners.",
+                "description": "**Learn to solder** by making a way-cool, powerful music synthesizer, and  \n**learn how to make cool music, sound, (and noise!) with computer chips**  \n(The fancy word for making sound with a computer chip is *Digital Signal Processing* or *DSP*).\n\n**[ArduTouch](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)** is an open hardware **Ardu**ino-compatible music synthesizer kit with a built-in **Touch** Keyboard, and with built-in speaker/amplifier. It is a really nice performing musical instrument.\n\nThis workshop is for **total newbies** to learn to solder.  \nThis workshop is for **total newbies** to make their own ArduTouch music synthesizer and learn to make music, sound (and noise!) with computer chips. Attendees take their completed synthesizer home at the end of the workshop.\n\nThe ArduTouch comes pre-programmed with a way cool synthesizer. And I will show you how to re-program it with other way cool (and totally different) synthesizers, and how to make your own synthesizers.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have ArduTouch kits for **\u20ac35**.  \n*Optional*: USB-Serial Cable for re-programming ArduTouch (and many other projects): **5 \u20ac**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n**Workshop Itinerary**:\n* Intro to music synthesis\n* Basics of making sound with computer chips (Digital Signal Processing)\n* Basics of using an Arduino\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your ArduTouch music synthesizer to make lots of cool music, sounds, (and noise!)\n\n**Registration**:   \n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.**\n\n**Links**:  \n[ArduTouch music synthesizer kit webpage](https://cornfieldelectronics.com/cfe/projects.php#ardutouch)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[ArduTouch Github page](https://github.com/maltman23/ArduTouch)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/c14f2071e5a2/music-generation-for-newbies-learn-to-solder-_hipp.banner.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/music-generation-for-newbies-learn-to-solder-_hipp",
+                "links": []
+              },
+              {
+                "guid": "86c8a0f9-dfe8-4e68-b128-06528188e60c",
+                "code": null,
+                "id": 868098,
+                "date": "2025-12-29T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-build-your-own-air-quality-sensor",
+                "title": "Build Your Own Air Quality Sensor",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "A beginner-friendly, hands-on workshop where you build a working particulate matter air quality sensor using off-the-shelf parts. Learn the basics of IoT environmental monitoring and share your data online with Sensor.Community.",
+                "description": "# Build Your Own Air Quality Sensor\n\nAir pollution affects many people\u2019s daily lives, not only those living near industrial centres. In Ireland, official air quality monitoring relies on a limited number of sensors, so local and short-term pollution sources can be missed. In this 90-minute, hands-on workshop, you\u2019ll build your own particulate matter (PM2.5) air quality sensor using a kit of off-the-shelf parts, then connect it to the Internet so you can view and share the data.\n\n## Sensor.Community\n[Sensor.Community](https://sensor.community/) is an open, global citizen science network where people build low-cost sensors and share environmental data. Once your device is online, it can publish readings so you can track trends over time and compare data across different locations.\n\n## What You\u2019ll Learn\nDuring the workshop, you\u2019ll assemble a working PM2.5 air quality sensor and get it online. We\u2019ll cover the basics of IoT devices, local data collection, and how to publish readings to Sensor.Community. You\u2019ll also learn what the numbers mean, what these sensors are good for, and where their limits are.\n\n## Materials\nYou\u2019ll work with:\n- ESP8266 board\n- SDS011 particulate matter sensor (PM2.5 and PM10)\n- BME280 sensor (temperature, humidity, air pressure)\n- USB cable\n- Jumper wires\n- Plastic tube (air inlet)\n\n## Requirements\n- A device with a web browser and WiFi, such as a phone or laptop\n- All setup is browser-based, no software install needed\n- No previous experience required, beginner-friendly\n\n## Materials Costs\nIt costs **\u20ac60** for a kit to take home.\n\n## Instructions\nSetup steps and links will be shared on the day.\n\n## Facilitator\nTaught by [Jeffrey Roe](https://chaos.social/@tdr112).\n\n**Buy a kit at the Hardware Hacking Area to guarantee a seat, or come by early. Please do arrive early, regardless.**\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/7992037e6eb0/PXL_20241116_112343300.jpg",
+                "persons": [
+                  {
+                    "guid": "d3d1aed0-60ab-48c4-8f3d-f4dbdc952ce5",
+                    "name": "tdr112 (he/him)",
+                    "public_name": "tdr112 (he/him)",
+                    "avatar": null,
+                    "biography": "# Jeffrey Roe / tdr112\n\nI\u2019m an Irish software and hardware engineer, educator, and community organiser. I spend a lot of my free time at [TOG Hackerspace](https://www.tog.ie/) in Dublin, building practical things with electronics, sensors, radio, and a bit of nonsense when appropriate.\n\nAt 39C3 I\u2019ll be hanging around the [Hardware Hacking Area](https://events.ccc.de/congress/2025/hub/en/assembly/detail/hardwarehackingarea), running a few hands-on workshops:\n\n- [Build Your Own Satellite Ground Station (TinyGS)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-satellite-ground-station)\n- [IoT with Arduino Cloud, beginner-friendly](https://events.ccc.de/congress/2025/hub/en/event/detail/iot-with-arduino-cloud-beginner-friendly-workshop)\n- [Build Your Own Air Quality Sensor (Sensor.Community)](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-air-quality-sensor)\n\nWhen I\u2019m not teaching, you\u2019ll probably find me with the [Irish Embassy](https://events.ccc.de/congress/2025/hub/en/assembly/detail/irish), a loose collective of Ireland-connected folks who pool resources and create a shared base at events. Not government-related, mostly power adaptors and cups of tea.\n\n## Interests\n- Hardware hacking, sensors, and IoT\n- LoRa, community radio projects, and practical antenna builds\n- Amateur radio and radio experiments, callsign EI7IRB\n- Citizen science, environmental monitoring, and open data\n- Repair culture, fixability, and keeping good gear out of the bin\n- Workshops that get people building within the first 10 minutes\n\n## Contact\nMastodon: [@tdr112@chaos.social](https://chaos.social/@tdr112)\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/tdr112"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/build-your-own-air-quality-sensor",
+                "links": []
+              },
+              {
+                "guid": "4dbb998d-98c2-42aa-b0ad-7710d51bf796",
+                "code": null,
+                "id": 499898,
+                "date": "2025-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-learn-to-solder-with-the-i-can-solder-badge-kit",
+                "title": "Learn to Solder with the \"I Can Solder\" Badge kit",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Anyone can learn to solder! It is useful and fun. This workshop is for kids of all ages (and anyone of any age). We will learn this wonderful skill by making a blinky-badge kit, so you can wear blinky-lights wherever you go.",
+                "description": "Learn to solder by making a cool badge that you can wear, and have blinky-lights wherever you go.\n\nThe **[\"I Can Solder!\" Badge kit](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)** is a very simple [open hardware](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2) kit that anyone can use for learning to solder.\n\n_This workshop is for_ **total newbies** _to learn to solder.  All ages._\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **\u20ac10**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n**Workshop Itinerary**:\n* Brief overview of electronics\n* The background of soldering, so you will solder well for the rest of your life\n* Step by step instructions for soldering your \"I Can Solder!\" Badge kit\n* Wear Blinky-Lights wherever you go\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[\"I Can Solder\" Badge kit webpage](https://cornfieldelectronics.com/cfe/projects.php#solderbadge)  \n[\"I Can Solder\" Badge kit Github page](https://github.com/maltman23/I-Can-Solder--Badge-kit-V2)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/ea0e69a6de87/learn-to-solder-with-the-i-can-solder-badge-kit.banner.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/learn-to-solder-with-the-i-can-solder-badge-kit",
+                "links": []
+              },
+              {
+                "guid": "0de08bee-f6b7-4fc4-81f2-c86360097fb9",
+                "code": null,
+                "id": 8674,
+                "date": "2025-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-emf-explorer-badge-electromagnetic-discorvery_98x2",
+                "title": "EMF Explorer Badge Electromagnetic Discovery workshop (Day 3)",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Ever wonder about the invisible world of electromagnetic fields around you? In this beginner-friendly hands-on workshop, you\u2019ll build your own EMF Explorer Badge from a kit, learn about different electromagnetic frequency bands, and walk away ready to explore the unseen frequencies that surround our daily lives.",
+                "description": "### EMF Explorer Badge Soldering Workshop\n\nIn this hands-on build-and-explore workshop, participants assemble their own **[EMF Explorer Badge](https://emfexplorer.space)** using guided soldering instruction, learn the science of electromagnetic frequency bands, and plug in headphones to *listen* to the invisible world around them. Every participant takes home their own exploration kit: badge + headphones, ready for EMF exploring with an illuminated badge that can be used at night for visibility and bling.\n\n---\n\n##### Material Costs\n\u20ac20 - \u20ac30\n\n---\n\n##### Workshop Itinerary\n- **Welcome + Electronics and Soldering Info** We will show you how to solder. Anyone who can safely hold a soldering iron can do it! It is actually a very easy skill to learn. It is also very useful.\n- **EMF Explanation and Badge Creation Overview** Learn about what EMF is, where it comes from, and how the badge works.\n- **Badge Assembly** Get to soldering! We will be available to help you along the way.\n- **Check your work, and power up your badge!**\n- **Wrap-Up + Q&A**\n- **Live Exploration!** You are surrounded by interesting electronics at 39C3. Go exploring! What new sounds do you hear? Some of the most unassuming electronics can make the most interesting sounds.\n\n---\n\n##### Registration Info\nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First-come, first-served.\n- **Age:** anyone who can safely hold a soldering iron\n- **Experience level:** No prior soldering experience required\n- **Take-home:** Your assembled badge + headphones included\n\n---\n\n##### Links\n[EmfExplorer.Space](https://emfexplorer.space)\n\n---\n\n##### Instructor Notes\nThis is a **beginner-first hardware workshop**. The goal is skill building, curiosity, and real-world electronics exploration. The badge is both a tool and a conversation piece: it senses EMF, plays it through audio, and glows for visibility and bling.\n\n---\n\n##### Taught by **[Drc3p0](https://links.darcyneal.com)**\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "3d0fe097-fdd8-47a2-a721-e2c276b917b3",
+                    "name": "Drc3p0 (they/them)",
+                    "public_name": "Drc3p0 (they/them)",
+                    "avatar": null,
+                    "biography": "Darcy Neal is an interactive audio-visual hardware designer & educator with 15+ years in production, from gallery installations to educational electronics. Former academic makerspace director and crowdfunding campaign manager. Teaching large-scale soldering workshops at maker events worldwide.\nLearn more at (Links.DarcyNeal.com)[https://links.darcyneal.com]\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/drc3p0"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/emf-explorer-badge-electromagnetic-discorvery_98x2",
+                "links": []
+              },
+              {
+                "guid": "5bb2abd5-e968-4db6-98c5-d1a5cc707c70",
+                "code": null,
+                "id": 525968,
+                "date": "2025-12-29T22:30:00+01:00",
+                "start": "22:30",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-synth-meetup",
+                "title": "Synth Meetup",
+                "subtitle": null,
+                "language": "en, de",
+                "track": null,
+                "type": "other",
+                "abstract": "Music Synthesizer Meetup -- demo, look, jam, hangout",
+                "description": "Get together and geek out over music synthesizers, music synthesis, making sound, and creating music. Hardware, software - anything goes! All are welcome to come and talk synths, play synths, share projects, learn, and share. Some attendees have made their own synths at workshops at HOPE_16 -- please bring them! Please feel free to bring any synth or sound-making device. Everyone welcome - no need to bring anything but your interest in music, sound, and noise!\n\n**Registration**:  \nNo registration -- please show up at the Hardware Hacking Area and join us!\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/37a87a983e12/500px-SynthCollage.jpg",
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/synth-meetup",
+                "links": []
+              }
+            ],
             "Hardware Hacking Area -- Rear-middle": [
               {
                 "guid": "11277292-501a-4c4f-b20a-d9fb5965e16e",
@@ -25275,89 +25275,6 @@
                 "links": []
               }
             ],
-            "Kidspace - Affenfelsen": [
-              {
-                "guid": "f58a9113-3cd2-46ae-b85e-6962fce66547",
-                "code": null,
-                "id": 589113,
-                "date": "2025-12-29T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "01:30",
-                "room": "Kidspace - Affenfelsen",
-                "slug": "39c3-hakeln-fur-anfanger",
-                "title": "H\u00e4keln f\u00fcr Anf\u00e4nger",
-                "subtitle": null,
-                "language": "de",
-                "track": null,
-                "type": "other",
-                "abstract": "H\u00e4keln f\u00fcr Anf\u00e4nger",
-                "description": "Stricken ... zwei Nadeln ... das klingt kompliziert. Reduzieren wir ...\n\nH\u00e4keln ... nur eine Nadel ... schon besser ... oder? Wie war das gleich noch mal? Luftmaschen, Kettmaschen, feste Maschen ... doch zu kompliziert?\n\nIch, elzbeth, bringe Wolle und ein paar H\u00e4kelnadeln mit und dann k\u00f6nnen wir versuchen das R\u00e4tsel der Maschen zu l\u00f6sen und zumindest f\u00fcr den Anfang eine Kette zu produzieren.\n\nOb ihr bereits Erfahrung habt oder noch nicht, kommt gerne vorbei.\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
-                    "name": "elzbeth",
-                    "public_name": "elzbeth",
-                    "avatar": null,
-                    "biography": "You can find me in Kidspace.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/hakeln-fur-anfanger",
-                "links": []
-              },
-              {
-                "guid": "395d6309-5862-4e79-a861-afa59f91b268",
-                "code": null,
-                "id": 395630,
-                "date": "2025-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:00",
-                "room": "Kidspace - Affenfelsen",
-                "slug": "39c3-eltern-fragen-zum-anfangerschwimmen",
-                "title": "Eltern-Fragen zum Anf\u00e4ngerschwimmen",
-                "subtitle": null,
-                "language": "de, en",
-                "track": null,
-                "type": "other",
-                "abstract": "",
-                "description": "Eltern k\u00f6nnen ihre Kinder beim Schwimmenlernen mehr unterst\u00fctzen als ihnen bewusst ist.\nWir sprechen \u00fcber ein paar Grundlagen, Ideen und spielerische M\u00f6glichkeiten.\nEgal ob \u00fcberm\u00fctige oder \u00e4ngstliche Kinder, mit den eigenen Eltern ist Wassergew\u00f6hnung oft leichter.\nGerne werden Fragen beantwortet und Tipps zum Ausprobieren ausgetauscht.\n",
-                "logo": null,
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/eltern-fragen-zum-anfangerschwimmen",
-                "links": []
-              },
-              {
-                "guid": "762ca494-e204-4cfb-9a81-11fdfa495c86",
-                "code": null,
-                "id": 762494,
-                "date": "2025-12-29T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "00:30",
-                "room": "Kidspace - Affenfelsen",
-                "slug": "39c3-guten8geschichte-das-neinhorn-und-der-geburtstag-t",
-                "title": "GuteN8Geschichte \"Das NEINhorn und der Geburtstag\" - Tag 3",
-                "subtitle": null,
-                "language": "de",
-                "track": null,
-                "type": "other",
-                "abstract": "Mach es dir gem\u00fctlich und lausche einer zauberhaften Geschichte! An drei Abenden liest Nolo jeweils um 19:00 Uhr einen Teil aus Marc-Uwe Klings Neinhorn-Reihe als GuteN8Geschichte vor.",
-                "description": "This event will be held in German.\nAnyone who feels like enjoying a relaxed story time\n**Age**: 0+\n**Just drop by and join us as we dive into the imaginative world of the Neinhorn!**\n**Duration:** approx. 30 minutes per evening\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "f967c058-2642-4e92-b8b6-8cf75d8f7a76",
-                    "name": "ghenny",
-                    "public_name": "ghenny",
-                    "avatar": null,
-                    "biography": null,
-                    "url": "https://events.ccc.de/congress/2025/hub/user/ghenny"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/guten8geschichte-das-neinhorn-und-der-geburtstag-t",
-                "links": []
-              }
-            ],
             "Art & Play: Bus Roof Top": [
               {
                 "guid": "f5ece7ce-2447-4b05-85de-95be251a418f",
@@ -25417,6 +25334,71 @@
                   }
                 ],
                 "url": "https://events.ccc.de/congress/2025/hub/event/detail/scrapergeist-zeitungsgedichte-in-retro-und-vi_c1n2",
+                "links": []
+              }
+            ],
+            "Call for Art: Workshopspace 1": [
+              {
+                "guid": "fcadbcf2-79e5-4334-b4bf-8e0614151a4a",
+                "code": null,
+                "id": 279543,
+                "date": "2025-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-pixelprinting-with-bricks_62jn",
+                "title": "Pixelprint:ing with bricks",
+                "subtitle": null,
+                "language": null,
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop with pixelprint\r\n\r\n* DAY 1: 14:30 - 16:30\r\n* DAY 2: 14:00 - 16:00\r\n* DAY 3: 14:00 - 16:00",
+                "description": "We print with building block tiles, also known as Lego Dots\u2122, on paper.\nThere will be a short introduction to the printing technique and how to create the printing plates.\nWe print using the primary colors and can mix any other color as needed.\nWhat makes Lego Dots\u2122 exciting is that you are bound to a grid \u2013 in this case, 8\u00d78 units. The tiles come in different shapes: circles, squares, quarter circles, and many more. Have a look at the\u00a0gallery to see some examples.\nWe print using a press from the\u00a0Open Press Project.\nThe print size is limited to 7\u00d77 cm due to the press we are using.\nIt is a \u201cjump-in\u201d workshop with no registration required \u2013 when one person leaves, the next can join in.\n\n\nLink: [https://pxlprnt.de](https://pxlprnt.de)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/85ca8dfc0e58/Pixelprint_ing_with_bricks_Klemmbausteine_Alain_Wohlfarth.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/pixelprinting-with-bricks_62jn",
+                "links": []
+              },
+              {
+                "guid": "978487f2-156c-428d-80d3-dc6e7b970302",
+                "code": null,
+                "id": 978487,
+                "date": "2025-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "02:00",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-poetic-technologies-and-an-open-source-university",
+                "title": "Poetic Technologies and an open-source university",
+                "subtitle": null,
+                "language": null,
+                "track": null,
+                "type": "other",
+                "abstract": "Visual assembly/Workshop with Nika Dubrovsky",
+                "description": "Universities have become debt traps. Education is no longer about learning\u2014it's financial control dressed up as opportunity. Students graduate with crushing loans. Professors work precarious jobs. Administration consumes budgets that should fund actual learning. Knowledge is sold, credentialed, gatekept.\n\nBut what if we could reimagine this completely? Not reform universities\u2014redesign them from scratch.\n\nIn this workshop, we're asking CCC participants to collectively design the university of our dreams. Not the university we think is \"realistic\" or \"achievable within current constraints.\" The university we actually want.\n\nHere are the questions:\n\nShould it be distributed or centralized? Fully virtual or partially offline? How do we use open-source technologies to eliminate bullshit jobs, administration, and bureaucracy? How do we make education free, accessible, and democratic?\n\nCan a university exist without exams, without filtering students, accepting everyone who wants to learn? How do we build around open libraries\u2014like David Graeber's music and book collections at davidgraeber.org\u2014that anyone can modify and contribute to? How does this become not an institution, not a nation-state project, but a community of experimenters distributed globally?\n\nUltimately, this is about technologies\u2014survival technologies. Social technologies. Poetic technologies.\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d32242c10f60/Poetic_Technologies_and_an_open-source_university.jpeg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/poetic-technologies-and-an-open-source-university",
+                "links": []
+              },
+              {
+                "guid": "1fd5a39e-25e1-496b-bed1-cf67ceaaeb82",
+                "code": null,
+                "id": 153925,
+                "date": "2025-12-29T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "01:30",
+                "room": "Call for Art: Workshopspace 1",
+                "slug": "39c3-how-to-break-your-face-keeping-up-with-the-ar_4dyz",
+                "title": "HOW TO BREAK YOUR FACE: Keeping up with the arms race of anti-surveillance recognition tactics.",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Workshop with Anna Maria & Michelle Tylicki\r\n\r\n* DAY 1: 18:00 - 19:30\r\n* DAY 2: 17:30 - 19:00\r\n* DAY 3: 20:30 - 22:00",
+                "description": "Facial recognition systems are rapidly advancing - fusing infrared, facial geometry, gait, and metadata into oppressive infrastructures of racist policing and surveillance capitalism. At the same time, artists, activists and everyday citizens are developing creative ways to interfere, confuse, and disappear from automated identification.\n\n#### Workshop 1: Break Your Face\nHands-on demonstration of Dazzle anti-surveillance makeup techniques. Live-testing our work to understand machine vision -and how to break it.\n\n#### Workshop 2 + 3: Zine-making\nStarting with a discussion of creative anti-surveillance tactics, we then combine the workshop participants' knowledge and experience to co-creating a zine.\n\nInfo:\u00a0We will be using easily available live face filters on\u00a0smart phones\u00a0(instagram/snapchat/tiktok). Participants can use their own phones. The data is not uploaded or saved anywhere.\n\n\nLinks:\n[www.michelletylicki.info/](www.michelletylicki.info/)\n[www.sanma.cargo.site/](www.sanma.cargo.site/)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/04c22591e4a5/HOW_TO_BRAK_YOUR_FACE_Anna_Maria.jpg",
+                "persons": [],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-break-your-face-keeping-up-with-the-ar_4dyz",
                 "links": []
               }
             ],
@@ -25528,68 +25510,86 @@
                 "feedback_url": "https://pretalx.chaos.jetzt/jugend/talk/ZWFE9L/feedback/"
               }
             ],
-            "Call for Art: Workshopspace 1": [
+            "Kidspace - Affenfelsen": [
               {
-                "guid": "fcadbcf2-79e5-4334-b4bf-8e0614151a4a",
+                "guid": "f58a9113-3cd2-46ae-b85e-6962fce66547",
                 "code": null,
-                "id": 279543,
+                "id": 589113,
                 "date": "2025-12-29T14:00:00+01:00",
                 "start": "14:00",
-                "duration": "02:00",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-pixelprinting-with-bricks_62jn",
-                "title": "Pixelprint:ing with bricks",
-                "subtitle": null,
-                "language": null,
-                "track": null,
-                "type": "other",
-                "abstract": "Workshop with pixelprint\r\n\r\n* DAY 1: 14:30 - 16:30\r\n* DAY 2: 14:00 - 16:00\r\n* DAY 3: 14:00 - 16:00",
-                "description": "We print with building block tiles, also known as Lego Dots\u2122, on paper.\nThere will be a short introduction to the printing technique and how to create the printing plates.\nWe print using the primary colors and can mix any other color as needed.\nWhat makes Lego Dots\u2122 exciting is that you are bound to a grid \u2013 in this case, 8\u00d78 units. The tiles come in different shapes: circles, squares, quarter circles, and many more. Have a look at the\u00a0gallery to see some examples.\nWe print using a press from the\u00a0Open Press Project.\nThe print size is limited to 7\u00d77 cm due to the press we are using.\nIt is a \u201cjump-in\u201d workshop with no registration required \u2013 when one person leaves, the next can join in.\n\n\nLink: [https://pxlprnt.de](https://pxlprnt.de)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/85ca8dfc0e58/Pixelprint_ing_with_bricks_Klemmbausteine_Alain_Wohlfarth.jpg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/pixelprinting-with-bricks_62jn",
-                "links": []
-              },
-              {
-                "guid": "978487f2-156c-428d-80d3-dc6e7b970302",
-                "code": null,
-                "id": 978487,
-                "date": "2025-12-29T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "02:00",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-poetic-technologies-and-an-open-source-university",
-                "title": "Poetic Technologies and an open-source university",
-                "subtitle": null,
-                "language": null,
-                "track": null,
-                "type": "other",
-                "abstract": "Visual assembly/Workshop with Nika Dubrovsky",
-                "description": "Universities have become debt traps. Education is no longer about learning\u2014it's financial control dressed up as opportunity. Students graduate with crushing loans. Professors work precarious jobs. Administration consumes budgets that should fund actual learning. Knowledge is sold, credentialed, gatekept.\n\nBut what if we could reimagine this completely? Not reform universities\u2014redesign them from scratch.\n\nIn this workshop, we're asking CCC participants to collectively design the university of our dreams. Not the university we think is \"realistic\" or \"achievable within current constraints.\" The university we actually want.\n\nHere are the questions:\n\nShould it be distributed or centralized? Fully virtual or partially offline? How do we use open-source technologies to eliminate bullshit jobs, administration, and bureaucracy? How do we make education free, accessible, and democratic?\n\nCan a university exist without exams, without filtering students, accepting everyone who wants to learn? How do we build around open libraries\u2014like David Graeber's music and book collections at davidgraeber.org\u2014that anyone can modify and contribute to? How does this become not an institution, not a nation-state project, but a community of experimenters distributed globally?\n\nUltimately, this is about technologies\u2014survival technologies. Social technologies. Poetic technologies.\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d32242c10f60/Poetic_Technologies_and_an_open-source_university.jpeg",
-                "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/poetic-technologies-and-an-open-source-university",
-                "links": []
-              },
-              {
-                "guid": "1fd5a39e-25e1-496b-bed1-cf67ceaaeb82",
-                "code": null,
-                "id": 153925,
-                "date": "2025-12-29T20:30:00+01:00",
-                "start": "20:30",
                 "duration": "01:30",
-                "room": "Call for Art: Workshopspace 1",
-                "slug": "39c3-how-to-break-your-face-keeping-up-with-the-ar_4dyz",
-                "title": "HOW TO BREAK YOUR FACE: Keeping up with the arms race of anti-surveillance recognition tactics.",
+                "room": "Kidspace - Affenfelsen",
+                "slug": "39c3-hakeln-fur-anfanger",
+                "title": "H\u00e4keln f\u00fcr Anf\u00e4nger",
                 "subtitle": null,
-                "language": "en",
+                "language": "de",
                 "track": null,
                 "type": "other",
-                "abstract": "Workshop with Anna Maria & Michelle Tylicki\r\n\r\n* DAY 1: 18:00 - 19:30\r\n* DAY 2: 17:30 - 19:00\r\n* DAY 3: 20:30 - 22:00",
-                "description": "Facial recognition systems are rapidly advancing - fusing infrared, facial geometry, gait, and metadata into oppressive infrastructures of racist policing and surveillance capitalism. At the same time, artists, activists and everyday citizens are developing creative ways to interfere, confuse, and disappear from automated identification.\n\n#### Workshop 1: Break Your Face\nHands-on demonstration of Dazzle anti-surveillance makeup techniques. Live-testing our work to understand machine vision -and how to break it.\n\n#### Workshop 2 + 3: Zine-making\nStarting with a discussion of creative anti-surveillance tactics, we then combine the workshop participants' knowledge and experience to co-creating a zine.\n\nInfo:\u00a0We will be using easily available live face filters on\u00a0smart phones\u00a0(instagram/snapchat/tiktok). Participants can use their own phones. The data is not uploaded or saved anywhere.\n\n\nLinks:\n[www.michelletylicki.info/](www.michelletylicki.info/)\n[www.sanma.cargo.site/](www.sanma.cargo.site/)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/04c22591e4a5/HOW_TO_BRAK_YOUR_FACE_Anna_Maria.jpg",
+                "abstract": "H\u00e4keln f\u00fcr Anf\u00e4nger",
+                "description": "Stricken ... zwei Nadeln ... das klingt kompliziert. Reduzieren wir ...\n\nH\u00e4keln ... nur eine Nadel ... schon besser ... oder? Wie war das gleich noch mal? Luftmaschen, Kettmaschen, feste Maschen ... doch zu kompliziert?\n\nIch, elzbeth, bringe Wolle und ein paar H\u00e4kelnadeln mit und dann k\u00f6nnen wir versuchen das R\u00e4tsel der Maschen zu l\u00f6sen und zumindest f\u00fcr den Anfang eine Kette zu produzieren.\n\nOb ihr bereits Erfahrung habt oder noch nicht, kommt gerne vorbei.\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "6fef5125-df5a-4f6b-87f8-11ebda8ff386",
+                    "name": "elzbeth",
+                    "public_name": "elzbeth",
+                    "avatar": null,
+                    "biography": "You can find me in Kidspace.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/elzbeth"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/hakeln-fur-anfanger",
+                "links": []
+              },
+              {
+                "guid": "395d6309-5862-4e79-a861-afa59f91b268",
+                "code": null,
+                "id": 395630,
+                "date": "2025-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Kidspace - Affenfelsen",
+                "slug": "39c3-eltern-fragen-zum-anfangerschwimmen",
+                "title": "Eltern-Fragen zum Anf\u00e4ngerschwimmen",
+                "subtitle": null,
+                "language": "de, en",
+                "track": null,
+                "type": "other",
+                "abstract": "",
+                "description": "Eltern k\u00f6nnen ihre Kinder beim Schwimmenlernen mehr unterst\u00fctzen als ihnen bewusst ist.\nWir sprechen \u00fcber ein paar Grundlagen, Ideen und spielerische M\u00f6glichkeiten.\nEgal ob \u00fcberm\u00fctige oder \u00e4ngstliche Kinder, mit den eigenen Eltern ist Wassergew\u00f6hnung oft leichter.\nGerne werden Fragen beantwortet und Tipps zum Ausprobieren ausgetauscht.\n",
+                "logo": null,
                 "persons": [],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/how-to-break-your-face-keeping-up-with-the-ar_4dyz",
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/eltern-fragen-zum-anfangerschwimmen",
+                "links": []
+              },
+              {
+                "guid": "762ca494-e204-4cfb-9a81-11fdfa495c86",
+                "code": null,
+                "id": 762494,
+                "date": "2025-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "00:30",
+                "room": "Kidspace - Affenfelsen",
+                "slug": "39c3-guten8geschichte-das-neinhorn-und-der-geburtstag-t",
+                "title": "GuteN8Geschichte \"Das NEINhorn und der Geburtstag\" - Tag 3",
+                "subtitle": null,
+                "language": "de",
+                "track": null,
+                "type": "other",
+                "abstract": "Mach es dir gem\u00fctlich und lausche einer zauberhaften Geschichte! An drei Abenden liest Nolo jeweils um 19:00 Uhr einen Teil aus Marc-Uwe Klings Neinhorn-Reihe als GuteN8Geschichte vor.",
+                "description": "This event will be held in German.\nAnyone who feels like enjoying a relaxed story time\n**Age**: 0+\n**Just drop by and join us as we dive into the imaginative world of the Neinhorn!**\n**Duration:** approx. 30 minutes per evening\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "f967c058-2642-4e92-b8b6-8cf75d8f7a76",
+                    "name": "ghenny",
+                    "public_name": "ghenny",
+                    "avatar": null,
+                    "biography": null,
+                    "url": "https://events.ccc.de/congress/2025/hub/user/ghenny"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/guten8geschichte-das-neinhorn-und-der-geburtstag-t",
                 "links": []
               }
             ],
@@ -27327,10 +27327,10 @@
                   },
                   {
                     "guid": "8b1554a7-c8da-547b-b4e6-b03138e36416",
-                    "name": "Bettina Louis",
-                    "public_name": "Bettina Louis",
-                    "avatar": "https://cfp.cccv.de/media/avatars/RNUJTV_xdswJtP.jpeg",
-                    "biography": "Bettina Louis has been an engineer for energy and process technology for 20 years and a teacher at a technical school for almost as long. Now retired, Bettina is dedicated to support the End Of 10 campaign by organizing install events in Berlin.\n",
+                    "name": "belobe",
+                    "public_name": "belobe",
+                    "avatar": "https://pretalx.c3voc.de/media/avatars/CSXKLA_L9srgui.jpg",
+                    "biography": "Haeckse aus Berlin, endof10-Kampagne, im Ruhestand (Ingenieurin und Lehrerin).\n",
                     "url": "https://events.ccc.de/congress/2025/hub/user/speaker_8b1554a7-c8da-547b-b4e6-b03138e36416"
                   }
                 ],
@@ -29142,6 +29142,138 @@
                 "origin_url": "https://pretalx.freifunktag.de/39c3-bub-workshops-2025/talk/KFTFX9/"
               }
             ],
+            "Hardware Hacking Area -- Front": [
+              {
+                "guid": "ade0a453-33bc-4ecb-b758-1a93bd1a6714",
+                "code": null,
+                "id": 45333,
+                "date": "2025-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-surface-mount-electronics-assembly-for-terrif_v66k",
+                "title": "Surface Mount Electronics Assembly for Terrified Beginners (Day 4)",
+                "subtitle": null,
+                "language": "en, de",
+                "track": null,
+                "type": "other",
+                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
+                "description": "**Surface Mount Electronics Assembly for Terrified Beginners**\n\nIn this workshop, we will learn to handle the tiniest electronic components, which are used to make modern electronic devices. We will cheat the same way the electronics industry does, and learn the techniques of stencil paste printing and reflow soldering. You will learn a technique that stops your hands from shaking, so you can very very precisely place microscopic parts. We will make an electronic cat that purrs if you handle it correctly. No prior experience or knowledge of anything electronic needed. Caffeine use is not recommended immediately before. All tools are provided.  Takes around 2 hours.\n\n**Materials costs**:  \n20\u20ac if you want to make a board, free to observe.\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nSign up on the paper sheet at the Hardware Hacking Area.\n\n**Links**:\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrif_v66k",
+                "links": []
+              },
+              {
+                "guid": "ec1955b6-6027-4808-9386-27a082fce7ec",
+                "code": null,
+                "id": 195566,
+                "date": "2025-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "02:00",
+                "room": "Hardware Hacking Area -- Front",
+                "slug": "39c3-make-your-own-brain-machine",
+                "title": "Make Your Own Brain Machine",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Dive into the fascinating world of neurotechnology and construct your very own Brain Machine under expert guidance!",
+                "description": "What is a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)**? It's a fascinating device that generates light and sound pulses at brainwave frequencies. These can help achieve various states of consciousness, such as meditation or improved sleep.\n\nIn this workshop for **total beginners** we will all make a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)** that is preprogrammed with a really nice meditation sequence. As well as a device that can help you relax and meditate, a nice bonus is that everyone hallucinates beautiful colors and patterns along the way.\n\nThe Brain Machine is totally [open hardware](https://github.com/maltman23/Brain_Machine_kit), and created to be hackable, so you can re-program it with any computer, with software that is free to download and use.\n\nThis workshop is for **total beginners** to learn to solder.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have Brain Machine kits for **\u20ac25**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n_**IMPORTANT NOTE:** The Brain Machine uses blinking lights, and is not recommended for people who are photosensitive._\n\n**Workshop Itinerary**:\n* Intro to Sound & Light Machines\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your Brain Machine for creating other brainwave sequences\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Brain Machine kit webpage](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[Brain Machine Github page](https://github.com/maltman23/Brain_Machine_kit)\n",
+                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/2e65d39431e6/BrainMachineKids.jpg",
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/make-your-own-brain-machine",
+                "links": []
+              }
+            ],
+            "Hardware Hacking Area -- Front-middle": [
+              {
+                "guid": "169a7907-fa86-44c6-8007-3039f366b3a3",
+                "code": null,
+                "id": 169790,
+                "date": "2025-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front-middle",
+                "slug": "39c3-39c3-led-badge-smd-for-beginners-day-4",
+                "title": "39C3 LED badge -- SMD for Beginners (Day 4)",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "**39C3 LED badge -- SMD for Beginners**  \r\n\r\nThe 39C3 LED badge contains 42 LEDs that blink under control of of a pre-programmed 4 cent microcontroller. When the badge is alone, the LEDs will blink randomly. When it is among friends (when there are other badges nearby), it will display a chaser pattern. \r\n\r\nIn this workshop you will learn how to solder Surface Mounted Devices using a normal soldering iron.\r\n\r\nSuitable for beginners. Under 16s only with responsible adult supervision.",
+                "description": "### 39C3 LED badge -- SMD for Beginners\n\n![39C3 LED badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/b/7dccaedbb7ec/39C3badge.png)\n\nSurface Mounted Devices (SMDs) are small compared to Through Hole (TH) electronic components, and have the reputation of being difficult to work with as a hobyist: Difficult to see and handle, when you sneeze, you loose them and you can not easily use them on 2.54mm raster prototyping boards.\n\nSMD components are designed to be used in a reflow soldering process where tiny dots of solder paste are applied to a Printed Circuit Board (PCB), after which the SMD components are \"Picked and Placed\" on the PCB, after which the whole PCB is heated to the melting point of the solder (\"reflowing\"), actually completing the  electrical connections.\n\nThis workshop is aimed at showing you that the reputation of being difficult to work with is a bit undeserved, and that you can also work with SMDs using just a  regular soldering iron: With some simple tricks and a suitable selection of components (not the smallest possible), the vast majority of people can successfully complete this project.\n\nBeing able to solder SMD projects using just a simple soldering iron will also help you develop some skills that are useful if you  need to do \"rework\" on reflow soldering projects. Reflow soldering is also not difficult to do as a hobbyist, but requires a few more tools like a stencil to apply solder paste and either an oven or a hot plate to do the reflowing. It is, however, much quicker than soldering the parts one by one, and can yield more professional looking, cleaner, solder joints.\n\nThe project is an electronic name-badge - You should write your name (or nick) on it and wear it. It contains 42 LEDs, a microcontroller, some support components and an InfraRed transmitter and receiver that allow it to communicate with other badges. When the badge detects the presence of other badges (\"friends\") nearby, it will change its behaviour. It will not only interact with other 39C3 LED badges, but also with TBD badges - come visit the TBD assembly at komona or https://tbd.camp\n\n![TBD badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d619de5f1be1/tbdbadge.png)\n\n### Costs\nThis workshop is donation based. Materials costs are 2 euro per badge. Donations will go towards 1) covering costs of the badges, 2) covering costs of running the hardware hacking area in general, 3) covering costs of organizing TBD (see the TBD assembly at komona or https://tbd.camp)\n\n### Registration\nThe number of participants per session is limited. First come, first served. Either get a participation voucher beforehand or show up early (there may be places left).\nThere will be *numbered* paper vouchers available for each session some time in advance of each session. If you get a voucher and do not show up *before* the designated starting time, someone else may take your spot. Please don't take multiple vouchers and don't take  vouchers if you don't actually plan to participate.\n\n### Getting a kit\nKits are part of the workshop and not for sale separately. You can, however easily source your own PCBs and parts and make kits yourself because the design is  MIT licensed open source.\n\n### Links\nUnder construction: https://hackwinkel.nl/39C3\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  },
+                  {
+                    "guid": "8215e424-1229-4bc5-8b8a-c16362b47fa9",
+                    "name": "the0 (he his him)",
+                    "public_name": "the0 (he his him)",
+                    "avatar": null,
+                    "biography": "organizer of electronics-related workshops at camps, hacker spaces & congress\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/the0"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/39c3-led-badge-smd-for-beginners-day-4",
+                "links": []
+              },
+              {
+                "guid": "b6d9b5b2-5671-40b3-a822-cd7ba0533ebf",
+                "code": null,
+                "id": 695256,
+                "date": "2025-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "02:30",
+                "room": "Hardware Hacking Area -- Front-middle",
+                "slug": "39c3-blocktris-game-soldering-workshop-not-for-beg_y9j7",
+                "title": "Blocktris game soldering workshop (not for beginners) (Day 4)",
+                "subtitle": null,
+                "language": "en",
+                "track": null,
+                "type": "other",
+                "abstract": "Blocktris game soldering workshop (not for beginners)",
+                "description": "**Blocktris game soldering workshop (not for beginners)**\n\n**Materials costs**:  \n\u20ac8\n\n**Taught by** Theo.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n",
+                "logo": null,
+                "persons": [
+                  {
+                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
+                    "name": "Mitch (he/him)",
+                    "public_name": "Mitch (he/him)",
+                    "avatar": null,
+                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
+                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
+                  }
+                ],
+                "url": "https://events.ccc.de/congress/2025/hub/event/detail/blocktris-game-soldering-workshop-not-for-beg_y9j7",
+                "links": []
+              }
+            ],
             "Hardware Hacking Area -- Rear": [
               {
                 "guid": "ddd6b2da-8d5d-4fa7-a8ab-442265bee611",
@@ -29239,138 +29371,6 @@
                   }
                 ],
                 "url": "https://events.ccc.de/congress/2025/hub/event/detail/meshtastic-for-flipper-zero",
-                "links": []
-              }
-            ],
-            "Hardware Hacking Area -- Front-middle": [
-              {
-                "guid": "169a7907-fa86-44c6-8007-3039f366b3a3",
-                "code": null,
-                "id": 169790,
-                "date": "2025-12-30T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front-middle",
-                "slug": "39c3-39c3-led-badge-smd-for-beginners-day-4",
-                "title": "39C3 LED badge -- SMD for Beginners (Day 4)",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "**39C3 LED badge -- SMD for Beginners**  \r\n\r\nThe 39C3 LED badge contains 42 LEDs that blink under control of of a pre-programmed 4 cent microcontroller. When the badge is alone, the LEDs will blink randomly. When it is among friends (when there are other badges nearby), it will display a chaser pattern. \r\n\r\nIn this workshop you will learn how to solder Surface Mounted Devices using a normal soldering iron.\r\n\r\nSuitable for beginners. Under 16s only with responsible adult supervision.",
-                "description": "### 39C3 LED badge -- SMD for Beginners\n\n![39C3 LED badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/b/7dccaedbb7ec/39C3badge.png)\n\nSurface Mounted Devices (SMDs) are small compared to Through Hole (TH) electronic components, and have the reputation of being difficult to work with as a hobyist: Difficult to see and handle, when you sneeze, you loose them and you can not easily use them on 2.54mm raster prototyping boards.\n\nSMD components are designed to be used in a reflow soldering process where tiny dots of solder paste are applied to a Printed Circuit Board (PCB), after which the SMD components are \"Picked and Placed\" on the PCB, after which the whole PCB is heated to the melting point of the solder (\"reflowing\"), actually completing the  electrical connections.\n\nThis workshop is aimed at showing you that the reputation of being difficult to work with is a bit undeserved, and that you can also work with SMDs using just a  regular soldering iron: With some simple tricks and a suitable selection of components (not the smallest possible), the vast majority of people can successfully complete this project.\n\nBeing able to solder SMD projects using just a simple soldering iron will also help you develop some skills that are useful if you  need to do \"rework\" on reflow soldering projects. Reflow soldering is also not difficult to do as a hobbyist, but requires a few more tools like a stencil to apply solder paste and either an oven or a hot plate to do the reflowing. It is, however, much quicker than soldering the parts one by one, and can yield more professional looking, cleaner, solder joints.\n\nThe project is an electronic name-badge - You should write your name (or nick) on it and wear it. It contains 42 LEDs, a microcontroller, some support components and an InfraRed transmitter and receiver that allow it to communicate with other badges. When the badge detects the presence of other badges (\"friends\") nearby, it will change its behaviour. It will not only interact with other 39C3 LED badges, but also with TBD badges - come visit the TBD assembly at komona or https://tbd.camp\n\n![TBD badge](https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/d619de5f1be1/tbdbadge.png)\n\n### Costs\nThis workshop is donation based. Materials costs are 2 euro per badge. Donations will go towards 1) covering costs of the badges, 2) covering costs of running the hardware hacking area in general, 3) covering costs of organizing TBD (see the TBD assembly at komona or https://tbd.camp)\n\n### Registration\nThe number of participants per session is limited. First come, first served. Either get a participation voucher beforehand or show up early (there may be places left).\nThere will be *numbered* paper vouchers available for each session some time in advance of each session. If you get a voucher and do not show up *before* the designated starting time, someone else may take your spot. Please don't take multiple vouchers and don't take  vouchers if you don't actually plan to participate.\n\n### Getting a kit\nKits are part of the workshop and not for sale separately. You can, however easily source your own PCBs and parts and make kits yourself because the design is  MIT licensed open source.\n\n### Links\nUnder construction: https://hackwinkel.nl/39C3\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  },
-                  {
-                    "guid": "8215e424-1229-4bc5-8b8a-c16362b47fa9",
-                    "name": "the0 (he his him)",
-                    "public_name": "the0 (he his him)",
-                    "avatar": null,
-                    "biography": "organizer of electronics-related workshops at camps, hacker spaces & congress\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/the0"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/39c3-led-badge-smd-for-beginners-day-4",
-                "links": []
-              },
-              {
-                "guid": "b6d9b5b2-5671-40b3-a822-cd7ba0533ebf",
-                "code": null,
-                "id": 695256,
-                "date": "2025-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front-middle",
-                "slug": "39c3-blocktris-game-soldering-workshop-not-for-beg_y9j7",
-                "title": "Blocktris game soldering workshop (not for beginners) (Day 4)",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Blocktris game soldering workshop (not for beginners)",
-                "description": "**Blocktris game soldering workshop (not for beginners)**\n\n**Materials costs**:  \n\u20ac8\n\n**Taught by** Theo.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/blocktris-game-soldering-workshop-not-for-beg_y9j7",
-                "links": []
-              }
-            ],
-            "Hardware Hacking Area -- Front": [
-              {
-                "guid": "ade0a453-33bc-4ecb-b758-1a93bd1a6714",
-                "code": null,
-                "id": 45333,
-                "date": "2025-12-30T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:30",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-surface-mount-electronics-assembly-for-terrif_v66k",
-                "title": "Surface Mount Electronics Assembly for Terrified Beginners (Day 4)",
-                "subtitle": null,
-                "language": "en, de",
-                "track": null,
-                "type": "other",
-                "abstract": "Surface Mount Electronics Assembly for Terrified Beginners",
-                "description": "**Surface Mount Electronics Assembly for Terrified Beginners**\n\nIn this workshop, we will learn to handle the tiniest electronic components, which are used to make modern electronic devices. We will cheat the same way the electronics industry does, and learn the techniques of stencil paste printing and reflow soldering. You will learn a technique that stops your hands from shaking, so you can very very precisely place microscopic parts. We will make an electronic cat that purrs if you handle it correctly. No prior experience or knowledge of anything electronic needed. Caffeine use is not recommended immediately before. All tools are provided.  Takes around 2 hours.\n\n**Materials costs**:  \n20\u20ac if you want to make a board, free to observe.\n\n**Taught by** Kliment.\n\n**Workshop Itinerary**:\n\n**Registration**:  \nSign up on the paper sheet at the Hardware Hacking Area.\n\n**Links**:\n",
-                "logo": null,
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/surface-mount-electronics-assembly-for-terrif_v66k",
-                "links": []
-              },
-              {
-                "guid": "ec1955b6-6027-4808-9386-27a082fce7ec",
-                "code": null,
-                "id": 195566,
-                "date": "2025-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "02:00",
-                "room": "Hardware Hacking Area -- Front",
-                "slug": "39c3-make-your-own-brain-machine",
-                "title": "Make Your Own Brain Machine",
-                "subtitle": null,
-                "language": "en",
-                "track": null,
-                "type": "other",
-                "abstract": "Dive into the fascinating world of neurotechnology and construct your very own Brain Machine under expert guidance!",
-                "description": "What is a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)**? It's a fascinating device that generates light and sound pulses at brainwave frequencies. These can help achieve various states of consciousness, such as meditation or improved sleep.\n\nIn this workshop for **total beginners** we will all make a **[Brain Machine](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)** that is preprogrammed with a really nice meditation sequence. As well as a device that can help you relax and meditate, a nice bonus is that everyone hallucinates beautiful colors and patterns along the way.\n\nThe Brain Machine is totally [open hardware](https://github.com/maltman23/Brain_Machine_kit), and created to be hackable, so you can re-program it with any computer, with software that is free to download and use.\n\nThis workshop is for **total beginners** to learn to solder.\n\nFor ages 10 - 100.\n\n**Materials costs**:  \nThe workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have Brain Machine kits for **\u20ac25**.\n\n**Taught by** [Mitch Altman](http://en.wikipedia.org/wiki/Mitch_Altman).\n\n_**Optional**:  Bring your laptop if you want to go home with the free Arduino software installed on it.  \nArduino software runs on Windows, MacOS and Linux._\n\n_**IMPORTANT NOTE:** The Brain Machine uses blinking lights, and is not recommended for people who are photosensitive._\n\n**Workshop Itinerary**:\n* Intro to Sound & Light Machines\n* Learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\n* How to re-program your Brain Machine for creating other brainwave sequences\n\n**Registration**:  \nBuy a kit at the Hardware Hacking Area to guarantee a seat, or come by early! (And please do arrive early, regardless!) First come, first served.\n\n**Links**:  \n[Brain Machine kit webpage](https://cornfieldelectronics.com/cfe/projects.php#brainmachine)  \n[Ardiuno software download](https://www.arduino.cc/en/software/)  \n[Brain Machine Github page](https://github.com/maltman23/Brain_Machine_kit)\n",
-                "logo": "https://events.ccc.de/congress/2025/hub/https://usercontent.events.ccc.de/congress/2025/hub/usercontent/e/2e65d39431e6/BrainMachineKids.jpg",
-                "persons": [
-                  {
-                    "guid": "5eefcdd7-1042-4851-b359-00bb94e7800a",
-                    "name": "Mitch (he/him)",
-                    "public_name": "Mitch (he/him)",
-                    "avatar": null,
-                    "biography": "Mitch Altman is an international hacker and inventor, known for inventing TV-B-Gone, a keychain that turns off TVs in public places. He co-founded a successful SillyValley startup and did pioneering work in Virtual Reality. He is an author and teacher, and goes around the world giving talks and workshops. Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and founder of Cornfield Electronics.\n",
-                    "url": "https://events.ccc.de/congress/2025/hub/user/maltman23"
-                  }
-                ],
-                "url": "https://events.ccc.de/congress/2025/hub/event/detail/make-your-own-brain-machine",
                 "links": []
               }
             ],
